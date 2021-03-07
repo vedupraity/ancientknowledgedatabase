@@ -1,0 +1,27 @@
+{
+    "overview": {
+        "id": "0a14dac1-79c2-4802-996d-36a8f1dc9dc2",
+        "title": {
+            "original": [
+                "श्रीमद भगवद् गीता"
+            ],
+            "hindi": [
+                "श्रीमद भगवद गीता"
+            ],
+            "english": [
+                "Shrimad Bhagavad Gita"
+            ]
+        },
+        "originalLanguage": [
+            "sanskrit"
+        ],
+        "availableTranslations": [
+            "hindi",
+            "english"
+        ],
+        "authors": [
+            "Vyasa - 2nd century BCE (original)"
+        ],
+        "collection": "BhagavadGita"
+    }
+}
