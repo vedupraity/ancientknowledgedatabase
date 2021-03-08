@@ -1,28 +1,26 @@
 {
-    "overview": {
-        "id": "0a14dac1-79c2-4802-996d-36a8f1dc9dc2",
-        "title": {
-            "original": [
-                "श्रीमद भगवद् गीता"
-            ],
-            "hindi": [
-                "श्रीमद भगवद गीता"
-            ],
-            "english": [
-                "Shrimad Bhagavad Gita"
-            ]
-        },
-        "originalLanguage": [
-            "sanskrit"
+    "id": "1",
+    "title": {
+        "original": [
+            "श्रीमद भगवद् गीता"
         ],
-        "availableTranslations": [
-            "hindi",
-            "english"
+        "hindi": [
+            "श्रीमद भगवद गीता"
         ],
-        "authors": [
-            "Vyasa (Sanskrit)",
-            "A.C. Bhaktivendanta Swami Prabhupada (Hindi translation and commentary)",
-            "Sri Swami Sivananda (English translation and commentary)"
+        "english": [
+            "Shrimad Bhagavad Gita"
         ]
-    }
+    },
+    "originalLanguage": [
+        "sanskrit"
+    ],
+    "availableTranslations": [
+        "hindi",
+        "english"
+    ],
+    "authors": [
+        "Vyasa (Sanskrit)",
+        "A.C. Bhaktivendanta Swami Prabhupada (Hindi translation and commentary)",
+        "Sri Swami Sivananda (English translation and commentary)"
+    ]
 }
