@@ -1,5 +1,7 @@
 # ancientknowledgedatabase
-Ancient Texts and Knowledge Database
+
+Database for Ancient Knowledge
+https://vedupraity.github.io/ancientknowledge/
 
 Recollecting the lost knowledge
 
