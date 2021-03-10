@@ -1,19 +1,11 @@
 {
     "id": "1",
     "title": {
-        "original": [
-            "भगवद् गीता"
-        ],
-        "hindi": [
-            "भगवद गीता"
-        ],
-        "english": [
-            "Bhagavad Gita"
-        ]
+        "original": "भगवद् गीता",
+        "hindi": "भगवद गीता",
+        "english": "Bhagavad Gita"
     },
-    "originalLanguage": [
-        "sanskrit"
-    ],
+    "originalLanguage": "sanskrit",
     "availableTranslations": [
         "hindi",
         "english"
