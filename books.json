@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "titleOriginal": "भगवद गीता",
+        "title": {
+            "hindi": [
+                "भगवद गीता"
+            ],
+            "english": [
+                "Bhagavad Gita"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
+                "भगवद गीता हिंदी और अंग्रेजी में पढ़ें"
+            ],
+            "english": [
+                "Read Bhagavad Gita in Hindi and English"
+            ]
+        },
+        "originalLanguage": [
+            "sanskrit"
+        ],
+        "availableTranslations": [
+            "hindi",
+            "english"
+        ],
+        "authors": [
+            "Vyasa (Sanskrit)",
+            "A.C. Bhaktivendanta Swami Prabhupada (Hindi translation and commentary)",
+            "Sri Swami Sivananda (English translation and commentary)"
+        ]
+    }
+]
