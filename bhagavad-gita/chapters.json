@@ -1,13 +1,12 @@
 [
     {
         "id": 1,
-        "titleOriginal": "अध्याय १ - अर्जुनविषादयोग",
         "title": {
             "hindi": [
                 "अध्याय १ - अर्जुनविषादयोग"
             ],
             "english": [
-                "Adhyaya 1 - Arjuna Vishada Yoga"
+                "Chapter 1 - Arjuna Vishada Yoga"
             ]
         },
         "subtitle": {
@@ -15,7 +14,7 @@
                 "कुरुक्षेत्र के युद्धस्थल में सैन्यनिरीक्षण"
             ],
             "english": [
-                "Chapter 1 - Observing the Armies on the Battlefield of Kuruksetra"
+                "Observing the Armies on the Battlefield of Kuruksetra"
             ]
         },
         "summary": {
@@ -34,13 +33,12 @@
     },
     {
         "id": 2,
-        "titleOriginal": "अध्याय २ - सांख्ययोग",
         "title": {
             "hindi": [
                 "अध्याय २ - सांख्ययोग"
             ],
             "english": [
-                "Adhyaya 2 - Sankhya Yoga"
+                "Chapter 2 - Sankhya Yoga"
             ]
         },
         "subtitle": {
@@ -48,7 +46,7 @@
                 "गीता का सार"
             ],
             "english": [
-                "Chapter 2 - Contents of the Gita Summarized"
+                "Contents of the Gita Summarized"
             ]
         },
         "summary": {
@@ -70,17 +68,20 @@
     },
     {
         "id": 3,
-        "title": [
-            "अध्याय ३ - कर्मयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ३ - कर्मयोग",
+                "अध्याय ३ - कर्मयोग"
+            ],
+            "english": [
+                "Chapter 3 - Karma Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "कर्मयोग"
             ],
             "english": [
-                "Adhyaya 3 - Karma Yoga",
-                "Chapter 3 - Karma-yoga"
+                "Karma-yoga"
             ]
         },
         "summary": {
@@ -99,17 +100,20 @@
     },
     {
         "id": 4,
-        "title": [
-            "अध्याय ४ - ज्ञानकर्मसन्यासयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ४ - ज्ञानकर्मसन्यासयोग",
+                "अध्याय ४ - ज्ञानकर्मसन्यासयोग"
+            ],
+            "english": [
+                "Chapter 4 - Gyana Karma Sanyasa Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "दिव्य ज्ञान"
             ],
             "english": [
-                "Adhyaya 4 - Gyana Karma Sanyasa Yoga",
-                "Chapter 4 - Transcendental Knowledge"
+                "Transcendental Knowledge"
             ]
         },
         "summary": {
@@ -132,17 +136,20 @@
     },
     {
         "id": 5,
-        "title": [
-            "अध्याय ५ - कर्मसन्यासयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ५ - कर्मसन्यासयोग",
+                "अध्याय ५ - कर्मसन्यासयोग"
+            ],
+            "english": [
+                "Chapter 5 - Karma Sanyasa Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "कर्मयोग-कृष्णभावनाभावित कर्म"
             ],
             "english": [
-                "Adhyaya 5 - Karma Sanyasa Yoga",
-                "Chapter 5 - Karma-yoga-Action in Krsna Consciousness"
+                "Karma-yoga-Action in Krsna Consciousness"
             ]
         },
         "summary": {
@@ -160,17 +167,20 @@
     },
     {
         "id": 6,
-        "title": [
-            "अध्याय ६ - ध्यानयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ६ - ध्यानयोग",
+                "अध्याय ६ - ध्यानयोग"
+            ],
+            "english": [
+                "Chapter 6 - Dhyana Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "ध्यानयोग"
             ],
             "english": [
-                "Adhyaya 6 - Dhyana Yoga",
-                "Chapter 6 - Sankhya-yoga"
+                "Sankhya-yoga"
             ]
         },
         "summary": {
@@ -191,17 +201,20 @@
     },
     {
         "id": 7,
-        "title": [
-            "अध्याय ७ - ज्ञानविज्ञानयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ७ - ज्ञानविज्ञानयोग",
+                "अध्याय ७ - ज्ञानविज्ञानयोग"
+            ],
+            "english": [
+                "Chapter 7 - Gyaan Vigyana Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "भगवद्ज्ञान"
             ],
             "english": [
-                "Adhyaya 7 - Gyaan Vigyana Yoga",
-                "Chapter 7 - Knowledge of the Absolute"
+                "Knowledge of the Absolute"
             ]
         },
         "summary": {
@@ -219,17 +232,20 @@
     },
     {
         "id": 8,
-        "title": [
-            "अध्याय ८ - अक्षरब्रह्मयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ८ - अक्षरब्रह्मयोग",
+                "अध्याय ८ - अक्षरब्रह्मयोग"
+            ],
+            "english": [
+                "Chapter 8 - Akshara Brahma Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "भगवत्प्राप्ति"
             ],
             "english": [
-                "Adhyaya 8 - Akshara Brahma Yoga",
-                "Chapter 8 - Attaining the Supreme"
+                "Attaining the Supreme"
             ]
         },
         "summary": {
@@ -248,17 +264,20 @@
     },
     {
         "id": 9,
-        "title": [
-            "अध्याय ९ - राजविद्याराजगुह्ययोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ९ - राजविद्याराजगुह्ययोग",
+                "अध्याय ९ - राजविद्याराजगुह्ययोग"
+            ],
+            "english": [
+                "Chapter 9 - Raja Vidya rajguhy Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "परम गुह्य ज्ञान"
             ],
             "english": [
-                "Adhyaya 9 - Raja Vidya rajguhy Yoga",
-                "Chapter 9 - The Most Confidential Knowledge"
+                "The Most Confidential Knowledge"
             ]
         },
         "summary": {
@@ -275,17 +294,20 @@
     },
     {
         "id": 10,
-        "title": [
-            "अध्याय १० - विभूतियोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १० विभूतियोग",
+                "अध्याय १० विभूतियोग"
+            ],
+            "english": [
+                "Chapter 10 - Vibhooti Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "श्री भगवान् का ऐश्वर्य"
             ],
             "english": [
-                "Adhyaya 10 - Vibhooti Yoga",
-                "Chapter 10 - The Opulence of the Absolute"
+                "The Opulence of the Absolute"
             ]
         },
         "summary": {
@@ -301,17 +323,20 @@
     },
     {
         "id": 11,
-        "title": [
-            "अध्याय ११ - विश्वरूपदर्शनयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय ११ - विश्वरूपदर्शनयोग",
+                "अध्याय ११ - विश्वरूपदर्शनयोग"
+            ],
+            "english": [
+                "Chapter 11 - Vishwaroopa Darshana Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "विराट रूप"
             ],
             "english": [
-                "Adhyaya 11 - Vishwaroopa Darshana Yoga",
-                "Chapter 11 - The Universal Form"
+                "The Universal Form"
             ]
         },
         "summary": {
@@ -329,17 +354,20 @@
     },
     {
         "id": 12,
-        "title": [
-            "अध्याय १२ - भक्तियोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १२ - भक्तियोग",
+                "अध्याय १२ - भक्तियोग"
+            ],
+            "english": [
+                "Chapter 12 - Bhakti Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "भक्तियोग"
             ],
             "english": [
-                "Adhyaya 12 - Bhakti Yoga",
-                "Chapter 12 - Devotional Service"
+                "Devotional Service"
             ]
         },
         "summary": {
@@ -356,17 +384,20 @@
     },
     {
         "id": 13,
-        "title": [
-            "अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग",
+                "अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग"
+            ],
+            "english": [
+                "Chapter 13 - Ksetra Ksetrajna Vibhaaga Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "प्रकृति, पुरुष तथा चेतना"
             ],
             "english": [
-                "Adhyaya 13 - Ksetra Ksetrajna Vibhaaga Yoga",
-                "Chapter 13 - Nature, the Enjoyer, and Consciousness"
+                "Nature, the Enjoyer, and Consciousness"
             ]
         },
         "summary": {
@@ -382,17 +413,20 @@
     },
     {
         "id": 14,
-        "title": [
-            "अध्याय १४ - गुणत्रयविभागयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १४ - गुणत्रयविभागयोग",
+                "अध्याय १४ - गुणत्रयविभागयोग"
+            ],
+            "english": [
+                "Chapter 14 - Gunatraya Vibhaga Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "प्रकृति के तीन गुण"
             ],
             "english": [
-                "Adhyaya 14 - Gunatraya Vibhaga Yoga",
-                "Chapter 14 - The Three Modes of Material Nature"
+                "The Three Modes of Material Nature"
             ]
         },
         "summary": {
@@ -411,17 +445,20 @@
     },
     {
         "id": 15,
-        "title": [
-            "अध्याय १५ - पुरुषोत्तमयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १५ - पुरुषोत्तमयोग",
+                "अध्याय १५ - पुरुषोत्तमयोग"
+            ],
+            "english": [
+                "Chapter 15 - Purushottama Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "पुरुषोत्तम योग"
             ],
             "english": [
-                "Adhyaya 15 - Purushottama Yoga",
-                "Chapter 15 - The Yoga of the Supreme Person"
+                "The Yoga of the Supreme Person"
             ]
         },
         "summary": {
@@ -437,17 +474,20 @@
     },
     {
         "id": 16,
-        "title": [
-            "अध्याय १६ - दैवासुरसम्पद्विभागयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १६ - दैवासुरसम्पद्विभागयोग",
+                "अध्याय १६ - दैवासुरसम्पद्विभागयोग"
+            ],
+            "english": [
+                "Chapter 16 - Daivasura Sampad Vibhaga Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "दैवी तथा आसुरी स्वभाव"
             ],
             "english": [
-                "Adhyaya 16 - Daivasura Sampad Vibhaga Yoga",
-                "Chapter 16 - The Divine and Demoniac Natures"
+                "The Divine and Demoniac Natures"
             ]
         },
         "summary": {
@@ -464,17 +504,20 @@
     },
     {
         "id": 17,
-        "title": [
-            "अध्याय १७ - श्रद्धात्रयविभागयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १७ - श्रद्धात्रयविभागयोग",
+                "अध्याय १७ - श्रद्धात्रयविभागयोग"
+            ],
+            "english": [
+                "Chapter 17 - Sraddhatraya Vibhaga Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "श्रद्धा के विभाग"
             ],
             "english": [
-                "Adhyaya 17 - Sraddhatraya Vibhaga Yoga",
-                "Chapter 17 - The Divisions of Faith"
+                "The Divisions of Faith"
             ]
         },
         "summary": {
@@ -490,17 +533,20 @@
     },
     {
         "id": 18,
-        "title": [
-            "अध्याय १८ - मोक्षसंन्यासयोग"
-        ],
-        "translation": {
+        "title": {
             "hindi": [
-                "अध्याय १८ - मोक्षसंन्यासयोग",
+                "अध्याय १८ - मोक्षसंन्यासयोग"
+            ],
+            "english": [
+                "Chapter 18 - Moksha Sanyaas Yoga"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
                 "उपसंहार-संन्यास की सिद्धि"
             ],
             "english": [
-                "Adhyaya 18 - Moksha Sanyaas Yoga",
-                "Chapter 18 - Conclusion-The Perfection of Renunciation"
+                "Conclusion-The Perfection of Renunciation"
             ]
         },
         "summary": {
