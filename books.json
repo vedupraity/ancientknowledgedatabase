@@ -1,15 +1,21 @@
 [
     {
         "id": "1",
+        "titleOriginal": "भगवद गीता",
         "title": {
-            "original": [
-                "भगवद् गीता"
-            ],
             "hindi": [
                 "भगवद गीता"
             ],
             "english": [
                 "Bhagavad Gita"
+            ]
+        },
+        "subtitle": {
+            "hindi": [
+                "भगवद गीता हिंदी और अंग्रेजी में पढ़ें"
+            ],
+            "english": [
+                "Read Bhagavad Gita in Hindi and English"
             ]
         },
         "originalLanguage": [

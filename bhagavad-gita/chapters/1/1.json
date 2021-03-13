@@ -1,6 +1,6 @@
 {
+    "id": 1,
     "ChapterId": "1",
-    "index": 1,
     "title": {
         "original": [
             "अध्याय १, श्लोक १"
@@ -9,7 +9,7 @@
             "अध्याय १, श्लोक १"
         ],
         "english": [
-            "Chapter 1, Verse 1"
+            "Chapter 1, Text 1"
         ]
     },
     "originalText": [
