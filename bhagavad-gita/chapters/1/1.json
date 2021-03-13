@@ -1,17 +1,6 @@
 {
     "id": 1,
     "ChapterId": "1",
-    "title": {
-        "original": [
-            "अध्याय १, श्लोक १"
-        ],
-        "hindi": [
-            "अध्याय १, श्लोक १"
-        ],
-        "english": [
-            "Chapter 1, Text 1"
-        ]
-    },
     "originalText": [
         "धृतराष्ट्र उवाच",
         "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |",
@@ -22,7 +11,7 @@
             "धृतराष्ट्र ने कहा — हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे तथा पाण्डु के पुत्रों ने क्या किया ?"
         ],
         "english": [
-            "What did the sons of Pandu and also my people do when they had assembled together, eager for battle on the holy plain of Kurukshetra, O Sanjaya?"
+            "O Sanjaya, after assembling in the place of pilgrimage at Kuruksetra, what did my sons and the sons of Pandu do, being desirous to fight?"
         ]
     },
     "meaning": {
