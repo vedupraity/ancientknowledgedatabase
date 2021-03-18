@@ -18,16 +18,11 @@
                 "Read Bhagavad Gita in Hindi and English"
             ]
         },
-        "originalLanguage": [
-            "sanskrit"
-        ],
+        "coverImage": "/bhagavad-gita/assets/img/bhagavad-gita-cover-16by9.jpg",
+        "path": "/bhagavad-gita/",
         "availableTranslations": [
             "hindi",
             "english"
-        ],
-        "authors": [
-            "Vyasa (Sanskrit)",
-            "A.C. Bhaktivendanta Swami Prabhupada - translation and commentary (hindi and english)"
         ],
         "totalChapters": 18
     }
