@@ -579,7 +579,7 @@
             ]
         },
         "pagingMeta": {
-            "total_page": 0
+            "total_page": 3
         }
     },
     {
@@ -612,7 +612,7 @@
             ]
         },
         "pagingMeta": {
-            "total_page": 0
+            "total_page": 8
         }
     }
 ]
