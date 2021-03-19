@@ -1,21 +1,31 @@
-# Ancient Knowledge Database
+# Ancient Knowledge
 
-### Recollecting the lost knowledge
+**Recollecting the lost knowledge**
 
----
-
-**Github Page URL**: https://vedupraity.github.io/ancientknowledge/
-
-**Short URL**: https://tinyurl.com/ancientknowledgeonline
+https://www.ancientknowledge.in/
 
 ---
 
-### Translation available for
+## About
 
-1. [भगवद् गीता (Bhagavad Gita)](https://vedupraity.github.io/ancientknowledge/bhagavad_gita/)
+This is a database repository for Ancient Knowledge website.
+
 
 ---
 
-### Authors
+## Website repository
+https://github.com/vedupraity/ancientknowledge
 
-[Vedprakash Upraity](https://github.com/vedupraity)
+---
+
+## Translation available for
+
+1. [भगवद् गीता (Bhagavad Gita)](https://www.ancientknowledge.in/bhagavad_gita/)
+
+---
+
+## Contributors
+
+1. Vedprakash Upraity
+
+    - [github.com/vedupraity](https://github.com/vedupraity)
