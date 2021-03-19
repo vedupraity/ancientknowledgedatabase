@@ -3,18 +3,27 @@
         "id": [
             1
         ],
-        "chapterId": "1",
-        "originalText": [
-            "धृतराष्ट्र उवाच",
-            "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |",
-            "मामकाः पाण्डवाश्र्चैव किमकुर्वत सञ्जय || १ ||"
-        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "धृतराष्ट्र उवाच",
+                "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |",
+                "मामकाः पाण्डवाश्र्चैव किमकुर्वत सञ्जय || १ ||"
+            ],
+            "english": [
+                "dhrtarastra uvaca",
+                "dharma-ksetre kuru-ksetre",
+                "samaveta yuyutsavah",
+                "mamakah pandavas caiva",
+                "kim akurvata sanjaya"
+            ]
+        },
         "translation": {
             "hindi": [
                 "धृतराष्ट्र ने कहा — हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे तथा पाण्डु के पुत्रों ने क्या किया ?"
             ],
             "english": [
-                "O Sanjaya, after assembling in the place of pilgrimage at Kuruksetra, what did my sons and the sons of Pandu do, being desirous to fight?"
+                "Dhrtarastra said: O Sanjaya, after assembling in the place of pilgrimage at Kuruksetra, what did my sons and the sons of Pandu do, being desirous to fight?"
             ]
         },
         "meaning": {
@@ -34,18 +43,27 @@
         "id": [
             2
         ],
-        "chapterId": "1",
-        "originalText": [
-            "सञ्जय उवाच",
-            "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |",
-            "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् || २ ||"
-        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "सञ्जय उवाच",
+                "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |",
+                "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् || २ ||"
+            ],
+            "english": [
+                "sanjaya uvaca",
+                "drstva tu pandavanikam",
+                "vyudham duryodhanas tada",
+                "acaryam upasangamya",
+                "raja vacanam abravit"
+            ]
+        },
         "translation": {
             "hindi": [
                 "संजय ने कहा – हे राजन! पाण्डुपुत्रों द्वारा सेना की व्यूहरचना देखकर राजा दुर्योधन अपने गुरु के पास गया और उसने ये शब्द कहे ।"
             ],
             "english": [
-                "O King, after looking over the army gathered by the sons of Pandu, King Duryodhana went to his teacher and began to speak the following words"
+                "Sanjaya said: O King, after looking over the army gathered by the sons of Pandu, King Duryodhana went to his teacher and began to speak the following words:"
             ]
         },
         "meaning": {
@@ -61,11 +79,19 @@
         "id": [
             3
         ],
-        "chapterId": "1",
-        "originalText": [
-            "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |",
-            "व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता || ३ ||"
-        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |",
+                "व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता || ३ ||"
+            ],
+            "english": [
+                "pasyaitam pandu-putranam",
+                "acarya mahatim camum",
+                "vyudham drupada-putrena",
+                "tava sisyena dhimata"
+            ]
+        },
         "translation": {
             "hindi": [
                 "हे आचार्य! पाण्डुपुत्रों की विशाल सेना को देखें, जिसे आपके बुद्धिमान् शिष्य द्रुपद के पुत्र ने इतने कौशल से व्यवस्थित किया है ।"
@@ -87,11 +113,19 @@
         "id": [
             4
         ],
-        "chapterId": "1",
-        "originalText": [
-            "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |",
-            "युयुधानो विराटश्र्च द्रुपदश्र्च महारथः || ४ ||"
-        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "अत्र श्रूरा महेष्वासा भीमार्जुनसमा युधि |",
+                "युयुधानो विराटश्र्च द्रुपदश्र्च महारथः || ४ ||"
+            ],
+            "english": [
+                "atra sura mahesv-asa",
+                "bhimarjuna-sama yudhi",
+                "yuyudhano viratas ca",
+                "drupadas ca maha-rathah"
+            ]
+        },
         "translation": {
             "hindi": [
                 "इस सेना में भीम तथा अर्जुन के समान युद्ध करने वाले अनेक वीर धनुर्धर हैं – यथा महारथी युयुधान, विराट तथा द्रुपद ।"
@@ -113,11 +147,19 @@
         "id": [
             5
         ],
-        "chapterId": "1",
-        "originalText": [
-            "धृष्टकेतुश्र्चेकितानः काशिराजश्र्च वीर्यवान् |",
-            "पुरुजित्कुन्तिभोजश्र्च शैब्यश्र्च नरपुङ्गवः || ५ ||"
-        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "धृष्टकेतुश्र्चेकितानः काशिराजश्र्च वीर्यवान् |",
+                "पुरुजित्कुन्तिभोजश्र्च शैब्यश्र्च नरपुङ्गवः || ५ ||"
+            ],
+            "english": [
+                "dhrstaketus cekitanah",
+                "kasirajas ca viryavan",
+                "purujit kuntibhojas ca",
+                "saibyas ca nara-pungavah"
+            ]
+        },
         "translation": {
             "hindi": [
                 "इनके साथ ही धृष्टकेतु, चेकितान, काशिराज, पुरुजित्, कुन्तिभोज तथा शैब्य जैसे महान शक्तिशाली योद्धा भी हैं ।"
@@ -127,8 +169,177 @@
             ]
         },
         "meaning": {
-            "hindi": [],
+            "hindi": [
+                ""
+            ],
             "english": []
+        }
+    },
+    {
+        "id": [
+            6
+        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "युधामन्युश्र्च विक्रान्त उत्तमौजाश्र्च वीर्यवान् |",
+                "सौभद्रो द्रौपदेयाश्र्च सर्व एव महारथाः || ६ ||"
+            ],
+            "english": [
+                "yudhamanyus ca vikranta",
+                "uttamaujas ca viryavan",
+                "saubhadro draupadeyas ca",
+                "sarva eva maha-rathah"
+            ]
+        },
+        "translation": {
+            "hindi": [
+                "पराक्रमी युधामन्यु, अत्यन्त शक्तिशाली उत्तमौजा, सुभद्रा का पुत्र तथा द्रोपदी के पुत्र – ये सभी महारथी हैं |"
+            ],
+            "english": [
+                "There are the mighty Yudhamanyu, the very powerful Uttamauja, the son of Subhadra and the sons of Draupadi. All these warriors are great chariot fighters."
+            ]
+        },
+        "meaning": {
+            "hindi": [
+                ""
+            ],
+            "english": []
+        }
+    },
+    {
+        "id": [
+            7
+        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |",
+                "नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || ७ ||"
+            ],
+            "english": [
+                "asmakam tu visista ye",
+                "tan nibodha dvijottama",
+                "nayaka mama sainyasya",
+                "samjnartham tan bravimi te"
+            ]
+        },
+        "translation": {
+            "hindi": [
+                "किन्तु हे ब्राह्मणश्रेष्ठ! आपकी सूचना के लिए मैं अपनी सेना के उन नायकों के विषय में बताना चाहूँगा जो मेरी सेना को संचालित करने में विशेष रूप से निपुण हैं ।"
+            ],
+            "english": [
+                "O best of the brahmanas, for your information, let me tell you about the captains who are especially qualified to lead my military force."
+            ]
+        },
+        "meaning": {
+            "hindi": [
+                ""
+            ],
+            "english": []
+        }
+    },
+    {
+        "id": [
+            8
+        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "भवान्भीष्मश्र्च कर्णश्र्च कृपश्र्च समितिञ्जयः|",
+                "अश्र्वत्थामा विकर्णश्र्च सौमदत्तिस्तथैव च || ८ ||"
+            ],
+            "english": [
+                "bhavan bhismas ca karnas ca",
+                "krpas ca samitim-jayah",
+                "asvatthama vikarnas ca",
+                "saumadattis tathaiva ca"
+            ]
+        },
+        "translation": {
+            "hindi": [
+                "मेरी सेना में स्वयं आप, भीष्म, कर्ण, कृपाचार्य,अश्र्वत्थामा, विकर्ण तथा सोमदत्त का पुत्र भूरिश्रवा आदि हैं जो युद्ध में सदैव विजयी रहे हैं ।"
+            ],
+            "english": [
+                "There are personalities like yourself, Bhisma, Karna, Krpa, Asvatthama, Vikarna and the son of Somadatta called Bhurisrava, who are always victorious in battle."
+            ]
+        },
+        "meaning": {
+            "hindi": [
+                "तात्पर्यःदुर्योधन उन अद्वितीय युद्धवीरों का उल्लेख करता है जो सदैव विजयी होते रहे हैं । विकर्ण दुर्योधन का भाई है, अश्र्वत्थामा द्रोणाचार्य का पुत्र है और सोमदत्ति या भूरिश्रवा बाह्लिकों के राजा का पुत्र है । कर्ण अर्जुन का आधा भाई है क्योंकि वह कुन्ती के गर्भ से राजा पाण्डु के साथ विवाहित होने के पूर्व उत्पन्न हुआ था । कृपाचार्य की जुड़वा बहन द्रोणाचार्य को ब्याही थी ।"
+            ],
+            "english": [
+                "Duryodhana mentioned the exceptional heroes in the battle, all of whom are ever-victorious. Vikarna is the brother of Duryodhana, Asvatthama is the son of Dronacarya, and Saumadatti, or Bhurisrava, is the son of the King of the Bahlikas. Karna is the half brother of Arjuna, as he was born of Kunti before her marriage with King Pandu. Krpacarya married the twin sister of Dronacarya."
+            ]
+        }
+    },
+    {
+        "id": [
+            9
+        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "अन्य च बहवः श्रूरा मदर्थे त्यक्तजीविताः |",
+                "नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः || ९ ||"
+            ],
+            "english": [
+                "anye ca bahavah sura",
+                "mad-arthe tyakta-jivitah",
+                "nana-sastra-praharanah",
+                "sarve yuddha-visaradah"
+            ]
+        },
+        "translation": {
+            "hindi": [
+                "ऐसे अन्य वीर भी हैं जो मेरे लिए अपना जीवन त्याग करने के लिए उद्यत हैं । वे विविध प्रकार के हथियारों से सुसज्जित हैं और युद्धविद्या में निपुण हैं ।",
+                ""
+            ],
+            "english": [
+                "There are many other heroes who are prepared to lay down their lives for my sake. All of them are well equipped with different kinds of weapons, and all are experienced in military science."
+            ]
+        },
+        "meaning": {
+            "hindi": [
+                "तात्पर्यःजहाँ तक अन्यों का-यथा जयद्रथ, कृतवर्मा तथा शल्य का सम्बन्ध है वे सब दुर्योधन के लिए उपने प्राणों की आहुति देने के लिए तैयार रहते थे । दुसरे शब्दों में, यह पूर्वनिश्चित है कि वे पापी दुर्योधन के दल में सम्मिलित होने के कारण कुरुक्षेत्र के युद्ध में मारे जायेंगे । निस्सन्देह अपने मित्रों की संयुक्त-शक्ति के कारण दुर्योधन अपनी विजय के प्रति आश्र्वस्थ था ।"
+            ],
+            "english": [
+                "As far as the others are concerned—like Jayadratha, Krtavarma, Salya, etc.—all are determined to lay down their lives for Duryodhana's sake. In other words, it is already concluded that all of them would die in the Battle of Kuruksetra for joining the party of the sinful Duryodhana. Duryodhana was, of course, confident of his victory on account of the above-mentioned combined strength of his friends."
+            ]
+        }
+    },
+    {
+        "id": [
+            10
+        ],
+        "chapterId": 1,
+        "text": {
+            "hindi": [
+                "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |",
+                "पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् || १० ||"
+            ],
+            "english": [
+                "aparyaptam tad asmakam",
+                "balam bhismabhiraksitam",
+                "paryaptam tv idam etesam",
+                "balam bhimabhiraksitam"
+            ]
+        },
+        "translation": {
+            "hindi": [
+                "हमारी शक्ति अपरिमेय है और हम सब पितामह द्वारा भलीभाँति संरक्षित हैं, जबकि पाण्डवों की शक्ति भीम द्वारा भलीभाँति संरक्षित होकर भी सीमित है ।"
+            ],
+            "english": [
+                "Our strength is immeasurable, and we are perfectly protected by Grandfather Bhisma, whereas the strength of the Pandavas, carefully protected by Bhima, is limited."
+            ]
+        },
+        "meaning": {
+            "hindi": [
+                "तात्पर्यःयहाँ पर दुर्योधन ने तुलनात्मक शक्ति का अनुमान प्रस्तुत किया है । वह सोचता है कि अत्यन्त अनुभवी सेनानायक भीष्म पितामह के द्वारा विशेष रूप से संरक्षित होने के कारण उसकी सशस्त्र सेनाओं की शक्ति अपरिमेय हैं । दूसरी ओर पाण्डवों की सेनाएँ सीमित हैं क्योंकि उनकी सुरक्षा एक कम अनुभवी नायक भीम द्वारा की जा रही है जो भीष्म की तुलना में नगण्य है । दुर्योधन सदैव भीम से ईर्ष्या करता था क्योंकि वह जानता था की यदि उसकी मृत्यु कभी हुई भी तो वह भीम के द्वारा ही होगी । किन्तु साथ ही उसे दृढ विश्र्वास था कि भीष्म की उपस्थिति में उसकी विजय निश्चित है क्योंकि भीष्म कहीं अधिक उत्कृष्ट सेनापति हैं । वह युद्ध में विजयी होगा यह उसका दृढ निश्चय था ।"
+            ],
+            "english": [
+                "Herein an estimation of comparative strength is made by Duryodhana. He thinks that the strength of his armed forces is immeasurable, being specifically protected by the most experienced general, Grandfather Bhisma. On the other hand, the forces of the Pandavas are limited, being protected by a less experienced general, Bhima, who is like a fig in the presence of Bhisma. Duryodhana was always envious of Bhima because he knew perfectly well that if he should die at all, he would only be killed by Bhima. But at the same time, he was confident of his victory on account of the presence of Bhisma, who was a far superior general. His conclusion that he would come out of the battle victorious was well ascertained."
+            ]
         }
     }
 ]
