@@ -7,8 +7,10 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "“यद्यप्येते न पश्यति लोभोपहतचेतसः |",
-                "कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || ३७ ||"
+                "यद्यप्येते न पश्यति लोभोपहतचेतसः |",
+                "कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || ३७ ||",
+                "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |",
+                "कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || ३८ ||"
             ],
             "english": [
                 "yady apy ete na pasyanti",
@@ -23,8 +25,7 @@
         },
         "translation": {
             "hindi": [
-                "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |",
-                "कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || ३८ ||”"
+                "हे जनार्दन! यद्यपि लोभ से अभिभूत चित्त वाले ये लोग अपने परिवार को मारने या अपने मित्रों से द्रोह करने में कोई दोष नहीं देखते किन्तु हम लोग, जो परिवार के विनष्ट करने में अपराध देख सकते हैं, ऐसे पापकर्मों में क्यों प्रवृत्त हों?"
             ],
             "english": [
                 "O Janardana, although these men, overtaken by greed, see no fault in killing one's family or quarreling with friends, why should we, with knowledge of the sin, engage in these acts?"
@@ -32,8 +33,7 @@
         },
         "meaning": {
             "hindi": [
-                "“हे जनार्दन! यद्यपि लोभ से अभिभूत चित्त वाले ये लोग अपने परिवार को मारने या अपने मित्रों से द्रोह करने में कोई दोष नहीं देखते किन्तु हम लोग, जो परिवार के विनष्ट करने में अपराध देख सकते हैं, ऐसे पापकर्मों में क्यों प्रवृत्त हों?”",
-                "तात्पर्यः क्षत्रिय से यह आशा नहीं की जाती कि वह अपने विपक्षी दल द्वारा युद्ध करने या जुआ खेलने का आमन्त्रण दिये जाने पर मना करे | ऐसी अनिवार्यता में अर्जुन लड़ने से नकार नहीं सकता क्योंकि उसको दुर्योधन के दल ने ललकारा था | इस प्रसंग में अर्जुन ने विचार किया कि हो सकता है कि दूसरा पक्ष इस ललकार के परिणामों के प्रति अनभिज्ञ हो | किन्तु अर्जुन को तो दुष्परिणाम दिखाई पड़ रहे थे अतः वह इस ललकार को स्वीकार नहीं कर सकता | यदि परिणाम अच्छा हो तो कर्तव्य वस्तुतः पालनीय है किन्तु यदि परिणाम विपरीत हो तो हम उसके लिए बाध्य नहीं होते | इन पक्ष-विपक्षों पर विचार करके अर्जुन ने युद्ध न करने का निश्चय किया |"
+                "क्षत्रिय से यह आशा नहीं की जाती कि वह अपने विपक्षी दल द्वारा युद्ध करने या जुआ खेलने का आमन्त्रण दिये जाने पर मना करे | ऐसी अनिवार्यता में अर्जुन लड़ने से नकार नहीं सकता क्योंकि उसको दुर्योधन के दल ने ललकारा था | इस प्रसंग में अर्जुन ने विचार किया कि हो सकता है कि दूसरा पक्ष इस ललकार के परिणामों के प्रति अनभिज्ञ हो | किन्तु अर्जुन को तो दुष्परिणाम दिखाई पड़ रहे थे अतः वह इस ललकार को स्वीकार नहीं कर सकता | यदि परिणाम अच्छा हो तो कर्तव्य वस्तुतः पालनीय है किन्तु यदि परिणाम विपरीत हो तो हम उसके लिए बाध्य नहीं होते | इन पक्ष-विपक्षों पर विचार करके अर्जुन ने युद्ध न करने का निश्चय किया |"
             ],
             "english": [
                 "A ksatriya is not supposed to refuse to battle or gamble when he is so invited by some rival party. Under such obligation, Arjuna could not refuse to fight because he was challenged by the party of Duryodhana. In this connection, Arjuna considered that the other party might be blind to the effects of such a challenge. Arjuna, however, could see the evil consequences and could not accept the challenge. Obligation is actually binding when the effect is good, but when the effect is otherwise, then no one can be bound. Considering all these pros and cons, Arjuna decided not to fight."
@@ -47,7 +47,7 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |",
+                "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः | ",
                 "धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत || ३९ ||"
             ],
             "english": [
@@ -59,7 +59,7 @@
         },
         "translation": {
             "hindi": [
-                "“कुल का नाश होने पर सनातन कुल-परम्परा नष्ट हो जाती है और इस तरह शेष कुल भी अधर्म में प्रवृत्त हो जाता है |”"
+                "कुल का नाश होने पर सनातन कुल-परम्परा नष्ट हो जाती है और इस तरह शेष कुल भी अधर्म में प्रवृत्त हो जाता है |"
             ],
             "english": [
                 "With the destruction of dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligious practice."
@@ -67,7 +67,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः वर्णाश्रम व्यवस्था में धार्मिक परम्पराओं के अनेक नियम हैं जिनकी सहायता से परिवार के सदस्य ठीक से उन्नति करके आध्यात्मिक मूल्यों की उपलब्धि कर सकते हैं | परिवार में जन्म से लेकर मृत्यु तक के सारे संस्कारों के लिए वयोवृद्ध लोग उत्तरदायी होते हैं | किन्तु इन वयवृद्धों की मृत्यु के पश्चात् संस्कार सम्बन्धी पारिवारिक परम्पराएँ रुक जाती हैं और परिवार के जो तरुण सदस्य बचे रहते हैं वे अधर्ममय व्यसनों में प्रवृत्त होने से मुक्ति-लाभ से वंचित रह सकते हैं | अतः किसी भी कारणवश परिवार केवयोवृद्धों का वध नहीं होना चाहिए |"
+                "वर्णाश्रम व्यवस्था में धार्मिक परम्पराओं के अनेक नियम हैं जिनकी सहायता से परिवार के सदस्य ठीक से उन्नति करके आध्यात्मिक मूल्यों की उपलब्धि कर सकते हैं | परिवार में जन्म से लेकर मृत्यु तक के सारे संस्कारों के लिए वयोवृद्ध लोग उत्तरदायी होते हैं | किन्तु इन वयवृद्धों की मृत्यु के पश्चात् संस्कार सम्बन्धी पारिवारिक परम्पराएँ रुक जाती हैं और परिवार के जो तरुण सदस्य बचे रहते हैं वे अधर्ममय व्यसनों में प्रवृत्त होने से मुक्ति-लाभ से वंचित रह सकते हैं | अतः किसी भी कारणवश परिवार केवयोवृद्धों का वध नहीं होना चाहिए |"
             ],
             "english": [
                 "In the system of the varnasrama institution there are many principles of religious traditions to help members of the family grow properly and attain spiritual values. The elder members are responsible for such purifying processes in the family, beginning from birth to death. But on the death of the elder members, such family traditions of purification may stop, and the remaining younger family members may develop irreligious habits and thereby lose their chance for spiritual salvation. Therefore, for no purpose should the elder members of the family be slain."
@@ -93,7 +93,7 @@
         },
         "translation": {
             "hindi": [
-                "“हे कृष्ण! जब कुल में अधर्म प्रमुख हो जाता है तो कुल की स्त्रियाँ दूषित हो जाती हैं और स्त्रीत्व के पतन से हे वृष्णिवंशी! अवांछित सन्तानें उत्पन्न होती हैं |”"
+                "हे कृष्ण! जब कुल में अधर्म प्रमुख हो जाता है तो कुल की स्त्रियाँ दूषित हो जाती हैं और स्त्रीत्व के पतन से हे वृष्णिवंशी! अवांछित सन्तानें उत्पन्न होती हैं |"
             ],
             "english": [
                 "When irreligion is prominent in the family, O Krsna, the women of the family become corrupt, and from the degradation of womanhood, O descendant of Vrsni, comes unwanted progeny."
@@ -101,7 +101,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः जीवन में शान्ति, सुख तथा आध्यात्मिक उन्नति का मुख्य सिद्धान्त मानव समाज में अच्छी सन्तान का होना है | वर्णाश्रम धर्म के नियम इस प्रकार बनाये गये थे कि राज्य तथा जाति की आध्यात्मिक उन्नति के लिए समाज में अच्छी संतान उत्पन्न हो | ऐसी सन्तान समाज में स्त्री के सतीत्व और निष्ठा पर निर्भर करती है | जिस प्रकार बालक सरलता से कुमार्गगामी बन जाते हैं उसी प्रकार स्त्रियाँ भी पत्नोन्मुखी होती हैं | अतः बालकों तथा स्त्रियों दोनों को ही समाज के वयोवृद्धों का संरक्षण आवश्यक है | स्त्रियाँ विभिन्न धार्मिक प्रथाओं में संलग्न रहने पर व्यभिचारिणी नहीं होंगी | चाणक्य पंडित के अनुसार सामान्यतया स्त्रियाँ अधिक बुद्धिमान नहीं होतीं अतः वे विश्र्वसनीय नहीं हैं | इसलिए उन्हें विविध कुल-परम्पराओं में व्यस्त रहना चाहिए और इस तरह उनके सतीत्व तथा अनुरक्ति से ऐसी सन्तान जन्मेगी जो वर्णाश्रम धर्म में भाग लेने के योग्य होगी | ऐसे वर्णाश्रम-धर्म के विनाश से यह स्वाभाविक है कि स्त्रियाँ स्वतन्त्रतापूर्वक पुरुषों से मिल सकेंगी और व्यभिचार को प्रश्रय मिलेगा जिससे अवांछित सन्तानें उत्पन्न होंगी | निठल्ले लोग भी समाज में व्यभिचार को प्रेरित करते हैं और इस तरह अवांछित बच्चो की बाढ़ आ जाती है जिससे मानव जाति पर युद्ध और महामारी का संकट छा जाता है |"
+                "जीवन में शान्ति, सुख तथा आध्यात्मिक उन्नति का मुख्य सिद्धान्त मानव समाज में अच्छी सन्तान का होना है | वर्णाश्रम धर्म के नियम इस प्रकार बनाये गये थे कि राज्य तथा जाति की आध्यात्मिक उन्नति के लिए समाज में अच्छी संतान उत्पन्न हो | ऐसी सन्तान समाज में स्त्री के सतीत्व और निष्ठा पर निर्भर करती है | जिस प्रकार बालक सरलता से कुमार्गगामी बन जाते हैं उसी प्रकार स्त्रियाँ भी पत्नोन्मुखी होती हैं | अतः बालकों तथा स्त्रियों दोनों को ही समाज के वयोवृद्धों का संरक्षण आवश्यक है | स्त्रियाँ विभिन्न धार्मिक प्रथाओं में संलग्न रहने पर व्यभिचारिणी नहीं होंगी | चाणक्य पंडित के अनुसार सामान्यतया स्त्रियाँ अधिक बुद्धिमान नहीं होतीं अतः वे विश्र्वसनीय नहीं हैं | इसलिए उन्हें विविध कुल-परम्पराओं में व्यस्त रहना चाहिए और इस तरह उनके सतीत्व तथा अनुरक्ति से ऐसी सन्तान जन्मेगी जो वर्णाश्रम धर्म में भाग लेने के योग्य होगी | ऐसे वर्णाश्रम-धर्म के विनाश से यह स्वाभाविक है कि स्त्रियाँ स्वतन्त्रतापूर्वक पुरुषों से मिल सकेंगी और व्यभिचार को प्रश्रय मिलेगा जिससे अवांछित सन्तानें उत्पन्न होंगी | निठल्ले लोग भी समाज में व्यभिचार को प्रेरित करते हैं और इस तरह अवांछित बच्चो की बाढ़ आ जाती है जिससे मानव जाति पर युद्ध और महामारी का संकट छा जाता है |"
             ],
             "english": [
                 "Good population in human society is the basic principle for peace, prosperity and spiritual progress in life. The varnasrama religion's principles were so designed that the good population would prevail in society for the general spiritual progress of state and community. Such population depends on the chastity and faithfulness of its womanhood. As children are very prone to be misled, women are similarly very prone to degradation. Therefore, both children and women require protection by the elder members of the family. By being engaged in various religious practices, women will not be misled into adultery. According to Canakya Pandit, women are generally not very intelligent and therefore not trustworthy. So, the different family traditions of religious activities should always engage them, and thus their chastity and devotion will give birth to a good population eligible for participating in the varnasrama system. On the failure of such varnasrama-dharma, naturally the women become free to act and mix with men, and thus adultery is indulged in at the risk of unwanted population. Irresponsible men also provoke adultery in society, and thus unwanted children flood the human race at the risk of war and pestilence."
@@ -115,7 +115,7 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "सङ्करो नरकायैव कुलघ्नानां कुलस्य च |",
+                "सङ्करो नरकायैव कुलघ्नानां कुलस्य च | ",
                 "पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः || ४१ ||"
             ],
             "english": [
@@ -127,7 +127,7 @@
         },
         "translation": {
             "hindi": [
-                "“अवांछित सन्तानों की वृद्धि से निश्चय ही परिवार के लिए तथा पारिवारिक परम्परा को विनष्ट करने वालों के लिए नारकीय जीवन उत्पन्न होता है | ऐसे पतित कुलों के पुरखे (पितर लोग) गिर जाते हैं क्योंकि उन्हें जल तथा पिण्ड दान देने की क्रियाएँ समाप्त हो जाती हैं |”"
+                "अवांछित सन्तानों की वृद्धि से निश्चय ही परिवार के लिए तथा पारिवारिक परम्परा को विनष्ट करने वालों के लिए नारकीय जीवन उत्पन्न होता है | ऐसे पतित कुलों के पुरखे (पितर लोग) गिर जाते हैं क्योंकि उन्हें जल तथा पिण्ड दान देने की क्रियाएँ समाप्त हो जाती हैं |"
             ],
             "english": [
                 "When there is increase of unwanted population, a hellish situation is created both for the family and for those who destroy the family tradition. In such corrupt families, there is no offering of oblations of food and water to the ancestors."
@@ -135,15 +135,15 @@
         },
         "meaning": {
             "hindi": [
-                "“तात्पर्यः सकाम कर्म के विधिविधानों के अनुसार कुल के पितरों को समय-समय पर जल तथा पिण्डदान दिया जाना चाहिए | यह दान विष्णु पूजा द्वारा किया जाता है क्योंकि विष्णु को अर्पित भोजन के उच्छिष्ट भाग (प्रसाद) के खाने से सारे पापकर्मों से उद्धार हो जाता है | कभी-कभी पितरगण विविध प्रकार के पापकर्मों से ग्रस्त हो सकते हैं और कभी-कभी उनमें से कुछ को स्थूल शरीर प्राप्त न हो सकने के कारण उन्हें प्रेतों के रूप में सूक्ष्म शरीर धारण करने के लिए बाध्य होना पड़ता है | अतः जब वंशजों द्वारा पितरों को बचा प्रसाद अर्पित किया जाता है तो उनका प्रेतयोनी या अन्य प्रकार के दुखमय जीवन से उद्धार होता है | पितरों को इस प्रकार की सहायता पहुँचाना कुल-परम्परा है और जो लोग भक्ति का जीवन-यापन नहीं करते उन्हें ये अनुष्ठान करने होते हैं | केवल भक्ति करने से मनुष्य सैकड़ो क्या हजारों पितरों को ऐसे संकटों से उबार सकता है | भागवत में (११.५.४१) कहा गया है –",
+                "“ सकाम कर्म के विधिविधानों के अनुसार कुल के पितरों को समय-समय पर जल तथा पिण्डदान दिया जाना चाहिए | यह दान विष्णु पूजा द्वारा किया जाता है क्योंकि विष्णु को अर्पित भोजन के उच्छिष्ट भाग (प्रसाद) के खाने से सारे पापकर्मों से उद्धार हो जाता है | कभी-कभी पितरगण विविध प्रकार के पापकर्मों से ग्रस्त हो सकते हैं और कभी-कभी उनमें से कुछ को स्थूल शरीर प्राप्त न हो सकने के कारण उन्हें प्रेतों के रूप में सूक्ष्म शरीर धारण करने के लिए बाध्य होना पड़ता है | अतः जब वंशजों द्वारा पितरों को बचा प्रसाद अर्पित किया जाता है तो उनका प्रेतयोनी या अन्य प्रकार के दुखमय जीवन से उद्धार होता है | पितरों को इस प्रकार की सहायता पहुँचाना कुल-परम्परा है और जो लोग भक्ति का जीवन-यापन नहीं करते उन्हें ये अनुष्ठान करने होते हैं | केवल भक्ति करने से मनुष्य सैकड़ो क्या हजारों पितरों को ऐसे संकटों से उबार सकता है | भागवत में (११.५.४१) कहा गया है –",
                 "देवर्षि भूताप्तनृणां पितॄणां न किंकरो नायमृणी च राजन् |",
                 "सर्वात्मना यः शरणं शरण्यं गतो मुकुन्दं परिहृत्य कर्तम् ||",
-                "“जो पुरुष अन्य समस्त कर्तव्यों को त्याग कर मुक्ति के दाता मुकुन्द के चरणकमलों की शरण ग्रहण करता है और इस पथ पर गम्भीरतापूर्वक चलता है वह देवताओं, मुनियों, सामान्य जीवों, स्वजनों, मनुष्यों या पितरों के प्रति अपने कर्तव्य या ऋण से मुक्त हो जाता है |” श्रीभगवान् की सेवा करने से ऐसे दायित्व अपने आप पुरे हो जाते हैं |”"
+                "जो पुरुष अन्य समस्त कर्तव्यों को त्याग कर मुक्ति के दाता मुकुन्द के चरणकमलों की शरण ग्रहण करता है और इस पथ पर गम्भीरतापूर्वक चलता है वह देवताओं, मुनियों, सामान्य जीवों, स्वजनों, मनुष्यों या पितरों के प्रति अपने कर्तव्य या ऋण से मुक्त हो जाता है |” श्रीभगवान् की सेवा करने से ऐसे दायित्व अपने आप पुरे हो जाते हैं |"
             ],
             "english": [
                 "According to the rules and regulations of fruitive activities, there is a need to offer periodical food and water to the forefathers of the family. This offering is performed by worship of Visnu, because eating the remnants of food offered to Visnu can deliver one from all kinds of sinful actions. Sometimes the forefathers may be suffering from various types of sinful reactions, and sometimes some of them cannot even acquire a gross material body and are forced to remain in subtle bodies as ghosts. Thus, when remnants of prasadam food are offered to forefathers by descendants, the forefathers are released from ghostly or other kinds of miserable life. Such help rendered to forefathers is a family tradition, and those who are not in devotional life are required to perform such rituals. One who is engaged in the devotional life is not required to perform such actions. Simply by performing devotional service, one can deliver hundreds and thousands of forefathers from all kinds of misery. It is stated in the Bhagavatam:",
                 "devarsi-bhutapta-nrnam pitrnamna kinkaro nayamrni ca rajansarvatmana yah saranam saranyamgato mukundam parihrtya kartam",
-                "\"Anyone who has taken shelter of the lotus feet of Mukunda, the giver of liberation, giving up all kinds of obligation, and has taken to the path in all seriousness, owes neither duties nor obligations to the demigods, sages, general living entities, family members, humankind or forefathers.\" (Bhag. 11.5.41) Such obligations are automatically fulfilled by performance of devotional service to the Supreme Personality of Godhead."
+                "“Anyone who has taken shelter of the lotus feet of Mukunda, the giver of liberation, giving up all kinds of obligation, and has taken to the path in all seriousness, owes neither duties nor obligations to the demigods, sages, general living entities, family members, humankind or forefathers.” (Bhag. 11.5.41) Such obligations are automatically fulfilled by performance of devotional service to the Supreme Personality of Godhead."
             ]
         }
     },
@@ -154,7 +154,7 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकै: |",
+                "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकै: | ",
                 "उत्साद्यन्ते जातिधर्माः कुलधर्माश्र्च शाश्र्वताः || ४२ ||"
             ],
             "english": [
@@ -166,7 +166,7 @@
         },
         "translation": {
             "hindi": [
-                "“जो लोग कुल-परम्परा को विनष्ट करते हैं और इस तरह अवांछित सन्तानों को जन्म देते हैं उनके दुष्कर्मों से समस्त प्रकार की सामुदायिक योजनाएँ तथा पारिवारिक कल्याण-कार्य विनष्ट हो जाते हैं |”"
+                "जो लोग कुल-परम्परा को विनष्ट करते हैं और इस तरह अवांछित सन्तानों को जन्म देते हैं उनके दुष्कर्मों से समस्त प्रकार की सामुदायिक योजनाएँ तथा पारिवारिक कल्याण-कार्य विनष्ट हो जाते हैं |"
             ],
             "english": [
                 "Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated."
@@ -174,7 +174,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः सनातन-धर्म या वर्णाश्रम-धर्म द्वारा निर्धारित मानव समाज के चारों वर्णों के लिए सामुदायिक योजनाएँ तथा पारिवारिक कल्याण-कार्य इसलिए नियोजित हैं कि मनुष्य चरम मोक्ष प्राप्त कर सके | अतः समाज के अनुत्तरदायी नायकों द्वारा सनातन-धर्म परम्परा के विखण्डन से उस समाज में अव्यवस्था फैलती है, फलस्वरूप लोग जीवन के उद्देश्य विष्णु को भूल जाते हैं | ऐसे नायक अंधे कहलाते हैं और जो लोग इनका अनुगमन करते हैं वे निश्चय ही कुव्यवस्था की ओर अग्रसर होते हैं |"
+                "सनातन-धर्म या वर्णाश्रम-धर्म द्वारा निर्धारित मानव समाज के चारों वर्णों के लिए सामुदायिक योजनाएँ तथा पारिवारिक कल्याण-कार्य इसलिए नियोजित हैं कि मनुष्य चरम मोक्ष प्राप्त कर सके | अतः समाज के अनुत्तरदायी नायकों द्वारा सनातन-धर्म परम्परा के विखण्डन से उस समाज में अव्यवस्था फैलती है, फलस्वरूप लोग जीवन के उद्देश्य विष्णु को भूल जाते हैं | ऐसे नायक अंधे कहलाते हैं और जो लोग इनका अनुगमन करते हैं वे निश्चय ही कुव्यवस्था की ओर अग्रसर होते हैं |"
             ],
             "english": [
                 "The four orders of human society, combined with family welfare activities as they are set forth by the institution of the sanatana-dharma or varnasrama-dharma, are designed to enable the human being to attain his ultimate salvation. Therefore, the breaking of the sanatana-dharma tradition by irresponsible leaders of society brings about chaos in that society, and consequently people forget the aim of life—Visnu. Such leaders are called blind, and persons who follow such leaders are sure to be led into chaos."
@@ -188,7 +188,7 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |",
+                "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | ",
                 "नरके नियतं वासो भवतीत्यनुश्रुश्रुम || ४३ ||"
             ],
             "english": [
@@ -200,7 +200,7 @@
         },
         "translation": {
             "hindi": [
-                "“हे प्रजापालक कृष्ण! मैनें गुरु-परम्परा से सुना है कि जो लोग कुल-धर्म का विनाश करते हैं, वे सदैव नरक में वास करते हैं |”"
+                "हे प्रजापालक कृष्ण! मैनें गुरु-परम्परा से सुना है कि जो लोग कुल-धर्म का विनाश करते हैं, वे सदैव नरक में वास करते हैं |"
             ],
             "english": [
                 "O Krsna, maintainer of the people, I have heard by disciplic succession that those who destroy family traditions dwell always in hell."
@@ -208,7 +208,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः अर्जुन अपने तर्कों को अपने निजी अनुभव पर न आधारित करके आचार्यों से जो सुन रखा है उस पर आधारित करता है | वास्तविक ज्ञान प्राप्त करने की यही विधि है | जिस व्यक्ति ने पहले से ज्ञान प्राप्त कर रखा है उस व्यक्ति की सहायता के बिना कोई भी वास्तविक ज्ञान तक नहीं पहुँच सकता | वर्णाश्रम-धर्म की एक पद्धति के अनुसार मृत्यु के पूर्व मनुष्य को पापकर्मों के लिए प्रायश्चित्त करना होता है | जो पापात्मा है उसे इस विधि का अवश्य उपयोग करना चाहिए | ऐसा किये बिना मनुष्य निश्चित रूप से नरक भेजा जायेगा जहाँ उसे अपने पापकर्मों के लिए कष्टमय जीवन बिताना होगा |"
+                "अर्जुन अपने तर्कों को अपने निजी अनुभव पर न आधारित करके आचार्यों से जो सुन रखा है उस पर आधारित करता है | वास्तविक ज्ञान प्राप्त करने की यही विधि है | जिस व्यक्ति ने पहले से ज्ञान प्राप्त कर रखा है उस व्यक्ति की सहायता के बिना कोई भी वास्तविक ज्ञान तक नहीं पहुँच सकता | वर्णाश्रम-धर्म की एक पद्धति के अनुसार मृत्यु के पूर्व मनुष्य को पापकर्मों के लिए प्रायश्चित्त करना होता है | जो पापात्मा है उसे इस विधि का अवश्य उपयोग करना चाहिए | ऐसा किये बिना मनुष्य निश्चित रूप से नरक भेजा जायेगा जहाँ उसे अपने पापकर्मों के लिए कष्टमय जीवन बिताना होगा |"
             ],
             "english": [
                 "Arjuna bases his argument not on his own personal experience, but on what he has heard from the authorities. That is the way of receiving real knowledge. One cannot reach the real point of factual knowledge without being helped by the right person who is already established in that knowledge. There is a system in the varnasrama institution by which one has to undergo the process of ablution before death for his sinful activities. One who is always engaged in sinful activities must utilize the process of ablution called the prayascitta. Without doing so, one surely will be transferred to hellish planets to undergo miserable lives as the result of sinful activities."
@@ -234,7 +234,7 @@
         },
         "translation": {
             "hindi": [
-                "“ओह! कितने आश्चर्य की बात है कि हम सब जघन्य पापकर्म करने के लिए उद्यत हो रहे हैं | राज्यसुख भोगने कि इच्छा से प्रेरित होकर हम अपने सम्बन्धियों को मारने पर तुले हैं |”"
+                "ओह! कितने आश्चर्य की बात है कि हम सब जघन्य पापकर्म करने के लिए उद्यत हो रहे हैं | राज्यसुख भोगने कि इच्छा से प्रेरित होकर हम अपने सम्बन्धियों को मारने पर तुले हैं |"
             ],
             "english": [
                 "Alas, how strange it is that we are preparing to commit greatly sinful acts, driven by the desire to enjoy royal happiness."
@@ -242,7 +242,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः स्वार्थ के वशीभूत होकर मनुष्य अपने सगे भाई, बाप या माँ के वध जैसे पापकर्मों में प्रवृत्त हो सकता है | विश्र्व के इतिहास में ऐसे अनेक उदाहरण मिलते हैं | किन्तु भगवान् का साधु भक्त होने के कारण अर्जुन सदाचार के प्रति जागरूक है | अतः वह ऐसे कार्यों से बचने का प्रयत्न करता है|"
+                "स्वार्थ के वशीभूत होकर मनुष्य अपने सगे भाई, बाप या माँ के वध जैसे पापकर्मों में प्रवृत्त हो सकता है | विश्र्व के इतिहास में ऐसे अनेक उदाहरण मिलते हैं | किन्तु भगवान् का साधु भक्त होने के कारण अर्जुन सदाचार के प्रति जागरूक है | अतः वह ऐसे कार्यों से बचने का प्रयत्न करता है|"
             ],
             "english": [
                 "Driven by selfish motives, one may be inclined to such sinful acts as the killing of one's own brother, father, or mother. There are many such instances in the history of the world. But Arjuna, being a saintly devotee of the Lord, is always conscious of moral principles and therefore takes care to avoid such activities."
@@ -256,7 +256,7 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |",
+                "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः | ",
                 "धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् || ४५ ||"
             ],
             "english": [
@@ -268,7 +268,7 @@
         },
         "translation": {
             "hindi": [
-                "“यदि शस्त्रधारी धृतराष्ट्र के पुत्र मुझ निहत्थे तथा रणभूमि में प्रतिरोध न करने वाले को मारें, तो यह मेरे लिए श्रेयस्कर होगा ।”"
+                "यदि शस्त्रधारी धृतराष्ट्र के पुत्र मुझ निहत्थे तथा रणभूमि में प्रतिरोध न करने वाले को मारें, तो यह मेरे लिए श्रेयस्कर होगा ।"
             ],
             "english": [
                 "I would consider it better for the sons of Dhrtarastra to kill me unarmed and unresisting, rather than fight with them."
@@ -276,7 +276,7 @@
         },
         "meaning": {
             "hindi": [
-                "तात्पर्यः क्षत्रियों के युद्ध-नियमों के अनुसार ऐसी प्रथा है कि निहत्थे तथा विमुख शत्रु पर आक्रमण न किया जाय | किन्तु अर्जुन ने निश्चय किया कि शत्रु भले ही इस विषम अवस्था में उस पर आक्रमण कर दें, किन्तु वह युद्ध नहीं करेगा | उसने इस पर विचार नहीं किया कि दूसरा दल युद्ध के लिए कितना उद्यत है | इस सब लक्षणों का कारण उसकी दयाद्रता है जो भगवान् के महान भक्त होने के कारण उत्पन्न हुई |"
+                "क्षत्रियों के युद्ध-नियमों के अनुसार ऐसी प्रथा है कि निहत्थे तथा विमुख शत्रु पर आक्रमण न किया जाय | किन्तु अर्जुन ने निश्चय किया कि शत्रु भले ही इस विषम अवस्था में उस पर आक्रमण कर दें, किन्तु वह युद्ध नहीं करेगा | उसने इस पर विचार नहीं किया कि दूसरा दल युद्ध के लिए कितना उद्यत है | इस सब लक्षणों का कारण उसकी दयाद्रता है जो भगवान् के महान भक्त होने के कारण उत्पन्न हुई |"
             ],
             "english": [
                 "It is the custom—according to ksatriya fighting principles—that an unarmed and unwilling foe should not be attacked. Arjuna, however, in such an enigmatic position, decided he would not fight if he were attacked by the enemy. He did not consider how much the other party was bent upon fighting. All these symptoms are due to softheartedness resulting from his being a great devotee of the Lord."
@@ -290,8 +290,8 @@
         "chapterId": 1,
         "text": {
             "hindi": [
-                "सञ्जय उवाच",
-                "एवमुक्तवार्जुनः संख्ये रथोपस्थ उपाविशत् |",
+                "सञ्जय उवाच ",
+                "एवमुक्तवार्जुनः संख्ये रथोपस्थ उपाविशत् | ",
                 "विसृज्य सशरं चापं शोकसंविग्नमानसः || ४६ ||"
             ],
             "english": [
@@ -304,7 +304,7 @@
         },
         "translation": {
             "hindi": [
-                "“संजय ने कहा – युद्धभूमि में इस प्रकार कह कर अर्जुन ने अपना धनुष तथा बाण एक ओर रख दिया और शोकसंतप्त चित्त से रथ के आसन पर बैठ गया |”"
+                "संजय ने कहा – युद्धभूमि में इस प्रकार कह कर अर्जुन ने अपना धनुष तथा बाण एक ओर रख दिया और शोकसंतप्त चित्त से रथ के आसन पर बैठ गया |"
             ],
             "english": [
                 "Sanjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief."
@@ -312,8 +312,8 @@
         },
         "meaning": {
             "hindi": [
-                "“तात्पर्यः अपने शत्रु की स्थिति का अवलोकन करते समय अर्जुन रथ पर खड़ा हो गया था, किन्तु वह शोक से इतना संतप्त हो उठा कि अपना धनुष-बाण एक ओर रख कर रथ के आसन पर पुनः बैठ गया | ऐसा दयालु तथा कोमलहृदय व्यक्ति, जो भगवान् की सेवा में रत हो, आत्मज्ञान प्राप्त करने योग्य है |",
-                "इस प्रकार भगवद्गीता के प्रथम अध्याय “कुरुक्षेत्र के प्रथम युद्धस्थल में सैन्यनिरिक्षण” का भक्तिवेदान्त तात्पर्य पूर्ण हुआ |”"
+                "अपने शत्रु की स्थिति का अवलोकन करते समय अर्जुन रथ पर खड़ा हो गया था, किन्तु वह शोक से इतना संतप्त हो उठा कि अपना धनुष-बाण एक ओर रख कर रथ के आसन पर पुनः बैठ गया | ऐसा दयालु तथा कोमलहृदय व्यक्ति, जो भगवान् की सेवा में रत हो, आत्मज्ञान प्राप्त करने योग्य है |",
+                "इस प्रकार भगवद्गीता के प्रथम अध्याय “कुरुक्षेत्र के प्रथम युद्धस्थल में सैन्यनिरिक्षण” का भक्तिवेदान्त तात्पर्य पूर्ण हुआ |"
             ],
             "english": [
                 "While observing the situation of his enemy, Arjuna stood up on the chariot, but he was so afflicted with lamentation that he sat down again, setting aside his bow and arrows. Such a kind and softhearted person, in the devotional service of the Lord, is fit to receive self-knowledge."
