@@ -1,618 +1,404 @@
-[
-    {
-        "id": 1,
-        "title": {
-            "hindi": [
-                "अध्याय १ - अर्जुनविषादयोग"
-            ],
-            "english": [
-                "Chapter 1 - Arjuna Vishada Yoga"
-            ]
+{
+    "introduction": [
+        "Bhagavad Gita, also known as the Gita - “The Song of The Lord” is a practical guide to one's life that guides one to re-organise their life, achieve inner peace and approach the Supreme Lord (the Ultimate Reality). It is a 700-verse text in Sanskrit which comprises chapters 23 through 40 in the Bhishma-Parva section of the Mahabharata.",
+        "The Bhagavad Gita is a dialogue between Arjuna, a supernaturally gifted warrior and his guide and charioteer Lord Krishna on the battlefield of Kurukshetra. As both armies stand ready for the battle, the mighty warrior Arjuna, on observing the warriors on both sides becomes overwhelmed with grief and compassion due to the fear of losing his relatives and friends and the consequent sins attributed to killing his own relatives. So, he surrenders to Lord Krishna, seeking a solution. Thus, follows the wisdom of the Bhagavad Gita. Over 18 chapters, Gita packs an intense analysis of life, emotions and ambitions, discussion of various types of yoga, including Jnana, Bhakti, Karma and Raja, the difference between Self and the material body as well as the revelation of the Ultimate Purpose of Life."
+    ],
+    "chapters": [
+        {
+            "id": 1,
+            "title": {
+                "hindi": [
+                    "अध्याय १ - अर्जुनविषादयोग"
+                ],
+                "english": [
+                    "Chapter 1 - Arjuna Vishada Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "कुरुक्षेत्र के युद्धस्थल में सैन्यनिरीक्षण"
+                ],
+                "english": [
+                    "Observing the Armies on the Battlefield of Kuruksetra"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 4
+            }
         },
-        "subtitle": {
-            "hindi": [
-                "कुरुक्षेत्र के युद्धस्थल में सैन्यनिरीक्षण"
-            ],
-            "english": [
-                "Observing the Armies on the Battlefield of Kuruksetra"
-            ]
+        {
+            "id": 2,
+            "title": {
+                "hindi": [
+                    "अध्याय २ - सांख्ययोग"
+                ],
+                "english": [
+                    "Chapter 2 - Sankhya Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "गीता का सार"
+                ],
+                "english": [
+                    "Contents of the Gita Summarized"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 8
+            }
         },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "The great Mahabharata war between the Pandavas and the Kauravas took place on the holy plain of Kurukshetra. After the failure of Lord Krishna’s peace mission, when He Himself went to Hastinapura as the emissary of the Pandavas, there was no other alternative for the Pandavas but to engage in war for their rightful share of the kingdom.",
-                "All the famous warriors from both sides had assembled on the battlefield. Tents and wagons, weapons and machines, chariots and animals covered the vast plain.",
-                "Lord Krishna arrived on the scene in a magnificent chariot yoked by white horses. He was to act as the charioteer of Arjuna, one of the Pandava princes.",
-                "The din of hundreds of conches, blaring forth suddenly, announced the commencement of the battle. Arjuna blew his conch “Devadatta”, while Bhima, his brother, sounded the “Paundra”. All the other great warriors blew their respective conches.",
-                "As the two armies were arrayed, ready for battle, Arjuna requested Krishna to place his chariot between them so that he might survey his opponents. He was bewildered by the scene before him, for he beheld on both sides, fathers and grandfathers, teachers and uncles, fathers-in-law, grandsons, relatives and comrades.",
-                "Confusion reigned in Arjuna’s mind. Should he participate in this terrible carnage? Was it proper to destroy one’s relatives for the sake of a kingdom and some pleasures? Would it not be much better for him to surrender everything in favour of his enemies and retire in peace? As these thoughts rushed into his mind, a feeling of despondency overtook Arjuna. He had no enthusiasm to engage in this battle. Letting his bow slip from his hands, Arjuna could do nothing but turn to Lord Krishna for guidance and enlightenment."
-            ]
+        {
+            "id": 3,
+            "title": {
+                "hindi": [
+                    "अध्याय ३ - कर्मयोग"
+                ],
+                "english": [
+                    "Chapter 3 - Karma Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "कर्मयोग"
+                ],
+                "english": [
+                    "Karma-yoga"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 5
+            }
         },
-        "pagingMeta": {
-            "total_page": 4
+        {
+            "id": 4,
+            "title": {
+                "hindi": [
+                    "अध्याय ४ - ज्ञानकर्मसन्यासयोग"
+                ],
+                "english": [
+                    "Chapter 4 - Gyana Karma Sanyasa Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "दिव्य ज्ञान"
+                ],
+                "english": [
+                    "Transcendental Knowledge"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 5
+            }
+        },
+        {
+            "id": 5,
+            "title": {
+                "hindi": [
+                    "अध्याय ५ - कर्मसन्यासयोग"
+                ],
+                "english": [
+                    "Chapter 5 - Karma Sanyasa Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "कर्मयोग-कृष्णभावनाभावित कर्म"
+                ],
+                "english": [
+                    "Karma-yoga-Action in Krsna Consciousness"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 6,
+            "title": {
+                "hindi": [
+                    "अध्याय ६ - ध्यानयोग"
+                ],
+                "english": [
+                    "Chapter 6 - Dhyana Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "ध्यानयोग"
+                ],
+                "english": [
+                    "Sankhya-yoga"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 5
+            }
+        },
+        {
+            "id": 7,
+            "title": {
+                "hindi": [
+                    "अध्याय ७ - ज्ञानविज्ञानयोग"
+                ],
+                "english": [
+                    "Chapter 7 - Gyaan Vigyana Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "भगवद्ज्ञान"
+                ],
+                "english": [
+                    "Knowledge of the Absolute"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 8,
+            "title": {
+                "hindi": [
+                    "अध्याय ८ - अक्षरब्रह्मयोग"
+                ],
+                "english": [
+                    "Chapter 8 - Akshara Brahma Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "भगवत्प्राप्ति"
+                ],
+                "english": [
+                    "Attaining the Supreme"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 9,
+            "title": {
+                "hindi": [
+                    "अध्याय ९ - राजविद्याराजगुह्ययोग"
+                ],
+                "english": [
+                    "Chapter 9 - Raja Vidya rajguhy Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "परम गुह्य ज्ञान"
+                ],
+                "english": [
+                    "The Most Confidential Knowledge"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 4
+            }
+        },
+        {
+            "id": 10,
+            "title": {
+                "hindi": [
+                    "अध्याय १० विभूतियोग"
+                ],
+                "english": [
+                    "Chapter 10 - Vibhooti Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "श्री भगवान् का ऐश्वर्य"
+                ],
+                "english": [
+                    "The Opulence of the Absolute"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 4
+            }
+        },
+        {
+            "id": 11,
+            "title": {
+                "hindi": [
+                    "अध्याय ११ - विश्वरूपदर्शनयोग"
+                ],
+                "english": [
+                    "Chapter 11 - Vishwaroopa Darshana Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "विराट रूप"
+                ],
+                "english": [
+                    "The Universal Form"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 6
+            }
+        },
+        {
+            "id": 12,
+            "title": {
+                "hindi": [
+                    "अध्याय १२ - भक्तियोग"
+                ],
+                "english": [
+                    "Chapter 12 - Bhakti Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "भक्तियोग"
+                ],
+                "english": [
+                    "Devotional Service"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 2
+            }
+        },
+        {
+            "id": 13,
+            "title": {
+                "hindi": [
+                    "अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग"
+                ],
+                "english": [
+                    "Chapter 13 - Ksetra Ksetrajna Vibhaaga Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "प्रकृति, पुरुष तथा चेतना"
+                ],
+                "english": [
+                    "Nature, the Enjoyer, and Consciousness"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 14,
+            "title": {
+                "hindi": [
+                    "अध्याय १४ - गुणत्रयविभागयोग"
+                ],
+                "english": [
+                    "Chapter 14 - Gunatraya Vibhaga Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "प्रकृति के तीन गुण"
+                ],
+                "english": [
+                    "The Three Modes of Material Nature"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 15,
+            "title": {
+                "hindi": [
+                    "अध्याय १५ - पुरुषोत्तमयोग"
+                ],
+                "english": [
+                    "Chapter 15 - Purushottama Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "पुरुषोत्तम योग"
+                ],
+                "english": [
+                    "The Yoga of the Supreme Person"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 2
+            }
+        },
+        {
+            "id": 16,
+            "title": {
+                "hindi": [
+                    "अध्याय १६ - दैवासुरसम्पद्विभागयोग"
+                ],
+                "english": [
+                    "Chapter 16 - Daivasura Sampad Vibhaga Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "दैवी तथा आसुरी स्वभाव"
+                ],
+                "english": [
+                    "The Divine and Demoniac Natures"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 2
+            }
+        },
+        {
+            "id": 17,
+            "title": {
+                "hindi": [
+                    "अध्याय १७ - श्रद्धात्रयविभागयोग"
+                ],
+                "english": [
+                    "Chapter 17 - Sraddhatraya Vibhaga Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "श्रद्धा के विभाग"
+                ],
+                "english": [
+                    "The Divisions of Faith"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 3
+            }
+        },
+        {
+            "id": 18,
+            "title": {
+                "hindi": [
+                    "अध्याय १८ - मोक्षसंन्यासयोग"
+                ],
+                "english": [
+                    "Chapter 18 - Moksha Sanyaas Yoga"
+                ]
+            },
+            "subtitle": {
+                "hindi": [
+                    "उपसंहार-संन्यास की सिद्धि"
+                ],
+                "english": [
+                    "Conclusion-The Perfection of Renunciation"
+                ]
+            },
+            "pagingMeta": {
+                "total_page": 8
+            }
         }
-    },
-    {
-        "id": 2,
-        "title": {
-            "hindi": [
-                "अध्याय २ - सांख्ययोग"
-            ],
-            "english": [
-                "Chapter 2 - Sankhya Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "गीता का सार"
-            ],
-            "english": [
-                "Contents of the Gita Summarized"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Sanjaya explains the condition of Arjuna, who was agitated due to attachment and fear.",
-                "Lord Krishna rebukes him for his dejection, which was due to Moha or attachment, and exhorts him to fight. After failing to convince Sri Krishna through his seemingly wise thoughts, Arjuna realises his helplessness and surrenders himself completely to the Lord, seeking His guidance to get over the conflict of his mind.",
-                "The Lord takes pity on him and proceeds to enlighten him by various means. He explains to Arjuna the imperishable nature of the Atman, for which there is no past, present and future. The Atman never dies, therefore Arjuna should not grieve. As It transcends the five elements, namely, earth, water, fire, air and ether, It cannot be cut, burnt or dried. It is unchanging and eternal.",
-                "Everyone experiences conditions like pleasure and pain, heat and cold, due to contact of objects with the senses. The senses carry the sensations through the nerves to the mind. One should 16 THE YOGA OF THE DESPONDENCY OF ARJUNA be able to withdraw the senses from objects, like the tortoise which withdraws all its limbs within. Krishna asserts that only one who has the capacity to be balanced in pleasure and pain alike is fit for immortality.",
-                "Krishna goes on to tell Arjuna that if he refuses to fight and flees from the battle, people will be justified in condemning such action as unworthy of a warrior.",
-                "Having taught Arjuna the immortal nature of the Atman, Lord Krishna turns to the performance of action without expectation of fruit. A man should not concern himself about the fruit of the action, like gain and loss, victory and defeat. These are in the hands of the Lord. He should perform all action with a balanced mind, calmly enduring the pairs of opposites like heat and cold, pleasure and pain, that inevitably manifest during action. Krishna advises Arjuna to fight, free from desire for acquisition of kingdom or preservation of it.",
-                "Arjuna is eager to know the characteristics of a man who has a stable mind. Such a person, Krishna tells him, will have no desires at all. Since he is content within, having realised the Self, he is entirely free from desires. The consciousness of the Atman and abandonment of desires are simultaneous experiences. The various qualities of a Sthitaprajna (a stable-minded person) are described by the Lord. He will not be affected by adversity and will have no fear or anger. He will take things as they come, and will not have any likes and dislikes. He will neither hug the world nor hate it.",
-                "The man of stable mind will have perfect control of the senses. The senses are powerful and draw the mind outwards. One should therefore turn one’s gaze within and realise God who resides in the heart. The Yogi, having achieved a stable mind, remains steadfast even though all sense-objects come to him. He is unmoved and lives a life of eternal peace.",
-                "Krishna concludes that the eternal Brahmic state frees one from delusion forever. Even at the end of life, when one departs from this body, one does not lose consciousness of one’s identity with Brahman."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 8
-        }
-    },
-    {
-        "id": 3,
-        "title": {
-            "hindi": [
-                "अध्याय ३ - कर्मयोग"
-            ],
-            "english": [
-                "Chapter 3 - Karma Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "कर्मयोग"
-            ],
-            "english": [
-                "Karma-yoga"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "In order to remove Moha or attachment, which was the sole cause of Arjuna’s delusion, Sri Krishna taught him the imperishable nature of the Atman, the realisation of which would grant him the freedom of the Eternal. A doubt therefore arises in Arjuna’s mind as to the necessity of engaging in action even after one has attained this state.",
-                "Sri Krishna clears this doubt by telling him that although one has realised oneness with the Eternal, one has to perform action through the force of Prakriti or Nature. He emphasises that perfection is attained not by ceasing to engage in action but by doing all actions as a divine offering, imbued with a spirit of non-attachment and sacrifice.",
-                "The man of God-vision, Sri Krishna explains to Arjuna, need not engage in action, as he has attained everything that has to be attained. He can be ever absorbed in the calm and immutable Self. But to perform action for the good of the world and for the education of the masses is no doubt superior. Therefore, action is necessary not only for one who has attained perfection but also for one who is striving for perfection. Sri Krishna quotes the example of Janaka, the great sage-king of India, who continued to rule his kingdom even after attaining God-realisation.",
-                "Prakriti or Nature is made up of the three qualities—Rajas, Tamas and Sattwa. The Atman is beyond these three qualities and their functions. Only when knowledge of this fact dawns in man does he attain perfection.",
-                "The Lord tells Arjuna that each one should do his duty according to his nature, and that doing duty that is suited to one’s nature in the right spirit of detachment will lead to perfection.",
-                "Arjuna raises the question as to why man commits such actions that cloud his mind and drag him downwards, by force, as it were. Sri Krishna answers that it is desire that impels man to lose his discrimination and understanding, and thus commit wrong actions. Desire is the root cause of all evil actions. If desire is removed, then the divine power manifests in its full glory and one enjoys peace, bliss, light and freedom."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 5
-        }
-    },
-    {
-        "id": 4,
-        "title": {
-            "hindi": [
-                "अध्याय ४ - ज्ञानकर्मसन्यासयोग"
-            ],
-            "english": [
-                "Chapter 4 - Gyana Karma Sanyasa Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "दिव्य ज्ञान"
-            ],
-            "english": [
-                "Transcendental Knowledge"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Lord Krishna declares that He is born from age to age, in order to raise man and take him to the Supreme. Whenever there is a prevalence of unrighteousness and the world is ruled by the forces of darkness, the Lord manifests Himself to destroy these adverse forces and to establish peace, order and harmony. Hence we see the appearance of the great saviours of the world.",
-                "What is the secret of Yogic action? This the Lord proceeds to explain to Arjuna. Even though one is not engaged in action, but if the mind is active with the idea of doership and egoism, then it is action in inaction. On the other hand, though engaged physically in intense action, if the idea of agency is absent, if one feels that Prakriti does everything, it is inaction in action. The liberated man is free from attachment and is always calm and serene though engaged in ceaseless action. He is unaffected by the pairs of opposites like joy and grief, success and failure.",
-                "One who has true union with the Lord is not subject to rebirth. He attains immortality. Such a union can only be achieved when one is free from attachment, fear and anger, being thoroughly purified by right knowledge. The Lord accepts the devotion of all, whatever path they may use to approach Him.",
-                "Various kinds of sacrifices are performed by those engaged in the path to God. Through the practice of these sacrifices the mind is purified and led Godward. Here also there must be the spirit of non-attachment to the fruits of actions.",
-                "Divine wisdom, according to Sri Krishna, should be sought at the feet of a liberated Guru, one who has realised the Truth. The aspirant should approach such a sage in a spirit of humility and devotion. God Himself manifests in the heart of the Guru and instructs the disciple. Having understood the Truth from the Guru by direct intuitive experience the aspirant is no longer deluded by ignorance.",
-                "The liberated aspirant directly beholds the Self in all beings and all beings in the Self. He cognises through internal experience or intuition that all beings, from the Creator down to a blade of grass, exist in his own Self and also in God.",
-                "Arjuna is given the most heartening assurance that divine wisdom liberates even the most sinful. When knowledge of the Self dawns, all actions with their results are burnt by the fire of that knowledge, just as fuel is burnt by fire. When there is no idea of egoism, when there is no desire for the fruits of one’s actions, actions are no actions. They lose their potency.",
-                "In order to attain divine wisdom one must have supreme faith and devotion. Faith is therefore the most important qualification for a spiritual aspirant. The doubting mind is always led astray from the right path. Faith ultimately confers divine knowledge, which removes ignorance once and for all.",
-                "Mere intellectual knowledge does not lead to liberation. It cannot grant one supreme peace and freedom. When one has achieved complete self-mastery and self-control, when one has intense faith and devotion, then true knowledge dawns within and one attains liberation and freedom from all weaknesses and sins.",
-                "The Lord concludes by emphasising that the soul that doubts goes to destruction. Without faith in oneself, in the scriptures and in the words of the preceptor, one cannot make any headway on the spiritual path. It is doubt that prevents one from engaging in spiritual Sadhana and realising the highest knowledge and bliss. By following the instructions of the Guru and through sincere service, one’s doubts are rent asunder and divine knowledge manifests itself within. Spiritual progress then goes on at a rapid pace."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 5
-        }
-    },
-    {
-        "id": 5,
-        "title": {
-            "hindi": [
-                "अध्याय ५ - कर्मसन्यासयोग"
-            ],
-            "english": [
-                "Chapter 5 - Karma Sanyasa Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "कर्मयोग-कृष्णभावनाभावित कर्म"
-            ],
-            "english": [
-                "Karma-yoga-Action in Krsna Consciousness"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "In spite of Sri Krishna’s clear instructions, Arjuna still seems to be bewildered. He wants to know conclusively which is superior, the path of action or the path of renunciation of action.",
-                "The Lord says that both the paths lead to the highest goal of God-realisation. In both cases the final realisation of the Atman is the aim, but the path of Karma Yoga is superior. Actually there is no real difference between the two.",
-                "Krishna further asserts that perfection can be attained and one can be established in the Atman only after the mind has been purified through the performance of selfless action. The Karma Yogi who is aware of the Atman and who is constantly engaged in action knows that although the intellect, mind and senses are active, he does not do anything. He is a spectator of everything. He dedicates all his actions to the Lord and thus abandons attachment, ever remaining pure and unaffected. He surrenders himself completely to the Divine Shakti. Having completely rooted out all desires, attachments and the ego, he is not born again.",
-                "The sage who has realised Brahman and is always absorbed in It does not have any rebirth. Such a sage sees Brahman within and without—within as the static and transcendent Brahman, and without as the entire universe. He sees the one Self in all beings and creatures—in a cow, an elephant, and even in a dog and an outcaste. He is ever free from joy and grief and enjoys eternal peace and happiness. He does not depend upon the senses for his satisfaction. On the other hand the enjoyments of the senses are generators of pain. They are impermanent. Sri Krishna reminds Arjuna that desire is the main cause of pain and suffering. It is the cause of anger. Therefore, the aspirant should try to eradicate desire and anger if he is to reach the Supreme.",
-                "The Lord concludes by describing how to control the senses, mind and intellect by concentrating between the eyebrows and practising Pranayama. One who has achieved perfect control of the outgoing senses and is freed from desire, anger and fear attains liberation and enjoys perfect peace."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 6,
-        "title": {
-            "hindi": [
-                "अध्याय ६ - ध्यानयोग"
-            ],
-            "english": [
-                "Chapter 6 - Dhyana Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "ध्यानयोग"
-            ],
-            "english": [
-                "Sankhya-yoga"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Sri Krishna emphasises once again that the Yogi or Sannyasin is one who has renounced the fruits of actions, not the actions themselves. The performance of actions without an eye on their fruits brings about the purification of the mind. Only a purified mind, a mind free from desires, can engage itself in constant meditation on the Atman. Desire gives rise to imagination or Sankalpa, which drives the soul into the field of action. Therefore, none can realise permanent freedom and tranquillity of mind without renouncing desires.",
-                "The lower self must be controlled by the higher Self. All the lower impulses of the body, mind and senses must be controlled by the power of the higher Self. Then the higher Self becomes one’s friend. He who has perfect control of the body, mind and senses and is united with God, sees God in all objects and beings. He sees inwardly that there is no difference between gold and stone, between friends and enemies, between the righteous and the unrighteous. He is perfectly harmonised.",
-                "Sri Krishna proceeds to give various practical hints as to the practice of meditation. The aspirant should select a secluded spot where there is no likelihood of disturbance. He should arrange his meditation seat properly and sit in a comfortable posture, with the head, neck and spine erect but not tensed. He should fix his purified mind on the Atman by concentrating between the eyebrows or on the tip of the nose.",
-                "The practice of Brahmacharya is absolutely necessary if one is to succeed in meditation. The conservation and transformation of the vital fluid into spiritual energy gives immense power of concentration. Fearlessness, too, is an essential quality on the Godward path. It is faith in the sustaining protection and Grace of God.",
-                "The aspirant is advised to practise moderation in his daily habits—in eating, sleeping, recreation, etc. Extremes are to be avoided as they hinder the practice of meditation. Living a life of such moderation, and gathering up all his forces and directing them towards meditation upon the Atman, the aspirant gradually transcends the senses and intellect and merges himself in the blissful Atman. He finds that the bliss of the Atman is incomparable, that there is no gain greater than the Self. Having thus attained perfect union with the Self, the Yogi no more descends into ignorance or delusion. He does not relish any more the pleasures of the senses.",
-                "Lord Krishna again emphasises that the concentration of the mind on the Atman should be like a steady flame in a windless place. This ultimately leads to the vision of the Lord in all beings and creatures. Arjuna is doubtful whether it is at all possible to engage the mind steadily on the higher Self, as its very nature seems to be one of restlessness. Krishna assures him that the practice can succeed through Vairagya (dispassion) and constant effort.",
-                "Arjuna wishes to know the fate of the aspirant who fails to realise the Supreme in spite of his faith and sincerity. Krishna tells him that the accumulated power of his Yogic practices will assure him a better birth in the future, with more favourable conditions for Sadhana. The aspirant will then be compelled to carry on his Yogic practices with greater vigour and faith and will finally achieve God-realisation.",
-                "Krishna concludes that the Yogi—one who has attained union with the Supreme Lord—is superior to the ascetics, to the men of book knowledge and the men of action, as the latter have not transcended ignorance and merged in the Self."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 5
-        }
-    },
-    {
-        "id": 7,
-        "title": {
-            "hindi": [
-                "अध्याय ७ - ज्ञानविज्ञानयोग"
-            ],
-            "english": [
-                "Chapter 7 - Gyaan Vigyana Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "भगवद्ज्ञान"
-            ],
-            "english": [
-                "Knowledge of the Absolute"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Sri Krishna tells Arjuna that the supreme Godhead has to be realised in both its transcendent and immanent aspects. The Yogi who has reached this summit has nothing more to know.",
-                "This complete union with the Lord is difficult of attainment. Among many thousands of human beings, very few aspire for this union, and even among those who aspire for it, few ever reach the pinnacle of spiritual realisation.",
-                "The Lord has already given a clear description of the all-pervading static and infinite state of His. Now He proceeds to explain His manifestations as the universe and the power behind it. He speaks of these manifestations as His lower and higher Prakritis. The lower Prakriti is made up of the five elements, mind, ego and intellect. The higher Prakriti is the life-element which upholds the universe, activates it and causes its appearance and final dissolution.",
-                "Krishna says that whatever exists is nothing but Himself. He is the cause of the appearance of the universe and all things in it. Everything is strung on Him like clusters of gems on a string. He is the essence, substance and substratum of everything, whether visible or invisible. Although everything is in Him, yet He transcends everything as the actionless Self. Prakriti or Nature is made up of the three Gunas or qualities—Sattwa, Rajas and Tamas. These three qualities delude the soul and make it forget its true nature, which is one with God. This delusion, termed Maya, can only be removed by the Grace of the Lord Himself.",
-                "Thus far Arjuna has been taught the highest form of devotion, which leads to union with God in His static aspect as also with His dynamic Prakriti. Krishna tells him that there are also other forms of devotion which are inferior as they are performed with various motives. The distressed, the seeker of divine wisdom, and he who desires wealth, worship Him, as also the wise. Of these the Lord deems the wise as dearest to Him. Such a devotee loves the Lord for the sake of pure love alone. Whatever form the devotee worships, the ultimate goal is the Lord Himself. The Lord accepts such worship, knowing that it is directed to Him only."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 8,
-        "title": {
-            "hindi": [
-                "अध्याय ८ - अक्षरब्रह्मयोग"
-            ],
-            "english": [
-                "Chapter 8 - Akshara Brahma Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "भगवत्प्राप्ति"
-            ],
-            "english": [
-                "Attaining the Supreme"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Lord Krishna explains how those who attain Him do not have to come again into this impermanent world of sorrow and pain. All beings, including even the gods, come again and again into this created universe from the state of unmanifest being wherein they remained at the end of an age-cycle. But the Lord exists even beyond this unmanifest being. That radiant, imperishable Divine Reality is the highest goal to be attained. Single-minded devotion of our heart is the means of attaining this highest blessed state.",
-                "Even though there are auspicious and inauspicious circumstances of departing from the physical body and journeying forth, yet if one steadily abides in the Lord through firm devotion and faith, then these conditions do not matter. By always remaining in tune with the Lord through pure love, everything is made auspicious, if one can ever remain united with the Divine through deep devotion, constant remembrance, regular meditation and continuous communion, then all times, places, conditions and situations become auspicious and blessed. This is the secret of invoking His Grace and attaining Him and becoming eternally free and blissful.",
-                "Arjuna here asks Lord Krishna about the meaning of the different terms referred to by Him in the last two verses of the previous chapter. He wishes to know what is the Supreme Being, what is Karma or action that He refers to, and what is the meaning that pertains to this spirit, the elements and the centre of all things within this human body.",
-                "Beyond all things manifest and unmanifest, beyond these names and forms, there is the Supreme Being—Brahman. He indwells this body as the centre of all things, including even our own self (individual soul). We are a spiritual being residing in this body and supported by the Silent Witness within—the Supreme Antaryamin. Prakriti or Nature is the being pertaining to the elements. Worship, prayer and offering to the gods with faith and devotion constitute actions that lead to blessedness.",
-                "The secret of reaching the Divine Being and thus freeing oneself forever from birth and death and the pains and sufferings of this earth-life, is to constantly practise unbroken remembrance of the Lord at all times, in all places and even amidst one’s daily activities. If one practises such steady remembrance through regular daily Sadhana, then he will be rooted in His remembrance even at the time of departing from this body at death. Thus departing, he will go beyond darkness and bondage and attain the realm of eternal blessedness.",
-                "One must practise sense-control. The senses must be well disciplined and gradually withdrawn from outside objects. The mind should be centred within upon God, by uttering Om or any Divine Name. By such steady practice daily the Lord is easily attained."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 9,
-        "title": {
-            "hindi": [
-                "अध्याय ९ - राजविद्याराजगुह्ययोग"
-            ],
-            "english": [
-                "Chapter 9 - Raja Vidya rajguhy Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "परम गुह्य ज्ञान"
-            ],
-            "english": [
-                "The Most Confidential Knowledge"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Observing that Arjuna was a qualified aspirant and endowed with faith, Krishna declares to him the sovereign knowledge and sovereign secret that is to be known by direct experience. He adds that without faith in this knowledge man fails to reach God and is reborn to suffer.",
-                "Now the Lord proceeds to describe His nature as the eternal, all-comprehensive Truth. He is everything that is invisible and visible. He pervades everything that exists. He creates everything, sustains everything, and when final dissolution takes place, absorbs everything into Himself. He manifests them again when the next creation begins. All beings who are ignorant of this knowledge are caught helplessly in the cycle of birth and death. In the midst of this creation, preservation and dissolution of the universe, the Lord stands as a silent witness, unaffected and unattached. He is the sole director, sustainer and supervisor of His Cosmic Prakriti.",
-                "Ignorant beings are not able to recognise the Lord in one who has realised Him. Although these cruel beings assume a human form, their nature is that of demons. The God-realised Mahatma, on the other hand, is a man of knowledge, and perceives Him indwelling all beings and creatures. He beholds the underlying unity of existence in all names and forms.",
-                "The Lord’s divine protection is assured to all those who take refuge in Him. Whatever path a devotee follows, he ultimately reaches Him. He is the goal of the various methods of spiritual practice. Devotion, Sri Krishna emphasises, is the essence of all spiritual discipline. If this supreme element is present, then the devotee is freed from bondage. The Lord observes the motive and degree of devotion. Even the most sinful and diabolical man, if he takes a radical turn towards the path of righteousness and truth, reaches the Lord. Whatever vocation one follows, one can attain the Lord if one seeks earnestly and with loving devotion. The essential thing is to fix the mind on the Lord and dedicate everything unto Him—one’s body, mind, actions, emotion and will."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 4
-        }
-    },
-    {
-        "id": 10,
-        "title": {
-            "hindi": [
-                "अध्याय १० विभूतियोग"
-            ],
-            "english": [
-                "Chapter 10 - Vibhooti Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "श्री भगवान् का ऐश्वर्य"
-            ],
-            "english": [
-                "The Opulence of the Absolute"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Krishna tells Arjuna that even the Devas and highly evolved souls fail to understand how He projects Himself as the universe and all its manifestations. He goes on to describe the various qualities that beings manifest according to their Karmas. All these qualities—wisdom, truth, contentment, etc.—originate from Him.",
-                "The true devotees of the Lord are wholly absorbed in Him. They have completely surrendered to Him and through single-minded devotion they are granted the power of discrimination, the discrimination that leads them from the unreal to the Real. Krishna emphatically declares that ignorance is destroyed and knowledge gained through Divine Grace alone.",
-                "Arjuna accepts the descent of the Supreme in a human form, but wishes to know from the Lord Himself His Cosmic powers by means of which He controls the diverse forces of the universe. The Lord describes His Divine glories, bringing within the range of Arjuna’s comprehension His limitless manifestations, and how He upholds everything. In short, the Lord is the Almighty Power that creates, sustains and destroys everything."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 4
-        }
-    },
-    {
-        "id": 11,
-        "title": {
-            "hindi": [
-                "अध्याय ११ - विश्वरूपदर्शनयोग"
-            ],
-            "english": [
-                "Chapter 11 - Vishwaroopa Darshana Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "विराट रूप"
-            ],
-            "english": [
-                "The Universal Form"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Arjuna’s doubts having been removed through a clear description of the nature of the Atman and the origin and destruction of all created things, he is now ready to behold the Cosmic Vision.",
-                "Krishna grants him the divine sight by means of which Arjuna beholds the Lord as the vast Cosmic Manifestation. The vision is at once all-comprehensive and simultaneous. In every direction Arjuna sees the Lord as the entire universe. All the created worlds, gods, beings, creatures and things stand revealed as the one gigantic body of the Lord.",
-                "Arjuna further sees that the great cosmic drama is set in motion and controlled by the all-mighty power of the Lord. His Will alone prevails in all things and actions, both good and bad. The Lord exhorts him to fight, he being only an apparent cause of the destruction of his enemies.",
-                "Arjuna is unable to bear the pressure of the sudden expansion of consciousness and is filled with fear. He begs the Lord to assume once more His usual form.",
-                "Krishna reiterates that this vision cannot be had through any amount of austerities, study, sacrifices or philanthrophic acts. Supreme devotion is the only means by which one can have access to His grand vision."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 6
-        }
-    },
-    {
-        "id": 12,
-        "title": {
-            "hindi": [
-                "अध्याय १२ - भक्तियोग"
-            ],
-            "english": [
-                "Chapter 12 - Bhakti Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "भक्तियोग"
-            ],
-            "english": [
-                "Devotional Service"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "The twelfth discourse indicates that the path of devotion is easier than the path of knowledge. In this path the aspirant worships God in His Cosmic Form of the Supreme Personality. He develops a loving relationship with Him, adores Him, remembers Him and chants His glories and Name. He thus effects union with the Lord and attains not only His formless aspect but also the Lord as the manifest universe.",
-                "The path of knowledge, whereby the aspirant meditates on the formless Brahman, is more difficult as he has to give up his attachment to the body from the very beginning. He has to have dispassion for the things of the world.",
-                "How to practise devotion? Krishna asks Arjuna to fix his entire mind on Him. As often as the mind wanders it should be brought back to the Lord. If this process of concentration is difficult he should dedicate all his actions to Him, feeling that it is His power that activates everything. If this also is beyond his ability, he should offer all his actions to the Lord, abandoning the desire for their fruits. He should take complete refuge in Him. The devotee who surrenders himself to the Lord attains perfect peace.",
-                "The Lord goes on to describe the qualities that a true devotee possesses. He neither attaches himself to anything nor does he have any aversion to things. He has a balanced mind under all circumstances. He is not agitated by the happenings of the world, nor does he himself cause any agitation in others. He is perfectly desireless and rejoices in the Lord within. He sees equality everywhere, being untouched by sorrow, fear, honour as also dishonour. He is perfectly content as he has surrendered his entire being to the Lord."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 2
-        }
-    },
-    {
-        "id": 13,
-        "title": {
-            "hindi": [
-                "अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग"
-            ],
-            "english": [
-                "Chapter 13 - Ksetra Ksetrajna Vibhaaga Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "प्रकृति, पुरुष तथा चेतना"
-            ],
-            "english": [
-                "Nature, the Enjoyer, and Consciousness"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "In this discourse we have one of the most significant, most illuminating, most inspiring and most mystical portions of the Bhagavad Gita. The Lord gives us a wonderfully revealing insight into the human individual. It is the metaphysics of man, the unknown. The immortal Soul, with its physical embodiment, is the main theme of this discourse. The supreme transcendental Spirit, which is the eternal substratum beyond both, is also described in a wonderful manner. The knower of the Supreme Reality is instantly liberated.",
-                "The blessed Lord tells us that the knowledge of the Field and the Knower of the Field is the true knowledge. This highest and the best knowledge grants us divine wisdom and spiritual illumination that lead to divine beatitude. This body is the Field. The Immortal Soul (yourself), dwelling in the body is the Knower of the Field. Verily, it is the Supreme Being who has projected Himself and assumed the form of this Knower of the Field within this body. This self is none other than That. Thus, Lord Krishna explains the mystery of the individual soul dwelling within this mortal body. This knowledge constitutes the main subject matter of all the scriptures and the highest philosophical works.",
-                "The five elements, the ego, the mind, intellect and the ten organs, desire and aversion and such factors constitute the Field. Next follows a wonderful summing-up of what constitutes true knowledge. Then follows the declaration of the Supreme Soul, the knowledge of which grants us immortality. That Supreme Reality is the one universal Essence present everywhere. It pervades all. It shines within the inmost chambers of our heart, it is everything, it is the one seer, the witness, the guide, sustainer, experiencer and Lord of all. One who knows this mystery is not bound by activity even in the midst of life. When we perceive this supreme Presence dwelling in all beings we cannot injure anyone. Krishna asks us to see and know the difference between the Field (body or Prakriti) and the Knower of the Field (Spirit or Purusha), and thus reach the Self. This is the teaching and the message of this illuminating discourse."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 14,
-        "title": {
-            "hindi": [
-                "अध्याय १४ - गुणत्रयविभागयोग"
-            ],
-            "english": [
-                "Chapter 14 - Gunatraya Vibhaga Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "प्रकृति के तीन गुण"
-            ],
-            "english": [
-                "The Three Modes of Material Nature"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "Knowledge of the three cosmic qualities or Gunas, namely, Sattwa, Rajas and Tamas is now given through this discourse. The knowledge of these three Gunas, which hold the entire universe and all creatures under their sway, is of vital importance to each and everyone for their progress and happiness in life. Without this knowledge one will be forever bound by sorrow. In this knowledge we have the secret of success in worldly life as well as in spiritual life. Therefore, one should acquire this precious knowledge.",
-                "Lord Krishna reveals that these three qualities compose the Cosmic Nature. This Cosmic Nature is the primal source and origin of the entire creation and all things in it. Hence all things created are subject to their influence and irresistible power. The individual soul also is bound to the body by these three qualities present in Cosmic Nature. The Supreme Being brings about creation through the help of His Prakriti (Nature) endowed with these threefold qualities.",
-                "The highest of the three qualities is Sattwa. It is pure. It brings about happiness, wisdom and also illumination. The second quality of Rajas gives rise to passion manifested by intense attachment and greed. It causes sorrow and suffering. The third, termed Tamas, is the worst of all. It arises due to ignorance and results in darkness, lethargy and delusion.",
-                "Krishna asks us to diligently endeavour to cast out Tamas from our nature. We should control and master Rajas, and by holding it in check, wisely divert its power towards good kinds of activities. Sattwa should be carefully cultivated, developed and conserved in order to enable us to attain immortality. The realised sage, of course, goes beyond all these qualities, for, although it is Sattwa that enables him to reach God, even this quality will bind him if he is attached to it.",
-                "The aspirant should know the symptoms and signs of their presence in his personality and acquire a knowledge of their subtle workings. Then only can he maintain an unhampered and smooth progress in all activities of his life, both secular as well as spiritual. Lord Krishna teaches us this important subject in this discourse from the ninth to the eighteenth verse. He declares that one who rises beyond all the three Gunas through spiritual practices, becomes free from birth, death, old age and sorrow, and enjoys immortality.",
-                "In reply to a question from Arjuna, the blessed Lord describes the marks of one who has risen above the three Gunas. He states that if one constantly worships Him with exclusive devotion one will attain the highest divine experience and supreme peace and blessedness."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 15,
-        "title": {
-            "hindi": [
-                "अध्याय १५ - पुरुषोत्तमयोग"
-            ],
-            "english": [
-                "Chapter 15 - Purushottama Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "पुरुषोत्तम योग"
-            ],
-            "english": [
-                "The Yoga of the Supreme Person"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "This discourse is entitled “Purushottama Yoga” or the “Yoga of the Supreme Person”. Here Lord Krishna tells us about the ultimate source of this visible phenomenal universe from which all things have come into being, just like a great tree with all its roots, trunk, branches, twigs, leaves, flowers and fruits which spring forth from the earth, which itself supports the tree and in which it is rooted. Sri Krishna declares that the Supreme Being is the source of all existence, and refers allegorically to this universe as being like an inverted tree whose roots are in Para Brahman, and whose spreading branches and foliage constitute all the things and factors that go to make up this creation of variegated phenomena. This is a very mysterious “Tree” which is very difficult to understand, being a product of His inscrutable power of Maya; and hence a marvellous, apparent appearance without having actual reality. One who fully understands the nature of this Samsara-Tree goes beyond Maya. To be attached to it is to be caught in it. The surest way of transcending this Samsara or worldly life is by wielding the excellent weapon of dispassion and non-attachment.",
-                "In verses four and five of this discourse the Lord tells us how one goes beyond this visible Samsara and attains the supreme, imperishable status, attaining which one does not have to return to this mortal world of pain and death.",
-                "Lord Krishna also describes for us the wonderful mystery of His Presence in this universe and the supreme place He occupies in sustaining everything here. The Lord declares that it is a part of Himself that manifests here as the individual soul in each body. He Himself is the indwelling Oversoul beyond the self. He is the effulgence inherent in the sun, moon and fire. He is present as the nourishing element in the earth. He is the inner witness of all beings. He is the supreme Knower even beyond Vedic knowledge. He is the resplendent Person who is beyond both this perishable phenomenal creation as well as the imperishable individual soul which is a part of His eternal essence. Thus, because He is beyond perishable matter and superior to the imperishable soul (enveloped in Maya), He is known in this world as well as in the Vedas as the Supreme Person."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 2
-        }
-    },
-    {
-        "id": 16,
-        "title": {
-            "hindi": [
-                "अध्याय १६ - दैवासुरसम्पद्विभागयोग"
-            ],
-            "english": [
-                "Chapter 16 - Daivasura Sampad Vibhaga Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "दैवी तथा आसुरी स्वभाव"
-            ],
-            "english": [
-                "The Divine and Demoniac Natures"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "This discourse is important and very instructive to all persons who wish to attain happiness, prosperity and blessedness, and to seekers in particular, who wish to attain success in their spiritual life. Lord Krishna brings out quite clearly and unmistakably here the intimate connection between ethics and spirituality, between a life of virtue and God-realisation and liberation. Listing two sets of qualities of opposite kinds, the Lord classifies them as divine and demoniacal (undivine), and urges us to eradicate the latter and cultivate the divine qualities.",
-                "What kind of nature should one develop? What conduct must one follow? What way should one live and act if one must attain God and obtain divine bliss? These questions are answered with perfect clarity and very definitely. The pure divine qualities are conducive to peace and liberation and the undivine qualities lead to bondage. Purity, good conduct and truth are indispensable to spiritual progress and even to an honourable life here.",
-                "Devoid of purity, good conduct and truth, and having no faith in God or a higher Reality beyond this visible world, man degenerates into a two-legged beast of ugly character and cruel actions, and sinks into darkness. Such a person becomes his own enemy and the destroyer of the happiness of others as well as his own. Caught in countless desires and cravings, a slave of sensual enjoyments and beset by a thousand cares, his life ultimately ends in misery and degradation. Haughtiness, arrogance and egoism lead to this dire fate. Therefore, a wise person, desiring success, must eradicate vice and cultivate virtue.",
-                "In this world three gates lead to hell—the gates of passion, anger and greed. Released from these three qualities one can succeed in attaining salvation and reaching the highest goal, namely God. Thus the sacred scriptures teach wisely the right path of pure, virtuous living. One should therefore follow the injunctions of the sacred scriptures that wish his welfare and be guided in his actions by their noble teachings."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 2
-        }
-    },
-    {
-        "id": 17,
-        "title": {
-            "hindi": [
-                "अध्याय १७ - श्रद्धात्रयविभागयोग"
-            ],
-            "english": [
-                "Chapter 17 - Sraddhatraya Vibhaga Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "श्रद्धा के विभाग"
-            ],
-            "english": [
-                "The Divisions of Faith"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "This discourse is termed the “Yoga of the Division of the Three Kinds of Faith”. The theme of this discourse arises out of the question asked by Arjuna in Verse 1 with reference to the final and closing advice of Lord Krishna in the previous discourse, contained in the last two verses therein (Verses 23 and 24). Arjuna asks, “What about those who, even though setting aside scriptural injunctions yet perform worship with faith?”",
-                "The Lord replies and states that the faith of such men who ignore the injunctions of the scriptures could be either Sattwic, Rajasic or Tamasic. This would be in accordance with the basic nature of the person himself. And, conversely, as is the kind of faith, so develops the nature of the man.",
-                "Thus, in all things like sacrifice, worship, charity, penance, etc., these qualities become expressed in accordance with the kind of faith in which the person concerned is based. They produce results in accordance with the quality of the doer’s faith. These acts done with right faith lead to supreme blessedness. When done without any faith whatsoever, all these actions become barren and useless."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 3
-        }
-    },
-    {
-        "id": 18,
-        "title": {
-            "hindi": [
-                "अध्याय १८ - मोक्षसंन्यासयोग"
-            ],
-            "english": [
-                "Chapter 18 - Moksha Sanyaas Yoga"
-            ]
-        },
-        "subtitle": {
-            "hindi": [
-                "उपसंहार-संन्यास की सिद्धि"
-            ],
-            "english": [
-                "Conclusion-The Perfection of Renunciation"
-            ]
-        },
-        "summary": {
-            "hindi": [
-                "Not Available"
-            ],
-            "english": [
-                "The eighteenth discourse, which is the conclusion of the divine discourse of Lord Krishna, is in many ways a summary of the foregoing portions of the Gita. It covers in brief numerous important points dealt with in the previous discourses. Here you behold the ultimate result or effect of the Lord’s discourse to Arjuna. The drama of Arjuna’s utter despondency and breakdown is finally resolved in triumphant self-mastery, strength and bold resoluteness. Its central message emerges as an assurance that in and through the performance of one’s respective duties in life one can qualify for the highest liberation, if one performs actions by renouncing egoism and attachment and surrendering all desire for selfish, personal gain. By regarding the performance of your duties as worship offered to God, you obtain the Grace of the Lord and attain the eternal One.",
-                "Significantly, this discourse opens with a question by Arjuna asking what is true Sannyasa and true Tyaga (renunciation). In reply to this important and crucial query, the blessed Lord makes it clear to us that real Sannyasa or renunciation lies in renunciation of selfish actions, and even more in the renunciation of the desire or greed for the fruits of any action. Very clearly we are told that selfless and virtuous actions, and actions conducive to the welfare of others should not be abandoned. You must engage yourself in performing such action but renouncing attachment and greed. The true and proper renunciation is giving up of selfishness and attachment while performing one’s legitimate duties. This is called Sattwic Tyaga. We neither hate unpleasant action nor are we attached to pleasurable action. As it is not possible for you to renounce all action, the renunciation of egoism, selfishness and attachment in your activity is declared as true renunciation. Karma does not accumulate and bind one who is thus established in such inner renunciation.",
-                "The divine injunction is that God must be made the sole object of one’s life. This is the heart of the Gita gospel. This is the central message in its teaching. This is the one way to your welfare here.",
-                "Now Sanjaya concludes his narrative by declaring that where there is such obedience as that of Arjuna, and such willing readiness to carry out the divine teachings, there surely prosperity, victory, glory and all blessedness will prevail."
-            ]
-        },
-        "pagingMeta": {
-            "total_page": 8
-        }
-    }
-]
+    ]
+}
