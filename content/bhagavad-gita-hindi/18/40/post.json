@@ -1,0 +1,90 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः |",
+            "सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणै: || ४० ||"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "शब्दार्थ"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "न– नहीं; तत्– वह; अस्ति– है; पृथिव्याम्– पृथ्वी पर; वा– अथवा;दिवि– उच्चतर लोकों में; देवेषु– देवताओं में; वा– अथवा; पुनः– फिर; सत्त्वम्– अस्तित्व; प्रकृति-जैः– प्रकृति से उत्पन्न; मुक्तम्– मुक्त; यत्– जो; एभिः–इनके प्रभाव से; स्वात्– हो; त्रिभिः– तीन; गुणैः– गुणों से |"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "भावार्थ"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस लोक में, स्वर्ग लोकों में या देवताओं के मध्य में कोई भी ऐसाव्यक्ति विद्यमान नहीं है, जो प्रकृति के तीन गुणों से मुक्त हो |"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "तात्पर्य"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भगवान् इस श्लोक में समग्र ब्रह्माण्ड में प्रकृति के तीनगुणों के प्रभाव का संक्षिप्त विवरण दे रहे हैं |"
+        ]
+    }
+]

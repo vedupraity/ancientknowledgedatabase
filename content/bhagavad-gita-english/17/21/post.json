@@ -1,0 +1,121 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुन: ।",
+            "दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ॥ २१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "yat tu pratyupakārārthaṁ",
+            "phalam uddiśya vā punaḥ",
+            "dīyate ca parikliṣṭaṁ",
+            "tad dānaṁ rājasaṁ smṛtam"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "yat — that which; tu — but; prati-upakāra-artham — for the sake of getting some return; phalam — a result; uddiśya — desiring; vā — or; punaḥ — again; dīyate — is given; ca — also; parikliṣṭam — grudgingly; tat — that; dānam — charity; rājasam — in the mode of passion; smṛtam — is understood to be."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "But charity performed with the expectation of some return, or with a desire for fruitive results, or in a grudging mood is said to be charity in the mode of passion."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Purport"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Charity is sometimes performed for elevation to the heavenly kingdom and sometimes with great trouble and with repentance afterwards: “Why have I spent so much in this way?” Charity is also sometimes given under some obligation, at the request of a superior. These kinds of charity are said to be given in the mode of passion."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "There are many charitable foundations which offer their gifts to institutions where sense gratification goes on. Such charities are not recommended in the Vedic scripture. Only charity in the mode of goodness is recommended."
+        ]
+    }
+]

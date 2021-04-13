@@ -1,0 +1,84 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुन: ।",
+            "क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥ २४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "yat tu kāmepsunā karma",
+            "sāhaṅkāreṇa vā punaḥ",
+            "kriyate bahulāyāsaṁ",
+            "tad rājasam udāhṛtam"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "yat — that which; tu — but; kāma-īpsunā — by one with desires for fruitive results; karma — work; sa-ahaṅkāreṇa — with ego; vā — or; punaḥ — again; kriyate — is performed; bahula-āyāsam — with great labor; tat — that; rājasam — in the mode of passion; udāhṛtam — is said to be."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "But action performed with great effort by one seeking to gratify his desires, and enacted from a sense of false ego, is called action in the mode of passion."
+        ]
+    }
+]

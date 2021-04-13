@@ -1,0 +1,109 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यच्चापि सर्वभूतानां बीजं तदहमर्जुन ।",
+            "न तदस्ति विना यत्स्यान्मया भूतं चराचरम् ॥ ३९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "yac cāpi sarva-bhūtānāṁ",
+            "bījaṁ tad aham arjuna",
+            "na tad asti vinā yat syān",
+            "mayā bhūtaṁ carācaram"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "yat — whatever; ca — also; api — may be; sarva-bhūtānām — of all creations; bījam — seed; tat — that; aham — I am; arjuna — O Arjuna; na — not; tat — that; asti — there is; vinā — without; yat — which; syāt — exists; mayā — Me; bhūtam — created being; cara-acaram — moving and nonmoving."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Furthermore, O Arjuna, I am the generating seed of all existences. There is no being – moving or nonmoving – that can exist without Me."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Purport"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Everything has a cause, and that cause or seed of manifestation is Kṛṣṇa. Without Kṛṣṇa’s energy, nothing can exist; therefore He is called omnipotent. Without His potency, neither the movable nor the immovable can exist. Whatever existence is not founded on the energy of Kṛṣṇa is called māyā, “that which is not.”"
+        ]
+    }
+]

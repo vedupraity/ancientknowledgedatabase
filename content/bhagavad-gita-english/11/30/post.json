@@ -1,0 +1,86 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लेलिह्यसे ग्रसमान: समन्ता-",
+            "ल्लोकान्समग्रान्वदनैज्र्वलद्भिः ।",
+            "तेजोभिरापूर्य जगत्समग्रं",
+            "भासस्तवोग्रा: प्रतपन्ति विष्णो ॥ ३० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "lelihyase grasamānaḥ samantāl",
+            "lokān samagrān vadanair jvaladbhiḥ",
+            "tejobhir āpūrya jagat samagraṁ",
+            "bhāsas tavogrāḥ pratapanti viṣṇo"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "lelihyase — You are licking; grasamānaḥ — devouring; samantāt — from all directions; lokān — people; samagrān — all; vadanaiḥ — by the mouths; jvaladbhiḥ — blazing; tejobhiḥ — by effulgence; āpūrya — covering; jagat — the universe; samagram — all; bhāsaḥ — rays; tava — Your; ugrāḥ — terrible; pratapanti — are scorching; viṣṇo — O all-pervading Lord."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "O Viṣṇu, I see You devouring all people from all sides with Your flaming mouths. Covering all the universe with Your effulgence, You are manifest with terrible, scorching rays."
+        ]
+    }
+]

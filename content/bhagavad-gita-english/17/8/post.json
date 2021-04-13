@@ -1,0 +1,84 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आयु:सत्त्वबलारोग्यसुखप्रीतिविवर्धना: ।",
+            "रस्या: स्निग्धा: स्थिरा हृद्या आहारा: सात्त्विकप्रिया: ॥ ८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "āyuḥ-sattva-balārogya-",
+            "sukha-prīti-vivardhanāḥ",
+            "rasyāḥ snigdhāḥ sthirā hṛdyā",
+            "āhārāḥ sāttvika-priyāḥ"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "āyuḥ — duration of life; sattva — existence; bala — strength; ārogya — health; sukha — happiness; prīti — and satisfaction; vivardhanāḥ — increasing; rasyāḥ — juicy; snigdhāḥ — fatty; sthirāḥ — enduring; hṛdyāḥ — pleasing to the heart; āhārāḥ — food; sāttvika — to one in goodness; priyāḥ — palatable."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Foods dear to those in the mode of goodness increase the duration of life, purify one’s existence and give strength, health, happiness and satisfaction. Such foods are juicy, fatty, wholesome, and pleasing to the heart."
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "bhagavad_gita_hindi",
+        "baseUrl": "bhagavad-gita-hindi",
+        "title": "श्रीमद्भगवद्गीता - यथारूप (हिंदी)",
+        "author": "ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
+        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "language": "hindi",
+        "totalChapters": 18,
+        "tags": [
+            "Bhagavad Gita",
+            "Yatharoop",
+            "Hindi",
+            "A.C. Bhaktivendanta Swami Prabhupada"
+        ]
+    },
+    {
+        "id": "bhagavad_gita_english",
+        "baseUrl": "bhagavad-gita-english",
+        "title": "Shrimad Bhagavad Gita - As It Is (English)",
+        "author": "A.C. Bhaktivendanta Swami Prabhupada",
+        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "language": "english",
+        "totalChapters": 18,
+        "tags": [
+            "Bhagavad Gita",
+            "Yatharoop",
+            "English",
+            "A.C. Bhaktivendanta Swami Prabhupada"
+        ]
+    }
+]

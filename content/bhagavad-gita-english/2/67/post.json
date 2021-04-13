@@ -1,0 +1,109 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।",
+            "तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ॥ ६७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "indriyāṇāṁ hi caratāṁ",
+            "yan mano ’nuvidhīyate",
+            "tad asya harati prajñāṁ",
+            "vāyur nāvam ivāmbhasi"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "indriyāṇām — of the senses; hi — certainly; caratām — while roaming; yat — with which; manaḥ — the mind; anuvidhīyate — becomes constantly engaged; tat — that; asya — his; harati — takes away; prajñām — intelligence; vāyuḥ — wind; nāvam — a boat; iva — like; ambhasi — on the water."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "As a strong wind sweeps away a boat on the water, even one of the roaming senses on which the mind focuses can carry away a man’s intelligence."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Purport"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Unless all of the senses are engaged in the service of the Lord, even one of them engaged in sense gratification can deviate the devotee from the path of transcendental advancement. As mentioned in the life of Mahārāja Ambarīṣa, all of the senses must be engaged in Kṛṣṇa consciousness, for that is the correct technique for controlling the mind."
+        ]
+    }
+]

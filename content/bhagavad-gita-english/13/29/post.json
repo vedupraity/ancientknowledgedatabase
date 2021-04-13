@@ -1,0 +1,109 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् ।",
+            "न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ॥ २९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "is-italic",
+            "mb-1"
+        ],
+        "text": [
+            "samaṁ paśyan hi sarvatra",
+            "samavasthitam īśvaram",
+            "na hinasty ātmanātmānaṁ",
+            "tato yāti parāṁ gatim"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Synonyms"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "samam — equally; paśyan — seeing; hi — certainly; sarvatra — everywhere; samavasthitam — equally situated; īśvaram — the Supersoul; na — does not; hinasti — degrade; ātmanā — by the mind; ātmānam — the soul; tataḥ — then; yāti — reaches; parām — the transcendental; gatim — destination."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Translation"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "One who sees the Supersoul equally present everywhere, in every living being, does not degrade himself by his mind. Thus he approaches the transcendental destination."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Purport"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "The living entity, by accepting his material existence, has become situated differently than in his spiritual existence. But if one understands that the Supreme is situated in His Paramātmā manifestation everywhere, that is, if one can see the presence of the Supreme Personality of Godhead in every living thing, he does not degrade himself by a destructive mentality, and he therefore gradually advances to the spiritual world. The mind is generally addicted to sense gratifying processes; but when the mind turns to the Supersoul, one becomes advanced in spiritual understanding."
+        ]
+    }
+]
