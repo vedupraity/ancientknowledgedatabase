@@ -1,31 +1,36 @@
 # Ancient Knowledge
 
-**Recollecting the lost knowledge**
+## Recollecting the lost knowledge
 
-https://www.ancientknowledge.in/
+https://www.ancientknowledge.in
 
 ---
 
 ## About
 
-This is a database repository for Ancient Knowledge website.
-
-
----
-
-## Website repository
-https://github.com/vedupraity/ancientknowledge
+This is the database repository for Ancient Knowledge website.
 
 ---
 
-## Translation available for
+## What's here
 
-1. [भगवद् गीता (Bhagavad Gita)](https://www.ancientknowledge.in/bhagavad_gita/)
+```sh
+content/
+├── bhagavad-gita-english/
+├── bhagavad-gita-hindi/
+```
 
 ---
 
-## Contributors
+## Development Environment Setup
 
-1. Vedprakash Upraity
+1. Clone content (database) repository
 
-    - [github.com/vedupraity](https://github.com/vedupraity)
+https://github.com/vedupraity/ancientknowledgedatabase
+
+2. Start local database server
+
+```sh
+cd <ancientknowledgedatabase-repo-dir>
+python3 -m http.server 5001
+```
