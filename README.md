@@ -21,16 +21,3 @@ content/
 ```
 
 ---
-
-## Development Environment Setup
-
-1. Clone content (database) repository
-
-https://github.com/vedupraity/ancientknowledgedatabase
-
-2. Start local database server
-
-```sh
-cd <ancientknowledgedatabase-repo-dir>
-python3 -m http.server 5001
-```
