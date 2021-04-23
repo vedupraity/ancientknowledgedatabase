@@ -28,6 +28,7 @@
     {
         "type": "textGroup",
         "groupStyle": [],
+        "markdown": false,
         "textStyle": [
             "has-text-right"
         ],
