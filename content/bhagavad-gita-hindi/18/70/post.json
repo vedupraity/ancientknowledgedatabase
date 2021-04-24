@@ -16,6 +16,19 @@
     {
         "type": "textGroup",
         "groupStyle": [
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "शब्दार्थ"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
             "mb-5"
         ],
         "textStyle": [
