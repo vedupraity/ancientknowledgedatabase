@@ -1,12 +1,12 @@
 [
     {
         "id": "bhagavad_gita_hindi",
-        "baseUrl": "bhagavad-gita-hindi",
+        "url": "bhagavad-gita-hindi",
         "title": "श्रीमद्भगवद्गीता - यथारूप (हिंदी)",
         "author": "ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
         "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
         "language": "hindi",
-        "totalChapters": 18,
+        "status": "live",
         "tags": [
             "Bhagavad Gita",
             "Yatharoop",
@@ -16,17 +16,30 @@
     },
     {
         "id": "bhagavad_gita_english",
-        "baseUrl": "bhagavad-gita-english",
+        "url": "bhagavad-gita-english",
         "title": "Shrimad Bhagavad Gita - As It Is (English)",
         "author": "A.C. Bhaktivendanta Swami Prabhupada",
         "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
         "language": "english",
-        "totalChapters": 18,
+        "status": "live",
         "tags": [
             "Bhagavad Gita",
             "Yatharoop",
             "English",
             "A.C. Bhaktivendanta Swami Prabhupada"
+        ]
+    },
+    {
+        "id": "ramayana_english",
+        "url": "",
+        "title": "Ramayana",
+        "author": "Valmiki",
+        "coverImage": "images/ramayana-cover-16by9.jpg",
+        "language": "",
+        "status": "wip",
+        "tags": [
+            "Ramayana",
+            "Valmiki"
         ]
     }
 ]
