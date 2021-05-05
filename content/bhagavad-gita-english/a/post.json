@@ -33,6 +33,7 @@
         "textStyle": [
             "has-text-right"
         ],
+        "markdown": false,
         "text": [
             "- The Publishers"
         ]
