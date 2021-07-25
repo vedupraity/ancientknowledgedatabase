@@ -2,9 +2,13 @@
     {
         "id": "bhagavad_gita_hindi",
         "url": "bhagavad-gita-hindi",
-        "title": "श्रीमद्भगवद्गीता - यथारूप (हिंदी)",
-        "author": "ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
-        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "title": "श्रीमद्भगवद्गीता",
+        "subtitle": "यथारूप (हिंदी)",
+        "authors": [
+            "ए.सी. भक्तिवेदांत स्वामी प्रभुपाद"
+        ],
+        "coverImage": "images/bhagavad-gita-cover-4x3.jpg",
+        "description": "यह एक हिंदू धर्मग्रंथ है जिसमें ७०० श्लोकों की रचना अर्जुन और भगवान् कृष्ण के बीच संवाद के रूप में की गई है, यह संस्कृत महाकाव्य महाभारत की एक उपकथा के रूप में प्राप्त है । महाभारत में वर्तमान कलियुग तक की घटनाओं का विवरण मिलता है । इसी युग के प्रारम्भ में आज से लगभग ५,००० वर्ष पूर्व भगवान् श्रीकृष्ण ने अपने मित्र तथा भक्त अर्जुन को भगवद्गीता का उपदेश दिया था ।",
         "language": "hindi",
         "status": "live",
         "tags": [
@@ -17,9 +21,13 @@
     {
         "id": "bhagavad_gita_english",
         "url": "bhagavad-gita-english",
-        "title": "Shrimad Bhagavad Gita - As It Is (English)",
-        "author": "A.C. Bhaktivendanta Swami Prabhupada",
-        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "title": "Shrimad Bhagavad Gita",
+        "subtitle": "As It Is (English)",
+        "authors": [
+            "A.C. Bhaktivendanta Swami Prabhupada"
+        ],
+        "coverImage": "images/bhagavad-gita-cover-4x3.jpg",
+        "description": "In a narrative style, the tale of the “Bhagavad Gita” is told through a dialogue between “Arjuna”, a warrior prince, and his charioteer, “Lord Krishna” (eighth avatar of “Lord Vishnu”). Whilst Arjuna doubts whether he should go into battle, Krishna explains that he must fulfill his *Dharma* (duty) as a warrior.",
         "language": "english",
         "status": "live",
         "tags": [
@@ -33,8 +41,12 @@
         "id": "ramayana_english",
         "url": "",
         "title": "Ramayana",
-        "author": "Valmiki",
-        "coverImage": "images/ramayana-cover-16by9.jpg",
+        "subtitle": "",
+        "authors": [
+            "Valmiki"
+        ],
+        "coverImage": "images/ramayana-cover-4x3.jpeg",
+        "description": "“Ramayana”, or “The Journey of Rama”, is one of the most compelling Indian epics written by sage Valmiki, who is called the *adi kavi*, meaning the first poet in Sanskrit. It is the story of Rama, who was the seventh avatar of “Lord Vishnu”.",
         "language": "",
         "status": "wip",
         "tags": [
