@@ -27,7 +27,7 @@
             "A.C. Bhaktivendanta Swami Prabhupada"
         ],
         "coverImage": "images/bhagavad-gita-cover-4x3.jpg",
-        "description": "In a narrative style, the tale of the “Bhagavad Gita” is told through a dialogue between “Arjuna”, a warrior prince, and his charioteer, “Lord Krishna” (eighth avatar of “Lord Vishnu”). Whilst Arjuna doubts whether he should go into battle, Krishna explains that he must fulfill his *Dharma* (duty) as a warrior.",
+        "description": "Bhagavad-gītā originally appears as an episode in the Mahābhārata, the epic Sanskrit history of the ancient world. The Mahābhārata tells of events leading up to the present Age of Kali. It was at the beginning of this age, some fifty centuries ago, that Lord Kṛṣṇa spoke Bhagavad-gītā to His friend and devotee Arjuna.",
         "language": "english",
         "status": "live",
         "tags": [
@@ -35,6 +35,23 @@
             "Yatharoop",
             "English",
             "A.C. Bhaktivendanta Swami Prabhupada"
+        ]
+    },
+    {
+        "id": "ramcharitmanas_hindi",
+        "url": "ramcharitmanas-hindi",
+        "title": "श्रीरामचरितमानस",
+        "subtitle": "",
+        "authors": [
+            "गोस्वामी तुलसीदास"
+        ],
+        "coverImage": "images/ramcharitmanas-cover-4x3.jpg",
+        "description": "रामचरितमानस अवधी भाषा में गोस्वामी तुलसीदास द्वारा १६वीं सदी में रचित प्रसिद्ध ग्रन्थ है । इस ग्रन्थ को अवधी साहित्य (हिंदी साहित्य) की एक महान कृति माना जाता है । इसे सामान्यतः 'तुलसी रामायण' या 'तुलसीकृत रामायण' भी कहा जाता है । गोस्वामी जी ने रामचरित का अनुपम शैली में दोहों, चौपाइयों, सोरठों तथा छंद का आश्रय लेकर वर्णन किया है ।",
+        "language": "",
+        "status": "live",
+        "tags": [
+            "Ramcharitmanas",
+            "Tulsidas"
         ]
     },
     {
@@ -48,7 +65,7 @@
         "coverImage": "images/ramayana-cover-4x3.jpeg",
         "description": "“Ramayana”, or “The Journey of Rama”, is one of the most compelling Indian epics written by sage Valmiki, who is called the *adi kavi*, meaning the first poet in Sanskrit. It is the story of Rama, who was the seventh avatar of “Lord Vishnu”.",
         "language": "",
-        "status": "wip",
+        "status": "hidden",
         "tags": [
             "Ramayana",
             "Valmiki"

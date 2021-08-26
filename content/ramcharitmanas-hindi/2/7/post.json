@@ -1,0 +1,6442 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोहि उपदेसु दीन्ह गुरु नीका । प्रजा सचिव संमत सबही का ॥",
+            "मातु उचित धरि आयसु दीन्हा । अवसि सीस धरि चाहउँ कीन्हा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "गुरुजी ने मुझे सुंदर उपदेश दिया । (फिर) प्रजा, मंत्री आदि सभी को यही सम्मत है । माता ने भी उचित समझकर ही आज्ञा दी है और मैं भी अवश्य उसको सिर चढ़ाकर वैसा ही करना चाहता हूँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गुर पितु मातु स्वामि हित बानी । सुनि मन मुदित करिअ भलि जानी ॥",
+            "उचित कि अनुचित किएँ बिचारू । धरमु जाइ सिर पातक भारू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(क्योंकि) गुरु, पिता, माता, स्वामी और सुहृद् (मित्र) की वाणी सुनकर प्रसन्न मन से उसे अच्छी समझकर करना (मानना) चाहिए । उचित-अनुचित का विचार करने से धर्म जाता है और सिर पर पाप का भार चढ़ता है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह तौ देहु सरल सिख सोई । जो आचरत मोर भल होई ॥",
+            "जद्यपि यह समुझत हउँ नीकें । तदपि होत परितोष न जी कें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप तो मुझे वही सरल शिक्षा दे रहे हैं, जिसके आचरण करने में मेरा भला हो । यद्यपि मैं इस बात को भलीभाँति समझता हूँ, तथापि मेरे हृदय को संतोष नहीं होता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब तुम्ह बिनय मोरि सुनि लेहू । मोहि अनुहरत सिखावनु देहू ॥",
+            "ऊतरु देउँ छमब अपराधू । दुखित दोष गुन गनहिं न साधू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब आप लोग मेरी विनती सुन लीजिए और मेरी योग्यता के अनुसार मुझे शिक्षा दीजिए । मैं उत्तर दे रहा हूँ, यह अपराध क्षमा कीजिए । साधु पुरुष दुःखी मनुष्य के दोष-गुणों को नहीं गिनते ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पितु सुरपुर सिय रामु बन करन कहहु मोहि राजु ।",
+            "एहि तें जानहु मोर हित कै आपन बड़ काजु ॥ १७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पिताजी स्वर्ग में हैं, श्री सीतारामजी वन में हैं और मुझे आप राज्य करने के लिए कह रहे हैं । इसमें आप मेरा कल्याण समझते हैं या अपना कोई बड़ा काम (होने की आशा रखते हैं)? ॥ १७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हित हमार सियपति सेवकाईं । सो हरि लीन्ह मातु कुटिलाईं ॥",
+            "मैं अनुमानि दीख मन माहीं । आन उपायँ मोर हित नाहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरा कल्याण तो सीतापति श्री रामजी की चाकरी में है, सो उसे माता की कुटिलता ने छीन लिया । मैंने अपने मन में अनुमान करके देख लिया है कि दूसरे किसी उपाय से मेरा कल्याण नहीं है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोक समाजु राजु केहि लेखें । लखन राम सिय बिनु पद देखें ॥",
+            "बादि बसन बिनु भूषन भारू । बादि बिरति बिनु ब्रह्मबिचारू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह शोक का समुदाय राज्य लक्ष्मण, श्री रामचंद्रजी और सीताजी के चरणों को देखे बिना किस गिनती में है (इसका क्या मूल्य है)? जैसे कपड़ों के बिना गहनों का बोझ व्यर्थ है । वैराग्य के बिना ब्रह्मविचार व्यर्थ है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सरुज सरीर बादि बहु भोगा । बिनु हरिभगति जायँ जप जोगा ॥",
+            "जायँ जीव बिनु देह सुहाई । बादि मोर सबु बिनु रघुराई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रोगी शरीर के लिए नाना प्रकार के भोग व्यर्थ हैं । श्री हरि की भक्ति के बिना जप और योग व्यर्थ हैं । जीव के बिना सुंदर देह व्यर्थ है, वैसे ही श्री रघुनाथजी के बिना मेरा सब कुछ व्यर्थ है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जाउँ राम पहिं आयसु देहू । एकाहिं आँक मोर हित एहू ॥",
+            "मोहि नृप करि भल आपन चहहू । सोउ सनेह जड़ता बस कहहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे आज्ञा दीजिए, मैं श्री रामजी के पास जाऊँ! एक ही आँक (निश्चयपूर्वक) मेरा हित इसी में है । और मुझे राजा बनाकर आप अपना भला चाहते हैं, यह भी आप स्नेह की जड़ता (मोह) के वश होकर ही कह रहे हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कैकेई सुअ कुटिलमति राम बिमुख गतलाज ।",
+            "तुम्ह चाहत सुखु मोहबस मोहि से अधम कें राज ॥ १७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कैकेयी के पुत्र, कुटिलबुद्धि, रामविमुख और निर्लज्ज मुझ से अधम के राज्य से आप मोह के वश होकर ही सुख चाहते हैं ॥ १७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहउँ साँचु सब सुनि पतिआहू । चाहिअ धरमसील नरनाहू ॥",
+            "मोहि राजु हठि देइहहु जबहीं । रसा रसातल जाइहि तबहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं सत्य कहता हूँ, आप सब सुनकर विश्वास करें, धर्मशील को ही राजा होना चाहिए । आप मुझे हठ करके ज्यों ही राज्य देंगे, त्यों ही पृथ्वी पाताल में धँस जाएगी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोहि समान को पाप निवासू । जेहि लगि सीय राम बनबासू ॥",
+            "रायँ राम कहुँ काननु दीन्हा । बिछुरत गमनु अमरपुर कीन्हा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे समान पापों का घर कौन होगा, जिसके कारण सीताजी और श्री रामजी का वनवास हुआ? राजा ने श्री रामजी को वन दिया और उनके बिछुड़ते ही स्वयं स्वर्ग को गमन किया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं सठु सब अनरथ कर हेतू । बैठ बात सब सुनउँ सचेतू ॥",
+            "बिन रघुबीर बिलोकि अबासू । रहे प्रान सहि जग उपहासू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और मैं दुष्ट, जो अनर्थों का कारण हूँ, होश-हवास में बैठा सब बातें सुन रहा हूँ । श्री रघुनाथजी से रहित घर को देखकर और जगत् का उपहास सहकर भी ये प्राण बने हुए हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम पुनीत बिषय रस रूखे । लोलुप भूमि भोग के भूखे ॥",
+            "कहँ लगि कहौं हृदय कठिनाई । निदरि कुलिसु जेहिं लही बड़ाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(इसका यही कारण है कि ये प्राण) श्री राम रूपी पवित्र विषय रस में आसक्त नहीं हैं । ये लालची भूमि और भोगों के ही भूखे हैं । मैं अपने हृदय की कठोरता कहाँ तक कहूँ? जिसने वज्र का भी तिरस्कार करके बड़ाई पाई है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कारन तें कारजु कठिन होइ दोसु नहिं मोर ।",
+            "कुलिस अस्थि तें उपल तें लोह कराल कठोर ॥ १७९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कारण से कार्य कठिन होता ही है, इसमें मेरा दोष नहीं । हड्डी से वज्र और पत्थर से लोहा भयानक और कठोर होता है ॥ १७९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कैकेई भव तनु अनुरागे । पावँर प्रान अघाइ अभागे ॥",
+            "जौं प्रिय बिरहँ प्रान प्रिय लागे । देखब सुनब बहुत अब आगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कैकेयी से उत्पन्न देह में प्रेम करने वाले ये पामर प्राण भरपेट (पूरी तरह से) अभागे हैं । जब प्रिय के वियोग में भी मुझे प्राण प्रिय लग रहे हैं, तब अभी आगे मैं और भी बहुत कुछ देखूँ-सुनूँगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखन राम सिय कहुँ बनु दीन्हा । पठइ अमरपुर पति हित कीन्हा ॥",
+            "लीन्ह बिधवपन अपजसु आपू । दीन्हेउ प्रजहि सोकु संतापू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मण, श्री रामजी और सीताजी को तो वन दिया, स्वर्ग भेजकर पति का कल्याण किया, स्वयं विधवापन और अपयश लिया, प्रजा को शोक और संताप दिया, ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोहि दीन्ह सुखु सुजसु सुराजू । कीन्ह कैकईं सब कर काजू ॥",
+            "ऐहि तें मोर काह अब नीका । तेहि पर देन कहहु तुम्ह टीका ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और मुझे सुख, सुंदर यश और उत्तम राज्य दिया! कैकेयी ने सभी का काम बना दिया! इससे अच्छा अब मेरे लिए और क्या होगा? उस पर भी आप लोग मुझे राजतिलक देने को कहते हैं! ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कैकइ जठर जनमि जग माहीं । यह मोहि कहँ कछु अनुचित नाहीं ॥",
+            "मोरि बात सब बिधिहिं बनाई । प्रजा पाँच कत करहु सहाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कैकयी के पेट से जगत् में जन्म लेकर यह मेरे लिए कुछ भी अनुचित नहीं है । मेरी सब बात तो विधाता ने ही बना दी है । (फिर) उसमें प्रजा और पंच (आप लोग) क्यों सहायता कर रहे हैं? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ग्रह ग्रहीत पुनि बात बस तेहि पुनि बीछी मार ।",
+            "तेहि पिआइअ बारुनी कहहु काह उपचार ॥ १८० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिसे कुग्रह लगे हों (अथवा जो पिशाचग्रस्त हो), फिर जो वायुरोग से पीड़ित हो और उसी को फिर बिच्छू डंक मार दे, उसको यदि मदिरा पिलाई जाए, तो कहिए यह कैसा इलाज है! ॥ १८० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कैकइ सुअन जोगु जग जोई । चतुर बिरंचि दीन्ह मोहि सोई ॥",
+            "दसरथ तनय राम लघु भाई । दीन्हि मोहि बिधि बादि बड़ाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कैकेयी के लड़के के लिए संसार में जो कुछ योग्य था, चतुर विधाता ने मुझे वही दिया । पर ‘दशरथजी का पुत्र’ और ‘राम का छोटा भाई’ होने की बड़ाई मुझे विधाता ने व्यर्थ ही दी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह सब कहहु कढ़ावन टीका । राय रजायसु सब कहँ नीका ॥",
+            "उतरु देउँ केहि बिधि केहि केही । कहहु सुखेन जथा रुचि जेही ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप सब लोग भी मुझे टीका कढ़ाने के लिए कह रहे हैं! राजा की आज्ञा सभी के लिए अच्छी है । मैं किस-किस को किस-किस प्रकार से उत्तर दूँ? जिसकी जैसी रुचि हो, आप लोग सुखपूर्वक वही कहें ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोहि कुमातु समेत बिहाई । कहहु कहिहि के कीन्ह भलाई ॥",
+            "मो बिनु को सचराचर माहीं । जेहि सिय रामु प्रानप्रिय नाहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरी कुमाता कैकेयी समेत मुझे छोड़कर, कहिए और कौन कहेगा कि यह काम अच्छा किया गया? जड़-चेतन जगत् में मेरे सिवा और कौन है, जिसको श्री सीता-रामजी प्राणों के समान प्यारे न हों ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "परम हानि सब कहँ बड़ लाहू । अदिनु मोर नहिं दूषन काहू ॥",
+            "संसय सील प्रेम बस अहहू । सबुइ उचित सब जो कछु कहहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो परम हानि है, उसी में सबको बड़ा लाभ दिख रहा है । मेरा बुरा दिन है किसी का दोष नहीं । आप सब जो कुछ कहते हैं सो सब उचित ही है, क्योंकि आप लोग संशय, शील और प्रेम के वश हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम मातु सुठि सरलचित मो पर प्रेमु बिसेषि ।",
+            "कहइ सुभाय सनेह बस मोरि दीनता देखि ॥ १८१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी की माता बहुत ही सरल हृदय हैं और मुझ पर उनका विशेष प्रेम है, इसलिए मेरी दीनता देखकर वे स्वाभाविक स्नेहवश ही ऐसा कह रही हैं ॥ १८१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गुर बिबेक सागर जगु जाना । जिन्हहि बिस्व कर बदर समाना ॥",
+            "मो कहँ तिलक साज सज सोऊ । भएँ बिधि बिमुख बिमुख सबु कोऊ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "गुरुजी ज्ञान के समुद्र हैं, इस बात को सारा जगत् जानता है, जिसके लिए विश्व हथेली पर रखे हुए बेर के समान है, वे भी मेरे लिए राजतिलक का साज सज रहे हैं । सत्य है, विधाता के विपरीत होने पर सब कोई विपरीत हो जाते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "परिहरि रामु सीय जग माहीं । कोउ न कहिहि मोर मत नाहीं ॥",
+            "सो मैं सुनब सहब सुखु मानी । अंतहुँ कीच तहाँ जहँ पानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी और सीताजी को छोड़कर जगत् में कोई यह नहीं कहेगा कि इस अनर्थ में मेरी सम्मति नहीं है । मैं उसे सुखपूर्वक सुनूँगा और सहूँगा, क्योंकि जहाँ पानी होता है, वहाँ अन्त में कीचड़ होता ही है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "डरु न मोहि जग कहिहि कि पोचू । परलोकहु कर नाहिन सोचू ॥",
+            "एकइ उर बस दुसह दवारी । मोहि लगि भे सिय रामु दुखारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे इसका डर नहीं है कि जगत् मुझे बुरा कहेगा और न मुझे परलोक का ही सोच है । मेरे हृदय में तो बस, एक ही दुःसह दावानल धधक रहा है कि मेरे कारण श्री सीता-रामजी दुःखी हुए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जीवन लाहु लखन भल पावा । सबु तजि राम चरन मनु लावा ॥",
+            "मोर जनम रघुबर बन लागी । झूठ काह पछिताउँ अभागी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जीवन का उत्तम लाभ तो लक्ष्मण ने पाया, जिन्होंने सब कुछ तजकर श्री रामजी के चरणों में मन लगाया । मेरा जन्म तो श्री रामजी के वनवास के लिए ही हुआ था । मैं अभागा झूठ-मूठ क्या पछताता हूँ? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आपनि दारुन दीनता कहउँ सबहि सिरु नाइ ।",
+            "देखें बिनु रघुनाथ पद जिय कै जरनि न जाइ ॥ १८२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सबको सिर झुकाकर मैं अपनी दारुण दीनता कहता हूँ । श्री रघुनाथजी के चरणों के दर्शन किए बिना मेरे जी की जलन न जाएगी ॥ १८२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आन उपाउ मोहि नहिं सूझा । को जिय कै रघुबर बिनु बूझा ॥",
+            "एकहिं आँक इहइ मन माहीं । प्रातकाल चलिहउँ प्रभु पाहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे दूसरा कोई उपाय नहीं सूझता । श्री राम के बिना मेरे हृदय की बात कौन जान सकता है? मन में एक ही आँक (निश्चयपूर्वक) यही है कि प्रातः काल श्री रामजी के पास चल दूँगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जद्यपि मैं अनभल अपराधी । भै मोहि कारन सकल उपाधी ॥",
+            "तदपि सरन सनमुख मोहि देखी । छमि सब करिहहिं कृपा बिसेषी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि मैं बुरा हूँ और अपराधी हूँ और मेरे ही कारण यह सब उपद्रव हुआ है, तथापि श्री रामजी मुझे शरण में सम्मुख आया हुआ देखकर सब अपराध क्षमा करके मुझ पर विशेष कृपा करेंगे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सील सकुच सुठि सरल सुभाऊ । कृपा सनेह सदन रघुराऊ ॥",
+            "अरिहुक अनभल कीन्ह न रामा । मैं सिसु सेवक जद्यपि बामा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी शील, संकोच, अत्यन्त सरल स्वभाव, कृपा और स्नेह के घर हैं । श्री रामजी ने कभी शत्रु का भी अनिष्ट नहीं किया । मैं यद्यपि टेढ़ा हूँ, पर हूँ तो उनका बच्चा और गुलाम ही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह पै पाँच मोर भल मानी । आयसु आसिष देहु सुबानी ॥",
+            "जेहिं सुनि बिनय मोहि जनु जानी । आवहिं बहुरि रामु रजधानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप पंच (सब) लोग भी इसी में मेरा कल्याण मानकर सुंदर वाणी से आज्ञा और आशीर्वाद दीजिए, जिसमें मेरी विनती सुनकर और मुझे अपना दास जानकर श्री रामचन्द्रजी राजधानी को लौट आवें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जद्यपि जनमु कुमातु तें मैं सठु सदा सदोस ।",
+            "आपन जानि न त्यागिहहिं मोहि रघुबीर भरोस ॥ १८३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि मेरा जन्म कुमाता से हुआ है और मैं दुष्ट तथा सदा दोषयुक्त भी हूँ, तो भी मुझे श्री रामजी का भरोसा है कि वे मुझे अपना जानकर त्यागेंगे नहीं ॥ १८३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत बचन सब कहँ प्रिय लागे । राम सनेह सुधाँ जनु पागे ॥",
+            "लोग बियोग बिषम बिष दागे । मंत्र सबीज सुनत जनु जागे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी के वचन सबको प्यारे लगे । मानो वे श्री रामजी के प्रेमरूपी अमृत में पगे हुए थे । श्री रामवियोग रूपी भीषण विष से सब लोग जले हुए थे । वे मानो बीज सहित मंत्र को सुनते ही जाग उठे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मातु सचिव गुर पुर नर नारी । सकल सनेहँ बिकल भए भारी ॥",
+            "भरतहि कहहिं सराहि सराही । राम प्रेम मूरति तनु आही ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "माता, मंत्री, गुरु, नगर के स्त्री-पुरुष सभी स्नेह के कारण बहुत ही व्याकुल हो गए । सब भरतजी को सराह-सराहकर कहते हैं कि आपका शरीर श्री रामप्रेम की साक्षात मूर्ति ही है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात भरत अस काहे न कहहू । प्रान समान राम प्रिय अहहू ॥",
+            "जो पावँरु अपनी जड़ताईं । तुम्हहि सुगाइ मातु कुटिलाईं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात भरत! आप ऐसा क्यों न कहें । श्री रामजी को आप प्राणों के समान प्यारे हैं । जो नीच अपनी मूर्खता से आपकी माता कैकेयी की कुटिलता को लेकर आप पर सन्देह करेगा, ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सो सठु कोटिक पुरुष समेता । बसिहि कलप सत नरक निकेता ॥",
+            "अहि अघ अवगुन नहिं मनि गहई । हरइ गरल दुख दारिद दहई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह दुष्ट करोड़ों पुरखों सहित सौ कल्पों तक नरक के घर में निवास करेगा । साँप के पाप और अवगुण को मणि नहीं ग्रहण करती, बल्कि वह विष को हर लेती है और दुःख तथा दरिद्रता को भस्म कर देती है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अवसि चलिअ बन रामु जहँ भरत मंत्रु भल कीन्ह ।",
+            "सोक सिंधु बूड़त सबहि तुम्ह अवलंबनु दीन्ह ॥ १८४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भरतजी! वन को अवश्य चलिए, जहाँ श्री रामजी हैं, आपने बहुत अच्छी सलाह विचारी । शोक समुद्र में डूबते हुए सब लोगों को आपने (बड़ा) सहारा दे दिया ॥ १८४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भा सब कें मन मोदु न थोरा । जनु घन धुनि सुनि चातक मोरा ॥",
+            "चलत प्रात लखि निरनउ नीके । भरतु प्रानप्रिय भे सबही के ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सबके मन में कम आनंद नहीं हुआ (अर्थात बहुत ही आनंद हुआ)! मानो मेघों की गर्जना सुनकर चातक और मोर आनंदित हो रहे हों । (दूसरे दिन) प्रातःकाल चलने का सुंदर निर्णय देखकर भरतजी सभी को प्राणप्रिय हो गए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनिहि बंदि भरतहि सिरु नाई । चले सकल घर बिदा कराई ॥",
+            "धन्य भरत जीवनु जग माहीं । सीलु सनेहु सराहत जाहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि वशिष्ठजी की वंदना करके और भरतजी को सिर नवाकर, सब लोग विदा लेकर अपने-अपने घर को चले । जगत में भरतजी का जीवन धन्य है, इस प्रकार कहते हुए वे उनके शील और स्नेह की सराहना करते जाते हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहहिं परसपर भा बड़ काजू । सकल चलै कर साजहिं साजू ॥",
+            "जेहि राखहिं रहु घर रखवारी । सो जानइ जनु गरदनि मारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपस में कहते हैं, बड़ा काम हुआ । सभी चलने की तैयारी करने लगे । जिसको भी घर की रखवाली के लिए रहो, ऐसा कहकर रखते हैं, वही समझता है मानो मेरी गर्दन मारी गई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कोउ कह रहन कहिअ नहिं काहू । को न चहइ जग जीवन लाहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कोई-कोई कहते हैं - रहने के लिए किसी को भी मत कहो, जगत में जीवन का लाभ कौन नहीं चाहता? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जरउ सो संपति सदन सुखु सुहृद मातु पितु भाइ ।",
+            "सनमुख होत जो राम पद करै न सहस सहाइ ॥ १८५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह सम्पत्ति, घर, सुख, मित्र, माता, पिता, भाई जल जाए जो श्री रामजी के चरणों के सम्मुख होने में हँसते हुए (प्रसन्नतापूर्वक) सहायता न करे ॥ १८५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "घर घर साजहिं बाहन नाना । हरषु हृदयँ परभात पयाना ॥",
+            "भरत जाइ घर कीन्ह बिचारू । नगरु बाजि गज भवन भँडारू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "घर-घर लोग अनेकों प्रकार की सवारियाँ सजा रहे हैं । हृदय में (बड़ा) हर्ष है कि सबेरे चलना है । भरतजी ने घर जाकर विचार किया कि नगर घोड़े, हाथी, महल-खजाना आदि- ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संपति सब रघुपति कै आही । जौं बिनु जतन चलौं तजि ताही ॥",
+            "तौ परिनाम न मोरि भलाई । पाप सिरोमनि साइँ दोहाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सारी सम्पत्ति श्री रघुनाथजी की है । यदि उसकी (रक्षा की) व्यवस्था किए बिना उसे ऐसे ही छोड़कर चल दूँ, तो परिणाम में मेरी भलाई नहीं है, क्योंकि स्वामी का द्रोह सब पापों में शिरोमणि (श्रेष्ठ) है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करइ स्वामि हित सेवकु सोई । दूषन कोटि देइ किन कोई ॥",
+            "अस बिचारि सुचि सेवक बोले । जे सपनेहुँ निज धरम न डोले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सेवक वही है, जो स्वामी का हित करे, चाहे कोई करोड़ों दोष क्यों न दे । भरतजी ने ऐसा विचारकर ऐसे विश्वासपात्र सेवकों को बुलाया, जो कभी स्वप्न में भी अपने धर्म से नहीं डिगे थे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहि सबु मरमु धरमु भल भाषा । जो जेहि लायक सो तेहिं राखा ॥",
+            "करि सबु जतनु राखि रखवारे । राम मातु पहिं भरतु सिधारे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने उनको सब भेद समझाकर फिर उत्तम धर्म बतलाया और जो जिस योग्य था, उसे उसी काम पर नियुक्त कर दिया । सब व्यवस्था करके, रक्षकों को रखकर भरतजी राम माता कौसल्याजी के पास गए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आरत जननी जानि सब भरत सनेह सुजान ।",
+            "कहेउ बनावन पालकीं सजन सुखासन जान ॥ १८६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "स्नेह के सुजान (प्रेम के तत्व को जानने वाले) भरतजी ने सब माताओं को आर्त (दुःखी) जानकर उनके लिए पालकियाँ तैयार करने तथा सुखासन यान (सुखपाल) सजाने के लिए कहा ॥ १८६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चक्क चक्कि जिमि पुर नर नारी । चहत प्रात उर आरत भारी ॥",
+            "जागत सब निसि भयउ बिहाना । भरत बोलाए सचिव सुजाना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नगर के नर-नारी चकवे-चकवी की भाँति हृदय में अत्यन्त आर्त होकर प्रातःकाल का होना चाहते हैं । सारी रात जागते-जागते सबेरा हो गया । तब भरतजी ने चतुर मंत्रियों को बुलवाया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहेउ लेहु सबु तिलक समाजू । बनहिं देब मुनि रामहि राजू ॥",
+            "बेगि चलहु सुनि सचिव जोहारे । तुरत तुरग रथ नाग सँवारे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और कहा - तिलक का सब सामान ले चलो । वन में ही मुनि वशिष्ठजी श्री रामचन्द्रजी को राज्य देंगे, जल्दी चलो । यह सुनकर मंत्रियों ने वंदना की और तुरंत घोड़े, रथ और हाथी सजवा दिए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अरुंधती अरु अगिनि समाऊ । रथ चढ़ि चले प्रथम मुनिराऊ ॥",
+            "बिप्र बृंद चढ़ि बाहन नाना । चले सकल तप तेज निधाना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सबसे पहले मुनिराज वशिष्ठजी अरुंधती और अग्निहोत्र की सब सामग्री सहित रथ पर सवार होकर चले । फिर ब्राह्मणों के समूह, जो सब के सब तपस्या और तेज के भंडार थे, अनेकों सवारियों पर चढ़कर चले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नगर लोग सब सजि सजि जाना । चित्रकूट कहँ कीन्ह पयाना ॥",
+            "सिबिका सुभग न जाहिं बखानी । चढ़ि चढ़ि चलत भईं सब रानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नगर के सब लोग रथों को सजा-सजाकर चित्रकूट को चल पड़े । जिनका वर्णन नहीं हो सकता, ऐसी सुंदर पालकियों पर चढ़-चढ़कर सब रानियाँ चलीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सौंपि नगर सुचि सेवकनि सादर सकल चलाइ ।",
+            "सुमिरि राम सिय चरन तब चले भरत दोउ भाइ ॥ १८७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विश्वासपात्र सेवकों को नगर सौंपकर और सबको आदरपूर्वक रवाना करके, तब श्री सीता-रामजी के चरणों को स्मरण करके भरत-शत्रुघ्न दोनों भाई चले ॥ १८७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम दरस बस सब नर नारी । जनु करि करिनि चले तकि बारी ॥",
+            "बन सिय रामु समुझि मन माहीं । सानुज भरत पयादेहिं जाहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी के दर्शन के वश में हुए (दर्शन की अनन्य लालसा से) सब नर-नारी ऐसे चले मानो प्यासे हाथी-हथिनी जल को तककर (बड़ी तेजी से बावले से हुए) जा रहे हों । श्री सीताजी-रामजी (सब सुखों को छोड़कर) वन में हैं, मन में ऐसा विचार करके छोटे भाई शत्रुघ्नजी सहित भरतजी पैदल ही चले जा रहे हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि सनेहु लोग अनुरागे । उतरि चले हय गय रथ त्यागे ॥",
+            "जाइ समीप राखि निज डोली । राम मातु मृदु बानी बोली ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनका स्नेह देखकर लोग प्रेम में मग्न हो गए और सब घोड़े, हाथी, रथों को छोड़कर उनसे उतरकर पैदल चलने लगे । तब श्री रामचन्द्रजी की माता कौसल्याजी भरत के पास जाकर और अपनी पालकी उनके समीप खड़ी करके कोमल वाणी से बोलीं - ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात चढ़हु रथ बलि महतारी । होइहि प्रिय परिवारु दुखारी ॥",
+            "तुम्हरें चलत चलिहि सबु लोगू । सकल सोक कृस नहिं मग जोगू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे बेटा! माता बलैया लेती है, तुम रथ पर चढ़ जाओ । नहीं तो सारा परिवार दुःखी हो जाएगा । तुम्हारे पैदल चलने से सभी लोग पैदल चलेंगे । शोक के मारे सब दुबले हो रहे हैं, पैदल रास्ते के (पैदल चलने के) योग्य नहीं हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सिर धरि बचन चरन सिरु नाई । रथ चढ़ि चलत भए दोउ भाई ॥",
+            "तमसा प्रथम दिवस करि बासू । दूसर गोमति तीर निवासू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "माता की आज्ञा को सिर चढ़ाकर और उनके चरणों में सिर नवाकर दोनों भाई रथ पर चढ़कर चलने लगे । पहले दिन तमसा पर वास (मुकाम) करके दूसरा मुकाम गोमती के तीर पर किया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पय अहार फल असन एक निसि भोजन एक लोग ।",
+            "करत राम हित नेम ब्रत परिहरि भूषन भोग ॥ १८८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कोई दूध ही पीते, कोई फलाहार करते और कुछ लोग रात को एक ही बार भोजन करते हैं । भूषण और भोग-विलास को छोड़कर सब लोग श्री रामचन्द्रजी के लिए नियम और व्रत करते हैं ॥ १८८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सई तीर बसि चले बिहाने । सृंगबेरपुर सब निअराने ॥",
+            "समाचार सब सुने निषादा । हृदयँ बिचार करइ सबिषादा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रात भर सई नदी के तीर पर निवास करके सबेरे वहाँ से चल दिए और सब श्रृंगवेरपुर के समीप जा पहुँचे । निषादराज ने सब समाचार सुने, तो वह दुःखी होकर हृदय में विचार करने लगा- ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कारन कवन भरतु बन जाहीं । है कछु कपट भाउ मन माहीं ॥",
+            "जौं पै जियँ न होति कुटिलाई । तौ कत लीन्ह संग कटकाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "क्या कारण है जो भरत वन को जा रहे हैं, मन में कुछ कपट भाव अवश्य है । यदि मन में कुटिलता न होती, तो साथ में सेना क्यों ले चले हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जानहिं सानुज रामहि मारी । करउँ अकंटक राजु सुखारी ॥",
+            "भरत न राजनीति उर आनी । तब कलंकु अब जीवन हानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "समझते हैं कि छोटे भाई लक्ष्मण सहित श्री राम को मारकर सुख से निष्कण्टक राज्य करूँगा । भरत ने हृदय में राजनीति को स्थान नहीं दिया (राजनीति का विचार नहीं किया) । तब (पहले) तो कलंक ही लगा था, अब तो जीवन से ही हाथ धोना पड़ेगा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सकल सुरासुर जुरहिं जुझारा । रामहि समर न जीतनिहारा ॥",
+            "का आचरजु भरतु अस करहीं । नहिं बिष बेलि अमिअ फल फरहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सम्पूर्ण देवता और दैत्य वीर जुट जाएँ, तो भी श्री रामजी को रण में जीतने वाला कोई नहीं है । भरत जो ऐसा कर रहे हैं, इसमें आश्चर्य ही क्या है? विष की बेलें अमृतफल कभी नहीं फलतीं! ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस बिचारि गुहँ ग्याति सन कहेउ सजग सब होहु ।",
+            "हथवाँसहु बोरहु तरनि कीजिअ घाटारोहु ॥ १८९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा विचारकर गुह (निषादराज) ने अपनी जाति वालों से कहा कि सब लोग सावधान हो जाओ । नावों को हाथ में (कब्जे में) कर लो और फिर उन्हें डुबा दो तथा सब घाटों को रोक दो ॥ १८९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "होहु सँजोइल रोकहु घाटा । ठाटहु सकल मरै के ठाटा ॥",
+            "सनमुख लोह भरत सन लेऊँ । जिअत न सुरसरि उतरन देऊँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सुसज्जित होकर घाटों को रोक लो और सब लोग मरने के साज सजा लो (अर्थात भरत से युद्ध में लड़कर मरने के लिए तैयार हो जाओ) । मैं भरत से सामने (मैदान में) लोहा लूँगा (मुठभेड़ करूँगा) और जीते जी उन्हें गंगा पार न उतरने दूँगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समर मरनु पुनि सुरसरि तीरा । राम काजु छनभंगु सरीरा ॥",
+            "भरत भाइ नृपु मैं जन नीचू । बड़ें भाग असि पाइअ मीचू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "युद्ध में मरण, फिर गंगाजी का तट, श्री रामजी का काम और क्षणभंगुर शरीर (जो चाहे जब नाश हो जाए), भरत श्री रामजी के भाई और राजा (उनके हाथ से मरना) और मैं नीच सेवक- बड़े भाग्य से ऐसी मृत्यु मिलती है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "स्वामि काज करिहउँ रन रारी । जस धवलिहउँ भुवन दस चारी ॥",
+            "तजउँ प्रान रघुनाथ निहोरें । दुहूँ हाथ मुद मोदक मोरें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं स्वामी के काम के लिए रण में लड़ाई करूँगा और चौदहों लोकों को अपने यश से उज्ज्वल कर दूँगा । श्री रघुनाथजी के निमित्त प्राण त्याग दूँगा । मेरे तो दोनों ही हाथों में आनंद के लड्डू हैं (अर्थात जीत गया तो राम सेवक का यश प्राप्त करूँगा और मारा गया तो श्री रामजी की नित्य सेवा प्राप्त करूँगा) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "साधु समाज न जाकर लेखा । राम भगत महुँ जासु न रेखा ॥",
+            "जायँ जिअत जग सो महि भारू । जननी जौबन बिटप कुठारू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "साधुओं के समाज में जिसकी गिनती नहीं और श्री रामजी के भक्तों में जिसका स्थान नहीं, वह जगत में पृथ्वी का भार होकर व्यर्थ ही जीता है । वह माता के यौवन रूपी वृक्ष के काटने के लिए कुल्हाड़ा मात्र है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिगत बिषाद निषादपति सबहि बढ़ाइ उछाहु ।",
+            "सुमिरि राम मागेउ तुरत तरकस धनुष सनाहु ॥ १९० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(इस प्रकार श्री रामजी के लिए प्राण समर्पण का निश्चय करके) निषादराज विषाद से रहित हो गया और सबका उत्साह बढ़ाकर तथा श्री रामचन्द्रजी का स्मरण करके उसने तुरंत ही तरकस, धनुष और कवच माँगा ॥ १९० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बेगहु भाइहु सजहु सँजोऊ । सुनि रजाइ कदराइ न कोऊ ॥",
+            "भलेहिं नाथ सब कहहिं सहरषा । एकहिं एक बढ़ावइ करषा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(उसने कहा - ) हे भाइयों! जल्दी करो और सब सामान सजाओ । मेरी आज्ञा सुनकर कोई मन में कायरता न लावे । सब हर्ष के साथ बोल उठे- हे नाथ! बहुत अच्छा और आपस में एक-दूसरे का जोश बढ़ाने लगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चले निषाद जोहारि जोहारी । सूर सकल रन रूचइ रारी ॥",
+            "सुमिरि राम पद पंकज पनहीं । भाथीं बाँधि चढ़ाइन्हि धनहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "निषादराज को जोहार कर-करके सब निषाद चले । सभी बड़े शूरवीर हैं और संग्राम में लड़ना उन्हें बहुत अच्छा लगता है । श्री रामचन्द्रजी के चरणकमलों की जूतियों का स्मरण करके उन्होंने भाथियाँ (छोटे-छोटे तरकस) बाँधकर धनुहियों (छोटे-छोटे धनुषों) पर प्रत्यंचा चढ़ाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अँगरी पहिरि कूँड़ि सिर धरहीं । फरसा बाँस सेल सम करहीं ॥",
+            "एक कुसल अति ओड़न खाँड़े । कूदहिं गगन मनहुँ छिति छाँड़े ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कवच पहनकर सिर पर लोहे का टोप रखते हैं और फरसे, भाले तथा बरछों को सीधा कर रहे हैं (सुधार रहे हैं) । कोई तलवार के वार रोकने में अत्यन्त ही कुशल है । वे ऐसे उमंग में भरे हैं, मानो धरती छोड़कर आकाश में कूद (उछल) रहे हों ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निज निज साजु समाजु बनाई । गुह राउतहि जोहारे जाई ॥",
+            "देखि सुभट सब लायक जाने । लै लै नाम सकल सनमाने ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अपना-अपना साज-समाज (लड़ाई का सामान और दल) बनाकर उन्होंने जाकर निषादराज गुह को जोहार की । निषादराज ने सुंदर योद्धाओं को देखकर, सबको सुयोग्य जाना और नाम ले-लेकर सबका सम्मान किया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भाइहु लावहु धोख जनि आजु काज बड़ मोहि ।",
+            "सुनि सरोष बोले सुभट बीर अधीर न होहि ॥ १९१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(उसने कहा - ) हे भाइयों! धोखा न लाना (अर्थात मरने से न घबड़ाना), आज मेरा बड़ा भारी काम है । यह सुनकर सब योद्धा बड़े जोश के साथ बोल उठे- हे वीर! अधीर मत हो ॥ १९१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम प्रताप नाथ बल तोरे । करहिं कटकु बिनु भट बिनु घोरे ॥",
+            "जीवन पाउ न पाछें धरहीं । रुंड मुंडमय मेदिनि करहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! श्री रामचन्द्रजी के प्रताप से और आपके बल से हम लोग भरत की सेना को बिना वीर और बिना घोड़े की कर देंगे (एक-एक वीर और एक-एक घोड़े को मार डालेंगे) । जीते जी पीछे पाँव न रखेंगे । पृथ्वी को रुण्ड-मुण्डमयी कर देंगे (सिरों और धड़ों से छा देंगे) ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दीख निषादनाथ भल टोलू । कहेउ बजाउ जुझाऊ ढोलू ॥",
+            "एतना कहत छींक भइ बाँए । कहेउ सगुनिअन्ह खेत सुहाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "निषादराज ने वीरों का बढ़िया दल देखकर कहा - जुझारू (लड़ाई का) ढोल बजाओ । इतना कहते ही बाईं ओर छींक हुई । शकुन विचारने वालों ने कहा कि खेत सुंदर हैं (जीत होगी) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बूढ़ु एकु कह सगुन बिचारी । भरतहि मिलिअ न होइहि रारी ॥",
+            "रामहि भरतु मनावन जाहीं । सगुन कहइ अस बिग्रहु नाहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक बूढ़े ने शकुन विचारकर कहा - भरत से मिल लीजिए, उनसे लड़ाई नहीं होगी । भरत श्री रामचन्द्रजी को मनाने जा रहे हैं । शकुन ऐसा कह रहा है कि विरोध नहीं है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि गुह कहइ नीक कह बूढ़ा । सहसा करि पछिताहिं बिमूढ़ा ॥",
+            "भरत सुभाउ सीलु बिनु बूझें । बड़ि हित हानि जानि बिनु जूझें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह सुनकर निषादराज गुहने कहा - बूढ़ा ठीक कह रहा है । जल्दी में (बिना विचारे) कोई काम करके मूर्ख लोग पछताते हैं । भरतजी का शील स्वभाव बिना समझे और बिना जाने युद्ध करने में हित की बहुत बड़ी हानि है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गहहु घाट भट समिटि सब लेउँ मरम मिलि जाइ ।",
+            "बूझि मित्र अरि मध्य गति तस तब करिहउँ आइ ॥ १९२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अतएव हे वीरों! तुम लोग इकट्ठे होकर सब घाटों को रोक लो, मैं जाकर भरतजी से मिलकर उनका भेद लेता हूँ । उनका भाव मित्र का है या शत्रु का या उदासीन का, यह जानकर तब आकर वैसा (उसी के अनुसार) प्रबंध करूँगा ॥ १९२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखब सनेहु सुभायँ सुहाएँ । बैरु प्रीति नहिं दुरइँ दुराएँ ॥",
+            "अस कहि भेंट सँजोवन लागे । कंद मूल फल खग मृग मागे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनके सुंदर स्वभाव से मैं उनके स्नेह को पहचान लूँगा । वैर और प्रेम छिपाने से नहीं छिपते । ऐसा कहकर वह भेंट का सामान सजाने लगा । उसने कंद, मूल, फल, पक्षी और हिरन मँगवाए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मीन पीन पाठीन पुराने । भरि भरि भार कहारन्ह आने ॥",
+            "मिलन साजु सजि मिलन सिधाए । मंगल मूल सगुन सुभ पाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कहार लोग पुरानी और मोटी पहिना नामक मछलियों के भार भर-भरकर लाए । भेंट का सामान सजाकर मिलने के लिए चले तो मंगलदायक शुभ-शकुन मिले ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि दूरि तें कहि निज नामू । कीन्ह मुनीसहि दंड प्रनामू ॥",
+            "जानि रामप्रिय दीन्हि असीसा । भरतहि कहेउ बुझाइ मुनीसा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "निषादराज ने मुनिराज वशिष्ठजी को देखकर अपना नाम बतलाकर दूर ही से दण्डवत प्रणाम किया । मुनीश्वर वशिष्ठजी ने उसको राम का प्यारा जानकर आशीर्वाद दिया और भरतजी को समझाकर कहा (कि यह श्री रामजी का मित्र है) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम सखा सुनि संदनु त्यागा । चले उचरि उमगत अनुरागा ॥",
+            "गाउँ जाति गुहँ नाउँ सुनाई । कीन्ह जोहारु माथ महि लाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह श्री राम का मित्र है, इतना सुनते ही भरतजी ने रथ त्याग दिया । वे रथ से उतरकर प्रेम में उमँगते हुए चले । निषादराज गुह ने अपना गाँव, जाति और नाम सुनाकर पृथ्वी पर माथा टेककर जोहार की ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करत दंडवत देखि तेहि भरत लीन्ह उर लाइ ।",
+            "मनहुँ लखन सन भेंट भइ प्रेमु न हृदयँ समाइ ॥ १९३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दण्डवत करते देखकर भरतजी ने उठाकर उसको छाती से लगा लिया । हृदय में प्रेम समाता नहीं है, मानो स्वयं लक्ष्मणजी से भेंट हो गई हो ॥ १९३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भेंटत भरतु ताहि अति प्रीती । लोग सिहाहिं प्रेम कै रीती ॥",
+            "धन्य धन्य धुनि मंगल मूला । सुर सराहि तेहि बरिसहिं फूला ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी गुह को अत्यन्त प्रेम से गले लगा रहे हैं । प्रेम की रीति को सब लोग सिहा रहे हैं (ईर्षापूर्वक प्रशंसा कर रहे हैं) । मंगल की मूल ‘धन्य-धन्य’ की ध्वनि करके देवता उसकी सराहना करते हुए फूल बरसा रहे हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लोक बेद सब भाँतिहिं नीचा । जासु छाँह छुइ लेइअ सींचा ॥",
+            "तेहि भरि अंक राम लघु भ्राता । मिलत पुलक परिपूरित गाता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(वे कहते हैं - ) जो लोक और वेद दोनों में सब प्रकार से नीचा माना जाता है, जिसकी छाया के छू जाने से भी स्नान करना होता है, उसी निषाद से अँकवार भरकर (हृदय से चिपटाकर) श्री रामचन्द्रजी के छोटे भाई भरतजी (आनंद और प्रेमवश) शरीर में पुलकावली से परिपूर्ण हो मिल रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम राम कहि जे जमुहाहीं । तिन्हहि न पाप पुंज समुहाहीं ॥",
+            "यह तौ राम लाइ उर लीन्हा । कुल समेत जगु पावन कीन्हा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो लोग राम-राम कहकर जँभाई लेते हैं (अर्थात आलस्य से भी जिनके मुँह से राम-नाम का उच्चारण हो जाता है), पापों के समूह (कोई भी पाप) उनके सामने नहीं आते । फिर इस गुह को तो स्वयं श्री रामचन्द्रजी ने हृदय से लगा लिया और कुल समेत इसे जगत्पावन (जगत को पवित्र करने वाला) बना दिया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करमनास जलु सुरसरि परई । तेहि को कहहु सीस नहिं धरेई ॥",
+            "उलटा नामु जपत जगु जाना । बालमीकि भए ब्रह्म समाना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कर्मनाशा नदी का जल गंगाजी में पड़ जाता है (मिल जाता है), तब कहिए, उसे कौन सिर पर धारण नहीं करता? जगत जानता है कि उलटा नाम (मरा-मरा) जपते-जपते वाल्मीकिजी ब्रह्म के समान हो गए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "स्वपच सबर खस जमन जड़ पावँर कोल किरात ।",
+            "रामु कहत पावन परम होत भुवन बिख्यात ॥ १९४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मूर्ख और पामर चाण्डाल, शबर, खस, यवन, कोल और किरात भी राम-नाम कहते ही परम पवित्र और त्रिभुवन में विख्यात हो जाते हैं ॥ १९४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नहिं अचिरिजु जुग जुग चलि आई । केहि न दीन्हि रघुबीर बड़ाई ॥",
+            "राम नाम महिमा सुर कहहीं । सुनि सुनि अवध लोग सुखु लहहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इसमें कोई आश्चर्य नहीं है, युग-युगान्तर से यही रीति चली आ रही है । श्री रघुनाथजी ने किसको बड़ाई नहीं दी? इस प्रकार देवता राम नाम की महिमा कह रहे हैं और उसे सुन-सुनकर अयोध्या के लोग सुख पा रहे हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रामसखहि मिलि भरत सप्रेमा । पूँछी कुसल सुमंगल खेमा ॥",
+            "देखि भरत कर सीलु सनेहू । भा निषाद तेहि समय बिदेहू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राम सखा निषादराज से प्रेम के साथ मिलकर भरतजी ने कुशल, मंगल और क्षेम पूछी । भरतजी का शील और प्रेम देखकर निषाद उस समय विदेह हो गया (प्रेममुग्ध होकर देह की सुध भूल गया) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सकुच सनेहु मोदु मन बाढ़ा । भरतहि चितवत एकटक ठाढ़ा ॥",
+            "धरि धीरजु पद बंदि बहोरी । बिनय सप्रेम करत कर जोरी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसके मन में संकोच, प्रेम और आनंद इतना बढ़ गया कि वह खड़ा-खड़ा टकटकी लगाए भरतजी को देखता रहा । फिर धीरज धरकर भरतजी के चरणों की वंदना करके प्रेम के साथ हाथ जोड़कर विनती करने लगा- ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कुसल मूल पद पंकज पेखी । मैं तिहुँ काल कुसल निज लेखी ॥",
+            "अब प्रभु परम अनुग्रह तोरें । सहित कोटि कुल मंगल मोरें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे प्रभो! कुशल के मूल आपके चरण कमलों के दर्शन कर मैंने तीनों कालों में अपना कुशल जान लिया । अब आपके परम अनुग्रह से करोड़ों कुलों (पीढ़ियों) सहित मेरा मंगल (कल्याण) हो गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समुझि मोरि करतूति कुलु प्रभु महिमा जियँ जोइ ।",
+            "जो न भजइ रघुबीर पद जग बिधि बंचित सोइ ॥ १९५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरी करतूत और कुल को समझकर और प्रभु श्री रामचन्द्रजी की महिमा को मन में देख (विचार) कर (अर्थात कहाँ तो मैं नीच जाति और नीच कर्म करने वाला जीव, और कहाँ अनन्तकोटि ब्रह्माण्डों के स्वामी भगवान श्री रामचन्द्रजी! पर उन्होंने मुझ जैसे नीच को भी अपनी अहैतुकी कृपा वश अपना लिया- यह समझकर) जो रघुवीर श्री रामजी के चरणों का भजन नहीं करता, वह जगत में विधाता के द्वारा ठगा गया है ॥ १९५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कपटी कायर कुमति कुजाती । लोक बेद बाहेर सब भाँती ॥",
+            "राम कीन्ह आपन जबही तें । भयउँ भुवन भूषन तबही तें ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं कपटी, कायर, कुबुद्धि और कुजाति हूँ और लोक-वेद दोनों से सब प्रकार से बाहर हूँ । पर जब से श्री रामचन्द्रजी ने मुझे अपनाया है, तभी से मैं विश्व का भूषण हो गया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि प्रीति सुनि बिनय सुहाई । मिलेउ बहोरि भरत लघु भाई ॥",
+            "कहि निषाद निज नाम सुबानीं । सादर सकल जोहारीं रानीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "निषाद राज की प्रीति को देखकर और सुंदर विनय सुनकर फिर भरतजी के छोटे भाई शत्रुघ्नजी उससे मिले । फिर निषाद ने अपना नाम ले-लेकर सुंदर (नम्र और मधुर) वाणी से सब रानियों को आदरपूर्वक जोहार की ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जानि लखन सम देहिं असीसा । जिअहु सुखी सय लाख बरीसा ॥",
+            "निरखि निषादु नगर नर नारी । भए सुखी जनु लखनु निहारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रानियाँ उसे लक्ष्मणजी के समान समझकर आशीर्वाद देती हैं कि तुम सौ लाख वर्षों तक सुख पूर्वक जिओ । नगर के स्त्री-पुरुष निषाद को देखकर ऐसे सुखी हुए, मानो लक्ष्मणजी को देख रहे हों ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहहिं लहेउ एहिं जीवन लाहू । भेंटेउ रामभद्र भरि बाहू ॥",
+            "सुनि निषादु निज भाग बड़ाई । प्रमुदित मन लइ चलेउ लेवाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सब कहते हैं कि जीवन का लाभ तो इसी ने पाया है, जिसे कल्याण स्वरूप श्री रामचन्द्रजी ने भुजाओं में बाँधकर गले लगाया है । निषाद अपने भाग्य की बड़ाई सुनकर मन में परम आनंदित हो सबको अपने साथ लिवा ले चला ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सनकारे सेवक सकल चले स्वामि रुख पाइ ।",
+            "घर तरु तर सर बाग बन बास बनाएन्हि जाइ ॥ १९६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसने अपने सब सेवकों को इशारे से कह दिया । वे स्वामी का रुख पाकर चले और उन्होंने घरों में, वृक्षों के नीचे, तालाबों पर तथा बगीचों और जंगलों में ठहरने के लिए स्थान बना दिए ॥ १९६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सृंगबेरपुर भरत दीख जब । भे सनेहँ सब अंग सिथिल तब ॥",
+            "सोहत दिएँ निषादहि लागू । जनु तनु धरें बिनय अनुरागू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने जब श्रृंगवेरपुर को देखा, तब उनके सब अंग प्रेम के कारण शिथिल हो गए । वे निषाद को लाग दिए (अर्थात उसके कंधे पर हाथ रखे चलते हुए) ऐसे शोभा दे रहे हैं, मानो विनय और प्रेम शरीर धारण किए हुए हों ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि बिधि भरत सेनु सबु संगा । दीखि जाइ जग पावनि गंगा ॥",
+            "रामघाट कहँ कीन्ह प्रनामू । भा मनु मगनु मिले जनु रामू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार भरतजी ने सब सेना को साथ में लिए हुए जगत को पवित्र करने वाली गंगाजी के दर्शन किए । श्री रामघाट को (जहाँ श्री रामजी ने स्नान संध्या की थी) प्रणाम किया । उनका मन इतना आनंदमग्न हो गया, मानो उन्हें स्वयं श्री रामजी मिल गए हों ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करहिं प्रनाम नगर नर नारी । मुदित ब्रह्ममय बारि निहारी ॥",
+            "करि मज्जनु मागहिं कर जोरी । रामचन्द्र पद प्रीति न थोरी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नगर के नर-नारी प्रणाम कर रहे हैं और गंगाजी के ब्रह्म रूप जल को देख-देखकर आनंदित हो रहे हैं । गंगाजी में स्नान कर हाथ जोड़कर सब यही वर माँगते हैं कि श्री रामचन्द्रजी के चरणों में हमारा प्रेम कम न हो (अर्थात बहुत अधिक हो) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत कहेउ सुरसरि तव रेनू । सकल सुखद सेवक सुरधेनू ॥",
+            "जोरि पानि बर मागउँ एहू । सीय राम पद सहज सनेहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने कहा - हे गंगे! आपकी रज सबको सुख देने वाली तथा सेवक के लिए तो कामधेनु ही है । मैं हाथ जोड़कर यही वरदान माँगता हूँ कि श्री सीता-रामजी के चरणों में मेरा स्वाभाविक प्रेम हो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि बिधि मज्जनु भरतु करि गुर अनुसासन पाइ ।",
+            "मातु नहानीं जानि सब डेरा चले लवाइ ॥ १९७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार भरतजी स्नान कर और गुरुजी की आज्ञा पाकर तथा यह जानकर कि सब माताएँ स्नान कर चुकी हैं, डेरा उठा ले चले ॥ १९७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जहँ तहँ लोगन्ह डेरा कीन्हा । भरत सोधु सबही कर लीन्हा ॥",
+            "सुर सेवा करि आयसु पाई । राम मातु पहिं गे दोउ भाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लोगों ने जहाँ-तहाँ डेरा डाल दिया । भरतजी ने सभी का पता लगाया (कि सब लोग आकर आराम से टिक गए हैं या नहीं) । फिर देव पूजन करके आज्ञा पाकर दोनों भाई श्री रामचन्द्रजी की माता कौसल्याजी के पास गए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चरन चाँपि कहि कहि मृदु बानी । जननीं सकल भरत सनमानी ॥",
+            "भाइहि सौंपि मातु सेवकाई । आपु निषादहि लीन्ह बोलाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "चरण दबाकर और कोमल वचन कह-कहकर भरतजी ने सब माताओं का सत्कार किया । फिर भाई शत्रुघ्न को माताओं की सेवा सौंपकर आपने निषाद को बुला लिया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चले सखा कर सों कर जोरें । सिथिल सरीरु सनेह न थोरें ॥",
+            "पूँछत सखहि सो ठाउँ देखाऊ । नेकु नयन मन जरनि जुड़ाऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सखा निषाद राज के हाथ से हाथ मिलाए हुए भरतजी चले । प्रेम कुछ थोड़ा नहीं है (अर्थात बहुत अधिक प्रेम है), जिससे उनका शरीर शिथिल हो रहा है । भरतजी सखा से पूछते हैं कि मुझे वह स्थान दिखलाओ और नेत्र और मन की जलन कुछ ठंडी करो- ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जहँ सिय रामु लखनु निसि सोए । कहत भरे जल लोचन कोए ॥",
+            "भरत बचन सुनि भयउ बिषादू । तुरत तहाँ लइ गयउ निषादू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जहाँ सीताजी, श्री रामजी और लक्ष्मण रात को सोए थे । ऐसा कहते ही उनके नेत्रों के कोयों में (प्रेमाश्रुओं का) जल भर आया । भरतजी के वचन सुनकर निषाद को बड़ा विषाद हुआ । वह तुरंत ही उन्हें वहाँ ले गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जहँ सिंसुपा पुनीत तर रघुबर किय बिश्रामु ।",
+            "अति सनेहँ सादर भरत कीन्हेउ दंड प्रनामु ॥ १९८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जहाँ पवित्र अशोक के वृक्ष के नीचे श्री रामजी ने विश्राम किया था । भरतजी ने वहाँ अत्यन्त प्रेम से आदरपूर्वक दण्डवत प्रणाम किया ॥ १९८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कुस साँथरी निहारि सुहाई । कीन्ह प्रनामु प्रदच्छिन जाई ॥",
+            "चरन देख रज आँखिन्ह लाई । बनइ न कहत प्रीति अधिकाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कुशों की सुंदर साथरी देखकर उसकी प्रदक्षिणा करके प्रणाम किया । श्री रामचन्द्रजी के चरण चिह्नों की रज आँखों में लगाई । (उस समय के) प्रेम की अधिकता कहते नहीं बनती ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कनक बिंदु दुइ चारिक देखे । राखे सीस सीय सम लेखे ॥",
+            "सजल बिलोचन हृदयँ गलानी । कहत सखा सन बचन सुबानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने दो-चार स्वर्णबिन्दु (सोने के कण या तारे आदि जो सीताजी के गहने-कपड़ों से गिर पड़े थे) देखे तो उनको सीताजी के समान समझकर सिर पर रख लिया । उनके नेत्र (प्रेमाश्रु के) जल से भरे हैं और हृदय में ग्लानि भरी है । वे सखा से सुंदर वाणी में ये वचन बोले - ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "श्रीहत सीय बिरहँ दुतिहीना । जथा अवध नर नारि बिलीना ॥",
+            "पिता जनक देउँ पटतर केही । करतल भोगु जोगु जग जेही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ये स्वर्ण के कण या तारे भी सीताजी के विरह से ऐसे श्रीहत (शोभाहीन) एवं कान्तिहीन हो रहे हैं, जैसे (राम वियोग में) अयोध्या के नर-नारी विलीन (शोक के कारण क्षीण) हो रहे हैं । जिन सीताजी के पिता राजा जनक हैं, इस जगत में भोग और योग दोनों ही जिनकी मुट्ठी में हैं, उन जनकजी को मैं किसकी उपमा दूँ? ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ससुर भानुकुल भानु भुआलू । जेहि सिहात अमरावतिपालू ॥",
+            "प्राननाथु रघुनाथ गोसाईं । जो बड़ होत सो राम बड़ाईं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सूर्यकुल के सूर्य राजा दशरथजी जिनके ससुर हैं, जिनको अमरावती के स्वामी इन्द्र भी सिहाते थे । (ईर्षापूर्वक उनके जैसा ऐश्वर्य और प्रताप पाना चाहते थे) और प्रभु श्री रघुनाथजी जिनके प्राणनाथ हैं, जो इतने बड़े हैं कि जो कोई भी बड़ा होता है, वह श्री रामचन्द्रजी की (दी हुई) बड़ाई से ही होता है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पति देवता सुतीय मनि सीय साँथरी देखि ।",
+            "बिहरत हृदउ न हहरि हर पबि तें कठिन बिसेषि ॥ १९९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन श्रेष्ठ पतिव्रता स्त्रियों में शिरोमणि सीताजी की साथरी (कुश शय्या) देखकर मेरा हृदय हहराकर (दहलकर) फट नहीं जाता, हे शंकर! यह वज्र से भी अधिक कठोर है! ॥ १९९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लालन जोगु लखन लघु लोने । भे न भाइ अस अहहिं न होने ॥",
+            "पुरजन प्रिय पितु मातु दुलारे । सिय रघुबीरहि प्रानपिआरे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे छोटे भाई लक्ष्मण बहुत ही सुंदर और प्यार करने योग्य हैं । ऐसे भाई न तो किसी के हुए, न हैं, न होने के ही हैं । जो लक्ष्मण अवध के लोगों को प्यारे, माता-पिता के दुलारे और श्री सीता-रामजी के प्राण प्यारे हैं, ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मृदु मूरति सुकुमार सुभाऊ । तात बाउ तन लाग न काउ ॥",
+            "ते बन सहहिं बिपति सब भाँती । निदरे कोटि कुलिस एहिं छाती ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिनकी कोमल मूर्ति और सुकुमार स्वभाव है, जिनके शरीर में कभी गरम हवा भी नहीं लगी, वे वन में सब प्रकार की विपत्तियाँ सह रहे हैं । (हाय!) इस मेरी छाती ने (कठोरता में) करोड़ों वज्रों का भी निरादर कर दिया (नहीं तो यह कभी की फट गई होती) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम जनमि जगु कीन्ह उजागर । रूप सील सुख सब गुन सागर ॥",
+            "पुरजन परिजन गुरु पितु माता । राम सुभाउ सबहि सुखदाता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी ने जन्म (अवतार) लेकर जगत् को प्रकाशित (परम सुशोभित) कर दिया । वे रूप, शील, सुख और समस्त गुणों के समुद्र हैं । पुरवासी, कुटुम्बी, गुरु, पिता-माता सभी को श्री रामजी का स्वभाव सुख देने वाला है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बैरिउ राम बड़ाई करहीं । बोलनि मिलनि बिनय मन हरहीं ॥",
+            "सारद कोटि कोटि सत सेषा । करि न सकहिं प्रभु गुन गन लेखा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शत्रु भी श्री रामजी की बड़ाई करते हैं । बोल-चाल, मिलने के ढंग और विनय से वे मन को हर लेते हैं । करोड़ों सरस्वती और अरबों शेषजी भी प्रभु श्री रामचंद्रजी के गुण समूहों की गिनती नहीं कर सकते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुखस्वरूप रघुबंसमनि मंगल मोद निधान ।",
+            "ते सोवत कुस डासि महि बिधि गति अति बलवान ॥ २०० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो सुख स्वरूप रघुवंश शिरोमणि श्री रामचंद्रजी मंगल और आनंद के भंडार हैं, वे पृथ्वी पर कुशा बिछाकर सोते हैं । विधाता की गति बड़ी ही बलवान है ॥ २०० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम सुना दुखु कान न काऊ । जीवनतरु जिमि जोगवइ राउ ॥",
+            "पलक नयन फनि मनि जेहि भाँती । जोगवहिं जननि सकल दिन राती ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी ने कानों से भी कभी दुःख का नाम नहीं सुना । महाराज स्वयं जीवन वृक्ष की तरह उनकी सार-सँभाल किया करते थे । सब माताएँ भी रात-दिन उनकी ऐसी सार-सँभाल करती थीं, जैसे पलक नेत्रों और साँप अपनी मणि की करते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ते अब फिरत बिपिन पदचारी । कंद मूल फल फूल अहारी ॥",
+            "धिग कैकई अमंगल मूला । भइसि प्रान प्रियतम प्रतिकूला ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वही श्री रामचंद्रजी अब जंगलों में पैदल फिरते हैं और कंद-मूल तथा फल-फूलों का भोजन करते हैं । अमंगल की मूल कैकेयी धिक्कार है, जो अपने प्राणप्रियतम पति से भी प्रतिकूल हो गई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं धिग धिग अघ उदधि अभागी । सबु उतपातु भयउ जेहि लागी ॥",
+            "कुल कलंकु करि सृजेउ बिधाताँ । साइँदोह मोहि कीन्ह कुमाताँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे पापों के समुद्र और अभागे को धिक्कार है, धिक्कार है, जिसके कारण ये सब उत्पात हुए । विधाता ने मुझे कुल का कलंक बनाकर पैदा किया और कुमाता ने मुझे स्वामी द्रोही बना दिया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि सप्रेम समुझाव निषादू । नाथ करिअ कत बादि बिषादू ॥",
+            "राम तुम्हहि प्रिय तुम्ह प्रिय रामहि । यह निरजोसु दोसु बिधि बामहि ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह सुनकर निषादराज प्रेमपूर्वक समझाने लगा- हे नाथ! आप व्यर्थ विषाद किसलिए करते हैं? श्री रामचंद्रजी आपको प्यारे हैं और आप श्री रामचंद्रजी को प्यारे हैं । यही निचोड़ (निश्चित सिद्धांत) है, दोष तो प्रतिकूल विधाता को है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिधि बाम की करनी कठिन जेहिं मातु कीन्ही बावरी ।",
+            "तेहि राति पुनि पुनि करहिं प्रभु सादर सरहना रावरी ॥",
+            "तुलसी न तुम्ह सो राम प्रीतमु कहतु हौं सौंहे किएँ ।",
+            "परिनाम मंगल जानि अपने आनिए धीरजु हिएँ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रतिकूल विधाता की करनी बड़ी कठोर है, जिसने माता कैकेयी को बावली बना दिया (उसकी मति फेर दी) । उस रात को प्रभु श्री रामचंद्रजी बार-बार आदरपूर्वक आपकी बड़ी सराहना करते थे । तुलसीदासजी कहते हैं - (निषादराज कहता है कि - ) श्री रामचंद्रजी को आपके समान अतिशय प्रिय और कोई नहीं है, मैं सौगंध खाकर कहता हूँ । परिणाम में मंगल होगा, यह जानकर आप अपने हृदय में धैर्य धारण कीजिए ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अंतरजामी रामु सकुच सप्रेम कृपायतन ।",
+            "चलिअ करिअ बिश्रामु यह बिचारि दृढ़ आनि मन ॥ २०१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी अंतर्यामी तथा संकोच, प्रेम और कृपा के धाम हैं, यह विचार कर और मन में दृढ़ता लाकर चलिए और विश्राम कीजिए ॥ २०१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सखा बचन सुनि उर धरि धीरा । बास चले सुमिरत रघुबीरा ॥",
+            "यह सुधि पाइ नगर नर नारी । चले बिलोकन आरत भारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सखा के वचन सुनकर, हृदय में धीरज धरकर श्री रामचंद्रजी का स्मरण करते हुए भरतजी डेरे को चले । नगर के सारे स्त्री-पुरुष यह (श्री रामजी के ठहरने के स्थान का) समाचार पाकर बड़े आतुर होकर उस स्थान को देखने चले ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "परदखिना करि करहिं प्रनामा । देहिं कैकइहि खोरि निकामा ।",
+            "भरि भरि बारि बिलोचन लेंहीं । बाम बिधातहि दूषन देहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे उस स्थान की परिक्रमा करके प्रणाम करते हैं और कैकेयी को बहुत दोष देते हैं । नेत्रों में जल भर-भर लेते हैं और प्रतिकूल विधाता को दूषण देते हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एक सराहहिं भरत सनेहू । कोउ कह नृपति निबाहेउ नेहू ॥",
+            "निंदहिं आपु सराहि निषादहि । को कहि सकइ बिमोह बिषादहि ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कोई भरतजी के स्नेह की सराहना करते हैं और कोई कहते हैं कि राजा ने अपना प्रेम खूब निबाहा । सब अपनी निंदा करके निषाद की प्रशंसा करते हैं । उस समय के विमोह और विषाद को कौन कह सकता है? ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ऐहि बिधि राति लोगु सबु जागा । भा भिनुसार गुदारा लागा ॥",
+            "गुरहि सुनावँ चढ़ाइ सुहाईं । नईं नाव सब मातु चढ़ाईं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार रातभर सब लोग जागते रहे । सबेरा होते ही खेवा लगा । सुंदर नाव पर गुरुजी को चढ़ाकर फिर नई नाव पर सब माताओं को चढ़ाया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दंड चारि महँ भा सबु पारा । उतरि भरत तब सबहि सँभारा ॥ ५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "चार घड़ी में सब गंगाजी के पार उतर गए । तब भरतजी ने उतरकर सबको सँभाला ॥ ५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रातक्रिया करि मातु पद बंदि गुरहि सिरु नाइ ।",
+            "आगें किए निषाद गन दीन्हेउ कटकु चलाइ ॥ २०२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रातःकाल की क्रियाओं को करके माता के चरणों की वंदना कर और गुरुजी को सिर नवाकर भरतजी ने विषाद गणों को (रास्ता दिखलाने के लिए) आगे कर लिया और सेना चला दी ॥ २०२ ॥ १४१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कियउ निषादनाथु अगुआईं । मातु पालकीं सकल चलाईं ॥",
+            "साथ बोलाइ भाइ लघु दीन्हा । बिप्रन्ह सहित गवनु गुर कीन्हा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "निषादराज को आगे करके पीछे सब माताओं की पालकियाँ चलाईं । छोटे भाई शत्रुघ्नजी को बुलाकर उनके साथ कर दिया । फिर ब्राह्मणों सहित गुरुजी ने गमन किया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आपु सुरसरिहि कीन्ह प्रनामू । सुमिरे लखन सहित सिय रामू ॥",
+            "गवने भरत पयादेहिं पाए । कोतल संग जाहिं डोरिआए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तदनन्तर आप (भरतजी) ने गंगाजी को प्रणाम किया और लक्ष्मण सहित श्री सीता-रामजी का स्मरण किया । भरतजी पैदल ही चले । उनके साथ कोतल (बिना सवार के) घोड़े बागडोर से बँधे हुए चले जा रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहहिं सुसेवक बारहिं बारा । होइअ नाथ अस्व असवारा ॥",
+            "रामु पयादेहि पायँ सिधाए । हम कहँ रथ गज बाजि बनाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उत्तम सेवक बार-बार कहते हैं कि हे नाथ! आप घोड़े पर सवार हो लीजिए । (भरतजी जवाब देते हैं कि) श्री रामचंद्रजी तो पैदल ही गए और हमारे लिए रथ, हाथी और घोड़े बनाए गए हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सिर भर जाउँ उचित अस मोरा । सब तें सेवक धरमु कठोरा ॥",
+            "देखि भरत गति सुनि मृदु बानी । सब सेवक गन गरहिं गलानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे उचित तो ऐसा है कि मैं सिर के बल चलकर जाऊँ । सेवक का धर्म सबसे कठिन होता है । भरतजी की दशा देखकर और कोमल वाणी सुनकर सब सेवकगण ग्लानि के मारे गले जा रहे हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत तीसरे पहर कहँ कीन्ह प्रबेसु प्रयाग ।",
+            "कहत राम सिय राम सिय उमगि उमगि अनुराग ॥ २०३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रेम में उमँग-उमँगकर सीताराम-सीताराम कहते हुए भरतजी ने तीसरे पहर प्रयाग में प्रवेश किया ॥ २०३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "झलका झलकत पायन्ह कैसें । पंकज कोस ओस कन जैसें ॥",
+            "भरत पयादेहिं आए आजू । भयउ दुखित सुनि सकल समाजू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनके चरणों में छाले कैसे चमकते हैं, जैसे कमल की कली पर ओस की बूँदें चमकती हों । भरतजी आज पैदल ही चलकर आए हैं, यह समाचार सुनकर सारा समाज दुःखी हो गया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "खबरि लीन्ह सब लोग नहाए । कीन्ह प्रनामु त्रिबेनिहिं आए ॥",
+            "सबिधि सितासित नीर नहाने । दिए दान महिसुर सनमाने ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जब भरतजी ने यह पता पा लिया कि सब लोग स्नान कर चुके, तब त्रिवेणी पर आकर उन्हें प्रणाम किया । फिर विधिपूर्वक (गंगा-यमुना के) श्वेत और श्याम जल में स्नान किया और दान देकर ब्राह्मणों का सम्मान किया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखत स्यामल धवल हलोरे । पुलकि सरीर भरत कर जोरे ॥",
+            "सकल काम प्रद तीरथराऊ । बेद बिदित जग प्रगट प्रभाऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्याम और सफेद (यमुनाजी और गंगाजी की) लहरों को देखकर भरतजी का शरीर पुलकित हो उठा और उन्होंने हाथ जोड़कर कहा - हे तीर्थराज! आप समस्त कामनाओं को पूर्ण करने वाले हैं । आपका प्रभाव वेदों में प्रसिद्ध और संसार में प्रकट है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मागउँ भीख त्यागि निज धरमू । आरत काह न करइ कुकरमू ॥",
+            "अस जियँ जानि सुजान सुदानी । सफल करहिं जग जाचक बानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं अपना धर्म (न माँगने का क्षत्रिय धर्म) त्यागकर आप से भीख माँगता हूँ । आर्त्त मनुष्य कौन सा कुकर्म नहीं करता? ऐसा हृदय में जानकर सुजान उत्तम दानी जगत् में माँगने वाले की वाणी को सफल किया करते हैं (अर्थात् वह जो माँगता है, सो दे देते हैं) ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अरथ न धरम न काम रुचि गति न चहउँ निरबान ।",
+            "जनम-जनम रति राम पद यह बरदानु न आन ॥ २०४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुझे न अर्थ की रुचि (इच्छा) है, न धर्म की, न काम की और न मैं मोक्ष ही चाहता हूँ । जन्म-जन्म में मेरा श्री रामजी के चरणों में प्रेम हो, बस, यही वरदान माँगता हूँ, दूसरा कुछ नहीं ॥ २०४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जानहुँ रामु कुटिल करि मोही । लोग कहउ गुर साहिब द्रोही ॥",
+            "सीता राम चरन रति मोरें । अनुदिन बढ़उ अनुग्रह तोरें ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "स्वयं श्री रामचंद्रजी भी भले ही मुझे कुटिल समझें और लोग मुझे गुरुद्रोही तथा स्वामी द्रोही भले ही कहें, पर श्री सीता-रामजी के चरणों में मेरा प्रेम आपकी कृपा से दिन-दिन बढ़ता ही रहे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जलदु जनम भरि सुरति बिसारउ । जाचत जलु पबि पाहन डारउ ॥",
+            "चातकु रटिन घटें घटि जाई । बढ़ें प्रेमु सब भाँति भलाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेघ चाहे जन्मभर चातक की सुध भुला दे और जल माँगने पर वह चाहे वज्र और पत्थर (ओले) ही गिरावे, पर चातक की रटन घटने से तो उसकी बात ही घट जाएगी (प्रतिष्ठा ही नष्ट हो जाएगी) । उसकी तो प्रेम बढ़ने में ही सब तरह से भलाई है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कनकहिं बान चढ़इ जिमि दाहें । तिमि प्रियतम पद नेम निबाहें ॥",
+            "भरत बचन सुनि माझ त्रिबेनी । भइ मृदु बानि सुमंगल देनी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जैसे तपाने से सोने पर आब (चमक) आ जाती है, वैसे ही प्रियतम के चरणों में प्रेम का नियम निबाहने से प्रेमी सेवक का गौरव बढ़ जाता है । भरतजी के वचन सुनकर बीच त्रिवेणी में से सुंदर मंगल देने वाली कोमल वाणी हुई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात भरत तुम्ह सब बिधि साधू । राम चरन अनुराग अगाधू ॥",
+            "बादि गलानि करहु मन माहीं । तुम्ह सम रामहि कोउ प्रिय नाहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात भरत! तुम सब प्रकार से साधु हो । श्री रामचंद्रजी के चरणों में तुम्हारा अथाह प्रेम है । तुम व्यर्थ ही मन में ग्लानि कर रहे हो । श्री रामचंद्रजी को तुम्हारे समान प्रिय कोई नहीं है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तनु पुलकेउ हियँ हरषु सुनि बेनि बचन अनुकूल ।",
+            "भरत धन्य कहि धन्य सुर हरषित बरषहिं फूल ॥ २०५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "त्रिवेणीजी के अनुकूल वचन सुनकर भरतजी का शरीर पुलकित हो गया, हृदय में हर्ष छा गया । भरतजी धन्य हैं, कहकर देवता हर्षित होकर फूल बरसाने लगे ॥ २०५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रमुदित तीरथराज निवासी । बैखानस बटु गृही उदासी ॥",
+            "कहहिं परसपर मिलि दस पाँचा । भरत सनेहु सीलु सुचि साँचा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तीर्थराज प्रयाग में रहने वाले वनप्रस्थ, ब्रह्मचारी, गृहस्थ और उदासीन (संन्यासी) सब बहुत ही आनंदित हैं और दस-पाँच मिलकर आपस में कहते हैं कि भरतजी का प्रेम और शील पवित्र और सच्चा है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनत राम गुन ग्राम सुहाए । भरद्वाज मुनिबर पहिं आए ॥",
+            "दंड प्रनामु करत मुनि देखे । मूरतिमंत भाग्य निज लेखे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी के सुंदर गुण समूहों को सुनते हुए वे मुनिश्रेष्ठ भरद्वाजजी के पास आए । मुनि ने भरतजी को दण्डवत प्रणाम करते देखा और उन्हें अपना मूर्तिमान सौभाग्य समझा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "धाइ उठाइ लाइ उर लीन्हे । दीन्हि असीस कृतारथ कीन्हे ॥",
+            "आसनु दीन्ह नाइ सिरु बैठे । चहत सकुच गृहँ जनु भजि पैठे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन्होंने दौड़कर भरतजी को उठाकर हृदय से लगा लिया और आशीर्वाद देकर कृतार्थ किया । मुनि ने उन्हें आसन दिया । वे सिर नवाकर इस तरह बैठे मानो भागकर संकोच के घर में घुस जाना चाहते हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि पूँछब कछु यह बड़ सोचू । बोले रिषि लखि सीलु सँकोचू ॥",
+            "सुनहु भरत हम सब सुधि पाई । बिधि करतब पर किछु न बसाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनके मन में यह बड़ा सोच है कि मुनि कुछ पूछेंगे (तो मैं क्या उत्तर दूँगा) । भरतजी के शील और संकोच को देखकर ऋषि बोले - भरत! सुनो, हम सब खबर पा चुके हैं । विधाता के कर्तव्य पर कुछ वश नहीं चलता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह गलानि जियँ जनि करहु समुझि मातु करतूति ।",
+            "तात कैकइहि दोसु नहिं गई गिरा मति धूति ॥ २०६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "माता की करतूत को समझकर (याद करके) तुम हृदय में ग्लानि मत करो । हे तात! कैकेयी का कोई दोष नहीं है, उसकी बुद्धि तो सरस्वती बिगाड़ गई थी ॥ २०६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यहउ कहत भल कहिहि न कोऊ । लोकु बेदु बुध संमत दोऊ ॥",
+            "तात तुम्हार बिमल जसु गाई । पाइहि लोकउ बेदु बड़ाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह कहते भी कोई भला न कहेगा, क्योंकि लोक और वेद दोनों ही विद्वानों को मान्य है, किन्तु हे तात! तुम्हारा निर्मल यश गाकर तो लोक और वेद दोनों बड़ाई पावेंगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लोक बेद संमत सबु कहई । जेहि पितु देइ राजु सो लहई ॥",
+            "राउ सत्यब्रत तुम्हहि बोलाई । देत राजु सुखु धरमु बड़ाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह लोक और वेद दोनों को मान्य है और सब यही कहते हैं कि पिता जिसको राज्य दे वही पाता है । राजा सत्यव्रती थे, तुमको बुलाकर राज्य देते, तो सुख मिलता, धर्म रहता और बड़ाई होती ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम गवनु बन अनरथ मूला । जो सुनि सकल बिस्व भइ सूला ॥",
+            "सो भावी बस रानि अयानी । करि कुचालि अंतहुँ पछितानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सारे अनर्थ की जड़ तो श्री रामचन्द्रजी का वनगमन है, जिसे सुनकर समस्त संसार को पीड़ा हुई । वह श्री राम का वनगमन भी भावीवश हुआ । बेसमझ रानी तो भावीवश कुचाल करके अंत में पछताई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तहँउँ तुम्हार अलप अपराधू । कहै सो अधम अयान असाधू ॥",
+            "करतेहु राजु त तुम्हहि ना दोषू । रामहि होत सुनत संतोषू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसमें भी तुम्हारा कोई तनिक सा भी अपराध कहे, तो वह अधम, अज्ञानी और असाधु है । यदि तुम राज्य करते तो भी तुम्हें दोष न होता । सुनकर श्री रामचन्द्रजी को भी संतोष ही होता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब अति कीन्हेहु भरत भल तुम्हहि उचित मत एहु ।",
+            "सकल सुमंगल मूल जग रघुबर चरन सनेहु ॥ २०७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भरत! अब तो तुमने बहुत ही अच्छा किया, यही मत तुम्हारे लिए उचित था । श्री रामचन्द्रजी के चरणों में प्रेम होना ही संसार में समस्त सुंदर मंगलों का मूल है ॥ २०७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सो तुम्हार धनु जीवनु प्राना । भूरिभाग को तुम्हहि समाना ॥",
+            "यह तुम्हार आचरजु न ताता । दसरथ सुअन राम प्रिय भ्राता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सो वह (श्री रामचन्द्रजी के चरणों का प्रेम) तो तुम्हारा धन, जीवन और प्राण ही है, तुम्हारे समान बड़भागी कौन है? हे तात! तुम्हारे लिए यह आश्चर्य की बात नहीं है, क्योंकि तुम दशरथजी के पुत्र और श्री रामचन्द्रजी के प्यारे भाई हो ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनहु भरत रघुबर मन माहीं । पेम पात्रु तुम्ह सम कोउ नाहीं ॥",
+            "लखन राम सीतहि अति प्रीती । निसि सब तुम्हहि सराहत बीती ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भरत! सुनो, श्री रामचन्द्र के मन में तुम्हारे समान प्रेम पात्र दूसरा कोई नहीं है । लक्ष्मणजी, श्री रामजी और सीताजी तीनों की सारी रात उस दिन अत्यन्त प्रेम के साथ तुम्हारी सराहना करते ही बीती ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जाना मरमु नहात प्रयागा । मगन होहिं तुम्हरें अनुरागा ॥",
+            "तुम्ह पर अस सनेहु रघुबर कें । सुख जीवन जग जस जड़ नर कें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रयागराज में जब वे स्नान कर रहे थे, उस समय मैंने उनका यह मर्म जाना । वे तुम्हारे प्रेम में मग्न हो रहे थे । तुम पर श्री रामचन्द्रजी का ऐसा ही (अगाध) स्नेह है, जैसा मूर्ख (विषयासक्त) मनुष्य का संसार में सुखमय जीवन पर होता है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यह न अधिक रघुबीर बड़ाई । प्रनत कुटुंब पाल रघुराई ॥",
+            "तुम्ह तौ भरत मोर मत एहू । धरें देह जनु राम सनेहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह श्री रघुनाथजी की बहुत बड़ाई नहीं है, क्योंकि श्री रघुनाथजी तो शरणागत के कुटुम्ब भर को पालने वाले हैं । हे भरत! मेरा यह मत है कि तुम तो मानो शरीरधारी श्री रामजी के प्रेम ही हो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह कहँ भरत कलंक यह हम सब कहँ उपदेसु ।",
+            "राम भगति रस सिद्धि हित भा यह समउ गनेसु ॥ २०८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भरत! तुम्हारे लिए (तुम्हारी समझ में) यह कलंक है, पर हम सबके लिए तो उपदेश है । श्री रामभक्ति रूपी रस की सिद्धि के लिए यह समय गणेश (बड़ा शुभ) हुआ है ॥ २०८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नव बिधु बिमल तात जसु तोरा । रघुबर किंकर कुमुद चकोरा ॥",
+            "उदित सदा अँथइहि कबहूँ ना । घटिहि न जग नभ दिन दिन दूना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात! तुम्हारा यश निर्मल नवीन चन्द्रमा है और श्री रामचन्द्रजी के दास कुमुद और चकोर हैं (वह चन्द्रमा तो प्रतिदिन अस्त होता और घटता है, जिससे कुमुद और चकोर को दुःख होता है), परन्तु यह तुम्हारा यश रूपी चन्द्रमा सदा उदय रहेगा, कभी अस्त होगा ही नहीं! जगत रूपी आकाश में यह घटेगा नहीं, वरन दिन-दिन दूना होगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कोक तिलोक प्रीति अति करिही । प्रभु प्रताप रबि छबिहि न हरिही ॥",
+            "निसि दिन सुखद सदा सब काहू । ग्रसिहि न कैकइ करतबु राहू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "त्रैलोक्य रूपी चकवा इस यश रूपी चन्द्रमा पर अत्यन्त प्रेम करेगा और प्रभु श्री रामचन्द्रजी का प्रताप रूपी सूर्य इसकी छबि को हरण नहीं करेगा । यह चन्द्रमा रात-दिन सदा सब किसी को सुख देने वाला होगा । कैकेयी का कुकर्म रूपी राहु इसे ग्रास नहीं करेगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पूरन राम सुपेम पियूषा । गुर अवमान दोष नहिं दूषा ॥",
+            "राम भगत अब अमिअँ अघाहूँ । कीन्हेहु सुलभ सुधा बसुधाहूँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह चन्द्रमा श्री रामचन्द्रजी के सुंदर प्रेम रूपी अमृत से पूर्ण है । यह गुरु के अपमान रूपी दोष से दूषित नहीं है । तुमने इस यश रूपी चन्द्रमा की सृष्टि करके पृथ्वी पर भी अमृत को सुलभ कर दिया । अब श्री रामजी के भक्त इस अमृत से तृप्त हो लें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूप भगीरथ सुरसरि आनी । सुमिरत सकल सुमंगल खानी ॥",
+            "दसरथ गुन गन बरनि न जाहीं । अधिकु कहा जेहि सम जग नाहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा भगीरथ गंगाजी को लाए, जिन (गंगाजी) का स्मरण ही सम्पूर्ण सुंदर मंगलों की खान है । दशरथजी के गुण समूहों का तो वर्णन ही नहीं किया जा सकता, अधिक क्या, जिनकी बराबरी का जगत में कोई नहीं है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जासु सनेह सकोच बस राम प्रगट भए आई ।",
+            "जे हर हिय नयननि कबहुँ निरखे नहीं अघाइ ॥ २०९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिनके प्रेम और संकोच (शील) के वश में होकर स्वयं (सच्चिदानंदघन) भगवान श्री राम आकर प्रकट हुए, जिन्हें श्री महादेवजी अपने हृदय के नेत्रों से कभी अघाकर नहीं देख पाए (अर्थात जिनका स्वरूप हृदय में देखते-देखते शिवजी कभी तृप्त नहीं हुए) ॥ २०९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कीरति बिधु तुम्ह कीन्ह अनूपा । जहँ बस राम पेम मृगरूपा ॥",
+            "तात गलानि करहु जियँ जाएँ । डरहु दरिद्रहि पारसु पाएँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(परन्तु उनसे भी बढ़कर) तुमने कीर्ति रूपी अनुपम चंद्रमा को उत्पन्न किया, जिसमें श्री राम प्रेम ही हिरन के (चिह्न के) रूप में बसता है । हे तात! तुम व्यर्थ ही हृदय में ग्लानि कर रहे हो । पारस पाकर भी तुम दरिद्रता से डर रहे हो! ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनहु भरत हम झूठ न कहहीं । उदासीन तापस बन रहहीं ॥",
+            "सब साधन कर सुफल सुहावा । लखन राम सिय दरसनु पावा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भरत! सुनो, हम झूठ नहीं कहते । हम उदासीन हैं (किसी का पक्ष नहीं करते), तपस्वी हैं (किसी की मुँह देखी नहीं कहते) और वन में रहते हैं (किसी से कुछ प्रयोजन नहीं रखते) । सब साधनों का उत्तम फल हमें लक्ष्मणजी, श्री रामजी और सीताजी का दर्शन प्राप्त हुआ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि फल कर फलु दरस तुम्हारा । सहित प्रयाग सुभाग हमारा ॥",
+            "भरत धन्य तुम्ह जसु जगु जयऊ । कहि अस प्रेम मगन मुनि भयऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(सीता-लक्ष्मण सहित श्री रामदर्शन रूप) उस महान फल का परम फल यह तुम्हारा दर्शन है! प्रयागराज समेत हमारा बड़ा भाग्य है । हे भरत! तुम धन्य हो, तुमने अपने यश से जगत को जीत लिया है । ऐसा कहकर मुनि प्रेम में मग्न हो गए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि मुनि बचन सभासद हरषे । साधु सराहि सुमन सुर बरषे ॥",
+            "धन्य धन्य धुनि गगन प्रयागा । सुनि सुनि भरतु मगन अनुरागा ॥ ४"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरद्वाज मुनि के वचन सुनकर सभासद् हर्षित हो गए । ‘साधु-साधु’ कहकर सराहना करते हुए देवताओं ने फूल बरसाए । आकाश में और प्रयागराज में ‘धन्य, धन्य’ की ध्वनि सुन-सुनकर भरतजी प्रेम में मग्न हो रहे हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुलक गात हियँ रामु सिय सजल सरोरुह नैन ।",
+            "करि प्रनामु मुनि मंडलिहि बोले गदगद बैन ॥ २१० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी का शरीर पुलकित है, हृदय में श्री सीता-रामजी हैं और कमल के समान नेत्र (प्रेमाश्रु के) जल से भरे हैं । वे मुनियों की मंडली को प्रणाम करके गद्गद वचन बोले - ॥ २१० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि समाजु अरु तीरथराजू । साँचिहुँ सपथ अघाइ अकाजू ॥",
+            "एहिं थल जौं किछु कहिअ बनाई । एहि सम अधिक न अघ अधमाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनियों का समाज है और फिर तीर्थराज है । यहाँ सच्ची सौगंध खाने से भी भरपूर हानि होती है । इस स्थान में यदि कुछ बनाकर कहा जाए, तो इसके समान कोई बड़ा पाप और नीचता न होगी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह सर्बग्य कहउँ सतिभाऊ । उर अंतरजामी रघुराऊ ॥",
+            "मोहि न मातु करतब कर सोचू । नहिं दुखु जियँ जगु जानिहि पोचू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं सच्चे भाव से कहता हूँ । आप सर्वज्ञ हैं और श्री रघुनाथजी हृदय के भीतर की जानने वाले हैं (मैं कुछ भी असत्य कहूँगा तो आपसे और उनसे छिपा नहीं रह सकता) । मुझे माता कैकेयी की करनी का कुछ भी सोच नहीं है और न मेरे मन में इसी बात का दुःख है कि जगत मुझे नीच समझेगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाहिन डरु बिगरिहि परलोकू । पितहु मरन कर मोहि न सोकू ॥",
+            "सुकृत सुजस भरि भुअन सुहाए । लछिमन राम सरिस सुत पाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "न यही डर है कि मेरा परलोक बिगड़ जाएगा और न पिताजी के मरने का ही मुझे शोक है, क्योंकि उनका सुंदर पुण्य और सुयश विश्व भर में सुशोभित है । उन्होंने श्री राम-लक्ष्मण सरीखे पुत्र पाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम बिरहँ तजि तनु छनभंगू । भूप सोच कर कवन प्रसंगू ॥",
+            "राम लखन सिय बिनु पग पनहीं । करि मुनि बेष फिरहिं बन बनहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर जिन्होंने श्री रामचन्द्रजी के विरह में अपने क्षणभंगुर शरीर को त्याग दिया, ऐसे राजा के लिए सोच करने का कौन प्रसंग है? (सोच इसी बात का है कि) श्री रामजी, लक्ष्मणजी और सीताजी पैरों में बिना जूती के मुनियों का वेष बनाए वन-वन में फिरते हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अजिन बसन फल असन महि सयन डासि कुस पात ।",
+            "बसि तरु तर नित सहत हिम आतप बरषा बात ॥ २११ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे वल्कल वस्त्र पहनते हैं, फलों का भोजन करते हैं, पृथ्वी पर कुश और पत्ते बिछाकर सोते हैं और वृक्षों के नीचे निवास करके नित्य सर्दी, गर्मी, वर्षा और हवा सहते हैं । २११ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि दुख दाहँ दहइ दिन छाती । भूख न बासर नीद न राती ॥",
+            "एहि कुरोग कर औषधु नाहीं । सोधेउँ सकल बिस्व मन माहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इसी दुःख की जलन से निरंतर मेरी छाती जलती रहती है । मुझे न दिन में भूख लगती है, न रात को नींद आती है । मैंने मन ही मन समस्त विश्व को खोज डाला, पर इस कुरोग की औषध कहीं नहीं है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मातु कुमत बढ़ई अघ मूला । तेहिं हमार हित कीन्ह बँसूला ॥",
+            "कलि कुकाठ कर कीन्ह कुजंत्रू । गाड़ि अवधि पढ़ि कठिन कुमंत्रू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "माता का कुमत (बुरा विचार) पापों का मूल बढ़ई है । उसने हमारे हित का बसूला बनाया । उससे कलह रूपी कुकाठ का कुयंत्र बनाया और चौदह वर्ष की अवधि रूपी कठिन कुमंत्र पढ़कर उस यंत्र को गाड़ दिया । (यहाँ माता का कुविचार बढ़ई है, भरत को राज्य बसूला है, राम का वनवास कुयंत्र है और चौदह वर्ष की अवधि कुमंत्र है) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोहि लगि यहु कुठाटु तेहिं ठाटा । घालेसि सब जगु बारहबाटा ॥",
+            "मिटइ कुजोगु राम फिरि आएँ । बसइ अवध नहिं आन उपाएँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे लिए उसने यह सारा कुठाट (बुरा साज) रचा और सारे जगत को बारहबाट (छिन्न-भिन्न) करके नष्ट कर डाला । यह कुयोग श्री रामचन्द्रजी के लौट आने पर ही मिट सकता है और तभी अयोध्या बस सकती है, दूसरे किसी उपाय से नहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत बचन सुनि मुनि सुखु पाई । सबहिं कीन्हि बहु भाँति बड़ाई ॥",
+            "तात करहु जनि सोचु बिसेषी । सब दुखु मिटिहि राम पग देखी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी के वचन सुनकर मुनि ने सुख पाया और सभी ने उनकी बहुत प्रकार से बड़ाई की । (मुनि ने कहा - ) हे तात! अधिक सोच मत करो । श्री रामचन्द्रजी के चरणों का दर्शन करते ही सारा दुःख मिट जाएगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करि प्रबोधु मुनिबर कहेउ अतिथि पेमप्रिय होहु ।",
+            "कंद मूल फल फूल हम देहिं लेहु करि छोहु ॥ २१२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार मुनिश्रेष्ठ भरद्वाजजी ने उनका समाधान करके कहा - अब आप लोग हमारे प्रेम प्रिय अतिथि बनिए और कृपा करके कंद-मूल, फल-फूल जो कुछ हम दें, स्वीकार कीजिए ॥ २१२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि मुनि बचन भरत हियँ सोचू । भयउ कुअवसर कठिन सँकोचू ॥",
+            "जानि गुरुइ गुर गिरा बहोरी । चरन बंदि बोले कर जोरी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि के वचन सुनकर भरत के हृदय में सोच हुआ कि यह बेमौके बड़ा बेढब संकोच आ पड़ा! फिर गुरुजनों की वाणी को महत्वपूर्ण (आदरणीय) समझकर, चरणों की वंदना करके हाथ जोड़कर बोले - ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सिर धरि आयसु करिअ तुम्हारा । परम धरम यहु नाथ हमारा ॥",
+            "भरत बचन मुनिबर मन भाए । सुचि सेवक सिष निकट बोलाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! आपकी आज्ञा को सिर चढ़ाकर उसका पालन करना, यह हमारा परम धर्म है । भरतजी के ये वचन मुनिश्रेष्ठ के मन को अच्छे लगे । उन्होंने विश्वासपात्र सेवकों और शिष्यों को पास बुलाया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चाहिअ कीन्हि भरत पहुनाई । कंद मूल फल आनहु जाई ।",
+            "भलेहिं नाथ कहि तिन्ह सिर नाए । प्रमुदित निज निज काज सिधाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(और कहा कि) भरत की पहुनाई करनी चाहिए । जाकर कंद, मूल और फल लाओ । उन्होंने ‘हे नाथ! बहुत अच्छा’ कहकर सिर नवाया और तब वे बड़े आनंदित होकर अपने-अपने काम को चल दिए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनिहि सोच पाहुन बड़ नेवता । तसि पूजा चाहिअ जस देवता ॥",
+            "सुनि रिधि सिधि अनिमादिक आईं । आयसु होइ सो करहिं गोसाईं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि को चिंता हुई कि हमने बहुत बड़े मेहमान को न्योता है । अब जैसा देवता हो, वैसी ही उसकी पूजा भी होनी चाहिए । यह सुनकर ऋद्धियाँ और अणिमादि सिद्धियाँ आ गईं (और बोलीं - ) हे गोसाईं! जो आपकी आज्ञा हो सो हम करें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम बिरह ब्याकुल भरतु सानुज सहित समाज ।",
+            "पहुनाई करि हरहु श्रम कहा मुदित मुनिराज ॥ २१३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनिराज ने प्रसन्न होकर कहा - छोटे भाई शत्रुघ्न और समाज सहित भरतजी श्री रामचन्द्रजी के विरह में व्याकुल हैं, इनकी पहुनाई (आतिथ्य सत्कार) करके इनके श्रम को दूर करो ॥ २१३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रिधि सिधि सिर धरि मुनिबर बानी । बड़भागिनि आपुहि अनुमानी ॥",
+            "कहहिं परसपर सिधि समुदाई । अतुलित अतिथि राम लघु भाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऋद्धि-सिद्धि ने मुनिराज की आज्ञा को सिर चढ़ाकर अपने को बड़भागिनी समझा । सब सिद्धियाँ आपस में कहने लगीं- श्री रामचन्द्रजी के छोटे भाई भरत ऐसे अतिथि हैं, जिनकी तुलना में कोई नहीं आ सकता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि पद बंदि करिअ सोइ आजू । होइ सुखी सब राज समाजू ॥",
+            "अस कहि रचेउ रुचिर गृह नाना । जेहि बिलोकि बिलखाहिं बिमाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अतः मुनि के चरणों की वंदना करके आज वही करना चाहिए, जिससे सारा राज-समाज सुखी हो । ऐसा कहकर उन्होंने बहुत से सुंदर घर बनाए, जिन्हें देखकर विमान भी विलखते हैं (लजा जाते हैं) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भोग बिभूति भूरि भरि राखे । देखत जिन्हहि अमर अभिलाषे ॥",
+            "दासीं दास साजु सब लीन्हें । जोगवत रहहिं मनहि मनु दीन्हें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन घरों में बहुत से भोग (इन्द्रियों के विषय) और ऐश्वर्य (ठाट-बाट) का सामान भरकर रख दिया, जिन्हें देखकर देवता भी ललचा गए । दासी-दास सब प्रकार की सामग्री लिए हुए मन लगाकर उनके मनों को देखते रहते हैं (अर्थात उनके मन की रुचि के अनुसार करते रहते हैं) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब समाजु सजि सिधि पल माहीं । जे सुख सुरपुर सपनेहुँ नाहीं ॥",
+            "प्रथमहिं बास दिए सब केही । सुंदर सुखद जथा रुचि जेही ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो सुख के सामान स्वर्ग में भी स्वप्न में भी नहीं हैं, ऐसे सब सामान सिद्धियों ने पल भर में सजा दिए । पहले तो उन्होंने सब किसी को, जिसकी जैसी रुचि थी, वैसे ही, सुंदर सुखदायक निवास स्थान दिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहुरि सपरिजन भरत कहुँ रिषि अस आयसु दीन्ह ।",
+            "बिधि बिसमय दायकु बिभव मुनिबर तपबल कीन्ह ॥ २१४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और फिर कुटुम्ब सहित भरतजी को दिए, क्योंकि ऋषि भरद्वाजजी ने ऐसी ही आज्ञा दे रखी थी । (भरतजी चाहते थे कि उनके सब संगियों को आराम मिले, इसलिए उनके मन की बात जानकर मुनि ने पहले उन लोगों को स्थान देकर पीछे सपरिवार भरतजी को स्थान देने के लिए आज्ञा दी थी । ) मुनि श्रेष्ठ ने तपोबल से ब्रह्मा को भी चकित कर देने वाला वैभव रच दिया ॥ २१४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि प्रभाउ जब भरत बिलोका । सब लघु लगे लोकपति लोका ॥",
+            "सुख समाजु नहिं जाइ बखानी । देखत बिरति बिसारहिं ग्यानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जब भरतजी ने मुनि के प्रभाव को देखा, तो उसके सामने उन्हें (इन्द्र, वरुण, यम, कुबेर आदि) सभी लोकपालों के लोक तुच्छ जान पड़े । सुख की सामग्री का वर्णन नहीं हो सकता, जिसे देखकर ज्ञानी लोग भी वैराग्य भूल जाते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आसन सयन सुबसन बिताना । बन बाटिका बिहग मृग नाना ॥",
+            "सुरभि फूल फल अमिअ समाना । बिमल जलासय बिबिध बिधाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आसन, सेज, सुंदर वस्त्र, चँदोवे, वन, बगीचे, भाँति-भाँति के पक्षी और पशु, सुगंधित फूल और अमृत के समान स्वादिष्ट फल, अनेकों प्रकार के (तालाब, कुएँ, बावली आदि) निर्मल जलाशय, ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "असन पान सुचि अमिअ अमी से । देखि लोग सकुचात जमी से ॥",
+            "सुर सुरभी सुरतरु सबही कें । लखि अभिलाषु सुरेस सची कें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तथा अमृत के भी अमृत-सरीखे पवित्र खान-पान के पदार्थ थे, जिन्हें देखकर सब लोग संयमी पुरुषों (विरक्त मुनियों) की भाँति सकुचा रहे हैं । सभी के डेरों में (मनोवांछित वस्तु देने वाले) कामधेनु और कल्पवृक्ष हैं, जिन्हें देखकर इन्द्र और इन्द्राणी को भी अभिलाषा होती है (उनका भी मन ललचा जाता है) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रितु बसंत बह त्रिबिध बयारी । सब कहँ सुलभ पदारथ चारी ॥",
+            "स्रक चंदन बनितादिक भोगा । देखि हरष बिसमय बस लोगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वसन्त ऋतु है । शीतल, मंद, सुगंध तीन प्रकार की हवा बह रही है । सभी को (धर्म, अर्थ, काम और मोक्ष) चारों पदार्थ सुलभ हैं । माला, चंदन, स्त्री आदि भोगों को देखकर सब लोग हर्ष और विषाद के वश हो रहे हैं । (हर्ष तो भोग सामग्रियों को और मुनि के तप प्रभाव को देखकर होता है और विषाद इस बात से होता है कि श्री राम के वियोग में नियम-व्रत से रहने वाले हम लोग भोग-विलास में क्यों आ फँसे, कहीं इनमें आसक्त होकर हमारा मन नियम-व्रतों को न त्याग दे) ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संपति चकई भरतु चक मुनि आयस खेलवार ।",
+            "तेहि निसि आश्रम पिंजराँ राखे भा भिनुसार ॥ २१५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सम्पत्ति (भोग-विलास की सामग्री) चकवी है और भरतजी चकवा हैं और मुनि की आज्ञा खेल है, जिसने उस रात को आश्रम रूपी पिंजड़े में दोनों को बंद कर रखा और ऐसे ही सबेरा हो गया । (जैसे किसी बहेलिए के द्वारा एक पिंजड़े में रखे जाने पर भी चकवी-चकवे का रात को संयोग नहीं होता, वैसे ही भरद्वाजजी की आज्ञा से रात भर भोग सामग्रियों के साथ रहने पर भी भरतजी ने मन से भी उनका स्पर्श तक नहीं किया । ) ॥ २१५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपारायण, उन्नीसवाँ विश्राम"
+        ]
+    }
+]
