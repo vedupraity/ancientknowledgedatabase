@@ -1,0 +1,64 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Invocations"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Shlokas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "kēkīkaṇṭhābhanīlaṃ suravaravilasadviprapādābjacihnaṃ",
+            "śōbhāḍhyaṃ pītavastraṃ sarasijanayanaṃ sarvadā suprasannam.",
+            "pāṇau nārācacāpaṃ kapinikarayutaṃ bandhunā sēvyamānaṃ",
+            "naumīḍyaṃ jānakīśaṃ raghuvaramaniśaṃ puṣpakārūḍharāmam..1.. [7-1]",
+            "kōsalēndrapadakañjamañjulau kōmalāvajamahēśavanditau.",
+            "jānakīkarasarōjalālitau cintakasya manabhṛṅgasaḍginau..2.. [7-2]",
+            "kundaindudaragaurasundaraṃ ambikāpatimabhīṣṭasiddhidam.",
+            "kāruṇīkakalakañjalōcanaṃ naumi śaṃkaramanaṃgamōcanam..3.. [7-3]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "I unceasingly extol Sri Rama, the praiseworthy lord of Sita (Janaka's Daughter), the chief of Raghu's line, possessed of a form greenish blue as the neck of a peacock and adorned with a print of the Brahmana's lotus-foot-which testifies to His being the greatest of all gods-rich in splendour, clad in yellow robes, lotus-eyed, ever-propitious, holding a bow and arrow in His hands, mounted on the aerial car named Puspaka, accompanied by a host of monkeys and waited upon by His own brother (Laksmana). The lotus-feet of Sri Rama (the Lord of Kosala), charming and delicate, are adored by Brahma (the Unborn) and the greatest Lord Siva and fondled by the lotus hands of Janaka's Daughter and are the haunt of the bee-like mind of the worshipper. (2) I glorify the All-merciful Lord Sankara, possessing a comely form, white as the jasmine flower, the moon and the conch, with eyes resembling a lovely lotus, Ambika's (Mother Parvati's) Spouse, the bestower of one's desired fruit and the deliverer from the clutches of carnality."
+        ]
+    }
+]
