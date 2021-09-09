@@ -1,0 +1,317 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गुनागार संसार दुख रहित बिगत संदेह ।",
+            "तजि मम चरन सरोज प्रिय तिन्ह कहुँ देह न गेह ॥ ४५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "गुणों के घर, संसार के दुःखों से रहित और संदेहों से सर्वथा छूटे हुए होते हैं । मेरे चरण कमलों को छोड़कर उनको न देह ही प्रिय होती है, न घर ही ॥ ४५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निज गुन श्रवन सुनत सकुचाहीं । पर गुन सुनत अधिक हरषाहीं ॥",
+            "सम सीतल नहिं त्यागहिं नीती । सरल सुभाउ सबहि सन प्रीति ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कानों से अपने गुण सुनने में सकुचाते हैं, दूसरों के गुण सुनने से विशेष हर्षित होते हैं । सम और शीतल हैं, न्याय का कभी त्याग नहीं करते । सरल स्वभाव होते हैं और सभी से प्रेम रखते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जप तप ब्रत दम संजम नेमा । गुरु गोबिंद बिप्र पद प्रेमा ॥",
+            "श्रद्धा छमा मयत्री दाया । मुदिता मम पद प्रीति अमाया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे जप, तप, व्रत, दम, संयम और नियम में रत रहते हैं और गुरु, गोविंद तथा ब्राह्मणों के चरणों में प्रेम रखते हैं । उनमें श्रद्धा, क्षमा, मैत्री, दया, मुदिता (प्रसन्नता) और मेरे चरणों में निष्कपट प्रेम होता है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिरति बिबेक बिनय बिग्याना । बोध जथारथ बेद पुराना ॥",
+            "दंभ मान मद करहिं न काऊ । भूलि न देहिं कुमारग पाऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तथा वैराग्य, विवेक, विनय, विज्ञान (परमात्मा के तत्व का ज्ञान) और वेद-पुराण का यथार्थ ज्ञान रहता है । वे दम्भ, अभिमान और मद कभी नहीं करते और भूलकर भी कुमार्ग पर पैर नहीं रखते ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गावहिं सुनहिं सदा मम लीला । हेतु रहित परहित रत सीला ॥",
+            "मुनि सुनु साधुन्ह के गुन जेते । कहि न सकहिं सादर श्रुति तेते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सदा मेरी लीलाओं को गाते-सुनते हैं और बिना ही कारण दूसरों के हित में लगे रहने वाले होते हैं । हे मुनि! सुनो, संतों के जितने गुण हैं, उनको सरस्वती और वेद भी नहीं कह सकते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहि सक न सारद सेष नारद सुनत पद पंकज गहे ।",
+            "अस दीनबंधु कृपाल अपने भगत गुन निज मुख कहे ॥",
+            "सिरु नाइ बारहिं बार चरनन्हि ब्रह्मपुर नारद गए ।",
+            "ते धन्य तुलसीदास आस बिहाइ जे हरि रँग रँए ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "‘शेष और शारदा भी नहीं कह सकते’ यह सुनते ही नारदजी ने श्री रामजी के चरणकमल पकड़ लिए । दीनबंधु कृपालु प्रभु ने इस प्रकार अपने श्रीमुख से अपने भक्तों के गुण कहे । भगवान् के चरणों में बार-बार सिर नवाकर नारदजी ब्रह्मलोक को चले गए । तुलसीदासजी कहते हैं कि वे पुरुष धन्य हैं, जो सब आशा छोड़कर केवल श्री हरि के रंग में रँग गए हैं ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रावनारि जसु पावन गावहिं सुनहिं जे लोग ।",
+            "राम भगति दृढ़ पावहिं बिनु बिराग जप जोग ॥ ४६ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो लोग रावण के शत्रु श्री रामजी का पवित्र यश गावेंगे और सुनेंगे, वे वैराग्य, जप और योग के बिना ही श्री रामजी की दृढ़ भक्ति पावेंगे ॥ ४६ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दीप सिखा सम जुबति तन मन जनि होसि पतंग ।",
+            "भजहि राम तजि काम मद करहि सदा सतसंग ॥ ४६ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "युवती स्त्रियों का शरीर दीपक की लौ के समान है, हे मन! तू उसका पतिंगा न बन । काम और मद को छोड़कर श्री रामचंद्रजी का भजन कर और सदा सत्संग कर ॥ ४६ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपारायण, बाईसवाँ विश्राम"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इति श्रीमद्रामचरितमानसे सकलकलिकलुषविध्वंसने तृतीयः सोपानः समाप्तः ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered"
+        ],
+        "text": [
+            "कलियुग के संपूर्ण पापों को विध्वंस करने वाले श्री रामचरितमानस का यह तीसरा सोपान समाप्त हुआ ।"
+        ]
+    }
+]

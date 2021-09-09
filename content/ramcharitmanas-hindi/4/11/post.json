@@ -1,0 +1,548 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं देखउँ तुम्ह नाहीं गीधहि दृष्टि अपार ।",
+            "बूढ़ भयउँ न त करतेउँ कछुक सहाय तुम्हार ॥ २८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं उन्हें देख रहा हूँ, तुम नहीं देख सकते, क्योंकि गीध की दृष्टि अपार होती है (बहुत दूर तक जाती है) । क्या करूँ? मैं बूढ़ा हो गया, नहीं तो तुम्हारी कुछ तो सहायता अवश्य करता ॥ २८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जो नाघइ सत जोजन सागर । करइ सो राम काज मति आगर ॥",
+            "मोहि बिलोकि धरहु मन धीरा । राम कृपाँ कस भयउ सरीरा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो सौ योजन (चार सौ कोस) समुद्र लाँघ सकेगा और बुद्धिनिधान होगा, वही श्री रामजी का कार्य कर सकेगा । (निराश होकर घबराओ मत) मुझे देखकर मन में धीरज धरो । देखो, श्री रामजी की कृपा से (देखते ही देखते) मेरा शरीर कैसा हो गया (बिना पाँख का बेहाल था, पाँख उगने से सुंदर हो गया) ! ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पापिउ जाकर नाम सुमिरहीं । अति अपार भवसागर तरहीं ॥",
+            "तासु दूत तुम्ह तजि कदराई राम हृदयँ धरि करहु उपाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पापी भी जिनका नाम स्मरण करके अत्यंत पार भवसागर से तर जाते हैं । तुम उनके दूत हो, अतः कायरता छोड़कर श्री रामजी को हृदय में धारण करके उपाय करो ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस कहि गरुड़ गीध जब गयऊ । तिन्ह के मन अति बिसमय भयऊ ॥",
+            "निज निज बल सब काहूँ भाषा । पार जाइ कर संसय राखा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(काकभुशुण्डिजी कहते हैं - ) हे गरुड़जी! इस प्रकार कहकर जब गीध चला गया, तब उन (वानरों) के मन में अत्यंत विस्मय हुआ । सब किसी ने अपना-अपना बल कहा । पर समुद्र के पार जाने में सभी ने संदेह प्रकट किया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जरठ भयउँ अब कहइ रिछेसा । नहिं तन रहा प्रथम बल लेसा ॥",
+            "जबहिं त्रिबिक्रम भए खरारी । तब मैं तरुन रहेउँ बल भारी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऋक्षराज जाम्बवान् कहने लगे- मैं बूढ़ा हो गया । शरीर में पहले वाले बल का लेश भी नहीं रहा । जब खरारि (खर के शत्रु श्री राम) वामन बने थे, तब मैं जवान था और मुझ में बड़ा बल था ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बलि बाँधत प्रभु बाढ़ेउ सो तनु बरनि न जाइ ।",
+            "उभय घरी महँ दीन्हीं सात प्रदच्छिन धाइ ॥ २९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बलि के बाँधते समय प्रभु इतने बढ़े कि उस शरीर का वर्णन नहीं हो सकता, किंतु मैंने दो ही घड़ी में दौड़कर (उस शरीर की) सात प्रदक्षिणाएँ कर लीं ॥ २९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अंगद कहइ जाउँ मैं पारा । जियँ संसय कछु फिरती बारा ॥",
+            "जामवंत कह तुम्ह सब लायक । पठइअ किमि सबही कर नायक ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अंगद ने कहा - मैं पार तो चला जाऊँगा, परंतु लौटते समय के लिए हृदय में कुछ संदेह है । जाम्बवान् ने कहा - तुम सब प्रकार से योग्य हो, परंतु तुम सबके नेता हो, तुम्हे कैसे भेजा जाए? ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहइ रीछपति सुनु हनुमाना । का चुप साधि रहेहु बलवाना ॥",
+            "पवन तनय बल पवन समाना । बुधि बिबेक बिग्यान निधाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऋक्षराज जाम्बवान् ने श्री हनुमानजी से कहा - हे हनुमान्! हे बलवान्! सुनो, तुमने यह क्या चुप साध रखी है? तुम पवन के पुत्र हो और बल में पवन के समान हो । तुम बुद्धि-विवेक और विज्ञान की खान हो ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कवन सो काज कठिन जग माहीं । जो नहिं होइ तात तुम्ह पाहीं ॥",
+            "राम काज लगि तव अवतारा । सुनतहिं भयउ पर्बताकारा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जगत् में कौन सा ऐसा कठिन काम है जो हे तात! तुमसे न हो सके । श्री रामजी के कार्य के लिए ही तो तुम्हारा अवतार हुआ है । यह सुनते ही हनुमान् जी पर्वत के आकार के (अत्यंत विशालकाय) हो गए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कनक बरन तन तेज बिराजा । मानहुँ अपर गिरिन्ह कर राजा ॥",
+            "सिंहनाद करि बारहिं बारा । लीलहिं नाघउँ जलनिधि खारा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनका सोने का सा रंग है, शरीर पर तेज सुशोभित है, मानो दूसरा पर्वतों का राजा सुमेरु हो । हनुमान् जी ने बार-बार सिंहनाद करके कहा - मैं इस खारे समुद्र को खेल में ही लाँघ सकता हूँ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सहित सहाय रावनहि मारी । आनउँ इहाँ त्रिकूट उपारी ॥",
+            "जामवंत मैं पूँछउँ तोही । उचित सिखावनु दीजहु मोही ॥ ५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और सहायकों सहित रावण को मारकर त्रिकूट पर्वत को उखाड़कर यहाँ ला सकता हूँ । हे जाम्बवान्! मैं तुमसे पूछता हूँ, तुम मुझे उचित सीख देना (कि मुझे क्या करना चाहिए) ॥ ५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एतना करहु तात तुम्ह जाई । सीतहि देखि कहहु सुधि आई ॥",
+            "तब निज भुज बल राजिवनैना । कौतुक लागि संग कपि सेना ॥ ६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(जाम्बवान् ने कहा - ) हे तात! तुम जाकर इतना ही करो कि सीताजी को देखकर लौट आओ और उनकी खबर कह दो । फिर कमलनयन श्री रामजी अपने बाहुबल से (ही राक्षसों का संहार कर सीताजी को ले आएँगे, केवल) खेल के लिए ही वे वानरों की सेना साथ लेंगे ॥ ६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कपि सेन संग सँघारि निसिचर रामु सीतहि आनि हैं ।",
+            "त्रैलोक पावन सुजसु सुर मुनि नारदादि बखानि हैं ॥",
+            "जो सुनत गावत कहत समुक्षत परमपद नर पावई ।",
+            "रघुबीर पद पाथोज मधुकर दास तुलसी गावई ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वानरों की सेना साथ लेकर राक्षसों का संहार करके श्री रामजी सीताजी को ले आएँगे । तब देवता और नारदादि मुनि भगवान् के तीनों लोकों को पवित्र करने वाले सुंदर यश का बखान करेंगे, जिसे सुनने, गाने, कहने और समझने से मनुष्य परमपद पाते हैं और जिसे श्री रघुवीर के चरणकमल का मधुकर (भ्रमर) तुलसीदास गाता है ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भव भेषज रघुनाथ जसु सुनहिं जे नर अरु नारि ।",
+            "तिन्ह कर सकल मनोरथ सिद्ध करहिं त्रिसिरारि ॥ ३० क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुवीर का यश भव (जन्म-मरण) रूपी रोग की (अचूक) दवा है । जो पुरुष और स्त्री इसे सुनेंगे, त्रिशिरा के शत्रु श्री रामजी उनके सब मनोरथों को सिद्ध करेंगे ॥ ३० (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नीलोत्पल तन स्याम काम कोटि सोभा अधिक ।",
+            "सुनिअ तासु गुन ग्राम जासु नाम अघ खग बधिक ॥ ३० ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिनका नीले कमल के समान श्याम शरीर है, जिनकी शोभा करोड़ों कामदेवों से भी अधिक है और जिनका नाम पापरूपी पक्षियों को मारने के लिए बधिक (व्याधा) के समान है, उन श्री राम के गुणों के समूह (लीला) को अवश्य सुनना चाहिए ॥ ३० (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपरायण, तेईसवाँ विश्राम"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इति श्रीमद्रामचरितमानसे सकलकलिकलुषविध्वंसने चतुर्थ: सोपानः समाप्त : ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered"
+        ],
+        "text": [
+            "कलियुग के समस्त पापों के नाश करने वाले श्री रामचरित् मानस का यह चौथा सोपान समाप्त हुआ ।"
+        ]
+    }
+]

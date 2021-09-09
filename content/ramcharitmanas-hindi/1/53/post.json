@@ -1,0 +1,2555 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाथ संभुधनु भंजनिहारा । होइहि केउ एक दास तुम्हारा ॥",
+            "आयसु काह कहिअ किन मोही । सुनि रिसाइ बोले मुनि कोही ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! शिवजी के धनुष को तोड़ने वाला आपका कोई एक दास ही होगा । क्या आज्ञा है, मुझसे क्यों नहीं कहते? यह सुनकर क्रोधी मुनि रिसाकर बोले - ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सेवकु सो जो करै सेवकाई । अरि करनी करि करिअ लराई ॥",
+            "सुनहु राम जेहिं सिवधनु तोरा । सहसबाहु सम सो रिपु मोरा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सेवक वह है जो सेवा का काम करे । शत्रु का काम करके तो लड़ाई ही करनी चाहिए । हे राम! सुनो, जिसने शिवजी के धनुष को तोड़ा है, वह सहस्रबाहु के समान मेरा शत्रु है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सो बिलगाउ बिहाइ समाजा । न त मारे जैहहिं सब राजा ॥",
+            "सुनि मुनि बचन लखन मुसुकाने । बोले परसुधरहि अपमाने ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह इस समाज को छोड़कर अलग हो जाए, नहीं तो सभी राजा मारे जाएँगे । मुनि के वचन सुनकर लक्ष्मणजी मुस्कुराए और परशुरामजी का अपमान करते हुए बोले - ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहु धनुहीं तोरीं लरिकाईं । कबहुँ न असि रिस कीन्हि गोसाईं ॥",
+            "एहि धनु पर ममता केहि हेतू । सुनि रिसाइ कह भृगुकुलकेतू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे गोसाईं! लड़कपन में हमने बहुत सी धनुहियाँ तोड़ डालीं, किन्तु आपने ऐसा क्रोध कभी नहीं किया । इसी धनुष पर इतनी ममता किस कारण से है? यह सुनकर भृगुवंश की ध्वजा स्वरूप परशुरामजी कुपित होकर कहने लगे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रे नृप बालक काल बस बोलत तोहि न सँभार ।",
+            "धनुही सम तिपुरारि धनु बिदित सकल संसार ॥ २७१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अरे राजपुत्र! काल के वश होने से तुझे बोलने में कुछ भी होश नहीं है । सारे संसार में विख्यात शिवजी का यह धनुष क्या धनुही के समान है? ॥ २७१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखन कहा हँसि हमरें जाना । सुनहु देव सब धनुष समाना ॥",
+            "का छति लाभु जून धनु तोरें । देखा राम नयन के भोरें ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी ने हँसकर कहा - हे देव! सुनिए, हमारे जान में तो सभी धनुष एक से ही हैं । पुराने धनुष के तोड़ने में क्या हानि-लाभ! श्री रामचन्द्रजी ने तो इसे नवीन के धोखे से देखा था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छुअत टूट रघुपतिहु न दोसू । मुनि बिनु काज करिअ कत रोसू ॥",
+            "बोले चितइ परसु की ओरा । रे सठ सुनेहि सुभाउ न मोरा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर यह तो छूते ही टूट गया, इसमें रघुनाथजी का भी कोई दोष नहीं है । मुनि! आप बिना ही कारण किसलिए क्रोध करते हैं? परशुरामजी अपने फरसे की ओर देखकर बोले - अरे दुष्ट! तूने मेरा स्वभाव नहीं सुना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बालकु बोलि बधउँ नहिं तोही । केवल मुनि जड़ जानहि मोही ॥",
+            "बाल ब्रह्मचारी अति कोही । बिस्व बिदित छत्रियकुल द्रोही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं तुझे बालक जानकर नहीं मारता हूँ । अरे मूर्ख! क्या तू मुझे निरा मुनि ही जानता है । मैं बालब्रह्मचारी और अत्यन्त क्रोधी हूँ । क्षत्रियकुल का शत्रु तो विश्वभर में विख्यात हूँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भुजबल भूमि भूप बिनु कीन्ही । बिपुल बार महिदेवन्ह दीन्ही ॥",
+            "सहसबाहु भुज छेदनिहारा । परसु बिलोकु महीपकुमारा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अपनी भुजाओं के बल से मैंने पृथ्वी को राजाओं से रहित कर दिया और बहुत बार उसे ब्राह्मणों को दे डाला । हे राजकुमार! सहस्रबाहु की भुजाओं को काटने वाले मेरे इस फरसे को देख! ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मातु पितहि जनि सोचबस करसि महीसकिसोर ।",
+            "गर्भन्ह के अर्भक दलन परसु मोर अति घोर ॥ २७२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अरे राजा के बालक! तू अपने माता-पिता को सोच के वश न कर । मेरा फरसा बड़ा भयानक है, यह गर्भों के बच्चों का भी नाश करने वाला है ॥ २७२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिहसि लखनु बोले मृदु बानी । अहो मुनीसु महा भटमानी ॥",
+            "पुनि पुनि मोहि देखाव कुठारू । चहत उड़ावन फूँकि पहारू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी हँसकर कोमल वाणी से बोले - अहो, मुनीश्वर तो अपने को बड़ा भारी योद्धा समझते हैं । बार-बार मुझे कुल्हाड़ी दिखाते हैं । फूँक से पहाड़ उड़ाना चाहते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इहाँ कुम्हड़बतिया कोउ नाहीं । जे तरजनी देखि मरि जाहीं ॥",
+            "देखि कुठारु सरासन बाना । मैं कछु कहा सहित अभिमाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यहाँ कोई कुम्हड़े की बतिया (छोटा कच्चा फल) नहीं है, जो तर्जनी (सबसे आगे की) अँगुली को देखते ही मर जाती हैं । कुठार और धनुष-बाण देखकर ही मैंने कुछ अभिमान सहित कहा था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भृगुसुत समुझि जनेउ बिलोकी । जो कछु कहहु सहउँ रिस रोकी ॥",
+            "सुर महिसुर हरिजन अरु गाई । हमरें कुल इन्ह पर न सुराई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भृगुवंशी समझकर और यज्ञोपवीत देखकर तो जो कुछ आप कहते हैं, उसे मैं क्रोध को रोककर सह लेता हूँ । देवता, ब्राह्मण, भगवान के भक्त और गो- इन पर हमारे कुल में वीरता नहीं दिखाई जाती ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बधें पापु अपकीरति हारें । मारतहूँ पा परिअ तुम्हारें ॥",
+            "कोटि कुलिस सम बचनु तुम्हारा । ब्यर्थ धरहु धनु बान कुठारा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "क्योंकि इन्हें मारने से पाप लगता है और इनसे हार जाने पर अपकीर्ति होती है, इसलिए आप मारें तो भी आपके पैर ही पड़ना चाहिए । आपका एक-एक वचन ही करोड़ों वज्रों के समान है । धनुष-बाण और कुठार तो आप व्यर्थ ही धारण करते हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जो बिलोकि अनुचित कहेउँ छमहु महामुनि धीर ।",
+            "सुनि सरोष भृगुबंसमनि बोले गिरा गभीर ॥ २७३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इन्हें (धनुष-बाण और कुठार को) देखकर मैंने कुछ अनुचित कहा हो, तो उसे हे धीर महामुनि! क्षमा कीजिए । यह सुनकर भृगुवंशमणि परशुरामजी क्रोध के साथ गंभीर वाणी बोले - ॥ २७३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कौसिक सुनहु मंद यहु बालकु । कुटिल कालबस निज कुल घालकु ॥",
+            "भानु बंस राकेस कलंकू । निपट निरंकुस अबुध असंकू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे विश्वामित्र! सुनो, यह बालक बड़ा कुबुद्धि और कुटिल है, काल के वश होकर यह अपने कुल का घातक बन रहा है । यह सूर्यवंश रूपी पूर्ण चन्द्र का कलंक है । यह बिल्कुल उद्दण्ड, मूर्ख और निडर है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "काल कवलु होइहि छन माहीं । कहउँ पुकारि खोरि मोहि नाहीं ॥",
+            "तुम्ह हटकहु जौं चहहु उबारा । कहि प्रतापु बलु रोषु हमारा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अभी क्षण भर में यह काल का ग्रास हो जाएगा । मैं पुकारकर कहे देता हूँ, फिर मुझे दोष नहीं है । यदि तुम इसे बचाना चाहते हो, तो हमारा प्रताप, बल और क्रोध बतलाकर इसे मना कर दो ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखन कहेउ मुनि सुजसु तुम्हारा । तुम्हहि अछत को बरनै पारा ॥",
+            "अपने मुँह तुम्ह आपनि करनी । बार अनेक भाँति बहु बरनी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी ने कहा - हे मुनि! आपका सुयश आपके रहते दूसरा कौन वर्णन कर सकता है? आपने अपने ही मुँह से अपनी करनी अनेकों बार बहुत प्रकार से वर्णन की है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नहिं संतोषु त पुनि कछु कहहू । जनि रिस रोकि दुसह दुख सहहू ॥",
+            "बीरब्रती तुम्ह धीर अछोभा । गारी देत न पावहु सोभा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इतने पर भी संतोष न हुआ हो तो फिर कुछ कह डालिए । क्रोध रोककर असह्य दुःख मत सहिए । आप वीरता का व्रत धारण करने वाले, धैर्यवान और क्षोभरहित हैं । गाली देते शोभा नहीं पाते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सूर समर करनी करहिं कहि न जनावहिं आपु ।",
+            "बिद्यमान रन पाइ रिपु कायर कथहिं प्रतापु ॥ २७४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शूरवीर तो युद्ध में करनी (शूरवीरता का कार्य) करते हैं, कहकर अपने को नहीं जनाते । शत्रु को युद्ध में उपस्थित पाकर कायर ही अपने प्रताप की डींग मारा करते हैं ॥ २७४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह तौ कालु हाँक जनु लावा । बार बार मोहि लागि बोलावा ॥",
+            "सुनत लखन के बचन कठोरा । परसु सुधारि धरेउ कर घोरा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप तो मानो काल को हाँक लगाकर बार-बार उसे मेरे लिए बुलाते हैं । लक्ष्मणजी के कठोर वचन सुनते ही परशुरामजी ने अपने भयानक फरसे को सुधारकर हाथ में ले लिया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब जनि देइ दोसु मोहि लोगू । कटुबादी बालकु बधजोगू ॥",
+            "बाल बिलोकि बहुत मैं बाँचा । अब यहु मरनिहार भा साँचा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(और बोले - ) अब लोग मुझे दोष न दें । यह कडुआ बोलने वाला बालक मारे जाने के ही योग्य है । इसे बालक देखकर मैंने बहुत बचाया, पर अब यह सचमुच मरने को ही आ गया है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कौसिक कहा छमिअ अपराधू । बाल दोष गुन गनहिं न साधू ॥",
+            "खर कुठार मैं अकरुन कोही । आगें अपराधी गुरुद्रोही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विश्वामित्रजी ने कहा - अपराध क्षमा कीजिए । बालकों के दोष और गुण को साधु लोग नहीं गिनते । (परशुरामजी बोले - ) तीखी धार का कुठार, मैं दयारहित और क्रोधी और यह गुरुद्रोही और अपराधी मेरे सामने- ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "उतर देत छोड़उँ बिनु मारें । केवल कौसिक सील तुम्हारें ॥",
+            "न त एहि काटि कुठार कठोरें । गुरहि उरिन होतेउँ श्रम थोरें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उत्तर दे रहा है । इतने पर भी मैं इसे बिना मारे छोड़ रहा हूँ, सो हे विश्वामित्र! केवल तुम्हारे शील (प्रेम) से । नहीं तो इसे इस कठोर कुठार से काटकर थोड़े ही परिश्रम से गुरु से उऋण हो जाता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गाधिसूनु कह हृदयँ हँसि मुनिहि हरिअरइ सूझ ।",
+            "अयमय खाँड़ न ऊखमय अजहुँ न बूझ अबूझ ॥ २७५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विश्वामित्रजी ने हृदय में हँसकर कहा - मुनि को हरा ही हरा सूझ रहा है (अर्थात सर्वत्र विजयी होने के कारण ये श्री राम-लक्ष्मण को भी साधारण क्षत्रिय ही समझ रहे हैं), किन्तु यह लोहमयी (केवल फौलाद की बनी हुई) खाँड़ (खाँड़ा-खड्ग) है, ऊख की (रस की) खाँड़ नहीं है (जो मुँह में लेते ही गल जाए । खेद है,) मुनि अब भी बेसमझ बने हुए हैं, इनके प्रभाव को नहीं समझ रहे हैं ॥ २७५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहेउ लखन मुनि सीलु तुम्हारा । को नहिं जान बिदित संसारा ॥",
+            "माता पितहि उरिन भए नीकें । गुर रिनु रहा सोचु बड़ जीकें ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी ने कहा - हे मुनि! आपके शील को कौन नहीं जानता? वह संसार भर में प्रसिद्ध है । आप माता-पिता से तो अच्छी तरह उऋण हो ही गए, अब गुरु का ऋण रहा, जिसका जी में बड़ा सोच लगा है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सो जनु हमरेहि माथे काढ़ा । दिन चलि गए ब्याज बड़ बाढ़ा ॥",
+            "अब आनिअ ब्यवहरिआ बोली । तुरत देउँ मैं थैली खोली ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह मानो हमारे ही मत्थे काढ़ा था । बहुत दिन बीत गए, इससे ब्याज भी बहुत बढ़ गया होगा । अब किसी हिसाब करने वाले को बुला लाइए, तो मैं तुरंत थैली खोलकर दे दूँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि कटु बचन कुठार सुधारा । हाय हाय सब सभा पुकारा ॥",
+            "भृगुबर परसु देखावहु मोही । बिप्र बिचारि बचउँ नृपदोही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी के कडुए वचन सुनकर परशुरामजी ने कुठार सम्हाला । सारी सभा हाय-हाय! करके पुकार उठी । (लक्ष्मणजी ने कहा - ) हे भृगुश्रेष्ठ! आप मुझे फरसा दिखा रहे हैं? पर हे राजाओं के शत्रु! मैं ब्राह्मण समझकर बचा रहा हूँ (तरह दे रहा हूँ) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मिले न कबहुँ सुभट रन गाढ़े । द्विज देवता घरहि के बा़ढ़े ॥",
+            "अनुचित कहि सब लोग पुकारे । रघुपति सयनहिं लखनु नेवारे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपको कभी रणधीर बलवान् वीर नहीं मिले हैं । हे ब्राह्मण देवता ! आप घर ही में बड़े हैं । यह सुनकर ‘अनुचित है, अनुचित है’ कहकर सब लोग पुकार उठे । तब श्री रघुनाथजी ने इशारे से लक्ष्मणजी को रोक दिया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखन उतर आहुति सरिस भृगुबर कोपु कृसानु ।",
+            "बढ़त देखि जल सम बचन बोले रघुकुलभानु ॥ २७६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी के उत्तर से, जो आहुति के समान थे, परशुरामजी के क्रोध रूपी अग्नि को बढ़ते देखकर रघुकुल के सूर्य श्री रामचंद्रजी जल के समान (शांत करने वाले) वचन बोले - ॥ २७६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाथ करहु बालक पर छोहु । सूध दूधमुख करिअ न कोहू ॥",
+            "जौं पै प्रभु प्रभाउ कछु जाना । तौ कि बराबरि करत अयाना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ ! बालक पर कृपा कीजिए । इस सीधे और दूधमुँहे बच्चे पर क्रोध न कीजिए । यदि यह प्रभु का (आपका) कुछ भी प्रभाव जानता, तो क्या यह बेसमझ आपकी बराबरी करता ? ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं लरिका कछु अचगरि करहीं । गुर पितु मातु मोद मन भरहीं ॥",
+            "करिअ कृपा सिसु सेवक जानी । तुम्ह सम सील धीर मुनि ग्यानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बालक यदि कुछ चपलता भी करते हैं, तो गुरु, पिता और माता मन में आनंद से भर जाते हैं । अतः इसे छोटा बच्चा और सेवक जानकर कृपा कीजिए । आप तो समदर्शी, सुशील, धीर और ज्ञानी मुनि हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम बचन सुनि कछुक जुड़ाने । कहि कछु लखनु बहुरि मुसुकाने ॥",
+            "हँसत देखि नख सिख रिस ब्यापी । राम तोर भ्राता बड़ पापी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचंद्रजी के वचन सुनकर वे कुछ ठंडे पड़े । इतने में लक्ष्मणजी कुछ कहकर फिर मुस्कुरा दिए । उनको हँसते देखकर परशुरामजी के नख से शिखा तक (सारे शरीर में) क्रोध छा गया । उन्होंने कहा - हे राम! तेरा भाई बड़ा पापी है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गौर सरीर स्याम मन माहीं । कालकूट मुख पयमुख नाहीं ॥",
+            "सहज टेढ़ अनुहरइ न तोही । नीचु मीचु सम देख न मोही ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह शरीर से गोरा, पर हृदय का बड़ा काला है । यह विषमुख है, दूधमुँहा नहीं । स्वभाव ही टेढ़ा है, तेरा अनुसरण नहीं करता (तेरे जैसा शीलवान नहीं है) । यह नीच मुझे काल के समान नहीं देखता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लखन कहेउ हँसि सुनहु मुनि क्रोधु पाप कर मूल ।",
+            "जेहि बस जन अनुचित करहिं चरहिं बिस्व प्रतिकूल ॥ २७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लक्ष्मणजी ने हँसकर कहा - हे मुनि! सुनिए, क्रोध पाप का मूल है, जिसके वश में होकर मनुष्य अनुचित कर्म कर बैठते हैं और विश्वभर के प्रतिकूल चलते (सबका अहित करते) हैं ॥ २७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं तुम्हार अनुचर मुनिराया । परिहरि कोपु करिअ अब दाया ॥",
+            "टूट चाप नहिं जुरिहि रिसाने । बैठिअ होइहिं पाय पिराने ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे मुनिराज! मैं आपका दास हूँ । अब क्रोध त्यागकर दया कीजिए । टूटा हुआ धनुष क्रोध करने से जुड़ नहीं जाएगा । खड़े-खड़े पैर दुःखने लगे होंगे, बैठ जाइए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं अति प्रिय तौ करिअ उपाई । जोरिअ कोउ बड़ गुनी बोलाई ॥",
+            "बोलत लखनहिं जनकु डेराहीं । मष्ट करहु अनुचित भल नाहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यदि धनुष अत्यन्त ही प्रिय हो, तो कोई उपाय किया जाए और किसी बड़े गुणी (कारीगर) को बुलाकर जुड़वा दिया जाए । लक्ष्मणजी के बोलने से जनकजी डर जाते हैं और कहते हैं - बस, चुप रहिए, अनुचित बोलना अच्छा नहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "थर थर काँपहिं पुर नर नारी । छोट कुमार खोट बड़ भारी ॥",
+            "भृगुपति सुनि सुनि निरभय बानी । रिस तन जरइ होई बल हानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जनकपुर के स्त्री-पुरुष थर-थर काँप रहे हैं (और मन ही मन कह रहे हैं कि) छोटा कुमार बड़ा ही खोटा है । लक्ष्मणजी की निर्भय वाणी सुन-सुनकर परशुरामजी का शरीर क्रोध से जला जा रहा है और उनके बल की हानि हो रही है (उनका बल घट रहा है) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बोले रामहि देइ निहोरा । बचउँ बिचारि बंधु लघु तोरा ॥",
+            "मनु मलीन तनु सुंदर कैसें । बिष रस भरा कनक घटु जैसें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब श्री रामचन्द्रजी पर एहसान जनाकर परशुरामजी बोले - तेरा छोटा भाई समझकर मैं इसे बचा रहा हूँ । यह मन का मैला और शरीर का कैसा सुंदर है, जैसे विष के रस से भरा हुआ सोने का घड़ा! ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि लछिमन बिहसे बहुरि नयन तरेरे राम ।",
+            "गुर समीप गवने सकुचि परिहरि बानी बाम ॥ २७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह सुनकर लक्ष्मणजी फिर हँसे । तब श्री रामचन्द्रजी ने तिरछी नजर से उनकी ओर देखा, जिससे लक्ष्मणजी सकुचाकर, विपरीत बोलना छोड़कर, गुरुजी के पास चले गए ॥ २७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अति बिनीत मृदु सीतल बानी । बोले रामु जोरि जुग पानी ॥",
+            "सुनहु नाथ तुम्ह सहज सुजाना । बालक बचनु करिअ नहिं काना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी दोनों हाथ जोड़कर अत्यन्त विनय के साथ कोमल और शीतल वाणी बोले - हे नाथ! सुनिए, आप तो स्वभाव से ही सुजान हैं । आप बालक के वचन पर कान न दीजिए (उसे सुना-अनसुना कर दीजिए) ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बररै बालकु एकु सुभाऊ । इन्हहि न संत बिदूषहिं काऊ ॥",
+            "तेहिं नाहीं कछु काज बिगारा । अपराधी मैं नाथ तुम्हारा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बर्रै और बालक का एक स्वभाव है । संतजन इन्हें कभी दोष नहीं लगाते । फिर उसने (लक्ष्मण ने) तो कुछ काम भी नहीं बिगाड़ा है, हे नाथ! आपका अपराधी तो मैं हूँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कृपा कोपु बधु बँधब गोसाईं । मो पर करिअ दास की नाईं ॥",
+            "कहिअ बेगि जेहि बिधि रिस जाई । मुनिनायक सोइ करौं उपाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अतः हे स्वामी! कृपा, क्रोध, वध और बंधन, जो कुछ करना हो, दास की तरह (अर्थात दास समझकर) मुझ पर कीजिए । जिस प्रकार से शीघ्र आपका क्रोध दूर हो । हे मुनिराज! बताइए, मैं वही उपाय करूँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कह मुनि राम जाइ रिस कैसें । अजहुँ अनुज तव चितव अनैसें ॥",
+            "एहि कें कंठ कुठारु न दीन्हा । तौ मैं कहा कोपु करि कीन्हा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि ने कहा - हे राम! क्रोध कैसे जाए, अब भी तेरा छोटा भाई टेढ़ा ही ताक रहा है । इसकी गर्दन पर मैंने कुठार न चलाया, तो क्रोध करके किया ही क्या? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गर्भ स्रवहिं अवनिप रवनि सुनि कुठार गति घोर ।",
+            "परसु अछत देखउँ जिअत बैरी भूपकिसोर ॥ २७९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे जिस कुठार की घोर करनी सुनकर राजाओं की स्त्रियों के गर्भ गिर पड़ते हैं, उसी फरसे के रहते मैं इस शत्रु राजपुत्र को जीवित देख रहा हूँ ॥ २७९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहइ न हाथु दहइ रिस छाती । भा कुठारु कुंठित नृपघाती ॥",
+            "भयउ बाम बिधि फिरेउ सुभाऊ । मोरे हृदयँ कृपा कसि काऊ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हाथ चलता नहीं, क्रोध से छाती जली जाती है । (हाय!) राजाओं का घातक यह कुठार भी कुण्ठित हो गया । विधाता विपरीत हो गया, इससे मेरा स्वभाव बदल गया, नहीं तो भला, मेरे हृदय में किसी समय भी कृपा कैसी? ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आजु दया दुखु दुसह सहावा । सुनि सौमित्रि बिहसि सिरु नावा ॥",
+            "बाउ कृपा मूरति अनुकूला । बोलत बचन झरत जनु फूला ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आज दया मुझे यह दुःसह दुःख सहा रही है । यह सुनकर लक्ष्मणजी ने मुस्कुराकर सिर नवाया (और कहा - ) आपकी कृपा रूपी वायु भी आपकी मूर्ति के अनुकूल ही है, वचन बोलते हैं, मानो फूल झड़ रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं पै कृपाँ जरिहिं मुनि गाता । क्रोध भएँ तनु राख बिधाता ॥",
+            "देखु जनक हठि बालकु एहू । कीन्ह चहत जड़ जमपुर गेहू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे मुनि ! यदि कृपा करने से आपका शरीर जला जाता है, तो क्रोध होने पर तो शरीर की रक्षा विधाता ही करेंगे । (परशुरामजी ने कहा - ) हे जनक! देख, यह मूर्ख बालक हठ करके यमपुरी में घर (निवास) करना चाहता है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बेगि करहु किन आँखिन्ह ओटा । देखत छोट खोट नृपु ढोटा ॥",
+            "बिहसे लखनु कहा मन माहीं । मूदें आँखि कतहुँ कोउ नाहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इसको शीघ्र ही आँखों की ओट क्यों नहीं करते? यह राजपुत्र देखने में छोटा है, पर है बड़ा खोटा । लक्ष्मणजी ने हँसकर मन ही मन कहा - आँख मूँद लेने पर कहीं कोई नहीं है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "परसुरामु तब राम प्रति बोले उर अति क्रोधु ।",
+            "संभु सरासनु तोरि सठ करसि हमार प्रबोधु ॥ २८० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब परशुरामजी हृदय में अत्यन्त क्रोध भरकर श्री रामजी से बोले - अरे शठ! तू शिवजी का धनुष तोड़कर उलटा हमीं को ज्ञान सिखाता है ॥ २८० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बंधु कहइ कटु संमत तोरें । तू छल बिनय करसि कर जोरें ॥",
+            "करु परितोषु मोर संग्रामा । नाहिं त छाड़ कहाउब रामा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तेरा यह भाई तेरी ही सम्मति से कटु वचन बोलता है और तू छल से हाथ जोड़कर विनय करता है । या तो युद्ध में मेरा संतोष कर, नहीं तो राम कहलाना छोड़ दे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छलु तजि करहि समरु सिवद्रोही । बंधु सहित न त मारउँ तोही ॥",
+            "भृगुपति बकहिं कुठार उठाएँ । मन मुसुकाहिं रामु सिर नाएँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अरे शिवद्रोही! छल त्यागकर मुझसे युद्ध कर । नहीं तो भाई सहित तुझे मार डालूँगा । इस प्रकार परशुरामजी कुठार उठाए बक रहे हैं और श्री रामचन्द्रजी सिर झुकाए मन ही मन मुस्कुरा रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गुनह लखन कर हम पर रोषू । कतहुँ सुधाइहु ते बड़ दोषू ॥",
+            "टेढ़ जानि सब बंदइ काहू । बक्र चंद्रमहि ग्रसइ न राहू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(श्री रामचन्द्रजी ने मन ही मन कहा - ) गुनाह (दोष) तो लक्ष्मण का और क्रोध मुझ पर करते हैं । कहीं-कहीं सीधेपन में भी बड़ा दोष होता है । टेढ़ा जानकर सब लोग किसी की भी वंदना करते हैं, टेढ़े चन्द्रमा को राहु भी नहीं ग्रसता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम कहेउ रिस तजिअ मुनीसा । कर कुठारु आगें यह सीसा ॥",
+            "जेहिं रिस जाइ करिअ सोइ स्वामी । मोहि जानिअ आपन अनुगामी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी ने (प्रकट) कहा - हे मुनीश्वर! क्रोध छोड़िए । आपके हाथ में कुठार है और मेरा यह सिर आगे है, जिस प्रकार आपका क्रोध जाए, हे स्वामी! वही कीजिए । मुझे अपना अनुचर (दास) जानिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रभुहि सेवकहि समरु कस तजहु बिप्रबर रोसु ।",
+            "बेषु बिलोकें कहेसि कछु बालकहू नहिं दोसु ॥ २८१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "स्वामी और सेवक में युद्ध कैसा? हे ब्राह्मण श्रेष्ठ! क्रोध का त्याग कीजिए । आपका (वीरों का सा) वेष देखकर ही बालक ने कुछ कह डाला था, वास्तव में उसका भी कोई दोष नहीं है ॥ २८१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि कुठार बान धनु धारी । भै लरिकहि रिस बीरु बिचारी ॥",
+            "नामु जान पै तुम्हहि न चीन्हा । बंस सुभायँ उतरु तेहिं दीन्हा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपको कुठार, बाण और धनुष धारण किए देखकर और वीर समझकर बालक को क्रोध आ गया । वह आपका नाम तो जानता था, पर उसने आपको पहचाना नहीं । अपने वंश (रघुवंश) के स्वभाव के अनुसार उसने उत्तर दिया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं तुम्ह औतेहु मुनि की नाईं । पद रज सिर सिसु धरत गोसाईं ॥",
+            "छमहु चूक अनजानत केरी । चहिअ बिप्र उर कृपा घनेरी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यदि आप मुनि की तरह आते, तो हे स्वामी! बालक आपके चरणों की धूलि सिर पर रखता । अनजाने की भूल को क्षमा कर दीजिए । ब्राह्मणों के हृदय में बहुत अधिक दया होनी चाहिए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हमहि तुम्हहि सरिबरि कसि नाथा । कहहु न कहाँ चरन कहँ माथा ॥",
+            "राम मात्र लघुनाम हमारा । परसु सहित बड़ नाम तोहारा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! हमारी और आपकी बराबरी कैसी? कहिए न, कहाँ चरण और कहाँ मस्तक! कहाँ मेरा राम मात्र छोटा सा नाम और कहाँ आपका परशुसहित बड़ा नाम ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देव एकु गुनु धनुष हमारें । नव गुन परम पुनीत तुम्हारें ॥",
+            "सब प्रकार हम तुम्ह सन हारे । छमहु बिप्र अपराध हमारे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे देव! हमारे तो एक ही गुण धनुष है और आपके परम पवित्र (शम, दम, तप, शौच, क्षमा, सरलता, ज्ञान, विज्ञान और आस्तिकता ये) नौ गुण हैं । हम तो सब प्रकार से आपसे हारे हैं । हे विप्र! हमारे अपराधों को क्षमा कीजिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बार बार मुनि बिप्रबर कहा राम सन राम ।",
+            "बोले भृगुपति सरुष हसि तहूँ बंधू सम बाम ॥ २८२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी ने परशुरामजी को बार-बार ‘मुनि’ और ‘विप्रवर’ कहा । तब भृगुपति (परशुरामजी) कुपित होकर (अथवा क्रोध की हँसी हँसकर) बोले - तू भी अपने भाई के समान ही टेढ़ा है ॥ २८२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निपटहिं द्विज करि जानहि मोही । मैं जस बिप्र सुनावउँ तोही ॥",
+            "चाप सुवा सर आहुति जानू । कोपु मोर अति घोर कृसानू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तू मुझे निरा ब्राह्मण ही समझता है? मैं जैसा विप्र हूँ, तुझे सुनाता हूँ । धनुष को सु्रवा, बाण को आहुति और मेरे क्रोध को अत्यन्त भयंकर अग्नि जान ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समिधि सेन चतुरंग सुहाई । महा महीप भए पसु आई ॥",
+            "मैं एहिं परसु काटि बलि दीन्हे । समर जग्य जप कोटिन्ह कीन्हे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "चतुरंगिणी सेना सुंदर समिधाएँ (यज्ञ में जलाई जाने वाली लकड़ियाँ) हैं । बड़े-बड़े राजा उसमें आकर बलि के पशु हुए हैं, जिनको मैंने इसी फरसे से काटकर बलि दिया है । ऐसे करोड़ों जपयुक्त रणयज्ञ मैंने किए हैं (अर्थात जैसे मंत्रोच्चारण पूर्वक ‘स्वाहा’ शब्द के साथ आहुति दी जाती है, उसी प्रकार मैंने पुकार-पुकार कर राजाओं की बलि दी है) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मोर प्रभाउ बिदित नहिं तोरें । बोलसि निदरि बिप्र के भोरें ॥",
+            "भंजेउ चापु दापु बड़ बाढ़ा । अहमिति मनहुँ जीति जगु ठाढ़ा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरा प्रभाव तुझे मालूम नहीं है, इसी से तू ब्राह्मण के धोखे मेरा निरादर करके बोल रहा है । धनुष तोड़ डाला, इससे तेरा घमंड बहुत बढ़ गया है । ऐसा अहंकार है, मानो संसार को जीतकर खड़ा है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम कहा मुनि कहहु बिचारी । रिस अति बड़ि लघु चूक हमारी ॥",
+            "छुअतहिं टूट पिनाक पुराना । मैं केहि हेतु करौं अभिमाना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी ने कहा - हे मुनि! विचारकर बोलिए । आपका क्रोध बहुत बड़ा है और मेरी भूल बहुत छोटी है । पुराना धनुष था, छूते ही टूट गया । मैं किस कारण अभिमान करूँ? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं हम निदरहिं बिप्र बदि सत्य सुनहु भृगुनाथ ।",
+            "तौ अस को जग सुभटु जेहि भय बस नावहिं माथ ॥ २८३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भृगुनाथ! यदि हम सचमुच ब्राह्मण कहकर निरादर करते हैं, तो यह सत्य सुनिए, फिर संसार में ऐसा कौन योद्धा है, जिसे हम डरके मारे मस्तक नवाएँ? ॥ २८३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देव दनुज भूपति भट नाना । समबल अधिक होउ बलवाना ॥",
+            "जौं रन हमहि पचारै कोऊ । लरहिं सुखेन कालु किन होऊ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवता, दैत्य, राजा या और बहुत से योद्धा, वे चाहे बल में हमारे बराबर हों चाहे अधिक बलवान हों, यदि रण में हमें कोई भी ललकारे तो हम उससे सुखपूर्वक लड़ेंगे, चाहे काल ही क्यों न हो ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छत्रिय तनु धरि समर सकाना । कुल कलंकु तेहिं पावँर आना ॥",
+            "कहउँ सुभाउ न कुलहि प्रसंसी । कालहु डरहिं न रन रघुबंसी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "क्षत्रिय का शरीर धरकर जो युद्ध में डर गया, उस नीच ने अपने कुल पर कलंक लगा दिया । मैं स्वभाव से ही कहता हूँ, कुल की प्रशंसा करके नहीं, कि रघुवंशी रण में काल से भी नहीं डरते ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिप्रबंस कै असि प्रभुताई । अभय होइ जो तुम्हहि डेराई ॥",
+            "सुनि मृदु गूढ़ बचन रघुपत के । उघरे पटल परसुधर मति के ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ब्राह्मणवंश की ऐसी ही प्रभुता (महिमा) है कि जो आपसे डरता है, वह सबसे निर्भय हो जाता है (अथवा जो भयरहित होता है, वह भी आपसे डरता है) श्री रघुनाथजी के कोमल और रहस्यपूर्ण वचन सुनकर परशुरामजी की बुद्धि के परदे खुल गए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम रमापति कर धनु लेहू । खैंचहु मिटै मोर संदेहू ॥",
+            "देत चापु आपुहिं चलि गयऊ । परसुराम मन बिसमय भयऊ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(परशुरामजी ने कहा - ) हे राम! हे लक्ष्मीपति! धनुष को हाथ में (अथवा लक्ष्मीपति विष्णु का धनुष) लीजिए और इसे खींचिए, जिससे मेरा संदेह मिट जाए । परशुरामजी धनुष देने लगे, तब वह आप ही चला गया । तब परशुरामजी के मन में बड़ा आश्चर्य हुआ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जाना राम प्रभाउ तब पुलक प्रफुल्लित गात ।",
+            "जोरि पानि बोले बचन हृदयँ न प्रेमु अमात ॥ २८४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब उन्होंने श्री रामजी का प्रभाव जाना, (जिसके कारण) उनका शरीर पुलकित और प्रफुल्लित हो गया । वे हाथ जोड़कर वचन बोले - प्रेम उनके हृदय में समाता न था- ॥ २८४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जय रघुबंस बनज बन भानू । गहन दनुज कुल दहन कृसानू ॥",
+            "जय सुर बिप्र धेनु हितकारी । जय मद मोह कोह भ्रम हारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे रघुकुल रूपी कमल वन के सूर्य! हे राक्षसों के कुल रूपी घने जंगल को जलाने वाले अग्नि! आपकी जय हो! हे देवता, ब्राह्मण और गो का हित करने वाले! आपकी जय हो । हे मद, मोह, क्रोध और भ्रम के हरने वाले! आपकी जय हो ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिनय सील करुना गुन सागर । जयति बचन रचना अति नागर ॥",
+            "सेवक सुखद सुभग सब अंगा । जय सरीर छबि कोटि अनंगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे विनय, शील, कृपा आदि गुणों के समुद्र और वचनों की रचना में अत्यन्त चतुर! आपकी जय हो । हे सेवकों को सुख देने वाले, सब अंगों से सुंदर और शरीर में करोड़ों कामदेवों की छबि धारण करने वाले! आपकी जय हो ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करौं काह मुख एक प्रसंसा । जय महेस मन मानस हंसा ॥",
+            "अनुचित बहुत कहेउँ अग्याता । छमहु छमा मंदिर दोउ भ्राता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं एक मुख से आपकी क्या प्रशंसा करूँ? हे महादेवजी के मन रूपी मानसरोवर के हंस! आपकी जय हो । मैंने अनजाने में आपको बहुत से अनुचित वचन कहे । हे क्षमा के मंदिर दोनों भाई! मुझे क्षमा कीजिए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहि जय जय जय रघुकुलकेतू । भृगुपति गए बनहि तप हेतू ॥",
+            "अपभयँ कुटिल महीप डेराने । जहँ तहँ कायर गवँहिं पराने ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे रघुकुल के पताका स्वरूप श्री रामचन्द्रजी! आपकी जय हो, जय हो, जय हो । ऐसा कहकर परशुरामजी तप के लिए वन को चले गए । (यह देखकर) दुष्ट राजा लोग बिना ही कारण के (मनः कल्पित) डर से (रामचन्द्रजी से तो परशुरामजी भी हार गए, हमने इनका अपमान किया था, अब कहीं ये उसका बदला न लें, इस व्यर्थ के डर से डर गए) वे कायर चुपके से जहाँ-तहाँ भाग गए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देवन्ह दीन्हीं दुंदुभीं प्रभु पर बरषहिं फूल ।",
+            "हरषे पुर नर नारि सब मिटी मोहमय सूल ॥ २८५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवताओं ने नगाड़े बजाए, वे प्रभु के ऊपर फूल बरसाने लगे । जनकपुर के स्त्री-पुरुष सब हर्षित हो गए । उनका मोहमय (अज्ञान से उत्पन्न) शूल मिट गया ॥ २८५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अति गहगहे बाजने बाजे । सबहिं मनोहर मंगल साजे ॥",
+            "जूथ जूथ मिलि सुमुखि सुनयनीं । करहिं गान कल कोकिलबयनीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "खूब जोर से बाजे बजने लगे । सभी ने मनोहर मंगल साज साजे । सुंदर मुख और सुंदर नेत्रों वाली तथा कोयल के समान मधुर बोलने वाली स्त्रियाँ झुंड की झुंड मिलकर सुंदरगान करने लगीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुखु बिदेह कर बरनि न जाई । जन्मदरिद्र मनहुँ निधि पाई ॥",
+            "बिगत त्रास भइ सीय सुखारी । जनु बिधु उदयँ चकोरकुमारी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जनकजी के सुख का वर्णन नहीं किया जा सकता, मानो जन्म का दरिद्री धन का खजाना पा गया हो! सीताजी का भय जाता रहा, वे ऐसी सुखी हुईं जैसे चन्द्रमा के उदय होने से चकोर की कन्या सुखी होती है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जनक कीन्ह कौसिकहि प्रनामा । प्रभु प्रसाद धनु भंजेउ रामा ॥",
+            "मोहि कृतकृत्य कीन्ह दुहुँ भाईं । अब जो उचित सो कहिअ गोसाईं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जनकजी ने विश्वामित्रजी को प्रणाम किया (और कहा - ) प्रभु ही की कृपा से श्री रामचन्द्रजी ने धनुष तोड़ा है । दोनों भाइयों ने मुझे कृतार्थ कर दिया । हे स्वामी! अब जो उचित हो सो कहिए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कह मुनि सुनु नरनाथ प्रबीना । रहा बिबाहु चाप आधीना ॥",
+            "टूटतहीं धनु भयउ बिबाहू । सुर नर नाग बिदित सब काहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि ने कहा - हे चतुर नरेश ! सुनो यों तो विवाह धनुष के अधीन था, धनुष के टूटते ही विवाह हो गया । देवता, मनुष्य और नाग सब किसी को यह मालूम है ॥ ४ ॥"
+        ]
+    }
+]

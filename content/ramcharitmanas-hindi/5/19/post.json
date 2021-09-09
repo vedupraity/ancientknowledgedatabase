@@ -1,0 +1,602 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिनय न मानत जलधि जड़ गए तीनि दिन बीति ।",
+            "बोले राम सकोप तब भय बिनु होइ न प्रीति ॥ ५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इधर तीन दिन बीत गए, किंतु जड़ समुद्र विनय नहीं मानता । तब श्री रामजी क्रोध सहित बोले - बिना भय के प्रीति नहीं होती! ॥ ५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लछिमन बान सरासन आनू । सोषौं बारिधि बिसिख कृसानु ॥",
+            "सठ सन बिनय कुटिल सन प्रीति । सहज कृपन सन सुंदर नीति ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे लक्ष्मण! धनुष-बाण लाओ, मैं अग्निबाण से समुद्र को सोख डालूँ । मूर्ख से विनय, कुटिल के साथ प्रीति, स्वाभाविक ही कंजूस से सुंदर नीति (उदारता का उपदेश), ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ममता रत सन ग्यान कहानी । अति लोभी सन बिरति बखानी ॥",
+            "क्रोधिहि सम कामिहि हरिकथा । ऊसर बीज बएँ फल जथा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ममता में फँसे हुए मनुष्य से ज्ञान की कथा, अत्यंत लोभी से वैराग्य का वर्णन, क्रोधी से शम (शांति) की बात और कामी से भगवान् की कथा, इनका वैसा ही फल होता है जैसा ऊसर में बीज बोने से होता है (अर्थात् ऊसर में बीज बोने की भाँति यह सब व्यर्थ जाता है) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस कहि रघुपति चाप चढ़ावा । यह मत लछिमन के मन भावा ॥",
+            "संधानेउ प्रभु बिसिख कराला । उठी उदधि उर अंतर ज्वाला ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा कहकर श्री रघुनाथजी ने धनुष चढ़ाया । यह मत लक्ष्मणजी के मन को बहुत अच्छा लगा । प्रभु ने भयानक (अग्नि) बाण संधान किया, जिससे समुद्र के हृदय के अंदर अग्नि की ज्वाला उठी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मकर उरग झष गन अकुलाने । जरत जंतु जलनिधि जब जाने ॥",
+            "कनक थार भरि मनि गन नाना । बिप्र रूप आयउ तजि माना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मगर, साँप तथा मछलियों के समूह व्याकुल हो गए । जब समुद्र ने जीवों को जलते जाना, तब सोने के थाल में अनेक मणियों (रत्नों) को भरकर अभिमान छोड़कर वह ब्राह्मण के रूप में आया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "काटेहिं पइ कदरी फरइ कोटि जतन कोउ सींच ।",
+            "बिनय न मान खगेस सुनु डाटेहिं पइ नव नीच ॥ ५८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(काकभुशुण्डिजी कहते हैं - ) हे गरुड़जी! सुनिए, चाहे कोई करोड़ों उपाय करके सींचे, पर केला तो काटने पर ही फलता है । नीच विनय से नहीं मानता, वह डाँटने पर ही झुकता है (रास्ते पर आता है) ॥ ५८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सभय सिंधु गहि पद प्रभु केरे । छमहु नाथ सब अवगुन मेरे ॥ ।",
+            "गगन समीर अनल जल धरनी । इन्ह कइ नाथ सहज जड़ करनी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "समुद्र ने भयभीत होकर प्रभु के चरण पकड़कर कहा - हे नाथ! मेरे सब अवगुण (दोष) क्षमा कीजिए । हे नाथ! आकाश, वायु, अग्नि, जल और पृथ्वी- इन सबकी करनी स्वभाव से ही जड़ है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तव प्रेरित मायाँ उपजाए । सृष्टि हेतु सब ग्रंथनि गाए ॥",
+            "प्रभु आयसु जेहि कहँ जस अहई । सो तेहि भाँति रहें सुख लहई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपकी प्रेरणा से माया ने इन्हें सृष्टि के लिए उत्पन्न किया है, सब ग्रंथों ने यही गाया है । जिसके लिए स्वामी की जैसी आज्ञा है, वह उसी प्रकार से रहने में सुख पाता है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रभु भल कीन्ह मोहि सिख दीन्हीं । मरजादा पुनि तुम्हरी कीन्हीं ॥",
+            "ढोल गवाँर सूद्र पसु नारी । सकल ताड़ना के अधिकारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रभु ने अच्छा किया जो मुझे शिक्षा (दंड) दी, किंतु मर्यादा (जीवों का स्वभाव) भी आपकी ही बनाई हुई है । ढोल, गँवार, शूद्र, पशु और स्त्री- ये सब शिक्षा के अधिकारी हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रभु प्रताप मैं जाब सुखाई । उतरिहि कटकु न मोरि बड़ाई ॥",
+            "प्रभु अग्या अपेल श्रुति गाई । करौं सो बेगि जो तुम्हहि सोहाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रभु के प्रताप से मैं सूख जाऊँगा और सेना पार उतर जाएगी, इसमें मेरी बड़ाई नहीं है (मेरी मर्यादा नहीं रहेगी) । तथापि प्रभु की आज्ञा अपेल है (अर्थात् आपकी आज्ञा का उल्लंघन नहीं हो सकता) ऐसा वेद गाते हैं । अब आपको जो अच्छा लगे, मैं तुरंत वही करूँ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनत बिनीत बचन अति कह कृपाल मुसुकाइ ।",
+            "जेहि बिधि उतरै कपि कटकु तात सो कहहु उपाइ ॥ ५९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "समुद्र के अत्यंत विनीत वचन सुनकर कृपालु श्री रामजी ने मुस्कुराकर कहा - हे तात! जिस प्रकार वानरों की सेना पार उतर जाए, वह उपाय बताओ ॥ ५९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाथ नील नल कपि द्वौ भाई । लरिकाईं रिषि आसिष पाई ॥",
+            "तिन्ह कें परस किएँ गिरि भारे । तरिहहिं जलधि प्रताप तुम्हारे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(समुद्र ने कहा)) हे नाथ! नील और नल दो वानर भाई हैं । उन्होंने लड़कपन में ऋषि से आशीर्वाद पाया था । उनके स्पर्श कर लेने से ही भारी-भारी पहाड़ भी आपके प्रताप से समुद्र पर तैर जाएँगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं पुनि उर धरि प्रभु प्रभुताई । करिहउँ बल अनुमान सहाई ॥",
+            "एहि बिधि नाथ पयोधि बँधाइअ । जेहिं यह सुजसु लोक तिहुँ गाइअ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं भी प्रभु की प्रभुता को हृदय में धारण कर अपने बल के अनुसार (जहाँ तक मुझसे बन पड़ेगा) सहायता करूँगा । हे नाथ! इस प्रकार समुद्र को बँधाइए, जिससे तीनों लोकों में आपका सुंदर यश गाया जाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि सर मम उत्तर तट बासी । हतहु नाथ खल नर अघ रासी ॥",
+            "सुनि कृपाल सागर मन पीरा । तुरतहिं हरी राम रनधीरा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस बाण से मेरे उत्तर तट पर रहने वाले पाप के राशि दुष्ट मनुष्यों का वध कीजिए । कृपालु और रणधीर श्री रामजी ने समुद्र के मन की पीड़ा सुनकर उसे तुरंत ही हर लिया (अर्थात् बाण से उन दुष्टों का वध कर दिया) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि राम बल पौरुष भारी । हरषि पयोनिधि भयउ सुखारी ॥",
+            "सकल चरित कहि प्रभुहि सुनावा । चरन बंदि पाथोधि सिधावा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामजी का भारी बल और पौरुष देखकर समुद्र हर्षित होकर सुखी हो गया । उसने उन दुष्टों का सारा चरित्र प्रभु को कह सुनाया । फिर चरणों की वंदना करके समुद्र चला गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निज भवन गवनेउ सिंधु श्रीरघुपतिहि यह मत भायऊ ।",
+            "यह चरित कलि मल हर जथामति दास तुलसी गायऊ ॥",
+            "सुख भवन संसय समन दवन बिषाद रघुपति गुन गना ।",
+            "तजि सकल आस भरोस गावहि सुनहि संतत सठ मना ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "समुद्र अपने घर चला गया, श्री रघुनाथजी को यह मत (उसकी सलाह) अच्छा लगा । यह चरित्र कलियुग के पापों को हरने वाला है, इसे तुलसीदास ने अपनी बुद्धि के अनुसार गाया है । श्री रघुनाथजी के गुण समूह सुख के धाम, संदेह का नाश करने वाले और विषाद का दमन करने वाले हैं । अरे मूर्ख मन! तू संसार का सब आशा-भरोसा त्यागकर निरंतर इन्हें गा और सुन ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सकल सुमंगल दायक रघुनायक गुन गान ।",
+            "सादर सुनहिं ते तरहिं भव सिंधु बिना जलजान ॥ ६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी का गुणगान संपूर्ण सुंदर मंगलों का देने वाला है । जो इसे आदर सहित सुनेंगे, वे बिना किसी जहाज (अन्य साधन) के ही भवसागर को तर जाएँगे ॥ ६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपारायण, चौबीसवाँ विश्राम"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इति श्रीमद्रामचरितमानसे सकलकलिकलुषविध्वंसने पंचमः सोपानः समाप्तः ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered"
+        ],
+        "text": [
+            "कलियुग के समस्त पापों का नाश करने वाले श्री रामचरित मानस का यह पाँचवाँ सोपान समाप्त हुआ ।"
+        ]
+    }
+]

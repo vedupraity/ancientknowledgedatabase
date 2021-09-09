@@ -1,0 +1,491 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बोले बंदी बचन बर सुनहु सकल महिपाल ।",
+            "पन बिदेह कर कहहिं हम भुजा उठाइ बिसाल ॥ २४९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भाटों ने श्रेष्ठ वचन कहा - हे पृथ्वी की पालना करने वाले सब राजागण! सुनिए । हम अपनी भुजा उठाकर जनकजी का विशाल प्रण कहते हैं - ॥ २४९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नृप भुजबल बिधु सिवधनु राहू । गरुअ कठोर बिदित सब काहू ॥",
+            "रावनु बानु महाभट भारे । देखि सरासन गवँहिं सिधारे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजाओं की भुजाओं का बल चन्द्रमा है, शिवजी का धनुष राहु है, वह भारी है, कठोर है, यह सबको विदित है । बड़े भारी योद्धा रावण और बाणासुर भी इस धनुष को देखकर गौं से (चुपके से) चलते बने (उसे उठाना तो दूर रहा, छूने तक की हिम्मत न हुई) ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोइ पुरारि कोदंडु कठोरा । राज समाज आजु जोइ तोरा ॥",
+            "त्रिभुवन जय समेत बैदेही । बिनहिं बिचार बरइ हठि तेही ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसी शिवजी के कठोर धनुष को आज इस राज समाज में जो भी तोड़ेगा, तीनों लोकों की विजय के साथ ही उसको जानकीजी बिना किसी विचार के हठपूर्वक वरण करेंगी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि पन सकल भूप अभिलाषे । भटमानी अतिसय मन माखे ॥",
+            "परिकर बाँधि उठे अकुलाई । चले इष्ट देवन्ह सिर नाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रण सुनकर सब राजा ललचा उठे । जो वीरता के अभिमानी थे, वे मन में बहुत ही तमतमाए । कमर कसकर अकुलाकर उठे और अपने इष्टदेवों को सिर नवाकर चले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तमकि ताकि तकि सिवधनु धरहीं । उठइ न कोटि भाँति बलु करहीं ॥",
+            "जिन्ह के कछु बिचारु मन माहीं । चाप समीप महीप न जाहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे तमककर (बड़े ताव से) शिवजी के धनुष की ओर देखते हैं और फिर निगाह जमाकर उसे पकड़ते हैं, करोड़ों भाँति से जोर लगाते हैं, पर वह उठता ही नहीं । जिन राजाओं के मन में कुछ विवेक है, वे तो धनुष के पास ही नहीं जाते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तमकि धरहिं धनु मूढ़ नृप उठइ न चलहिं लजाइ ॥",
+            "मनहुँ पाइ भट बाहुबलु अधिकु अधिकु गरुआइ ॥ २५० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे मूर्ख राजा तमककर (किटकिटाकर) धनुष को पकड़ते हैं, परन्तु जब नहीं उठता तो लजाकर चले जाते हैं, मानो वीरों की भुजाओं का बल पाकर वह धनुष अधिक-अधिक भारी होता जाता है ॥ २५० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूप सहस दस एकहि बारा । लगे उठावन टरइ न टारा ॥",
+            "डगइ न संभु सरासनु कैसें । कामी बचन सती मनु जैसें ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब दस हजार राजा एक ही बार धनुष को उठाने लगे, तो भी वह उनके टाले नहीं टलता । शिवजी का वह धनुष कैसे नहीं डिगता था, जैसे कामी पुरुष के वचनों से सती का मन (कभी) चलायमान नहीं होता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब नृप भए जोगु उपहासी । जैसें बिनु बिराग संन्यासी ॥",
+            "कीरति बिजय बीरता भारी । चले चाप कर बरबस हारी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सब राजा उपहास के योग्य हो गए, जैसे वैराग्य के बिना संन्यासी उपहास के योग्य हो जाता है । कीर्ति, विजय, बड़ी वीरता- इन सबको वे धनुष के हाथों बरबस हारकर चले गए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "श्रीहत भए हारि हियँ राजा । बैठे निज निज जाइ समाजा ॥",
+            "नृपन्ह बिलोकि जनकु अकुलाने । बोले बचन रोष जनु साने ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा लोग हृदय से हारकर श्रीहीन (हतप्रभ) हो गए और अपने-अपने समाज में जा बैठे । राजाओं को (असफल) देखकर जनक अकुला उठे और ऐसे वचन बोले जो मानो क्रोध में सने हुए थे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दीप दीप के भूपति नाना । आए सुनिहम जो पनु ठाना ॥",
+            "देव दनुज धरि मनुज सरीरा । बिपुल बीर आए रनधीरा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैंने जो प्रण ठाना था, उसे सुनकर द्वीप-द्वीप के अनेकों राजा आए । देवता और दैत्य भी मनुष्य का शरीर धारण करके आए तथा और भी बहुत से रणधीर वीर आए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कुअँरि मनोहर बिजय बड़ि कीरतिअति कमनीय ।",
+            "पावनिहार बिरंचि जनु रचेउ न धनु दमनीय ॥ २५१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परन्तु धनुष को तोड़कर मनोहर कन्या, बड़ी विजय और अत्यन्त सुंदर कीर्ति को पाने वाला मानो ब्रह्मा ने किसी को रचा ही नहीं ॥ २५१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहहु काहि यहु लाभु न भावा । काहुँ न संकर चाप चढ़ावा ॥",
+            "रहउ चढ़ाउब तोरब भाई । तिलु भरि भूमि न सके छड़ाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कहिए, यह लाभ किसको अच्छा नहीं लगता, परन्तु किसी ने भी शंकरजी का धनुष नहीं चढ़ाया । अरे भाई! चढ़ाना और तोड़ना तो दूर रहा, कोई तिल भर भूमि भी छुड़ा न सका ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब जनि कोउ भाखे भट मानी । बीर बिहीन मही मैं जानी ॥",
+            "तजहु आस निज निज गृह जाहू । लिखा न बिधि बैदेहि बिबाहू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब कोई वीरता का अभिमानी नाराज न हो । मैंने जान लिया, पृथ्वी वीरों से खाली हो गई । अब आशा छोड़कर अपने-अपने घर जाओ, ब्रह्मा ने सीता का विवाह लिखा ही नहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुकृतु जाइ जौं पनु परिहरऊँ । कुअँरि कुआँरि रहउ का करऊँ ॥",
+            "जौं जनतेउँ बिनु भट भुबि भाई । तौ पनु करि होतेउँ न हँसाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यदि प्रण छोड़ता हूँ, तो पुण्य जाता है, इसलिए क्या करूँ, कन्या कुँआरी ही रहे । यदि मैं जानता कि पृथ्वी वीरों से शून्य है, तो प्रण करके उपहास का पात्र न बनता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जनक बचन सुनि सब नर नारी । देखि जानकिहि भए दुखारी ॥",
+            "माखे लखनु कुटिल भइँ भौंहें । रदपट फरकत नयन रिसौंहें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जनक के वचन सुनकर सभी स्त्री-पुरुष जानकीजी की ओर देखकर दुःखी हुए, परन्तु लक्ष्मणजी तमतमा उठे, उनकी भौंहें टेढ़ी हो गईं, होठ फड़कने लगे और नेत्र क्रोध से लाल हो गए ॥ ४ ॥"
+        ]
+    }
+]

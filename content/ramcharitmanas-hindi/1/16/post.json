@@ -1,0 +1,1568 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहउँ सो मति अनुहारि अब उमा संभु संबाद ।",
+            "भयउ समय जेहि हेतु जेहि सुनु मुनि मिटिहि बिषाद ॥ ४७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब मैं अपनी बुद्धि के अनुसार वही उमा और शिवजी का संवाद कहता हूँ । वह जिस समय और जिस हेतु से हुआ, उसे हे मुनि! तुम सुनो, तुम्हारा विषाद मिट जाएगा ॥ ४७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एक बार त्रेता जुग माहीं । संभु गए कुंभज रिषि पाहीं ॥",
+            "संग सती जगजननि भवानी । पूजे रिषि अखिलेस्वर जानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक बार त्रेता युग में शिवजी अगस्त्य ऋषि के पास गए । उनके साथ जगज्जननी भवानी सतीजी भी थीं । ऋषि ने संपूर्ण जगत् के ईश्वर जानकर उनका पूजन किया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रामकथा मुनिबर्ज बखानी । सुनी महेस परम सुखु मानी ॥",
+            "रिषि पूछी हरिभगति सुहाई । कही संभु अधिकारी पाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनिवर अगस्त्यजी ने रामकथा विस्तार से कही, जिसको महेश्वर ने परम सुख मानकर सुना । फिर ऋषि ने शिवजी से सुंदर हरिभक्ति पूछी और शिवजी ने उनको अधिकारी पाकर (रहस्य सहित) भक्ति का निरूपण किया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहत सुनत रघुपति गुन गाथा । कछु दिन तहाँ रहे गिरिनाथा ॥",
+            "मुनि सन बिदा मागि त्रिपुरारी । चले भवन सँग दच्छकुमारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी के गुणों की कथाएँ कहते-सुनते कुछ दिनों तक शिवजी वहाँ रहे । फिर मुनि से विदा माँगकर शिवजी दक्षकुमारी सतीजी के साथ घर (कैलास) को चले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि अवसर भंजन महिभारा । हरि रघुबंस लीन्ह अवतारा ॥",
+            "पिता बचन तजि राजु उदासी । दंडक बन बिचरत अबिनासी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन्हीं दिनों पृथ्वी का भार उतारने के लिए श्री हरि ने रघुवंश में अवतार लिया था । वे अविनाशी भगवान् उस समय पिता के वचन से राज्य का त्याग करके तपस्वी या साधु वेश में दण्डकवन में विचर रहे थे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हृदयँ बिचारत जात हर केहि बिधि दरसनु होइ ।",
+            "गुप्त रूप अवतरेउ प्रभु गएँ जान सबु कोइ ॥ ४८ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शिवजी हृदय में विचारते जा रहे थे कि भगवान् के दर्शन मुझे किस प्रकार हों । प्रभु ने गुप्त रूप से अवतार लिया है, मेरे जाने से सब लोग जान जाएँगे ॥ ४८ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संकर उर अति छोभु सती न जानहिं मरमु सोइ ।",
+            "तुलसी दरसन लोभु मन डरु लोचन लालची ॥ ४८ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री शंकरजी के हृदय में इस बात को लेकर बड़ी खलबली उत्पन्न हो गई, परन्तु सतीजी इस भेद को नहीं जानती थीं । तुलसीदासजी कहते हैं कि शिवजी के मन में (भेद खुलने का) डर था, परन्तु दर्शन के लोभ से उनके नेत्र ललचा रहे थे ॥ ४८ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रावन मरन मनुज कर जाचा । प्रभु बिधि बचनु कीन्ह चह साचा ॥",
+            "जौं नहिं जाउँ रहइ पछितावा । करत बिचारु न बनत बनावा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रावण ने (ब्रह्माजी से) अपनी मृत्यु मनुष्य के हाथ से माँगी थी । ब्रह्माजी के वचनों को प्रभु सत्य करना चाहते हैं । मैं जो पास नहीं जाता हूँ तो बड़ा पछतावा रह जाएगा । इस प्रकार शिवजी विचार करते थे, परन्तु कोई भी युक्ति ठीक नहीं बैठती थी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ऐहि बिधि भए सोचबस ईसा । तेही समय जाइ दससीसा ॥",
+            "लीन्ह नीच मारीचहि संगा । भयउ तुरउ सोइ कपट कुरंगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार महादेवजी चिन्ता के वश हो गए । उसी समय नीच रावण ने जाकर मारीच को साथ लिया और वह (मारीच) तुरंत कपट मृग बन गया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करि छलु मूढ़ हरी बैदेही । प्रभु प्रभाउ तस बिदित न तेही ॥",
+            "मृग बधि बंधु सहित हरि आए । आश्रमु देखि नयन जल छाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मूर्ख (रावण) ने छल करके सीताजी को हर लिया । उसे श्री रामचंद्रजी के वास्तविक प्रभाव का कुछ भी पता न था । मृग को मारकर भाई लक्ष्मण सहित श्री हरि आश्रम में आए और उसे खाली देखकर (अर्थात् वहाँ सीताजी को न पाकर) उनके नेत्रों में आँसू भर आए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिरह बिकल नर इव रघुराई । खोजत बिपिन फिरत दोउ भाई ॥",
+            "कबहूँ जोग बियोग न जाकें । देखा प्रगट बिरह दुखु ताकें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी मनुष्यों की भाँति विरह से व्याकुल हैं और दोनों भाई वन में सीता को खोजते हुए फिर रहे हैं । जिनके कभी कोई संयोग-वियोग नहीं है, उनमें प्रत्यक्ष विरह का दुःख देखा गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अति बिचित्र रघुपति चरित जानहिं परम सुजान ।",
+            "जे मतिमंद बिमोह बस हृदयँ धरहिं कछु आन ॥ ४९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी का चरित्र बड़ा ही विचित्र है, उसको पहुँचे हुए ज्ञानीजन ही जानते हैं । जो मंदबुद्धि हैं, वे तो विशेष रूप से मोह के वश होकर हृदय में कुछ दूसरी ही बात समझ बैठते हैं ॥ ४९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संभु समय तेहि रामहि देखा । उपजा हियँ अति हरषु बिसेषा ॥",
+            "भरि लोचन छबिसिंधु निहारी । कुसमय जानि न कीन्हि चिन्हारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री शिवजी ने उसी अवसर पर श्री रामजी को देखा और उनके हृदय में बहुत भारी आनंद उत्पन्न हुआ । उन शोभा के समुद्र (श्री रामचंद्रजी) को शिवजी ने नेत्र भरकर देखा, परन्तु अवसर ठीक न जानकर परिचय नहीं किया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जय सच्चिदानंद जग पावन । अस कहि चलेउ मनोज नसावन ॥",
+            "चले जात सिव सती समेता । पुनि पुनि पुलकत कृपानिकेता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जगत् को पवित्र करने वाले सच्चिदानंद की जय हो, इस प्रकार कहकर कामदेव का नाश करने वाले श्री शिवजी चल पड़े । कृपानिधान शिवजी बार-बार आनंद से पुलकित होते हुए सतीजी के साथ चले जा रहे थे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सतीं सो दसा संभु कै देखी । उर उपजा संदेहु बिसेषी ॥",
+            "संकरु जगतबंद्य जगदीसा । सुर नर मुनि सब नावत सीसा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने शंकरजी की वह दशा देखी तो उनके मन में बड़ा संदेह उत्पन्न हो गया । (वे मन ही मन कहने लगीं कि) शंकरजी की सारा जगत् वंदना करता है, वे जगत् के ईश्वर हैं, देवता, मनुष्य, मुनि सब उनके प्रति सिर नवाते हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तिन्ह नृपसुतहि कीन्ह परनामा । कहि सच्चिदानंद परधामा ॥",
+            "भए मगन छबि तासु बिलोकी । अजहुँ प्रीति उर रहति न रोकी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन्होंने एक राजपुत्र को सच्चिदानंद परधाम कहकर प्रणाम किया और उसकी शोभा देखकर वे इतने प्रेममग्न हो गए कि अब तक उनके हृदय में प्रीति रोकने से भी नहीं रुकती ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ब्रह्म जो ब्यापक बिरज अज अकल अनीह अभेद ।",
+            "सो कि देह धरि होइ नर जाहि न जानत बेद ॥ ५० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो ब्रह्म सर्वव्यापक, मायारहित, अजन्मा, अगोचर, इच्छारहित और भेदरहित है और जिसे वेद भी नहीं जानते, क्या वह देह धारण करके मनुष्य हो सकता है? ॥ ५० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिष्नु जो सुर हित नरतनु धारी । सोउ सर्बग्य जथा त्रिपुरारी ॥",
+            "खोजइ सो कि अग्य इव नारी । ग्यानधाम श्रीपति असुरारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवताओं के हित के लिए मनुष्य शरीर धारण करने वाले जो विष्णु भगवान् हैं, वे भी शिवजी की ही भाँति सर्वज्ञ हैं । वे ज्ञान के भंडार, लक्ष्मीपति और असुरों के शत्रु भगवान् विष्णु क्या अज्ञानी की तरह स्त्री को खोजेंगे? ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संभुगिरा पुनि मृषा न होई । सिव सर्बग्य जान सबु कोई ॥",
+            "अस संसय मन भयउ अपारा । होइ न हृदयँ प्रबोध प्रचारा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर शिवजी के वचन भी झूठे नहीं हो सकते । सब कोई जानते हैं कि शिवजी सर्वज्ञ हैं । सती के मन में इस प्रकार का अपार संदेह उठ खड़ा हुआ, किसी तरह भी उनके हृदय में ज्ञान का प्रादुर्भाव नहीं होता था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जद्यपि प्रगट न कहेउ भवानी । हर अंतरजामी सब जानी ॥",
+            "सुनहि सती तव नारि सुभाऊ । संसय अस न धरिअ उर काऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि भवानीजी ने प्रकट कुछ नहीं कहा, पर अन्तर्यामी शिवजी सब जान गए । वे बोले - हे सती! सुनो, तुम्हारा स्त्री स्वभाव है । ऐसा संदेह मन में कभी न रखना चाहिए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जासु कथा कुंभज रिषि गाई । भगति जासु मैं मुनिहि सुनाई ॥",
+            "सोइ मम इष्टदेव रघुबीरा । सेवत जाहि सदा मुनि धीरा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिनकी कथा का अगस्त्य ऋषि ने गान किया और जिनकी भक्ति मैंने मुनि को सुनाई, ये वही मेरे इष्टदेव श्री रघुवीरजी हैं, जिनकी सेवा ज्ञानी मुनि सदा किया करते हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि धीर जोगी सिद्ध संतत बिमल मन जेहि ध्यावहीं ।",
+            "कहि नेति निगम पुरान आगम जासु कीरति गावहीं ॥",
+            "सोइ रामु ब्यापक ब्रह्म भुवन निकाय पति माया धनी ।",
+            "अवतरेउ अपने भगत हित निजतंत्र नित रघुकुलमनी ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ज्ञानी मुनि, योगी और सिद्ध निरंतर निर्मल चित्त से जिनका ध्यान करते हैं तथा वेद, पुराण और शास्त्र ‘नेति-नेति’ कहकर जिनकी कीर्ति गाते हैं, उन्हीं सर्वव्यापक, समस्त ब्रह्मांडों के स्वामी, मायापति, नित्य परम स्वतंत्र, ब्रह्मा रूप भगवान् श्री रामजी ने अपने भक्तों के हित के लिए (अपनी इच्छा से) रघुकुल के मणिरूप में अवतार लिया है ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लाग न उर उपदेसु जदपि कहेउ सिवँ बार बहु ।",
+            "बोले बिहसि महेसु हरिमाया बलु जानि जियँ ॥ ५१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि शिवजी ने बहुत बार समझाया, फिर भी सतीजी के हृदय में उनका उपदेश नहीं बैठा । तब महादेवजी मन में भगवान् की माया का बल जानकर मुस्कुराते हुए बोले - ॥ ५१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं तुम्हरें मन अति संदेहू । तौ किन जाइ परीछा लेहू ॥",
+            "तब लगि बैठ अहउँ बटछाहीं । जब लगि तुम्ह ऐहहु मोहि पाहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो तुम्हारे मन में बहुत संदेह है तो तुम जाकर परीक्षा क्यों नहीं लेती? जब तक तुम मेरे पास लौट आओगी तब तक मैं इसी बड़ की छाँह में बैठा हूँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जैसें जाइ मोह भ्रम भारी । करेहु सो जतनु बिबेक बिचारी ॥",
+            "चलीं सती सिव आयसु पाई । करहिं बेचारु करौं का भाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिस प्रकार तुम्हारा यह अज्ञानजनित भारी भ्रम दूर हो, (भली-भाँति) विवेक के द्वारा सोच-समझकर तुम वही करना । शिवजी की आज्ञा पाकर सती चलीं और मन में सोचने लगीं कि भाई! क्या करूँ (कैसे परीक्षा लूँ)? ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "इहाँ संभु अस मन अनुमाना । दच्छसुता कहुँ नहिं कल्याना ॥",
+            "मोरेहु कहें न संसय जाहीं । बिधि बिपरीत भलाई नाहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इधर शिवजी ने मन में ऐसा अनुमान किया कि दक्षकन्या सती का कल्याण नहीं है । जब मेरे समझाने से भी संदेह दूर नहीं होता तब (मालूम होता है) विधाता ही उलटे हैं, अब सती का कुशल नहीं है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "होइहि सोइ जो राम रचि राखा । को करि तर्क बढ़ावै साखा ॥",
+            "अस कहि लगे जपन हरिनामा । गईं सती जहँ प्रभु सुखधामा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो कुछ राम ने रच रखा है, वही होगा । तर्क करके कौन शाखा (विस्तार) बढ़ावे । (मन में) ऐसा कहकर शिवजी भगवान् श्री हरि का नाम जपने लगे और सतीजी वहाँ गईं, जहाँ सुख के धाम प्रभु श्री रामचंद्रजी थे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुनि पुनि हृदयँ बिचारु करि धरि सीता कर रूप ।",
+            "आगें होइ चलि पंथ तेहिं जेहिं आवत नरभूप ॥ ५२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सती बार-बार मन में विचार कर सीताजी का रूप धारण करके उस मार्ग की ओर आगे होकर चलीं, जिससे (सतीजी के विचारानुसार) मनुष्यों के राजा रामचंद्रजी आ रहे थे ॥ ५२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लछिमन दीख उमाकृत बेषा । चकित भए भ्रम हृदयँ बिसेषा ॥",
+            "कहि न सकत कछु अति गंभीरा । प्रभु प्रभाउ जानत मतिधीरा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी के बनावटी वेष को देखकर लक्ष्मणजी चकित हो गए और उनके हृदय में बड़ा भ्रम हो गया । वे बहुत गंभीर हो गए, कुछ कह नहीं सके । धीर बुद्धि लक्ष्मण प्रभु रघुनाथजी के प्रभाव को जानते थे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सती कपटु जानेउ सुरस्वामी । सबदरसी सब अंतरजामी ॥",
+            "सुमिरत जाहि मिटइ अग्याना । सोइ सरबग्य रामु भगवाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सब कुछ देखने वाले और सबके हृदय की जानने वाले देवताओं के स्वामी श्री रामचंद्रजी सती के कपट को जान गए, जिनके स्मरण मात्र से अज्ञान का नाश हो जाता है, वही सर्वज्ञ भगवान् श्री रामचंद्रजी हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सती कीन्ह चह तहँहुँ दुराऊ । देखहु नारि सुभाव प्रभाऊ ॥",
+            "निज माया बलु हृदयँ बखानी । बोले बिहसि रामु मृदु बानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "स्त्री स्वभाव का असर तो देखो कि वहाँ (उन सर्वज्ञ भगवान् के सामने) भी सतीजी छिपाव करना चाहती हैं । अपनी माया के बल को हृदय में बखानकर, श्री रामचंद्रजी हँसकर कोमल वाणी से बोले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जोरि पानि प्रभु कीन्ह प्रनामू । पिता समेत लीन्ह निज नामू ॥",
+            "कहेउ बहोरि कहाँ बृषकेतू । बिपिन अकेलि फिरहु केहि हेतू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पहले प्रभु ने हाथ जोड़कर सती को प्रणाम किया और पिता सहित अपना नाम बताया । फिर कहा कि वृषकेतु शिवजी कहाँ हैं? आप यहाँ वन में अकेली किसलिए फिर रही हैं? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राम बचन मृदु गूढ़ सुनि उपजा अति संकोचु ।",
+            "सती सभीत महेस पहिं चलीं हृदयँ बड़ सोचु ॥ ५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी के कोमल और रहस्य भरे वचन सुनकर सतीजी को बड़ा संकोच हुआ । वे डरती हुई (चुपचाप) शिवजी के पास चलीं, उनके हृदय में बड़ी चिन्ता हो गई ॥ ५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं संकर कर कहा न माना । निज अग्यानु राम पर आना ॥",
+            "जाइ उतरु अब देहउँ काहा । उर उपजा अति दारुन दाहा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कि मैंने शंकरजी का कहना न माना और अपने अज्ञान का श्री रामचन्द्रजी पर आरोप किया । अब जाकर मैं शिवजी को क्या उत्तर दूँगी? (यों सोचते-सोचते) सतीजी के हृदय में अत्यन्त भयानक जलन पैदा हो गई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जाना राम सतीं दुखु पावा । निज प्रभाउ कछु प्रगटि जनावा ॥",
+            "सतीं दीख कौतुकु मग जाता । आगें रामु सहित श्री भ्राता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी ने जान लिया कि सतीजी को दुःख हुआ, तब उन्होंने अपना कुछ प्रभाव प्रकट करके उन्हें दिखलाया । सतीजी ने मार्ग में जाते हुए यह कौतुक देखा कि श्री रामचन्द्रजी सीताजी और लक्ष्मणजी सहित आगे चले जा रहे हैं । (इस अवसर पर सीताजी को इसलिए दिखाया कि सतीजी श्री राम के सच्चिदानंदमय रूप को देखें, वियोग और दुःख की कल्पना जो उन्हें हुई थी, वह दूर हो जाए तथा वे प्रकृतिस्थ हों । ) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "फिरि चितवा पाछें प्रभु देखा । सहित बंधु सिय सुंदर बेषा ॥",
+            "जहँ चितवहिं तहँ प्रभु आसीना । सेवहिं सिद्ध मुनीस प्रबीना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(तब उन्होंने) पीछे की ओर फिरकर देखा, तो वहाँ भी भाई लक्ष्मणजी और सीताजी के साथ श्री रामचन्द्रजी सुंदर वेष में दिखाई दिए । वे जिधर देखती हैं, उधर ही प्रभु श्री रामचन्द्रजी विराजमान हैं और सुचतुर सिद्ध मुनीश्वर उनकी सेवा कर रहे हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखे सिव बिधि बिष्नु अनेका । अमित प्रभाउ एक तें एका ॥",
+            "बंदत चरन करत प्रभु सेवा । बिबिध बेष देखे सब देवा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने अनेक शिव, ब्रह्मा और विष्णु देखे, जो एक से एक बढ़कर असीम प्रभाव वाले थे । (उन्होंने देखा कि) भाँति-भाँति के वेष धारण किए सभी देवता श्री रामचन्द्रजी की चरणवन्दना और सेवा कर रहे हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सती बिधात्री इंदिरा देखीं अमित अनूप ।",
+            "जेहिं जेहिं बेष अजादि सुर तेहि तेहि तन अनुरूप ॥ ५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन्होंने अनगिनत अनुपम सती, ब्रह्माणी और लक्ष्मी देखीं । जिस-जिस रूप में ब्रह्मा आदि देवता थे, उसी के अनुकूल रूप में (उनकी) ये सब (शक्तियाँ) भी थीं ॥ ५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखे जहँ जहँ रघुपति जेते । सक्तिन्ह सहित सकल सुर तेते ॥",
+            "जीव चराचर जो संसारा । देखे सकल अनेक प्रकारा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने जहाँ-जहाँ जितने रघुनाथजी देखे, शक्तियों सहित वहाँ उतने ही सारे देवताओं को भी देखा । संसार में जो चराचर जीव हैं, वे भी अनेक प्रकार के सब देखे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पूजहिं प्रभुहि देव बहु बेषा । राम रूप दूसर नहिं देखा ॥",
+            "अवलोके रघुपति बहुतेरे । सीता सहित न बेष घनेरे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(उन्होंने देखा कि) अनेकों वेष धारण करके देवता प्रभु श्री रामचन्द्रजी की पूजा कर रहे हैं, परन्तु श्री रामचन्द्रजी का दूसरा रूप कहीं नहीं देखा । सीता सहित श्री रघुनाथजी बहुत से देखे, परन्तु उनके वेष अनेक नहीं थे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोइ रघुबर सोइ लछिमनु सीता । देखि सती अति भईं सभीता ॥",
+            "हृदय कंप तन सुधि कछु नाहीं । नयन मूदि बैठीं मग माहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(सब जगह) वही रघुनाथजी, वही लक्ष्मण और वही सीताजी- सती ऐसा देखकर बहुत ही डर गईं । उनका हृदय काँपने लगा और देह की सारी सुध-बुध जाती रही । वे आँख मूँदकर मार्ग में बैठ गईं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहुरि बिलोकेउ नयन उघारी । कछु न दीख तहँ दच्छकुमारी ॥",
+            "पुनि पुनि नाइ राम पद सीसा । चलीं तहाँ जहँ रहे गिरीसा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर आँख खोलकर देखा, तो वहाँ दक्षकुमारी (सतीजी) को कुछ भी न दिख पड़ा । तब वे बार-बार श्री रामचन्द्रजी के चरणों में सिर नवाकर वहाँ चलीं, जहाँ श्री शिवजी थे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गईं समीप महेस तब हँसि पूछी कुसलात ।",
+            "लीन्हि परीछा कवन बिधि कहहु सत्य सब बात ॥ ५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जब पास पहुँचीं, तब श्री शिवजी ने हँसकर कुशल प्रश्न करके कहा कि तुमने रामजी की किस प्रकार परीक्षा ली, सारी बात सच-सच कहो ॥ ५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपारायण, दूसरा विश्राम"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सतीं समुझि रघुबीर प्रभाऊ । भय बस सिव सन कीन्ह दुराऊ ॥",
+            "कछु न परीछा लीन्हि गोसाईं । कीन्ह प्रनामु तुम्हारिहि नाईं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने श्री रघुनाथजी के प्रभाव को समझकर डर के मारे शिवजी से छिपाव किया और कहा - हे स्वामिन्! मैंने कुछ भी परीक्षा नहीं ली, (वहाँ जाकर) आपकी ही तरह प्रणाम किया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जो तुम्ह कहा सो मृषा न होई । मोरें मन प्रतीति अति सोई ॥",
+            "तब संकर देखेउ धरि ध्याना । सतीं जो कीन्ह चरित सबु जाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपने जो कहा वह झूठ नहीं हो सकता, मेरे मन में यह बड़ा (पूरा) विश्वास है । तब शिवजी ने ध्यान करके देखा और सतीजी ने जो चरित्र किया था, सब जान लिया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहुरि राममायहि सिरु नावा । प्रेरि सतिहि जेहिं झूँठ कहावा ॥",
+            "हरि इच्छा भावी बलवाना । हृदयँ बिचारत संभु सुजाना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर श्री रामचन्द्रजी की माया को सिर नवाया, जिसने प्रेरणा करके सती के मुँह से भी झूठ कहला दिया । सुजान शिवजी ने मन में विचार किया कि हरि की इच्छा रूपी भावी प्रबल है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सतीं कीन्ह सीता कर बेषा । सिव उर भयउ बिषाद बिसेषा ॥",
+            "जौं अब करउँ सती सन प्रीती । मिटइ भगति पथु होइ अनीती ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने सीताजी का वेष धारण किया, यह जानकर शिवजी के हृदय में बड़ा विषाद हुआ । उन्होंने सोचा कि यदि मैं अब सती से प्रीति करता हूँ तो भक्तिमार्ग लुप्त हो जाता है और बड़ा अन्याय होता है ॥ ४ ॥"
+        ]
+    }
+]

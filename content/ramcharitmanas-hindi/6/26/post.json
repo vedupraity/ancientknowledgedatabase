@@ -1,0 +1,550 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखा श्रमित बिभीषनु भारी । धायउ हनूमान गिरि धारी ॥",
+            "रथ तुरंग सारथी निपाता । हृदय माझ तेहि मारेसि लाता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विभीषण को बहुत ही थका हुआ देखकर हनुमान् जी पर्वत धारण किए हुए दौड़े । उन्होंने उस पर्वत से रावण के रथ, घोड़े और सारथी का संहार कर डाला और उसके सीने पर लात मारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ठाढ़ रहा अति कंपित गाता । गयउ बिभीषनु जहँ जनत्राता ॥",
+            "पुनि रावन कपि हतेउ पचारी । चलेउ गगन कपि पूँछ पसारी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रावण खड़ा रहा, पर उसका शरीर अत्यंत काँपने लगा । विभीषण वहाँ गए, जहाँ सेवकों के रक्षक श्री रामजी थे । फिर रावण ने ललकारकर हनुमान् जी को मारा । वे पूँछ फैलाकर आकाश में चले गए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गहिसि पूँछ कपि सहित उड़ाना । पुनि फिरि भिरेउ प्रबल हनुमाना ॥",
+            "लरत अकास जुगल सम जोधा । एकहि एकु हनत करि क्रोधा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रावण ने पूँछ पकड़ ली, हनुमान् जी उसको साथ लिए ऊपर उड़े । फिर लौटकर महाबलवान् हनुमान् जी उससे भिड़ गए । दोनों समान योद्धा आकाश में लड़ते हुए एक-दूसरे को क्रोध करके मारने लगे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोहहिं नभ छल बल बहु करहीं । कज्जलगिरि सुमेरु जनु लरहीं ॥",
+            "बुधि बल निसिचर परइ न पारयो । तब मारुतसुत प्रभु संभार्यो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दोनों बहुत से छल-बल करते हुए आकाश में ऐसे शोभित हो रहे हैं मानो कज्जलगिरि और सुमेरु पर्वत लड़ रहे हों । जब बुद्धि और बल से राक्षस गिराए न गिरा तब मारुति श्री हनुमान् जी ने प्रभु को स्मरण किया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संभारि श्रीरघुबीर धीर पचारि कपि रावनु हन्यो ।",
+            "महि परत पुनि उठि लरत देवन्ह जुगल कहुँ जय जय भन्यो ॥",
+            "हनुमंत संकट देखि मर्कट भालु क्रोधातुर चले ।",
+            "रन मत्त रावन सकल सुभट प्रचण्ड भुज बल दलमले ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुवीर का स्मरण करके धीर हनुमान् जी ने ललकारकर रावण को मारा । वे दोनों पृथ्वी पर गिरते और फिर उठकर लड़ते हैं, देवताओं ने दोनों की ‘जय-जय’ पुकारी । हनुमान् जी पर संकट देखकर वानर-भालू क्रोधातुर होकर दौड़े, किन्तु रण-मद-माते रावण ने सब योद्धाओं को अपनी प्रचण्ड भुजाओं के बल से कुचल और मसल डाला ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब रघुबीर पचारे धाए कीस प्रचंड ।",
+            "कपि बल प्रबल देखि तेहिं कीन्ह प्रगट पाषंड ॥ ९५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब श्री रघुवीर के ललकारने पर प्रचण्ड वीर वानर दौड़े । वानरों के प्रबल दल को देखकर रावण ने माया प्रकट की ॥ ९५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अंतरधान भयउ छन एका । पुनि प्रगटे खल रूप अनेका ॥",
+            "रघुपति कटक भालु कपि जेते । जहँ तहँ प्रगट दसानन तेते ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "क्षणभर के लिए वह अदृश्य हो गया । फिर उस दुष्ट ने अनेकों रूप प्रकट किए । श्री रघुनाथजी की सेना में जितने रीछ-वानर थे, उतने ही रावण जहाँ-तहाँ (चारों ओर) प्रकट हो गए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखे कपिन्ह अमित दससीसा । जहँ तहँ भजे भालु अरु कीसा ॥",
+            "भागे बानर धरहिं न धीरा । त्राहि त्राहि लछिमन रघुबीरा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वानरों ने अपरिमित रावण देखे । भालू और वानर सब जहाँ-तहाँ (इधर-उधर) भाग चले । वानर धीरज नहीं धरते । हे लक्ष्मणजी! हे रघुवीर! बचाइए, बचाइए, यों पुकारते हुए वे भागे जा रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दहँ दिसि धावहिं कोटिन्ह रावन । गर्जहिं घोर कठोर भयावन ॥",
+            "डरे सकल सुर चले पराई । जय कै आस तजहु अब भाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दसों दिशाओं में करोड़ों रावण दौड़ते हैं और घोर, कठोर भयानक गर्जन कर रहे हैं । सब देवता डर गए और ऐसा कहते हुए भाग चले कि हे भाई! अब जय की आशा छोड़ दो! ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब सुर जिते एक दसकंधर । अब बहु भए तकहु गिरि कंदर ॥",
+            "रहे बिरंचि संभु मुनि ग्यानी । जिन्ह जिन्ह प्रभु महिमा कछु जानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक ही रावण ने सब देवताओं को जीत लिया था, अब तो बहुत से रावण हो गए हैं । इससे अब पहाड़ की गुफाओं का आश्रय लो (अर्थात् उनमें छिप रहो) । वहाँ ब्रह्मा, शम्भु और ज्ञानी मुनि ही डटे रहे, जिन्होंने प्रभु की कुछ महिमा जानी थी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "छंद :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जाना प्रताप ते रहे निर्भय कपिन्ह रिपु माने फुरे ।",
+            "चले बिचलि मर्कट भालु सकल कृपाल पाहि भयातुरे ॥",
+            "हनुमंत अंगद नील नल अतिबल लरत रन बाँकुरे ।",
+            "मर्दहिं दसानन कोटि कोटिन्ह कपट भू भट अंकुरे ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो प्रभु का प्रताप जानते थे, वे निर्भय डटे रहे । वानरों ने शत्रुओं (बहुत से रावणों) को सच्चा ही मान लिया । (इससे) सब वानर-भालू विचलित होकर ‘हे कृपालु! रक्षा कीजिए’ (यों पुकारते हुए) भय से व्याकुल होकर भाग चले । अत्यंत बलवान् रणबाँकुरे हनुमान् जी, अंगद, नील और नल लड़ते हैं और कपट रूपी भूमि से अंकुर की भाँति उपजे हुए कोटि-कोटि योद्धा रावणों को मसलते हैं ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुर बानर देखे बिकल हँस्यो कोसलाधीस ।",
+            "सजि सारंग एक सर हते सकल दससीस ॥ ९६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवताओं और वानरों को विकल देखकर कोसलपति श्री रामजी हँसे और शार्गं धनुष पर एक बाण चढ़ाकर (माया के बने हुए) सब रावणों को मार डाला ॥ ९६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "प्रभु छन महुँ माया सब काटी । जिमि रबि उएँ जाहिं तम फाटी ॥",
+            "रावनु एकु देखि सुर हरषे । फिरे सुमन बहु प्रभु पर बरषे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रभु ने क्षणभर में सब माया काट डाली । जैसे सूर्य के उदय होते ही अंधकार की राशि फट जाती है (नष्ट हो जाती है) । अब एक ही रावण को देखकर देवता हर्षित हुए और उन्होंने लौटकर प्रभु पर बहुत से पुष्प बरसाए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भुज उठाइ रघुपति कपि फेरे । फिरे एक एकन्ह तब टेरे ॥",
+            "प्रभु बलु पाइ भालु कपि धाए । तरल तमकि संजुग महि आए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी ने भुजा उठाकर सब वानरों को लौटाया । तब वे एक-दूसरे को पुकार-पुकार कर लौट आए । प्रभु का बल पाकर रीछ-वानर दौड़ पड़े । जल्दी से कूदकर वे रणभूमि में आ गए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस्तुति करत देवतन्हि देखें । भयउँ एक मैं इन्ह के लेखें ॥",
+            "सठहु सदा तुम्ह मोर मरायल । अस कहि कोपि गगन पर धायल ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवताओं को श्री रामजी की स्तुति करते देख कर रावण ने सोचा, मैं इनकी समझ में एक हो गया, (परन्तु इन्हें यह पता नहीं कि इनके लिए मैं एक ही बहुत हूँ) और कहा - अरे मूर्खों! तुम तो सदा के ही मेरे मरैल (मेरी मार खाने वाले) हो । ऐसा कहकर वह क्रोध करके आकाश पर (देवताओं की ओर) दौड़ा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हाहाकार करत सुर भागे । खलहु जाहु कहँ मोरें आगे ॥",
+            "देखि बिकल सुर अंगद धायो । कूदि चरन गहि भूमि गिरायो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवता हाहाकार करते हुए भागे । (रावण ने कहा - ) दुष्टों! मेरे आगे से कहाँ जा सकोगे? देवताओं को व्याकुल देखकर अंगद दौड़े और उछलकर रावण का पैर पकड़कर (उन्होंने) उसको पृथ्वी पर गिरा दिया ॥ ४ ॥"
+        ]
+    }
+]

@@ -1,0 +1,803 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गुर पद कमल प्रनामु करि बैठे आयसु पाइ ।",
+            "बिप्र महाजन सचिव सब जुरे सभासद आइ ॥ २५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी गुरु के चरणकमलों में प्रणाम करके आज्ञा पाकर बैठ गए । उसी समय ब्राह्मण, महाजन, मंत्री आदि सभी सभासद आकर जुट गए ॥ २५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बोले मुनिबरु समय समाना । सुनहु सभासद भरत सुजाना ॥",
+            "धरम धुरीन भानुकुल भानू । राजा रामु स्वबस भगवानू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्रेष्ठ मुनि वशिष्ठजी समयोचित वचन बोले - हे सभासदों! हे सुजान भरत! सुनो । सूर्यकुल के सूर्य महाराज श्री रामचन्द्र धर्मधुरंधर और स्वतंत्र भगवान हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सत्यसंध पालक श्रुति सेतू । राम जनमु जग मंगल हेतु ॥",
+            "गुर पितु मातु बचन अनुसारी । खल दलु दलन देव हितकारी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे सत्य प्रतिज्ञ हैं और वेद की मर्यादा के रक्षक हैं । श्री रामजी का अवतार ही जगत के कल्याण के लिए हुआ है । वे गुरु, पिता और माता के वचनों के अनुसार चलने वाले हैं । दुष्टों के दल का नाश करने वाले और देवताओं के हितकारी हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नीति प्रीति परमारथ स्वारथु । कोउ न राम सम जान जथारथु ॥",
+            "बिधि हरि हरु ससि रबि दिसिपाला । माया जीव करम कुलि काला ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नीति, प्रेम, परमार्थ और स्वार्थ को श्री रामजी के समान यथार्थ (तत्त्व से) कोई नहीं जानता । ब्रह्मा, विष्णु, महादेव, चन्द्र, सूर्य, दिक्पाल, माया, जीव, सभी कर्म और काल, ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अहिप महिप जहँ लगि प्रभुताई । जोग सिद्धि निगमागम गाई ॥",
+            "करि बिचार जियँ देखहु नीकें । राम रजाइ सीस सबही कें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शेषजी और (पृथ्वी एवं पाताल के अन्यान्य) राजा आदि जहाँ तक प्रभुता है और योग की सिद्धियाँ, जो वेद और शास्त्रों में गाई गई हैं, हृदय में अच्छी तरह विचार कर देखो, (तो यह स्पष्ट दिखाई देगा कि) श्री रामजी की आज्ञा इन सभी के सिर पर है (अर्थात श्री रामजी ही सबके एक मात्र महान महेश्वर हैं) ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राखें राम रजाइ रुख हम सब कर हित होइ ।",
+            "समुझि सयाने करहु अब सब मिलि संमत सोइ ॥ २५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अतएव श्री रामजी की आज्ञा और रुख रखने में ही हम सबका हित होगा । (इस तत्त्व और रहस्य को समझकर) अब तुम सयाने लोग जो सबको सम्मत हो, वही मिलकर करो ॥ २५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब कहुँ सुखद राम अभिषेकू । मंगल मोद मूल मग एकू ॥",
+            "केहि बिधि अवध चलहिं रघुराऊ । कहहु समुझि सोइ करिअ उपाऊ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामजी का राज्याभिषेक सबके लिए सुखदायक है । मंगल और आनंद का मूल यही एक मार्ग है । (अब) श्री रघुनाथजी अयोध्या किस प्रकार चलें? विचारकर कहो, वही उपाय किया जाए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब सादर सुनि मुनिबर बानी । नय परमारथ स्वारथ सानी ॥",
+            "उतरु न आव लोग भए भोरे । तब सिरु नाइ भरत कर जोरे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनिश्रेष्ठ वशिष्ठजी की नीति, परमार्थ और स्वार्थ (लौकिक हित) में सनी हुई वाणी सबने आदरपूर्वक सुनी । पर किसी को कोई उत्तर नहीं आता, सब लोग भोले (विचार शक्ति से रहित) हो गए । तब भरत ने सिर नवाकर हाथ जोड़े ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भानुबंस भए भूप घनेरे । अधिक एक तें एक बड़ेरे ॥",
+            "जनम हेतु सब कहँ कितु माता । करम सुभासुभ देइ बिधाता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(और कहा - ) सूर्यवंश में एक से एक अधिक बड़े बहुत से राजा हो गए हैं । सभी के जन्म के कारण पिता-माता होते हैं और शुभ-अशुभ कर्मों को (कर्मों का फल) विधाता देते हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दलि दुख सजइ सकल कल्याना । अस असीस राउरि जगु जाना ॥",
+            "सो गोसाइँ बिधि गति जेहिं छेंकी । सकइ को टारि टेक जो टेकी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपकी आशीष ही एक ऐसी है, जो दुःखों का दमन करके, समस्त कल्याणों को सज देती है, यह जगत जानता है । हे स्वामी! आप ही हैं, जिन्होंने विधाता की गति (विधान) को भी रोक दिया । आपने जो टेक टेक दी (जो निश्चय कर दिया) उसे कौन टाल सकता है? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बूझिअ मोहि उपाउ अब सो सब मोर अभागु ।",
+            "सुनि सनेहमय बचनगुर उर उमगा अनुरागु ॥ २५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब आप मुझसे उपाय पूछते हैं, यह सब मेरा अभाग्य है । भरतजी के प्रेममय वचनों को सुनकर गुरुजी के हृदय में प्रेम उमड़ आया ॥ २५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात बात फुरि राम कृपाहीं । राम बिमुख सिधि सपनेहुँ नाहीं ॥",
+            "सकुचउँ तात कहत एक बाता । अरध तजहिं बुध सरबस जाता ॥ १ ।"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(वे बोले - ) हे तात! बात सत्य है, पर है रामजी की कृपा से ही । राम विमुख को तो स्वप्न में भी सिद्धि नहीं मिलती । हे तात! मैं एक बात कहने में सकुचाता हूँ । बुद्धिमान लोग सर्वस्व जाता देखकर (आधे की रक्षा के लिए) आधा छोड़ दिया करते हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह कानन गवनहु दोउ भाई । फेरिअहिं लखन सीय रघुराई ॥",
+            "सुनि सुबचन हरषे दोउ भ्राता । भे प्रमोद परिपूरन गाता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अतः तुम दोनों भाई (भरत-शत्रुघ्न) वन को जाओ और लक्ष्मण, सीता और श्री रामचन्द्र को लौटा दिया जाए । ये सुंदर वचन सुनकर दोनों भाई हर्षित हो गए । उनके सारे अंग परमानंद से परिपूर्ण हो गए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मन प्रसन्न तन तेजु बिराजा । जनु जिय राउ रामु भए राजा ॥",
+            "बहुत लाभ लोगन्ह लघु हानी । सम दुख सुख सब रोवहिं रानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनके मन प्रसन्न हो गए । शरीर में तेज सुशोभित हो गया । मानो राजा दशरथजी उठे हों और श्री रामचन्द्रजी राजा हो गए हों! अन्य लोगों को तो इसमें लाभ अधिक और हानि कम प्रतीत हुई, परन्तु रानियों को दुःख-सुख समान ही थे (राम-लक्ष्मण वन में रहें या भरत-शत्रुघ्न, दो पुत्रों का वियोग तो रहेगा ही), यह समझकर वे सब रोने लगीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहहिं भरतु मुनि कहा सो कीन्हे । फलु जग जीवन्ह अभिमत दीन्हे ॥",
+            "कानन करउँ जनम भरि बासू । एहि तें अधिक न मोर सुपासू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी कहने लगे- मुनि ने जो कहा, वह करने से जगतभर के जीवों को उनकी इच्छित वस्तु देने का फल होगा । (चौदह वर्ष की कोई अवधि नहीं) मैं जन्मभर वन में वास करूँगा । मेरे लिए इससे बढ़कर और कोई सुख नहीं है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अंतरजामी रामु सिय तुम्ह सरबग्य सुजान ।",
+            "जौं फुर कहहु त नाथ निज कीजिअ बचनु प्रवान ॥ २५६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामचन्द्रजी और सीताजी हृदय की जानने वाले हैं और आप सर्वज्ञ तथा सुजान हैं । यदि आप यह सत्य कह रहे हैं तो हे नाथ! अपने वचनों को प्रमाण कीजिए (उनके अनुसार व्यवस्था कीजिए) ॥ २५६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत बचन सुनि देखि सनेहू । सभा सहित मुनि भए बिदेहू ॥",
+            "भरत महा महिमा जलरासी । मुनि मति ठाढ़ि तीर अबला सी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी के वचन सुनकर और उनका प्रेम देखकर सारी सभा सहित मुनि वशिष्ठजी विदेह हो गए (किसी को अपने देह की सुधि न रही) । भरतजी की महान महिमा समुद्र है, मुनि की बुद्धि उसके तट पर अबला स्त्री के समान खड़ी है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गा चह पार जतनु हियँ हेरा । पावति नाव न बोहितु बेरा ॥",
+            "औरु करिहि को भरत बड़ाई । सरसी सीपि कि सिंधु समाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह (उस समुद्र के) पार जाना चाहती है, इसके लिए उसने हृदय में उपाय भी ढूँढे! पर (उसे पार करने का साधन) नाव, जहाज या बेड़ा कुछ भी नहीं पाती । भरतजी की बड़ाई और कौन करेगा? तलैया की सीपी में भी कहीं समुद्र समा सकता है? ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरतु मुनिहि मन भीतर भाए । सहित समाज राम पहिं आए ॥",
+            "प्रभु प्रनामु करि दीन्ह सुआसनु । बैठे सब सुनि मुनि अनुसासनु ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि वशिष्ठजी की अन्तरात्मा को भरतजी बहुत अच्छे लगे और वे समाज सहित श्री रामजी के पास आए । प्रभु श्री रामचन्द्रजी ने प्रणाम कर उत्तम आसन दिया । सब लोग मुनि की आज्ञा सुनकर बैठ गए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बोले मुनिबरु बचन बिचारी । देस काल अवसर अनुहारी ॥",
+            "सुनहु राम सरबग्य सुजाना । धरम नीति गुन ग्यान निधाना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्रेष्ठ मुनि देश, काल और अवसर के अनुसार विचार करके वचन बोले - हे सर्वज्ञ! हे सुजान! हे धर्म, नीति, गुण और ज्ञान के भण्डार राम! सुनिए- ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब के उर अंतर बसहु जानहु भाउ कुभाउ ।",
+            "पुरजन जननी भरत हित होइ सो कहिअ उपाउ ॥ २५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप सबके हृदय के भीतर बसते हैं और सबके भले-बुरे भाव को जानते हैं, जिसमें पुरवासियों का, माताओं का और भरत का हित हो, वही उपाय बतलाइए ॥ २५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आरत कहहिं बिचारि न काऊ । सूझ जुआरिहि आपन दाऊ ॥",
+            "सुनि मुनि बचन कहत रघुराऊ ॥ नाथ तुम्हारेहि हाथ उपाऊ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आर्त (दुःखी) लोग कभी विचारकर नहीं कहते । जुआरी को अपना ही दाँव सूझता है । मुनि के वचन सुनकर श्री रघुनाथजी कहने लगे- हे नाथ! उपाय तो आप ही के हाथ है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब कर हित रुख राउरि राखें । आयसु किए मुदित फुर भाषें ॥",
+            "प्रथम जो आयसु मो कहुँ होई । माथें मानि करौं सिख सोई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपका रुख रखने में और आपकी आज्ञा को सत्य कहकर प्रसन्नता पूर्वक पालन करने में ही सबका हित है । पहले तो मुझे जो आज्ञा हो, मैं उसी शिक्षा को माथे पर चढ़ाकर करूँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुनि जेहि कहँ जस कहब गोसाईं । सो सब भाँति घटिहि सेवकाईं ॥",
+            "कह मुनि राम सत्य तुम्ह भाषा । भरत सनेहँ बिचारु न राखा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर हे गोसाईं! आप जिसको जैसा कहेंगे वह सब तरह से सेवा में लग जाएगा (आज्ञा पालन करेगा) । मुनि वशिष्ठजी कहने लगे- हे राम! तुमने सच कहा । पर भरत के प्रेम ने विचार को नहीं रहने दिया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि तें कहउँ बहोरि बहोरी । भरत भगति बस भइ मति मोरी ॥",
+            "मोरें जान भरत रुचि राखी । जो कीजिअ सो सुभ सिव साखी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इसीलिए मैं बार-बार कहता हूँ, मेरी बुद्धि भरत की भक्ति के वश हो गई है । मेरी समझ में तो भरत की रुचि रखकर जो कुछ किया जाएगा, शिवजी साक्षी हैं, वह सब शुभ ही होगा ॥ ४ ॥"
+        ]
+    }
+]

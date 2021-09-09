@@ -1,0 +1,437 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिस्वरूप रघुबंस मनि करहु बचन बिस्वासु ।",
+            "लोक कल्पना बेद कर अंग अंग प्रति जासु ॥ १४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे इन वचनों पर विश्वास कीजिए कि ये रघुकुल के शिरोमणि श्री रामचंद्रजी विश्व रूप हैं - (यह सारा विश्व उन्हीं का रूप है) । वेद जिनके अंग-अंग में लोकों की कल्पना करते हैं ॥ १४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पद पाताल सीस अज धामा । अपर लोक अँग अँग बिश्रामा ॥",
+            "भृकुटि बिलास भयंकर काला । नयन दिवाकर कच घन माला ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पाताल (जिन विश्व रूप भगवान् का) चरण है, ब्रह्म लोक सिर है, अन्य (बीच के सब) लोकों का विश्राम (स्थिति) जिनके अन्य भिन्न-भिन्न अंगों पर है । भयंकर काल जिनका भृकुटि संचालन (भौंहों का चलना) है । सूर्य नेत्र हैं, बादलों का समूह बाल है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जासु घ्रान अस्विनीकुमारा । निसि अरु दिवस निमेष अपारा ॥",
+            "श्रवन दिसा दस बेद बखानी । मारुत स्वास निगम निज बानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अश्विनी कुमार जिनकी नासिका हैं, रात और दिन जिनके अपार निमेष (पलक मारना और खोलना) हैं । दसों दिशाएँ कान हैं, वेद ऐसा कहते हैं । वायु श्वास है और वेद जिनकी अपनी वाणी है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अधर लोभ जम दसन कराला । माया हास बाहु दिगपाला ॥",
+            "आनन अनल अंबुपति जीहा । उतपति पालन प्रलय समीहा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लोभ जिनका अधर (होठ) है, यमराज भयानक दाँत हैं । माया हँसी है, दिक्पाल भुजाएँ हैं । अग्नि मुख है, वरुण जीभ है । उत्पत्ति, पालन और प्रलय जिनकी चेष्टा (क्रिया) है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रोम राजि अष्टादस भारा । अस्थि सैल सरिता नस जारा ॥",
+            "उदर उदधि अधगो जातना । जगमय प्रभु का बहु कलपना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अठारह प्रकार की असंख्य वनस्पतियाँ जिनकी रोमावली हैं, पर्वत अस्थियाँ हैं, नदियाँ नसों का जाल है, समुद्र पेट है और नरक जिनकी नीचे की इंद्रियाँ हैं । इस प्रकार प्रभु विश्वमय हैं, अधिक कल्पना (ऊहापोह) क्या की जाए? ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अहंकार सिव बुद्धि अज मन ससि चित्त महान ।",
+            "मनुज बास सचराचर रूप राम भगवान ॥ १५ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शिव जिनका अहंकार हैं, ब्रह्मा बुद्धि हैं, चंद्रमा मन हैं और महान (विष्णु) ही चित्त हैं । उन्हीं चराचर रूप भगवान श्री रामजी ने मनुष्य रूप में निवास किया है ॥ १५ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस बिचारि सुनु प्रानपति प्रभु सन बयरु बिहाइ ।",
+            "प्रीति करहु रघुबीर पद मम अहिवात न जाइ ॥ १५ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे प्राणपति सुनिए, ऐसा विचार कर प्रभु से वैर छोड़कर श्री रघुवीर के चरणों में प्रेम कीजिए, जिससे मेरा सुहाग न जाए ॥ १५ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिहँसा नारि बचन सुनि काना । अहो मोह महिमा बलवाना ॥",
+            "नारि सुभाउ सत्य सब कहहीं । अवगुन आठ सदा उर रहहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पत्नी के वचन कानों से सुनकर रावण खूब हँसा (और बोला-) अहो! मोह (अज्ञान) की महिमा बड़ी बलवान् है । स्त्री का स्वभाव सब सत्य ही कहते हैं कि उसके हृदय में आठ अवगुण सदा रहते हैं - ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "साहस अनृत चपलता माया । भय अबिबेक असौच अदाया ॥",
+            "रिपु कर रूप सकल तैं गावा । अति बिसाल भय मोहि सुनावा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "साहस, झूठ, चंचलता, माया (छल), भय (डरपोकपन) अविवेक (मूर्खता), अपवित्रता और निर्दयता । तूने शत्रु का समग्र (विराट) रूप गाया और मुझे उसका बड़ा भारी भय सुनाया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सो सब प्रिया सहज बस मोरें । समुझि परा अब प्रसाद तोरें ॥",
+            "जानिउँ प्रिया तोरि चतुराई । एहि बिधि कहहु मोरि प्रभुताई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे प्रिये! वह सब (यह चराचर विश्व तो) स्वभाव से ही मेरे वश में है । तेरी कृपा से मुझे यह अब समझ पड़ा । हे प्रिये! तेरी चतुराई मैं जान गया । तू इस प्रकार (इसी बहाने) मेरी प्रभुता का बखान कर रही है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तव बतकही गूढ़ मृगलोचनि । समुझत सुखद सुनत भय मोचनि ॥",
+            "मंदोदरि मन महुँ अस ठयऊ । पियहि काल बस मति भ्रम भयउ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे मृगनयनी! तेरी बातें बड़ी गूढ़ (रहस्यभरी) हैं, समझने पर सुख देने वाली और सुनने से भय छुड़ाने वाली हैं । मंदोदरी ने मन में ऐसा निश्चय कर लिया कि पति को कालवश मतिभ्रम हो गया है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ऐहि बिधि करत बिनोद बहु प्रात प्रगट दसकंध ।",
+            "सहज असंक लंकपति सभाँ गयउ मद अंध ॥ १६ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार (अज्ञानवश) बहुत से विनोद करते हुए रावण को सबेरा हो गया । तब स्वभाव से ही निडर और घमंड में अंधा लंकापति सभा में गया ॥ १६ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "फूलइ फरइ न बेत जदपि सुधा बरषहिं जलद ।",
+            "मूरुख हृदयँ न चेत जौं गुर मिलहिं बिरंचि सम ॥ १६ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि बादल अमृत सा जल बरसाते हैं तो भी बेत फूलता-फलता नहीं । इसी प्रकार चाहे ब्रह्मा के समान भी ज्ञानी गुरु मिलें, तो भी मूर्ख के हृदय में चेत (ज्ञान) नहीं होता ॥ १६ (ख) ॥"
+        ]
+    }
+]

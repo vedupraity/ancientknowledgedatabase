@@ -1,0 +1,1362 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बंदी मागध सूतगन बिरुद बदहिं मतिधीर ।",
+            "करहिं निछावरि लोग सब हय गय धन मनि चीर ॥ २६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "धीर बुद्धि वाले, भाट, मागध और सूत लोग विरुदावली (कीर्ति) का बखान कर रहे हैं । सब लोग घोड़े, हाथी, धन, मणि और वस्त्र निछावर कर रहे हैं ॥ २६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "झाँझि मृदंग संख सहनाई । भेरि ढोल दुंदुभी सुहाई ॥",
+            "बाजहिं बहु बाजने सुहाए । जहँ तहँ जुबतिन्ह मंगल गाए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "झाँझ, मृदंग, शंख, शहनाई, भेरी, ढोल और सुहावने नगाड़े आदि बहुत प्रकार के सुंदर बाजे बज रहे हैं । जहाँ-तहाँ युवतियाँ मंगल गीत गा रही हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सखिन्ह सहित हरषी अति रानी । सूखत धान परा जनु पानी ॥",
+            "जनक लहेउ सुखु सोचु बिहाई । तैरत थकें थाह जनु पाई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सखियों सहित रानी अत्यन्त हर्षित हुईं, मानो सूखते हुए धान पर पानी पड़ गया हो । जनकजी ने सोच त्याग कर सुख प्राप्त किया । मानो तैरते-तैरते थके हुए पुरुष ने थाह पा ली हो ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "श्रीहत भए भूप धनु टूटे । जैसें दिवस दीप छबि छूटे ॥",
+            "सीय सुखहि बरनिअ केहि भाँती । जनु चातकी पाइ जलु स्वाती ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "धनुष टूट जाने पर राजा लोग ऐसे श्रीहीन (निस्तेज) हो गए, जैसे दिन में दीपक की शोभा जाती रहती है । सीताजी का सुख किस प्रकार वर्णन किया जाए, जैसे चातकी स्वाती का जल पा गई हो ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रामहि लखनु बिलोकत कैसें । ससिहि चकोर किसोरकु जैसें ॥",
+            "सतानंद तब आयसु दीन्हा । सीताँ गमनु राम पहिं कीन्हा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रामजी को लक्ष्मणजी किस प्रकार देख रहे हैं, जैसे चन्द्रमा को चकोर का बच्चा देख रहा हो । तब शतानंदजी ने आज्ञा दी और सीताजी ने श्री रामजी के पास गमन किया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संग सखीं सुंदर चतुर गावहिं मंगलचार ।",
+            "गवनी बाल मराल गति सुषमा अंग अपार ॥ २६३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "साथ में सुंदर चतुर सखियाँ मंगलाचार के गीत गा रही हैं, सीताजी बालहंसिनी की चाल से चलीं । उनके अंगों में अपार शोभा है ॥ २६३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सखिन्ह मध्य सिय सोहति कैसें । छबिगन मध्य महाछबि जैसें ॥",
+            "कर सरोज जयमाल सुहाई । बिस्व बिजय सोभा जेहिं छाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सखियों के बीच में सीताजी कैसी शोभित हो रही हैं, जैसे बहुत सी छवियों के बीच में महाछवि हो । करकमल में सुंदर जयमाला है, जिसमें विश्व विजय की शोभा छाई हुई है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तन सकोचु मन परम उछाहू । गूढ़ प्रेमु लखि परइ न काहू ॥",
+            "जाइ समीप राम छबि देखी । रहि जनु कुअँरि चित्र अवरेखी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सीताजी के शरीर में संकोच है, पर मन में परम उत्साह है । उनका यह गुप्त प्रेम किसी को जान नहीं पड़ रहा है । समीप जाकर, श्री रामजी की शोभा देखकर राजकुमारी सीताजी जैसे चित्र में लिखी सी रह गईं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चतुर सखीं लखि कहा बुझाई । पहिरावहु जयमाल सुहाई ॥",
+            "सुनत जुगल कर माल उठाई । प्रेम बिबस पहिराइ न जाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "चतुर सखी ने यह दशा देखकर समझाकर कहा - सुहावनी जयमाला पहनाओ । यह सुनकर सीताजी ने दोनों हाथों से माला उठाई, पर प्रेम में विवश होने से पहनाई नहीं जाती ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोहत जनु जुग जलज सनाला । ससिहि सभीत देत जयमाला ॥",
+            "गावहिं छबि अवलोकि सहेली । सियँ जयमाल राम उर मेली ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(उस समय उनके हाथ ऐसे सुशोभित हो रहे हैं) मानो डंडियों सहित दो कमल चन्द्रमा को डरते हुए जयमाला दे रहे हों । इस छवि को देखकर सखियाँ गाने लगीं । तब सीताजी ने श्री रामजी के गले में जयमाला पहना दी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रघुबर उर जयमाल देखि देव बरिसहिं सुमन ।",
+            "सकुचे सकल भुआल जनु बिलोकि रबि कुमुदगन ॥ २६४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री रघुनाथजी के हृदय पर जयमाला देखकर देवता फूल बरसाने लगे । समस्त राजागण इस प्रकार सकुचा गए मानो सूर्य को देखकर कुमुदों का समूह सिकुड़ गया हो ॥ २६४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुर अरु ब्योम बाजने बाजे । खल भए मलिन साधु सब राजे ॥",
+            "सुर किंनर नर नाग मुनीसा । जय जय जय कहि देहिं असीसा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नगर और आकाश में बाजे बजने लगे । दुष्ट लोग उदास हो गए और सज्जन लोग सब प्रसन्न हो गए । देवता, किन्नर, मनुष्य, नाग और मुनीश्वर जय-जयकार करके आशीर्वाद दे रहे हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाचहिं गावहिं बिबुध बधूटीं । बार बार कुसुमांजलि छूटीं ॥",
+            "जहँ तहँ बिप्र बेदधुनि करहीं । बंदी बिरिदावलि उच्चरहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "देवताओं की स्त्रियाँ नाचती-गाती हैं । बार-बार हाथों से पुष्पों की अंजलियाँ छूट रही हैं । जहाँ-तहाँ ब्रह्म वेदध्वनि कर रहे हैं और भाट लोग विरुदावली (कुलकीर्ति) बखान रहे हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "महिं पाताल नाक जसु ब्यापा । राम बरी सिय भंजेउ चापा ॥",
+            "करहिं आरती पुर नर नारी । देहिं निछावरि बित्त बिसारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पृथ्वी, पाताल और स्वर्ग तीनों लोकों में यश फैल गया कि श्री रामचन्द्रजी ने धनुष तोड़ दिया और सीताजी को वरण कर लिया । नगर के नर-नारी आरती कर रहे हैं और अपनी पूँजी (हैसियत) को भुलाकर (सामर्थ्य से बहुत अधिक) निछावर कर रहे हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोहति सीय राम कै जोरी । छबि सिंगारु मनहुँ एक ठोरी ॥",
+            "सखीं कहहिं प्रभु पद गहु सीता । करति न चरन परस अति भीता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "श्री सीता-रामजी की जोड़ी ऐसी सुशोभित हो रही है मानो सुंदरता और श्रृंगार रस एकत्र हो गए हों । सखियाँ कह रही हैं - सीते! स्वामी के चरण छुओ, किन्तु सीताजी अत्यन्त भयभीत हुई उनके चरण नहीं छूतीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गौतम तिय गति सुरति करि नहिं परसति पग पानि ।",
+            "मन बिहसे रघुबंसमनि प्रीति अलौकिक जानि ॥ २६५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "गौतमजी की स्त्री अहल्या की गति का स्मरण करके सीताजी श्री रामजी के चरणों को हाथों से स्पर्श नहीं कर रही हैं । सीताजी की अलौकिक प्रीति जानकर रघुकुल मणि श्री रामचन्द्रजी मन में हँसे ॥ २६५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब सिय देखि भूप अभिलाषे । कूर कपूत मूढ़ मन माखे ॥",
+            "उठि उठि पहिरि सनाह अभागे । जहँ तहँ गाल बजावन लागे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उस समय सीताजी को देखकर कुछ राजा लोग ललचा उठे । वे दुष्ट, कुपूत और मूढ़ राजा मन में बहुत तमतमाए । वे अभागे उठ-उठकर, कवच पहनकर, जहाँ-तहाँ गाल बजाने लगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लेहु छड़ाइ सीय कह कोऊ । धरि बाँधहु नृप बालक दोऊ ॥",
+            "तोरें धनुषु चाड़ नहिं सरई । जीवत हमहि कुअँरि को बरई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कोई कहते हैं, सीता को छीन लो और दोनों राजकुमारों को पकड़कर बाँध लो । धनुष तोड़ने से ही चाह नहीं सरेगी (पूरी होगी) । हमारे जीते-जी राजकुमारी को कौन ब्याह सकता है? ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं बिदेहु कछु करै सहाई । जीतहु समर सहित दोउ भाई ॥",
+            "साधु भूप बोले सुनि बानी । राजसमाजहि लाज लजानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यदि जनक कुछ सहायता करें, तो युद्ध में दोनों भाइयों सहित उसे भी जीत लो । ये वचन सुनकर साधु राजा बोले - इस (निर्लज्ज) राज समाज को देखकर तो लाज भी लजा गई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बलु प्रतापु बीरता बड़ाई । नाक पिनाकहि संग सिधाई ॥",
+            "सोइ सूरता कि अब कहुँ पाई । असि बुधि तौ बिधि मुँह मसि लाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अरे! तुम्हारा बल, प्रताप, वीरता, बड़ाई और नाक (प्रतिष्ठा) तो धनुष के साथ ही चली गई । वही वीरता थी कि अब कहीं से मिली है? ऐसी दुष्ट बुद्धि है, तभी तो विधाता ने तुम्हारे मुखों पर कालिख लगा दी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखहु रामहि नयन भरि तजि इरिषा मदु कोहु ॥",
+            "लखन रोषु पावकु प्रबल जानि सलभ जनि होहु ॥ २६६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ईर्षा, घमंड और क्रोध छोड़कर नेत्र भरकर श्री रामजी (की छबि) को देख लो । लक्ष्मण के क्रोध को प्रबल अग्नि जानकर उसमें पतंगे मत बनो ॥ २६६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बैनतेय बलि जिमि चह कागू । जिमि ससु चहै नाग अरि भागू ॥",
+            "जिमि चह कुसल अकारन कोही । सब संपदा चहै सिवद्रोही ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जैसे गरुड़ का भाग कौआ चाहे, सिंह का भाग खरगोश चाहे, बिना कारण ही क्रोध करने वाला अपनी कुशल चाहे, शिवजी से विरोध करने वाला सब प्रकार की सम्पत्ति चाहे, ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लोभी लोलुप कल कीरति चहई । अकलंकता कि कामी लहई ॥",
+            "हरि पद बिमुख परम गति चाहा । तस तुम्हार लालचु नरनाहा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "लोभी-लालची सुंदर कीर्ति चाहे, कामी मनुष्य निष्कलंकता (चाहे तो) क्या पा सकता है? और जैसे श्री हरि के चरणों से विमुख मनुष्य परमगति (मोक्ष) चाहे, हे राजाओं! सीता के लिए तुम्हारा लालच भी वैसा ही व्यर्थ है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कोलाहलु सुनि सीय सकानी । सखीं लवाइ गईं जहँ रानी ॥",
+            "रामु सुभायँ चले गुरु पाहीं । सिय सनेहु बरनत मन माहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कोलाहल सुनकर सीताजी शंकित हो गईं । तब सखियाँ उन्हें वहाँ ले गईं, जहाँ रानी (सीताजी की माता) थीं । श्री रामचन्द्रजी मन में सीताजी के प्रेम का बखान करते हुए स्वाभाविक चाल से गुरुजी के पास चले ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रानिन्ह सहित सोच बस सीया । अब धौं बिधिहि काह करनीया ॥",
+            "भूप बचन सुनि इत उत तकहीं । लखनु राम डर बोलि न सकहीं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रानियों सहित सीताजी (दुष्ट राजाओं के दुर्वचन सुनकर) सोच के वश हैं कि न जाने विधाता अब क्या करने वाले हैं । राजाओं के वचन सुनकर लक्ष्मणजी इधर-उधर ताकते हैं, किन्तु श्री रामचन्द्रजी के डर से कुछ बोल नहीं सकते ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अरुन नयन भृकुटी कुटिल चितवत नृपन्ह सकोप ।",
+            "मनहुँ मत्त गजगन निरखि सिंघकिसोरहि चोप ॥ २६७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनके नेत्र लाल और भौंहें टेढ़ी हो गईं और वे क्रोध से राजाओं की ओर देखने लगे, मानो मतवाले हाथियों का झुंड देखकर सिंह के बच्चे को जोश आ गया हो ॥ २६७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "खरभरु देखि बिकल पुर नारीं । सब मिलि देहिं महीपन्ह गारीं ॥",
+            "तेहिं अवसर सुनि सिवधनु भंगा । आयउ भृगुकुल कमल पतंगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "खलबली देखकर जनकपुरी की स्त्रियाँ व्याकुल हो गईं और सब मिलकर राजाओं को गालियाँ देने लगीं । उसी मौके पर शिवजी के धनुष का टूटना सुनकर भृगुकुल रूपी कमल के सूर्य परशुरामजी आए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि महीप सकल सकुचाने । बाज झपट जनु लवा लुकाने ॥",
+            "गौरि सरीर भूति भल भ्राजा । भाल बिसाल त्रिपुंड बिराजा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इन्हें देखकर सब राजा सकुचा गए, मानो बाज के झपटने पर बटेर लुक (छिप) गए हों । गोरे शरीर पर विभूति (भस्म) बड़ी फब रही है और विशाल ललाट पर त्रिपुण्ड्र विशेष शोभा दे रहा है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सीस जटा ससिबदनु सुहावा । रिस बस कछुक अरुन होइ आवा ॥",
+            "भृकुटी कुटिल नयन रिस राते । सहजहुँ चितवत मनहुँ रिसाते ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सिर पर जटा है, सुंदर मुखचन्द्र क्रोध के कारण कुछ लाल हो आया है । भौंहें टेढ़ी और आँखें क्रोध से लाल हैं । सहज ही देखते हैं, तो भी ऐसा जान पड़ता है मानो क्रोध कर रहे हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बृषभ कंध उर बाहु बिसाला । चारु जनेउ माल मृगछाला ॥",
+            "कटि मुनिबसन तून दुइ बाँधें । धनु सर कर कुठारु कल काँधें ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बैल के समान (ऊँचे और पुष्ट) कंधे हैं, छाती और भुजाएँ विशाल हैं । सुंदर यज्ञोपवीत धारण किए, माला पहने और मृगचर्म लिए हैं । कमर में मुनियों का वस्त्र (वल्कल) और दो तरकस बाँधे हैं । हाथ में धनुष-बाण और सुंदर कंधे पर फरसा धारण किए हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सांत बेषु करनी कठिन बरनि न जाइ सरूप ।",
+            "धरि मुनितनु जनु बीर रसु आयउ जहँ सब भूप ॥ २६८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शांत वेष है, परन्तु करनी बहुत कठोर हैं, स्वरूप का वर्णन नहीं किया जा सकता । मानो वीर रस ही मुनि का शरीर धारण करके, जहाँ सब राजा लोग हैं, वहाँ आ गया हो ॥ २६८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखत भृगुपति बेषु कराला । उठे सकल भय बिकल भुआला ॥",
+            "पितु समेत कहि कहि निज नामा । लगे करन सब दंड प्रनामा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परशुरामजी का भयानक वेष देखकर सब राजा भय से व्याकुल हो उठ खड़े हुए और पिता सहित अपना नाम कह-कहकर सब दंडवत प्रणाम करने लगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जेहि सुभायँ चितवहिं हितु जानी । सो जानइ जनु आइ खुटानी ॥",
+            "जनक बहोरि आइ सिरु नावा । सीय बोलाइ प्रनामु करावा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परशुरामजी हित समझकर भी सहज ही जिसकी ओर देख लेते हैं, वह समझता है मानो मेरी आयु पूरी हो गई । फिर जनकजी ने आकर सिर नवाया और सीताजी को बुलाकर प्रणाम कराया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आसिष दीन्हि सखीं हरषानीं । निज समाज लै गईं सयानीं ॥",
+            "बिस्वामित्रु मिले पुनि आई । पद सरोज मेले दोउ भाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परशुरामजी ने सीताजी को आशीर्वाद दिया । सखियाँ हर्षित हुईं और (वहाँ अब अधिक देर ठहरना ठीक न समझकर) वे सयानी सखियाँ उनको अपनी मंडली में ले गईं । फिर विश्वामित्रजी आकर मिले और उन्होंने दोनों भाइयों को उनके चरण कमलों पर गिराया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रामु लखनु दसरथ के ढोटा । दीन्हि असीस देखि भल जोटा ॥",
+            "रामहि चितइ रहे थकि लोचन । रूप अपार मार मद मोचन ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(विश्वामित्रजी ने कहा - ) ये राम और लक्ष्मण राजा दशरथ के पुत्र हैं । उनकी सुंदर जोड़ी देखकर परशुरामजी ने आशीर्वाद दिया । कामदेव के भी मद को छुड़ाने वाले श्री रामचन्द्रजी के अपार रूप को देखकर उनके नेत्र थकित (स्तम्भित) हो रहे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बहुरि बिलोकि बिदेह सन कहहु काह अति भीर ।",
+            "पूँछत जानि अजान जिमि ब्यापेउ कोपु सरीर ॥ २६९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर सब देखकर, जानते हुए भी अनजान की तरह जनकजी से पूछते हैं कि कहो, यह बड़ी भारी भीड़ कैसी है? उनके शरीर में क्रोध छा गया ॥ २६९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समाचार कहि जनक सुनाए । जेहि कारन महीप सब आए ॥",
+            "सुनत बचन फिरि अनत निहारे । देखे चापखंड महि डारे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिस कारण सब राजा आए थे, राजा जनक ने वे सब समाचार कह सुनाए । जनक के वचन सुनकर परशुरामजी ने फिरकर दूसरी ओर देखा तो धनुष के टुकड़े पृथ्वी पर पड़े हुए दिखाई दिए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अति रिस बोले बचन कठोरा । कहु जड़ जनक धनुष कै तोरा ॥",
+            "बेगि देखाउ मूढ़ न त आजू । उलटउँ महि जहँ लहि तव राजू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अत्यन्त क्रोध में भरकर वे कठोर वचन बोले - रे मूर्ख जनक! बता, धनुष किसने तोड़ा? उसे शीघ्र दिखा, नहीं तो अरे मूढ़! आज मैं जहाँ तक तेरा राज्य है, वहाँ तक की पृथ्वी उलट दूँगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अति डरु उतरु देत नृपु नाहीं । कुटिल भूप हरषे मन माहीं ॥",
+            "सुर मुनि नाग नगर नर नारी । सोचहिं सकल त्रास उर भारी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा को अत्यन्त डर लगा, जिसके कारण वे उत्तर नहीं देते । यह देखकर कुटिल राजा मन में बड़े प्रसन्न हुए । देवता, मुनि, नाग और नगर के स्त्री-पुरुष सभी सोच करने लगे, सबके हृदय में बड़ा भय है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मन पछिताति सीय महतारी । बिधि अब सँवरी बात बिगारी ॥",
+            "भृगुपति कर सुभाउ सुनि सीता । अरध निमेष कलप सम बीता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सीताजी की माता मन में पछता रही हैं कि हाय! विधाता ने अब बनी-बनाई बात बिगाड़ दी । परशुरामजी का स्वभाव सुनकर सीताजी को आधा क्षण भी कल्प के समान बीतते लगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सभय बिलोके लोग सब जानि जानकी भीरु ।",
+            "हृदयँ न हरषु बिषादु कछु बोले श्रीरघुबीरु ॥ २७० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब श्री रामचन्द्रजी सब लोगों को भयभीत देखकर और सीताजी को डरी हुई जानकर बोले - उनके हृदय में न कुछ हर्ष था न विषाद- ॥ २७० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "मासपारायण, नौवाँ विश्राम"
+        ]
+    }
+]
