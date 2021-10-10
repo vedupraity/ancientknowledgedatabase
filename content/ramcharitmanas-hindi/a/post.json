@@ -45,14 +45,12 @@
     },
     {
         "type": "textGroup",
-        "groupStyle": [
-            "mb-5"
-        ],
+        "groupStyle": [],
         "textStyle": [
             "has-text-right"
         ],
         "text": [
-            "विनीत - **प्रकाशक**"
+            "विनीत - प्रकाशक"
         ]
     }
 ]
