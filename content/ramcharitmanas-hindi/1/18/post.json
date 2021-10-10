@@ -1,0 +1,491 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दच्छ लिए मुनि बोलि सब करन लगे बड़ जाग ।",
+            "नेवते सादर सकल सुर जे पावत मख भाग ॥ ६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दक्ष ने सब मुनियों को बुला लिया और वे बड़ा यज्ञ करने लगे । जो देवता यज्ञ का भाग पाते हैं, दक्ष ने उन सबको आदर सहित निमन्त्रित किया ॥ ६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "किंनर नाग सिद्ध गंधर्बा । बधुन्ह समेत चले सुर सर्बा ॥",
+            "बिष्नु बिरंचि महेसु बिहाई । चले सकल सुर जान बनाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(दक्ष का निमन्त्रण पाकर) किन्नर, नाग, सिद्ध, गन्धर्व और सब देवता अपनी-अपनी स्त्रियों सहित चले । विष्णु, ब्रह्मा और महादेवजी को छोड़कर सभी देवता अपना-अपना विमान सजाकर चले ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सतीं बिलोके ब्योम बिमाना । जात चले सुंदर बिधि नाना ॥",
+            "सुर सुंदरी करहिं कल गाना । सुनत श्रवन छूटहिं मुनि ध्याना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने देखा, अनेकों प्रकार के सुंदर विमान आकाश में चले जा रहे हैं, देव-सुन्दरियाँ मधुर गान कर रही हैं, जिन्हें सुनकर मुनियों का ध्यान छूट जाता है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पूछेउ तब सिवँ कहेउ बखानी । पिता जग्य सुनि कछु हरषानी ॥",
+            "जौं महेसु मोहि आयसु देहीं । कछु ‍िदन जाइ रहौं मिस एहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सतीजी ने (विमानों में देवताओं के जाने का कारण) पूछा, तब शिवजी ने सब बातें बतलाईं । पिता के यज्ञ की बात सुनकर सती कुछ प्रसन्न हुईं और सोचने लगीं कि यदि महादेवजी मुझे आज्ञा दें, तो इसी बहाने कुछ दिन पिता के घर जाकर रहूँ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पति परित्याग हृदयँ दुखु भारी । कहइ न निज अपराध बिचारी ॥",
+            "बोली सती मनोहर बानी । भय संकोच प्रेम रस सानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "क्योंकि उनके हृदय में पति द्वारा त्यागी जाने का बड़ा भारी दुःख था, पर अपना अपराध समझकर वे कुछ कहती न थीं । आखिर सतीजी भय, संकोच और प्रेमरस में सनी हुई मनोहर वाणी से बोलीं -  ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पिता भवन उत्सव परम जौं प्रभु आयसु होइ ।",
+            "तौ मैं जाउँ कृपायतन सादर देखन सोइ ॥ ६१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे प्रभो! मेरे पिता के घर बहुत बड़ा उत्सव है । यदि आपकी आज्ञा हो तो हे कृपाधाम! मैं आदर सहित उसे देखने जाऊँ ॥ ६१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहेहु नीक मोरेहूँ मन भावा । यह अनुचित नहिं नेवत पठावा ॥",
+            "दच्छ सकल निज सुता बोलाईं । हमरें बयर तुम्हउ बिसराईं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शिवजी ने कहा - तुमने बात तो अच्छी कही, यह मेरे मन को भी पसंद आई पर उन्होंने न्योता नहीं भेजा, यह अनुचित है । दक्ष ने अपनी सब लड़कियों को बुलाया है, किन्तु हमारे बैर के कारण उन्होंने तुमको भी भुला दिया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ब्रह्मसभाँ हम सन दुखु माना । तेहि तें अजहुँ करहिं अपमाना ॥",
+            "जौं बिनु बोलें जाहु भवानी । रहइ न सीलु सनेहु न कानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक बार ब्रह्मा की सभा में हम से अप्रसन्न हो गए थे, उसी से वे अब भी हमारा अपमान करते हैं । हे भवानी! जो तुम बिना बुलाए जाओगी तो न शील-स्नेह ही रहेगा और न मान-मर्यादा ही रहेगी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जदपि मित्र प्रभु पितु गुर गेहा । जाइअ बिनु बोलेहुँ न सँदेहा ॥",
+            "तदपि बिरोध मान जहँ कोई । तहाँ गएँ कल्यानु न होई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि इसमें संदेह नहीं कि मित्र, स्वामी, पिता और गुरु के घर बिना बुलाए भी जाना चाहिए तो भी जहाँ कोई विरोध मानता हो, उसके घर जाने से कल्याण नहीं होता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भाँति अनेक संभु समुझावा । भावी बस न ग्यानु उर आवा ॥",
+            "कह प्रभु जाहु जो बिनहिं बोलाएँ । नहिं भलि बात हमारे भाएँ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शिवजी ने बहुत प्रकार से समझाया, पर होनहारवश सती के हृदय में बोध नहीं हुआ । फिर शिवजी ने कहा कि यदि बिना बुलाए जाओगी, तो हमारी समझ में अच्छी बात न होगी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहि देखा हर जतन बहु रहइ न दच्छकुमारि ।",
+            "दिए मुख्य गन संग तब बिदा कीन्ह त्रिपुरारि ॥ ६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शिवजी ने बहुत प्रकार से कहकर देख लिया, किन्तु जब सती किसी प्रकार भी नहीं रुकीं, तब त्रिपुरारि महादेवजी ने अपने मुख्य गणों को साथ देकर उनको बिदा कर दिया ॥ ६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पिता भवन जब गईं भवानी । दच्छ त्रास काहुँ न सनमानी ॥",
+            "सादर भलेहिं मिली एक माता । भगिनीं मिलीं बहुत मुसुकाता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भवानी जब पिता (दक्ष) के घर पहुँची, तब दक्ष के डर के मारे किसी ने उनकी आवभगत नहीं की, केवल एक माता भले ही आदर से मिली । बहिनें बहुत मुस्कुराती हुई मिलीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दच्छ न कछु पूछी कुसलाता । सतिहि बिलोकी जरे सब गाता ॥",
+            "सतीं जाइ देखेउ तब जागा । कतहूँ न दीख संभु कर भागा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दक्ष ने तो उनकी कुछ कुशल तक नहीं पूछी, सतीजी को देखकर उलटे उनके सारे अंग जल उठे । तब सती ने जाकर यज्ञ देखा तो वहाँ कहीं शिवजी का भाग दिखाई नहीं दिया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब चित चढ़ेउ जो संकर कहेऊ । प्रभु अपमानु समुझि उर दहेऊ ॥",
+            "पाछिल दुखु न हृदयँ अस ब्यापा । जस यह भयउ महा परितापा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब शिवजी ने जो कहा था, वह उनकी समझ में आया । स्वामी का अपमान समझकर सती का हृदय जल उठा । पिछला (पति परित्याग का) दुःख उनके हृदय में उतना नहीं व्यापा था, जितना महान् दुःख इस समय (पति अपमान के कारण) हुआ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जद्यपि जग दारुन दुख नाना । सब तें कठिन जाति अवमाना ॥",
+            "समुझि सो सतिहि भयउ अति क्रोधा । बहु बिधि जननीं कीन्ह प्रबोधा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यद्यपि जगत में अनेक प्रकार के दारुण दुःख हैं, तथापि, जाति अपमान सबसे बढ़कर कठिन है । यह समझकर सतीजी को बड़ा क्रोध हो आया । माता ने उन्हें बहुत प्रकार से समझाया-बुझाया ॥ ४ ॥"
+        ]
+    }
+]

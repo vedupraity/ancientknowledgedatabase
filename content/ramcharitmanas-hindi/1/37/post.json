@@ -1,0 +1,342 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कौसल्यादि नारि प्रिय सब आचरन पुनीत ।",
+            "पति अनुकूल प्रेम दृढ़ हरि पद कमल बिनीत ॥ १८८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उनकी कौसल्या आदि प्रिय रानियाँ सभी पवित्र आचरण वाली थीं । वे (बड़ी) विनीत और पति के अनुकूल (चलने वाली) थीं और श्री हरि के चरणकमलों में उनका दृढ़ प्रेम था ॥ १८८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एक बार भूपति मन माहीं । भै गलानि मोरें सुत नाहीं ॥",
+            "गुर गृह गयउ तुरत महिपाला । चरन लागि करि बिनय बिसाला ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक बार राजा के मन में बड़ी ग्लानि हुई कि मेरे पुत्र नहीं है । राजा तुरंत ही गुरु के घर गए और चरणों में प्रणाम कर बहुत विनय की ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निज दुख सुख सब गुरहि सुनायउ । कहि बसिष्ठ बहुबिधि समुझायउ ॥",
+            "धरहु धीर होइहहिं सुत चारी । त्रिभुवन बिदित भगत भय हारी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने अपना सारा सुख-दुःख गुरु को सुनाया । गुरु वशिष्ठजी ने उन्हें बहुत प्रकार से समझाया (और कहा - ) धीरज धरो, तुम्हारे चार पुत्र होंगे, जो तीनों लोकों में प्रसिद्ध और भक्तों के भय को हरने वाले होंगे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सृंगी रिषिहि बसिष्ठ बोलावा । पुत्रकाम सुभ जग्य करावा ॥",
+            "भगति सहित मुनि आहुति दीन्हें । प्रगटे अगिनि चरू कर लीन्हें ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वशिष्ठजी ने श्रृंगी ऋषि को बुलवाया और उनसे शुभ पुत्रकामेष्टि यज्ञ कराया । मुनि के भक्ति सहित आहुतियाँ देने पर अग्निदेव हाथ में चरु (हविष्यान्न खीर) लिए प्रकट हुए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जो बसिष्ठ कछु हृदयँ बिचारा । सकल काजु भा सिद्ध तुम्हारा ॥",
+            "यह हबि बाँटि देहु नृप जाई । जथा जोग जेहि भाग बनाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(और दशरथ से बोले - ) वशिष्ठ ने हृदय में जो कुछ विचारा था, तुम्हारा वह सब काम सिद्ध हो गया । हे राजन्! (अब) तुम जाकर इस हविष्यान्न (पायस) को, जिसको जैसा उचित हो, वैसा भाग बनाकर बाँट दो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब अदृस्य भए पावक सकल सभहि समुझाइ ।",
+            "परमानंद मगन नृप हरष न हृदयँ समाइ ॥ १८९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तदनन्तर अग्निदेव सारी सभा को समझाकर अन्तर्धान हो गए । राजा परमानंद में मग्न हो गए, उनके हृदय में हर्ष समाता न था ॥ १८९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तबहिं रायँ प्रिय नारि बोलाईं । कौसल्यादि तहाँ चलि आईं ॥",
+            "अर्ध भाग कौसल्यहि दीन्हा । उभय भाग आधे कर कीन्हा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसी समय राजा ने अपनी प्यारी पत्नियों को बुलाया । कौसल्या आदि सब (रानियाँ) वहाँ चली आईं । राजा ने (पायस का) आधा भाग कौसल्या को दिया, (और शेष) आधे के दो भाग किए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कैकेई कहँ नृप सो दयऊ । रह्यो सो उभय भाग पुनि भयऊ ॥",
+            "कौसल्या कैकेई हाथ धरि । दीन्ह सुमित्रहि मन प्रसन्न करि ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह (उनमें से एक भाग) राजा ने कैकेयी को दिया । शेष जो बच रहा उसके फिर दो भाग हुए और राजा ने उनको कौसल्या और कैकेयी के हाथ पर रखकर (अर्थात् उनकी अनुमति लेकर) और इस प्रकार उनका मन प्रसन्न करके सुमित्रा को दिया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि बिधि गर्भसहित सब नारी । भईं हृदयँ हरषित सुख भारी ॥",
+            "जा दिन तें हरि गर्भहिं आए । सकल लोक सुख संपति छाए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार सब स्त्रियाँ गर्भवती हुईं । वे हृदय में बहुत हर्षित हुईं । उन्हें बड़ा सुख मिला । जिस दिन से श्री हरि (लीला से ही) गर्भ में आए, सब लोकों में सुख और सम्पत्ति छा गई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मंदिर महँ सब राजहिं रानीं । सोभा सील तेज की खानीं ॥",
+            "सुख जुत कछुक काल चलि गयऊ । जेहिं प्रभु प्रगट सो अवसर भयऊ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शोभा, शील और तेज की खान (बनी हुई) सब रानियाँ महल में सुशोभित हुईं । इस प्रकार कुछ समय सुखपूर्वक बीता और वह अवसर आ गया, जिसमें प्रभु को प्रकट होना था ॥ ४ ॥"
+        ]
+    }
+]

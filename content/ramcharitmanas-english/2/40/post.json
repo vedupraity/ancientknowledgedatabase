@@ -1,0 +1,457 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "is-size-4",
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Vasistha's speech"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Dohas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "gura pada kamala pranāmu kari baiṭhē āyasu pāi.",
+            "bipra mahājana saciva saba jurē sabhāsada āi..253.. [2-253]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Bowing at the preceptor's lotus feet and receiving his permission, Bharata sat down; and presently the Brahmanas, the elite of the city, the ministers and all other councillors came and assembled there."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Chaupais"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "bōlē munibaru samaya samānā. sunahu sabhāsada bharata sujānā..",
+            "dharama dhurīna bhānukula bhānū. rājā rāmu svabasa bhagavānū.. [2-253-1]",
+            "satyasaṃdha pālaka śruti sētū. rāma janamu jaga maṃgala hētū..",
+            "gura pitu mātu bacana anusārī. khala dalu dalana dēva hitakārī.. [2-253-2]",
+            "nīti prīti paramāratha svārathu. kōu na rāma sama jāna jathārathu..",
+            "bidhi hari haru sasi rabi disipālā. māyā jīva karama kuli kālā.. [2-253-3]",
+            "ahipa mahipa jahaom lagi prabhutāī. jōga siddhi nigamāgama gāī..",
+            "kari bicāra jiṃyaom dēkhahu nīkēṃ. rāma rajāi sīsa sabahī kēṃ.. [2-253-4]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "The chief of the sages, Vasistha, spoke in words appropriate to the occasion \"Listen, O councillors, and you, wise Bharata; the sun of the solar race, King Rama, is a champion of righteousness and the almighty Lord dependent on none but Himself. Sri Rama is true to His word and maintains the standard of morality set up by the Vedas; His very advent is a source of blessing to the world. Obedient to the commands of His preceptor and parents, He crushes the armies of the wicked and is a friend of the gods. Propriety of behaviour, love, the highest object of life and worldly interests-no one knows these aright as Rama does. Brahma (the Creator), Hari (the Preserver) and Hara (the Destroyer of the universe), the moon-god, the sun-god and the guardians of the various quarters, Maya (the deluding potency of God), Jiva (the individual soul), the various forms of Karma (the residue of actions) and the Time-Spirit, Sesa (the lord of serpents), the rulers of the earth and whatever other powers there are and even so the accomplishments of Yoga extolled in the Vedas and other scriptures-ponder in your heart and consider well-Sri Rama's commands exercise their authority over all.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Dohas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "rākhēṃ rāma rajāi rukha hama saba kara hita hōi.",
+            "samujhi sayānē karahu aba saba mili saṃmata sōi..254.. [2-154]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "\"If we carry out Sri Rama's orders and respect His wishes, it will be well for us all. Ponder this, O wise men; and do that which you all unanimously resolve upon.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Chaupais"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "saba kahu sukhada rāma abhiṣēkū. maṃgala mōda mūla maga ēkū..",
+            "kēhi bidhi avadha calahiṃ raghurāū. kahahu samujhi sōi karia upāū.. [2-154-1]",
+            "saba sādara suni munibara bānī. naya paramāratha svāratha sānī..",
+            "utaru na āva lōga bhaē bhōrē. taba siru nāi bharata kara jōrē.. [2-154-2]",
+            "bhānubaṃsa bhaē bhūpa ghanērē. adhika ēka tēṃ ēka baḍaērē..",
+            "janamu hētu saba kahaom pitu mātā. karama subhāsubha dēi bidhātā.. [2-154-3]",
+            "dali dukha sajai sakala kalyānā. asa asīsa rāuri jagu jānā..",
+            "sō gōsāiom bidhi gati jēhiṃ chēṃkī. sakai kō ṭāri ṭēka jō ṭēkī.. [2-154-4]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "\"Sri Rama's co579ronation will be delightful to all; that is the only course which is conducive to good luck and joy. In what way can the Lord of Raghus be prevailed upon to return to Ayodhya; ponder this and tell me, so that we may adopt the same device.\" Everyone listened with reverence to the sage's speech, surcharged as it was with prudence and spiritual wisdom and salutary from the worldly point of view as well. But no answer was forthcoming: the people were dumbfounded. Then Bharata bowed his head and with joined palms began as follows: \"The solar race has produced many a king each one far greater than the rest. For the birth of all the father and mother are responsible; whereas it is God who dispenses the good or evil fruit of their actions. Your benediction, as all the world knows, wipes out sorrow and confers all blessings. As for yourself, my lord, you thwarted the course of Providence*; no one can alter what you have resolved upon.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Dohas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "būjhia mōhi upāu aba sō saba mōra abhāgu.",
+            "suni sanēhamaya bacana gura ura umagā anurāgu..255.. [2-255]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "And yet you ask advice of me at this juncture ! All this is my misfortune.\" The Guru's heart overflowed with love when he heard these affectionate words."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Chaupais"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "tāta bāta phuri rāma kṛpāhīṃ. rāma bimukha sidhi sapanēhu nāhīṃ..",
+            "sakucau tāta kahata ēka bātā. aradha tajahiṃ budha sarabasa jātā.. [2-255-1]",
+            "tumha kānana gavanahu dōu bhāī. phēriahiṃ lakhana sīya raghurāī..",
+            "suni subacana haraṣē dōu bhrātā. bhē pramōda paripūrana gātā.. [2-255-2]",
+            "mana prasanna tana tēju birājā. janu jiya rāu rāmu bhaē rājā..",
+            "bahuta lābha lōganha laghu hānī. sama dukha sukha saba rōvahiṃ rānī.. [2-255-3]",
+            "kahahiṃ bharatu muni kahā sō kīnhē. phalu jaga jīvanha abhimata dīnhē..",
+            "kānana karau janama bhari bāsū. ēhiṃ tēṃ adhika na mōra supāsū.. [2-255-4]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "What you have said is no doubt true, my child; but it is all due to Sri Rama's grace. He who is hostile to Rama can never dream of success. I hesitate to tell you one thing; the wise forgo one-half when they find the whole in peril.You two brothers (Satrughna and yourself) retire to the woods; while Laksmana, Sita and the Lord of Raghus may be sent back.\" The two brothers (Bharata and Satrughna) rejoiced to hear these agreeable words; their whole frame was filled with excess of joy. They were pleased at heart and a glow irradiated their body as though King Dasaratha had come to life again and Rama had been crowned king. The people thought they would gain much while their loss would be comparatively small. The queen-mothers, however, all wept because their joy and sorrow matched each other. \"By obeying the Guru's commands,\" Bharata observed, \"One would attain the fruit of gratifying all the creatures of the world. I will stay all my life in the forest; I conceive no greater happiness than this.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Dohas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "aomtarajāmī rāmu siya tumha sarabagya sujāna.",
+            "jō phura kahahu ta nātha nija kījia bacanu pravāna..256.. [2-256]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Rama and Sita have access to all hearts, while you are omniscient and wise. If what you say is true, then redeem your word, my lord.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Chaupais"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "bharata bacana suni dēkhi sanēhū. sabhā sahita muni bhaē bidēhū..",
+            "bharata mahā mahimā jalarāsī. muni mati ṭhāḍhai tīra abalā sī.. [2-256-1]",
+            "gā caha pāra jatanu hiyaom hērā. pāvati nāva na bōhitu bērā..",
+            "auru karihi kō bharata baḍaāī. sarasī sīpi ki siṃdhu samāī.. [2-256-2]",
+            "bharatu munihi mana bhītara bhāē. sahita samāja rāma pahiṃ āē..",
+            "prabhu pranāmu kari dīnha suāsanu. baiṭhē saba suni muni anusāsanu.. [2-256-3]",
+            "bōlē munibaru bacana bicārī. dēsa kāla avasara anuhārī..",
+            "sunahu rāma sarabagya sujānā. dharama nīti guna gyāna nidhānā.. [2-256-4]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "Hearing Bharata's words and seeing his love, the sage as well as the whole assembly were transported out of themselves Bharata's transcendent glory resembled the ocean and the sage's wit stood on its brink like a helpless woman who longed to cross it and sought many a device but was unable to find a boat, ship or raft. Who else, then, can glorify Bharata ? Can the ocean be contained in the shell of a small pool ? The sage was pleased with Bharata in his heart of hearts; with the whole assembly, therefore, he came to Sri Rama. The Lord made obeisance and offered him a seat of honour; and receiving the sage's permission all sat down. The great sage then spoke in well-considered phrases appropriate to the time, place and circumstances: \"Listen, Rama; you are omniscient and wise and a storehouse of piety, prudence, virtue and knowledge."
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Dohas"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "saba kē ura aṃtara basahu jānahu bhāu kubhāu.",
+            "purajana jananī bharata hita hōi sō kahia upāu..257.. [2-257]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "\"You dwell in the heart of all and know our good and evil intentions. Tell us, therefore, the way in which the citizens, your mothers and Bharata too may be benefited.\""
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "Chaupais"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ārata kahahiṃ bicāri na kāū. sūjha jūārihi āpana dāū..",
+            "suni muni bacana kahata raghurāū. nātha tumhārēhi hātha upāū.. [2-257-1]",
+            "saba kara hita rukha rāuri rākhēṃ. āyasu kiēom mudita phura bhāṣēṃ..",
+            "prathama jō āyasu mō kahu hōī. māthēṃ māni karau sikha sōī.. [2-257-2]",
+            "puni jēhi kahaom jasa kahaba gōsāīṃ. sō saba bhāomti ghaṭihi sēvakāīṃ..",
+            "kaha muni rāma satya tumha bhāṣā. bharata sanēhaom bicāru na rākhā.. [2-257-3]",
+            "tēhi tēṃ kahau bahōri bahōrī. bharata bhagati basa bhai mati mōrī..",
+            "mōrēṃ jāna bharata ruci rākhi. jō kījia sō subha siva sākhī.. [2-257-4]"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "The afflicted never speak with forethought. A gambler sees his own game.\" On hearing the sage's words the Lord of Raghus replied, \"My lord, the remedy lies in your own hands. Everyone will be benefited by meeting your wishes, carrying out your behests and gladly acclaiming them. In the first place, whatever orders and instructions are given to me I will reverently carry them out. Then, my lord, whoever receives any order from you will fully devote himself to your service.\" Said the sage, \"What you have said, Rama, is true; but Bharata's love has robbed me of my wits. That is why I say again and again, my judgment has been enthralled by Bharata's devotion. To my mind, Siva be my witness, whatever you do with due deference to Bharata's wishes will be all for good.\""
+        ]
+    }
+]

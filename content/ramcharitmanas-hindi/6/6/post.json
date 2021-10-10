@@ -1,0 +1,314 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखु विभीषन दच्छिन आसा । घन घमंड दामिनी बिलासा ॥",
+            "मधुर मधुर गरजइ घन घोरा । होइ बृष्टि जनि उपल कठोरा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे विभीषण! दक्षिण दिशा की ओर देखो, बादल कैसा घुमड़ रहा है और बिजली चमक रही है । भयानक बादल मीठे-मीठे (हल्के-हल्के) स्वर से गरज रहा है । कहीं कठोर ओलों की वर्षा न हो! ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहत विभीषन सुनहू कृपाला । होइ न तड़ित न बारिद माला ॥",
+            "लंका सिखर उपर आगारा । तहँ दसकंधर देख अखारा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विभीषण बोले - हे कृपालु! सुनिए, यह न तो बिजली है, न बादलों की घटा । लंका की चोटी पर एक महल है । दशग्रीव रावण वहाँ (नाच-गान का) अखाड़ा देख रहा है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छत्र मेघडंबर सिर धारी । सोइ जनु जलद घटा अति कारी ॥",
+            "मंदोदरी श्रवन ताटंका । सोइ प्रभु जनु दामिनी दमंका ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रावण ने सिर पर मेघडंबर (बादलों के डंबर जैसा विशाल और काला) छत्र धारण कर रखा है । वही मानो बादलों की काली घटा है । मंदोदरी के कानों में जो कर्णफूल हिल रहे हैं, हे प्रभो! वही मानो बिजली चमक रही है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बाजहिं ताल मृदंग अनूपा । सोइ रव मधुर सुनहू सुरभूपा ।",
+            "प्रभु मुसुकान समुझि अभिमाना । चाप चढ़ाव बान संधाना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे देवताओं के सम्राट! सुनिए, अनुपम ताल मृदंग बज रहे हैं । वही मधुर (गर्जन) ध्वनि है । रावण का अभिमान समझकर प्रभु मुस्कुराए । उन्होंने धनुष चढ़ाकर उस पर बाण का सन्धान किया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छत्र मुकुट तांटक तब हते एकहीं बान ।",
+            "सब कें देखत महि परे मरमु न कोऊ जान ॥ १३ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और एक ही बाण से (रावण के) छत्र-मुकुट और (मंदोदरी के) कर्णफूल काट गिराए । सबके देखते-देखते वे जमीन पर आ पड़े, पर इसका भेद (कारण) किसी ने नहीं जाना ॥ १३ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस कौतुक करि राम सर प्रबिसेउ आई निषंग ।",
+            "रावन सभा ससंक सब देखि महा रसभंग ॥ १३ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा चमत्कार करके श्री रामजी का बाण (वापस) आकर (फिर) तरकस में जा घुसा । यह महान् रस भंग (रंग में भंग) देखकर रावण की सारी सभा भयभीत हो गई ॥ १३ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कंप न भूमि न मरुत बिसेषा । अस्त्र सस्त्र कछु नयन न देखा ।",
+            "सोचहिं सब निज हृदय मझारी । असगुन भयउ भयंकर भारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "न भूकम्प हुआ, न बहुत जोर की हवा (आँधी) चली । न कोई अस्त्र-शस्त्र ही नेत्रों से देखे । (फिर ये छत्र, मुकुट और कर्णफूल जैसे कटकर गिर पड़े?) सभी अपने-अपने हृदय में सोच रहे हैं कि यह बड़ा भयंकर अपशकुन हुआ! ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "दसमुख देखि सभा भय पाई । बिहसि बचन कह जुगुति बनाई ।",
+            "सिरउ गिरे संतत सुभ जाही । मुकुट परे कस असगुन ताही ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सभा को भयतीत देखकर रावण ने हँसकर युक्ति रचकर ये वचन कहे - सिरों का गिरना भी जिसके लिए निरंतर शुभ होता रहा है, उसके लिए मुकुट का गिरना अपशकुन कैसा? ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सयन करहु निज निज गृह जाईं । गवने भवन सकल सिर नाई ॥",
+            "मंदोदरी सोच उर बसेऊ । जब ते श्रवनपूर महि खसेऊ ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अपने-अपने घर जाकर सो रहो (डरने की कोई बात नहीं है) तब सब लोग सिर नवाकर घर गए । जब से कर्णफूल पृथ्वी पर गिरा, तब से मंदोदरी के हृदय में सोच बस गया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सजल नयन कह जुग कर जोरी । सुनहु प्रानपति बिनती मोरी ॥",
+            "कंत राम बिरोध परिहरहू । जानि मनुज जनि हठ लग धरहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नेत्रों में जल भरकर, दोनों हाथ जोड़कर वह (रावण से) कहने लगी- हे प्राणनाथ! मेरी विनती सुनिए । हे प्रियतम! श्री राम से विरोध छोड़ दीजिए । उन्हें मनुष्य जानकर मन में हठ न पकड़े रहिए ॥ ४ ॥"
+        ]
+    }
+]

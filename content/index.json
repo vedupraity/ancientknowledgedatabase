@@ -4,7 +4,8 @@
         "url": "bhagavad-gita-hindi",
         "title": "श्रीमद्भगवद्गीता - यथारूप (हिंदी)",
         "author": "ए.सी. भक्तिवेदांत स्वामी प्रभुपाद",
-        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "coverImage": "images/bhagavad-gita-cover-4x3.jpg",
+        "description": "यह एक हिंदू धर्मग्रंथ है जिसमें ७०० श्लोकों की रचना अर्जुन और भगवान् कृष्ण के बीच संवाद के रूप में की गई है, यह संस्कृत महाकाव्य महाभारत की एक उपकथा के रूप में प्राप्त है । महाभारत में वर्तमान कलियुग तक की घटनाओं का विवरण मिलता है । इसी युग के प्रारम्भ में आज से लगभग ५,००० वर्ष पूर्व भगवान् श्रीकृष्ण ने अपने मित्र तथा भक्त अर्जुन को भगवद्गीता का उपदेश दिया था ।",
         "language": "hindi",
         "status": "live",
         "tags": [
@@ -19,7 +20,8 @@
         "url": "bhagavad-gita-english",
         "title": "Shrimad Bhagavad Gita - As It Is (English)",
         "author": "A.C. Bhaktivendanta Swami Prabhupada",
-        "coverImage": "images/bhagavad-gita-cover-16by9.jpg",
+        "coverImage": "images/bhagavad-gita-cover-4x3.jpg",
+        "description": "Bhagavad-gītā originally appears as an episode in the Mahābhārata, the epic Sanskrit history of the ancient world. The Mahābhārata tells of events leading up to the present Age of Kali. It was at the beginning of this age, some fifty centuries ago, that Lord Kṛṣṇa spoke Bhagavad-gītā to His friend and devotee Arjuna.",
         "language": "english",
         "status": "live",
         "tags": [
@@ -30,16 +32,31 @@
         ]
     },
     {
-        "id": "ramayana_english",
-        "url": "",
-        "title": "Ramayana",
-        "author": "Valmiki",
-        "coverImage": "images/ramayana-cover-16by9.jpg",
+        "id": "ramcharitmanas_hindi",
+        "url": "ramcharitmanas-hindi",
+        "title": "श्रीरामचरितमानस (हिंदी)",
+        "author": "गोस्वामी तुलसीदास",
+        "coverImage": "images/ramcharitmanas-cover-4x3.jpg",
+        "description": "रामचरितमानस अवधी भाषा में गोस्वामी तुलसीदास द्वारा १६वीं सदी में रचित प्रसिद्ध ग्रन्थ है । इस ग्रन्थ को अवधी साहित्य (हिंदी साहित्य) की एक महान कृति माना जाता है । इसे सामान्यतः 'तुलसी रामायण' या 'तुलसीकृत रामायण' भी कहा जाता है । गोस्वामी जी ने रामचरित का अनुपम शैली में दोहों, चौपाइयों, सोरठों तथा छंद का आश्रय लेकर वर्णन किया है ।",
         "language": "",
-        "status": "wip",
+        "status": "live",
         "tags": [
-            "Ramayana",
-            "Valmiki"
+            "Ramcharitmanas",
+            "Tulsidas"
+        ]
+    },
+    {
+        "id": "ramcharitmanas_english",
+        "url": "ramcharitmanas-english",
+        "title": "Shri Ramcharitmanas (English)",
+        "author": "Goswami Tulsidas",
+        "coverImage": "images/ramcharitmanas-cover-4x3.jpg",
+        "description": "Shri Ramcharitmanas (Śrī Rāmacaritamānasa), is an epic poem in Awadhi language, composed by the 16th-century Indian bhakti poet Tulsidas (c. 1532–1623). The word Ramcharitmanas literally means *Lake of the deeds of Rama*.",
+        "language": "",
+        "status": "live",
+        "tags": [
+            "Ramcharitmanas",
+            "Tulsidas"
         ]
     }
 ]

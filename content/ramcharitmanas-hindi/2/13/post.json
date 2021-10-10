@@ -1,0 +1,491 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सीय सहित सुत सुभग दोउ देखि देखि अकुलाइ ।",
+            "बारहिं बार सनेह बस राउ लेइ उर लाइ ॥ ७६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सीता सहित दोनों सुंदर पुत्रों को देख-देखकर राजा अकुलाते हैं और स्नेह वश बारंबार उन्हें हृदय से लगा लेते हैं ॥ ७६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सकइ न बोलि बिकल नरनाहू । सोक जनित उर दारुन दाहू ॥",
+            "नाइ सीसु पद अति अनुरागा । उठि रघुबीर बिदा तब मागा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा व्याकुल हैं, बोल नहीं सकते । हृदय में शोक से उत्पन्न हुआ भयानक सन्ताप है । तब रघुकुल के वीर श्री रामचन्द्रजी ने अत्यन्त प्रेम से चरणों में सिर नवाकर उठकर विदा माँगी- ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पितु असीस आयसु मोहि दीजै । हरष समय बिसमउ कत कीजै ॥",
+            "तात किएँ प्रिय प्रेम प्रमादू । जसु जग जाइ होइ अपबादू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे पिताजी! मुझे आशीर्वाद और आज्ञा दीजिए । हर्ष के समय आप शोक क्यों कर रहे हैं? हे तात! प्रिय के प्रेमवश प्रमाद (कर्तव्यकर्म में त्रुटि) करने से जगत में यश जाता रहेगा और निंदा होगी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि सनेह बस उठि नरनाहाँ । बैठारे रघुपति गहि बाहाँ ॥",
+            "सुनहु तात तुम्ह कहुँ मुनि कहहीं । रामु चराचर नायक अहहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह सुनकर स्नेहवश राजा ने उठकर श्री रघुनाथजी की बाँह पकड़कर उन्हें बैठा लिया और कहा - हे तात! सुनो, तुम्हारे लिए मुनि लोग कहते हैं कि श्री राम चराचर के स्वामी हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुभ अरु असुभ करम अनुहारी । ईसु देइ फलु हृदयँ बिचारी ॥",
+            "करइ जो करम पाव फल सोई । निगम नीति असि कह सबु कोई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "शुभ और अशुभ कर्मों के अनुसार ईश्वर हृदय में विचारकर फल देता है, जो कर्म करता है, वही फल पाता है । ऐसी वेद की नीति है, यह सब कोई कहते हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "औरु करै अपराधु कोउ और पाव फल भोगु ।",
+            "अति बिचित्र भगवंत गति को जग जानै जोगु ॥ ७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(किन्तु इस अवसर पर तो इसके विपरीत हो रहा है,) अपराध तो कोई और ही करे और उसके फल का भोग कोई और ही पावे । भगवान की लीला बड़ी ही विचित्र है, उसे जानने योग्य जगत में कौन है? ॥ ७७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रायँ राम राखन हित लागी । बहुत उपाय किए छलु त्यागी ॥",
+            "लखी राम रुख रहत न जाने । धरम धुरंधर धीर सयाने ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने इस प्रकार श्री रामचन्द्रजी को रखने के लिए छल छोड़कर बहुत से उपाय किए, पर जब उन्होंने धर्मधुरंधर, धीर और बुद्धिमान श्री रामजी का रुख देख लिया और वे रहते हुए न जान पड़े, ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब नृप सीय लाइ उर लीन्ही । अति हित बहुत भाँति सिख दीन्ही ॥",
+            "कहि बन के दुख दुसह सुनाए । सासु ससुर पितु सुख समुझाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब राजा ने सीताजी को हृदय से लगा लिया और बड़े प्रेम से बहुत प्रकार की शिक्षा दी । वन के दुःसह दुःख कहकर सुनाए । फिर सास, ससुर तथा पिता के (पास रहने के) सुखों को समझाया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सिय मनु राम चरन अनुरागा । घरुन सुगमु बनु बिषमु न लागा ॥",
+            "औरउ सबहिं सीय समुझाई । कहि कहि बिपिन बिपति अधिकाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परन्तु सीताजी का मन श्री रामचन्द्रजी के चरणों में अनुरक्त था, इसलिए उन्हें घर अच्छा नहीं लगा और न वन भयानक लगा । फिर और सब लोगों ने भी वन में विपत्तियों की अधिकता बता-बताकर सीताजी को समझाया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सचिव नारि गुर नारि सयानी । सहित सनेह कहहिं मृदु बानी ॥",
+            "तुम्ह कहुँ तौ न दीन्ह बनबासू । करहु जो कहहिं ससुर गुर सासू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मंत्री सुमंत्रजी की पत्नी और गुरु वशिष्ठजी की स्त्री अरुंधतीजी तथा और भी चतुर स्त्रियाँ स्नेह के साथ कोमल वाणी से कहती हैं कि तुमको तो (राजा ने) वनवास दिया नहीं है, इसलिए जो ससुर, गुरु और सास कहें, तुम तो वही करो ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सिख सीतलि हित मधुर मृदु सुनि सीतहि न सोहानि ।",
+            "सरद चंद चंदिनि लगत जनु चकई अकुलानि ॥ ७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह शीतल, हितकारी, मधुर और कोमल सीख सुनने पर सीताजी को अच्छी नहीं लगी । (वे इस प्रकार व्याकुल हो गईं) मानो शरद ऋतु के चन्द्रमा की चाँदनी लगते ही चकई व्याकुल हो उठी हो ॥ ७८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सीय सकुच बस उतरु न देई । सो सुनि तमकि उठी कैकेई ॥",
+            "मुनि पट भूषन भाजन आनी । आगें धरि बोली मृदु बानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सीताजी संकोचवश उत्तर नहीं देतीं । इन बातों को सुनकर कैकेयी तमककर उठी । उसने मुनियों के वस्त्र, आभूषण (माला, मेखला आदि) और बर्तन (कमण्डलु आदि) लाकर श्री रामचन्द्रजी के आगे रख दिए और कोमल वाणी से कहा - ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नृपहि प्रानप्रिय तुम्ह रघुबीरा । सील सनेह न छाड़िहि भीरा ॥",
+            "सुकृतु सुजसु परलोकु नसाऊ । तुम्हहि जान बन कहिहि न काऊ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे रघुवीर! राजा को तुम प्राणों के समान प्रिय हो । भीरु (प्रेमवश दुर्बल हृदय के) राजा शील और स्नेह नहीं छोड़ेंगे! पुण्य, सुंदर यश और परलोक चाहे नष्ट हे जाए, पर तुम्हें वन जाने को वे कभी न कहेंगे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस बिचारि सोइ करहु जो भावा । राम जननि सिख सुनि सुखु पावा ॥",
+            "भूपहि बचन बानसम लागे । करहिं न प्रान पयान अभागे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा विचारकर जो तुम्हें अच्छा लगे वही करो । माता की सीख सुनकर श्री रामचन्द्रजी ने (बड़ा) सुख पाया, परन्तु राजा को ये वचन बाण के समान लगे । (वे सोचने लगे) अब भी अभागे प्राण (क्यों) नहीं निकलते! ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "लोग बिकल मुरुछित नरनाहू । काह करिअ कछु सूझ न काहू ॥",
+            "रामु तुरत मुनि बेषु बनाई । चले जनक जननिहि सिरु नाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा मूर्छित हो गए, लोग व्याकुल हैं । किसी को कुछ सूझ नहीं पड़ता कि क्या करें । श्री रामचन्द्रजी तुरंत मुनि का वेष बनाकर और माता-पिता को सिर नवाकर चल दिए ॥ ४ ॥"
+        ]
+    }
+]

@@ -1,0 +1,721 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सचिव बैद गुर तीनि जौं प्रिय बोलहिं भय आस",
+            "राज धर्म तन तीनि कर होइ बेगिहीं नास ॥ ३७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मंत्री, वैद्य और गुरु- ये तीन यदि (अप्रसन्नता के) भय या (लाभ की) आशा से (हित की बात न कहकर) प्रिय बोलते हैं (ठकुर सुहाती कहने लगते हैं), तो (क्रमशः) राज्य, शरीर और धर्म- इन तीन का शीघ्र ही नाश हो जाता है ॥ ३७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सोइ रावन कहुँ बनी सहाई । अस्तुति करहिं सुनाइ सुनाई ॥",
+            "अवसर जानि बिभीषनु आवा । भ्राता चरन सीसु तेहिं नावा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रावण के लिए भी वही सहायता (संयोग) आ बनी है । मंत्री उसे सुना-सुनाकर (मुँह पर) स्तुति करते हैं । (इसी समय) अवसर जानकर विभीषणजी आए । उन्होंने बड़े भाई के चरणों में सिर नवाया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुनि सिरु नाइ बैठ निज आसन । बोला बचन पाइ अनुसासन ॥",
+            "जौ कृपाल पूँछिहु मोहि बाता । मति अनुरूप कहउँ हित ताता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर से सिर नवाकर अपने आसन पर बैठ गए और आज्ञा पाकर ये वचन बोले - हे कृपाल जब आपने मुझसे बात (राय) पूछी ही है, तो हे तात! मैं अपनी बुद्धि के अनुसार आपके हित की बात कहता हूँ- ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जो आपन चाहै कल्याना । सुजसु सुमति सुभ गति सुख नाना ॥",
+            "सो परनारि लिलार गोसाईं । तजउ चउथि के चंद कि नाईं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जो मनुष्य अपना कल्याण, सुंदर यश, सुबुद्धि, शुभ गति और नाना प्रकार के सुख चाहता हो, वह हे स्वामी! परस्त्री के ललाट को चौथ के चंद्रमा की तरह त्याग दे (अर्थात् जैसे लोग चौथ के चंद्रमा को नहीं देखते, उसी प्रकार परस्त्री का मुख ही न देखे) ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चौदह भुवन एक पति होई । भूत द्रोह तिष्टइ नहिं सोई ॥",
+            "गुन सागर नागर नर जोऊ । अलप लोभ भल कहइ न कोऊ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "चौदहों भुवनों का एक ही स्वामी हो, वह भी जीवों से वैर करके ठहर नहीं सकता (नष्ट हो जाता है) जो मनुष्य गुणों का समुद्र और चतुर हो, उसे चाहे थोड़ा भी लोभ क्यों न हो, तो भी कोई भला नहीं कहता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "काम क्रोध मद लोभ सब नाथ नरक के पंथ ।",
+            "सब परिहरि रघुबीरहि भजहु भजहिं जेहि संत ॥ ३८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! काम, क्रोध, मद और लोभ- ये सब नरक के रास्ते हैं, इन सबको छोड़कर श्री रामचंद्रजी को भजिए, जिन्हें संत (सत्पुरुष) भजते हैं ॥ ३८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात राम नहिं नर भूपाला । भुवनेस्वर कालहु कर काला ॥",
+            "ब्रह्म अनामय अज भगवंता । ब्यापक अजित अनादि अनंता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात! राम मनुष्यों के ही राजा नहीं हैं । वे समस्त लोकों के स्वामी और काल के भी काल हैं । वे (संपूर्ण ऐश्वर्य, यश, श्री, धर्म, वैराग्य एवं ज्ञान के भंडार) भगवान् हैं, वे निरामय (विकाररहित), अजन्मे, व्यापक, अजेय, अनादि और अनंत ब्रह्म हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गो द्विज धेनु देव हितकारी । कृपा सिंधु मानुष तनुधारी ॥",
+            "जन रंजन भंजन खल ब्राता । बेद धर्म रच्छक सुनु भ्राता ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उन कृपा के समुद्र भगवान् ने पृथ्वी, ब्राह्मण, गो और देवताओं का हित करने के लिए ही मनुष्य शरीर धारण किया है । हे भाई! सुनिए, वे सेवकों को आनंद देने वाले, दुष्टों के समूह का नाश करने वाले और वेद तथा धर्म की रक्षा करने वाले हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "ताहि बयरु तजि नाइअ माथा । प्रनतारति भंजन रघुनाथा ॥",
+            "देहु नाथ प्रभु कहुँ बैदेही । भजहु राम बिनु हेतु सनेही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वैर त्यागकर उन्हें मस्तक नवाइए । वे श्री रघुनाथजी शरणागत का दुःख नाश करने वाले हैं । हे नाथ! उन प्रभु (सर्वेश्वर) को जानकीजी दे दीजिए और बिना ही कारण स्नेह करने वाले श्री रामजी को भजिए ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सरन गएँ प्रभु ताहु न त्यागा । बिस्व द्रोह कृत अघ जेहि लागा ॥",
+            "जासु नाम त्रय ताप नसावन । सोइ प्रभु प्रगट समुझु जियँ रावन ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जिसे संपूर्ण जगत् से द्रोह करने का पाप लगा है, शरण जाने पर प्रभु उसका भी त्याग नहीं करते । जिनका नाम तीनों तापों का नाश करने वाला है, वे ही प्रभु (भगवान्) मनुष्य रूप में प्रकट हुए हैं । हे रावण! हृदय में यह समझ लीजिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बार बार पद लागउँ बिनय करउँ दससीस ।",
+            "परिहरि मान मोह मद भजहु कोसलाधीस ॥ ३९क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे दशशीश! मैं बार-बार आपके चरणों लगता हूँ और विनती करता हूँ कि मान, मोह और मद को त्यागकर आप कोसलपति श्री रामजी का भजन कीजिए ॥ ३९ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि पुलस्ति निज सिष्य सन कहि पठई यह बात ।",
+            "तुरत सो मैं प्रभु सन कही पाइ सुअवसरु तात ॥ ३९ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मुनि पुलस्त्यजी ने अपने शिष्य के हाथ यह बात कहला भेजी है । हे तात! सुंदर अवसर पाकर मैंने तुरंत ही वह बात प्रभु (आप) से कह दी ॥ ३९ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "माल्यवंत अति सचिव सयाना । तासु बचन सुनि अति सुख माना ॥",
+            "तात अनुज तव नीति बिभूषन । सो उर धरहु जो कहत बिभीषन ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "माल्यवान् नाम का एक बहुत ही बुद्धिमान मंत्री था । उसने उन (विभीषण) के वचन सुनकर बहुत सुख माना (और कहा - ) हे तात! आपके छोटे भाई नीति विभूषण (नीति को भूषण रूप में धारण करने वाले अर्थात् नीतिमान्) हैं । विभीषण जो कुछ कह रहे हैं उसे हृदय में धारण कर लीजिए ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रिपु उतकरष कहत सठ दोऊ । दूरि न करहु इहाँ हइ कोऊ ॥",
+            "माल्यवंत गह गयउ बहोरी । कहइ बिभीषनु पुनि कर जोरी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(रावन ने कहा - ) ये दोनों मूर्ख शत्रु की महिमा बखान रहे हैं । यहाँ कोई है? इन्हें दूर करो न! तब माल्यवान् तो घर लौट गया और विभीषणजी हाथ जोड़कर फिर कहने लगे- ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुमति कुमति सब कें उर रहहीं । नाथ पुरान निगम अस कहहीं ॥",
+            "जहाँ सुमति तहँ संपति नाना । जहाँ कुमति तहँ बिपति निदाना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! पुराण और वेद ऐसा कहते हैं कि सुबुद्धि (अच्छी बुद्धि) और कुबुद्धि (खोटी बुद्धि) सबके हृदय में रहती है, जहाँ सुबुद्धि है, वहाँ नाना प्रकार की संपदाएँ (सुख की स्थिति) रहती हैं और जहाँ कुबुद्धि है वहाँ परिणाम में विपत्ति (दुःख) रहती है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तव उर कुमति बसी बिपरीता । हित अनहित मानहु रिपु प्रीता ॥",
+            "कालराति निसिचर कुल केरी । तेहि सीता पर प्रीति घनेरी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आपके हृदय में उलटी बुद्धि आ बसी है । इसी से आप हित को अहित और शत्रु को मित्र मान रहे हैं । जो राक्षस कुल के लिए कालरात्रि (के समान) हैं, उन सीता पर आपकी बड़ी प्रीति है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तात चरन गहि मागउँ राखहु मोर दुलार ।",
+            "सीता देहु राम कहुँ अहित न होइ तुम्हारा ॥ ४० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात! मैं चरण पकड़कर आपसे भीख माँगता हूँ (विनती करता हूँ) । कि आप मेरा दुलार रखिए (मुझ बालक के आग्रह को स्नेहपूर्वक स्वीकार कीजिए) श्री रामजी को सीताजी दे दीजिए, जिसमें आपका अहित न हो ॥ ४० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बुध पुरान श्रुति संमत बानी । कही बिभीषन नीति बखानी ॥",
+            "सुनत दसानन उठा रिसाई । खल तोहिं निकट मृत्यु अब आई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "विभीषण ने पंडितों, पुराणों और वेदों द्वारा सम्मत (अनुमोदित) वाणी से नीति बखानकर कही । पर उसे सुनते ही रावण क्रोधित होकर उठा और बोला कि रे दुष्ट! अब मृत्यु तेरे निकट आ गई है! ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जिअसि सदा सठ मोर जिआवा । रिपु कर पच्छ मूढ़ तोहि भावा ॥",
+            "कहसि न खल अस को जग माहीं । भुज बल जाहि जिता मैं नाहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अरे मूर्ख! तू जीता तो है सदा मेरा जिलाया हुआ (अर्थात् मेरे ही अन्न से पल रहा है), पर हे मूढ़! पक्ष तुझे शत्रु का ही अच्छा लगता है । अरे दुष्ट! बता न, जगत् में ऐसा कौन है जिसे मैंने अपनी भुजाओं के बल से न जीता हो? ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मम पुर बसि तपसिन्ह पर प्रीती । सठ मिलु जाइ तिन्हहि कहु नीती ॥",
+            "अस कहि कीन्हेसि चरन प्रहारा । अनुज गहे पद बारहिं बारा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरे नगर में रहकर प्रेम करता है तपस्वियों पर । मूर्ख! उन्हीं से जा मिल और उन्हीं को नीति बता । ऐसा कहकर रावण ने उन्हें लात मारी, परंतु छोटे भाई विभीषण ने (मारने पर भी) बार-बार उसके चरण ही पकड़े ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "उमा संत कइ इहइ बड़ाई । मंद करत जो करइ भलाई ॥",
+            "तुम्ह पितु सरिस भलेहिं मोहि मारा । रामु भजें हित नाथ तुम्हारा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(शिवजी कहते हैं - ) हे उमा! संत की यही बड़ाई (महिमा) है कि वे बुराई करने पर भी (बुराई करने वाले की) भलाई ही करते हैं । (विभीषणजी ने कहा - ) आप मेरे पिता के समान हैं, मुझे मारा सो तो अच्छा ही किया, परंतु हे नाथ! आपका भला श्री रामजी को भजने में ही है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सचिव संग लै नभ पथ गयऊ । सबहि सुनाइ कहत अस भयऊ ॥ ५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(इतना कहकर) विभीषण अपने मंत्रियों को साथ लेकर आकाश मार्ग में गए और सबको सुनाकर वे ऐसा कहने लगे- ॥ ५ ॥"
+        ]
+    }
+]

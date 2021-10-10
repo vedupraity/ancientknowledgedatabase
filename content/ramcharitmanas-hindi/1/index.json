@@ -1,0 +1,466 @@
+[
+    {
+        "id": "1",
+        "title": "भाग  1",
+        "subtitle": "मङ्गलाचरण",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "2",
+        "title": "भाग  2",
+        "subtitle": "गुरु-वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "3",
+        "title": "भाग  3",
+        "subtitle": "ब्राह्मण-संत-वंदना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "4",
+        "title": "भाग  4",
+        "subtitle": "खल-वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "5",
+        "title": "भाग  5",
+        "subtitle": "संत-असंत-वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "6",
+        "title": "भाग  6",
+        "subtitle": "रामरूप से जीवमात्र की वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "7",
+        "title": "भाग  7",
+        "subtitle": "तुलसीदासजी की दीनता और राम भक्तिमयी कविता की महिमा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "8",
+        "title": "भाग  8",
+        "subtitle": "कवि-वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "9",
+        "title": "भाग  9",
+        "subtitle": "वाल्मीकि, वेद, ब्रह्मा, देवता, शिव, पार्वती आदि की वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "10",
+        "title": "भाग  10",
+        "subtitle": "श्रीसीताराम-धाम-परिकर-वन्दना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "11",
+        "title": "भाग  11",
+        "subtitle": "श्री नाम-वन्दना और नाम-महिमा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "12",
+        "title": "भाग  12",
+        "subtitle": "श्री रामगुण और श्री रामचरित् की महिमा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "13",
+        "title": "भाग  13",
+        "subtitle": "मानस निर्माण की तिथि",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "14",
+        "title": "भाग  14",
+        "subtitle": "मानस का रूप और माहात्म्य",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "15",
+        "title": "भाग  15",
+        "subtitle": "याज्ञवल्क्य-भरद्वाज-संवाद तथा प्रयाग-माहात्म्य",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "16",
+        "title": "भाग  16",
+        "subtitle": "सती का भ्रम, श्रीरामजी का ऐश्वर्य और सती का खेद",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "17",
+        "title": "भाग  17",
+        "subtitle": "शिवजी द्वारा सती  का त्याग, शिवजी की समाधि",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "18",
+        "title": "भाग  18",
+        "subtitle": "सती का दक्ष-यज्ञ में जाना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "19",
+        "title": "भाग  19",
+        "subtitle": "पति के अपमान से दुःखी होकर सती का योगाग्नि से जल जाना, दक्ष-यज्ञ-विध्वंस",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "20",
+        "title": "भाग  20",
+        "subtitle": "पार्वती का जन्म और तपस्या",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "21",
+        "title": "भाग  21",
+        "subtitle": "श्रीरामजी का शिवजी से विवाह के लिये अनुरोध",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "22",
+        "title": "भाग  22",
+        "subtitle": "सप्तर्षियों की परीक्षा में पार्वतीजी का महत्त्व",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "23",
+        "title": "भाग  23",
+        "subtitle": "कामदेव का देवकार्य के लिये जाना और भस्म होना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "24",
+        "title": "भाग  24",
+        "subtitle": "रति को वरदान",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "25",
+        "title": "भाग  25",
+        "subtitle": "देवताओं का शिवजी से ब्याह के लिये प्रार्थना करना, सप्तर्षियों का पार्वती के पास जाना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "26",
+        "title": "भाग  26",
+        "subtitle": "शिवजी की विचित्र बारात और विवाह की तैयारी",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "27",
+        "title": "भाग  27",
+        "subtitle": "शिवजी का विवाह",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "28",
+        "title": "भाग  28",
+        "subtitle": "शिव-पार्वती-संवाद",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "29",
+        "title": "भाग  29",
+        "subtitle": "अवतार के हेतु",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "30",
+        "title": "भाग  30",
+        "subtitle": "नारद का अभिमान और माया का प्रभाव",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "31",
+        "title": "भाग  31",
+        "subtitle": "विश्वमोहिनी का स्वयंवर, शिवगणों को तथा भगवान को शाप और नारद का मोह-भङ्ग",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "32",
+        "title": "भाग  32",
+        "subtitle": "मनु-शतरूपा-तप एवं वरदान",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "33",
+        "title": "भाग  33",
+        "subtitle": "भानुप्रताप की कथा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "34",
+        "title": "भाग  34",
+        "subtitle": "रावणादि का जन्म, तपस्या और उनका ऐश्वर्य तथा अत्याचार",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "35",
+        "title": "भाग  35",
+        "subtitle": "पृथ्वी और देवतादि की करुण पुकार",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "36",
+        "title": "भाग  36",
+        "subtitle": "भगवान् का वरदान",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "37",
+        "title": "भाग  37",
+        "subtitle": "राजा दशरथ का पुत्रेष्टि यज्ञ, रानियों का गर्भवती होना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "38",
+        "title": "भाग  38",
+        "subtitle": "श्री भगवान् का प्राकट्य और बाललीला का आनन्द",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "39",
+        "title": "भाग  39",
+        "subtitle": "विश्वामित्र का राजा दशरथ से राम-लक्ष्मण को माँगना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "40",
+        "title": "भाग  40",
+        "subtitle": "विश्वामित्र-यज्ञ की रक्षा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "41",
+        "title": "भाग  41",
+        "subtitle": "अहल्या-उद्धार",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "42",
+        "title": "भाग  42",
+        "subtitle": "श्रीराम-लक्ष्मण सहित विश्वामित्र का जनकपुर में प्रवेश",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "43",
+        "title": "भाग  43",
+        "subtitle": "श्रीराम-लक्ष्मण को देखकर जनकजी की प्रेम-मुग्धता",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "44",
+        "title": "भाग  44",
+        "subtitle": "श्रीराम-लक्ष्मण का जनकपुर-निरीक्षण",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "45",
+        "title": "भाग  45",
+        "subtitle": "पुष्पवाटिका-निरीक्षण, सीताजी का प्रथम दर्शन, श्रीसीतारामजी का परस्पर दर्शन",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "46",
+        "title": "भाग  46",
+        "subtitle": "श्रीसीताजी का पार्वती-पूजन एवं वरदान प्राप्ति तथा राम-लक्ष्मण-संवाद",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "47",
+        "title": "भाग  47",
+        "subtitle": "श्रीराम-लक्ष्मण सहित विश्वामित्र का यज्ञशाला में प्रवेश",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "48",
+        "title": "भाग  48",
+        "subtitle": "श्रीसीताजी का यज्ञशाला में प्रवेश, वन्दीजनों द्वारा जनक प्रतिज्ञा की घोषणा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "49",
+        "title": "भाग  49",
+        "subtitle": "राजाओं से धनुष न उठना, जनक की निराशा-जनक वाणी",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "50",
+        "title": "भाग  50",
+        "subtitle": "श्रीलक्ष्मणजी का क्रोध",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "51",
+        "title": "भाग  51",
+        "subtitle": "धनुषभङ्ग",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "52",
+        "title": "भाग  52",
+        "subtitle": "जयमाल पहनाना",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "53",
+        "title": "भाग  53",
+        "subtitle": "श्रीराम-लक्ष्मण और परशुराम-संवाद",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "54",
+        "title": "भाग  54",
+        "subtitle": "दशरथजी के पास जनकजी का दूत भेजना, अयोध्या से बारात का प्रस्थान",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "55",
+        "title": "भाग  55",
+        "subtitle": "बारात का जनकपुर में आना और स्वागतादि",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "56",
+        "title": "भाग  56",
+        "subtitle": "श्रीसीता-राम-विवाह",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "57",
+        "title": "भाग  57",
+        "subtitle": "बारात का अयोध्या लौटना और अयोध्या में आनन्द",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    },
+    {
+        "id": "58",
+        "title": "भाग  58",
+        "subtitle": "श्रीरामचरित सुनने-गानेकी महिमा",
+        "summary": [],
+        "isNested": false,
+        "pages": []
+    }
+]

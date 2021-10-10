@@ -1,0 +1,532 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अत्रि कहेउ तब भरत सन सैल समीप सुकूप ।",
+            "राखिअ तीरथ तोय तहँ पावन अमिअ अनूप ॥ ३०९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब अत्रिजी ने भरतजी से कहा - इस पर्वत के समीप ही एक सुंदर कुआँ है । इस पवित्र, अनुपम और अमृत जैसे तीर्थजल को उसी में स्थापित कर दीजिए ॥ ३०९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरत अत्रि अनुसासन पाई । जल भाजन सब दिए चलाई ॥",
+            "सानुज आपु अत्रि मुनि साधू । सहित गए जहँ कूप अगाधू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने अत्रिमुनि की आज्ञा पाकर जल के सब पात्र रवाना कर दिए और छोटे भाई शत्रुघ्न, अत्रि मुनि तथा अन्य साधु-संतों सहित आप वहाँ गए, जहाँ वह अथाह कुआँ था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पावन पाथ पुन्यथल राखा । प्रमुदित प्रेम अत्रि अस भाषा ॥",
+            "तात अनादि सिद्ध थल एहू । लोपेउ काल बिदित नहिं केहू ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और उस पवित्र जल को उस पुण्य स्थल में रख दिया । तब अत्रि ऋषि ने प्रेम से आनंदित होकर ऐसा कहा - हे तात! यह अनादि सिद्धस्थल है । कालक्रम से यह लोप हो गया था, इसलिए किसी को इसका पता नहीं था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तब सेवकन्ह सरस थलुदेखा । कीन्ह सुजल हित कूप बिसेषा ॥",
+            "बिधि बस भयउ बिस्व उपकारू । सुगम अगम अति धरम बिचारू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब (भरतजी के) सेवकों ने उस जलयुक्त स्थान को देखा और उस सुंदर (तीर्थों के) जल के लिए एक खास कुआँ बना लिया । दैवयोग से विश्वभर का उपकार हो गया । धर्म का विचार जो अत्यन्त अगम था, वह (इस कूप के प्रभाव से) सुगम हो गया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भरतकूप अब कहिहहिं लोगा । अति पावन तीरथ जल जोगा ॥",
+            "प्रेम सनेम निमज्जत प्रानी । होइहहिं बिमल करम मन बानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब इसको लोग भरतकूप कहेंगे । तीर्थों के जल के संयोग से तो यह अत्यन्त ही पवित्र हो गया । इसमें प्रेमपूर्वक नियम से स्नान करने पर प्राणी मन, वचन और कर्म से निर्मल हो जाएँगे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहत कूप महिमा सकल गए जहाँ रघुराउ ।",
+            "अत्रि सुनायउ रघुबरहि तीरथ पुन्य प्रभाउ ॥ ३१० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कूप की महिमा कहते हुए सब लोग वहाँ गए जहाँ श्री रघुनाथजी थे । श्री रघुनाथजी को अत्रिजी ने उस तीर्थ का पुण्य प्रभाव सुनाया ॥ ३१० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कहत धरम इतिहास सप्रीती । भयउ भोरु निसि सो सुख बीती ॥",
+            "नित्य निबाहि भरत दोउ भाई । राम अत्रि गुर आयसु पाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रेमपूर्वक धर्म के इतिहास कहते वह रात सुख से बीत गई और सबेरा हो गया । भरत-शत्रुघ्न दोनों भाई नित्यक्रिया पूरी करके, श्री रामजी, अत्रिजी और गुरु वशिष्ठजी की आज्ञा पाकर, ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सहित समाज साज सब सादें । चले राम बन अटन पयादें ॥",
+            "कोमल चरन चलत बिनु पनहीं । भइ मृदु भूमि सकुचि मन मनहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "समाज सहित सब सादे साज से श्री रामजी के वन में भ्रमण (प्रदक्षिणा) करने के लिए पैदल ही चले । कोमल चरण हैं और बिना जूते के चल रहे हैं, यह देखकर पृथ्वी मन ही मन सकुचाकर कोमल हो गई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कुस कंटक काँकरीं कुराईं । कटुक कठोर कुबस्तु दुराईं ॥",
+            "महि मंजुल मृदु मारग कीन्हे । बहत समीर त्रिबिध सुख लीन्हे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कुश, काँटे, कंकड़ी, दरारों आदि कड़वी, कठोर और बुरी वस्तुओं को छिपाकर पृथ्वी ने सुंदर और कोमल मार्ग कर दिए । सुखों को साथ लिए (सुखदायक) शीतल, मंद, सुगंध हवा चलने लगी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुमन बरषि सुर घन करि छाहीं । बिटप फूलि फलि तृन मृदुताहीं ॥",
+            "मृग बिलोकि खग बोलि सुबानी । सेवहिं सकल राम प्रिय जानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रास्ते में देवता फूल बरसाकर, बादल छाया करके, वृक्ष फूल-फलकर, तृण अपनी कोमलता से, मृग (पशु) देखकर और पक्षी सुंदर वाणी बोलकर सभी भरतजी को श्री रामचन्द्रजी के प्यारे जानकर उनकी सेवा करने लगे ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुलभ सिद्धि सब प्राकृतहु राम कहत जमुहात ।",
+            "राम प्रानप्रिय भरत कहुँ यह न होइ बड़ि बात ॥ ३११ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जब एक साधारण मनुष्य को भी (आलस्य से) जँभाई लेते समय ‘राम’ कह देने से ही सब सिद्धियाँ सुलभ हो जाती हैं, तब श्री रामचन्द्रजी के प्राण प्यारे भरतजी के लिए यह कोई बड़ी (आश्चर्य की) बात नहीं है ॥ ३११ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि बिधि भरतु फिरत बन माहीं । नेमु प्रेमु लखि मुनि सकुचाहीं ॥",
+            "पुन्य जलाश्रय भूमि बिभागा । खग मृग तरु तृन गिरि बन बागा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इस प्रकार भरतजी वन में फिर रहे हैं । उनके नियम और प्रेम को देखकर मुनि भी सकुचा जाते हैं । पवित्र जल के स्थान (नदी, बावली, कुंड आदि) पृथ्वी के पृथक-पृथक भाग, पक्षी, पशु, वृक्ष, तृण (घास), पर्वत, वन और बगीचे- ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चारु बिचित्र पबित्र बिसेषी । बूझत भरतु दिब्य सब देखी ॥",
+            "सुनि मन मुदित कहत रिषिराऊ । हेतु नाम गुन पुन्य प्रभाऊ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सभी विशेष रूप से सुंदर, विचित्र, पवित्र और दिव्य देखकर भरतजी पूछते हैं और उनका प्रश्न सुनकर ऋषिराज अत्रिजी प्रसन्न मन से सबके कारण, नाम, गुण और पुण्य प्रभाव को कहते हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कतहुँ निमज्जन कतहुँ प्रनामा । कतहुँ बिलोकत मन अभिरामा ॥",
+            "कतहुँ बैठि मुनि आयसु पाई । सुमिरत सीय सहित दोउ भाई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी कहीं स्नान करते हैं, कहीं प्रणाम करते हैं, कहीं मनोहर स्थानों के दर्शन करते हैं और कहीं मुनि अत्रिजी की आज्ञा पाकर बैठकर, सीताजी सहित श्री राम-लक्ष्मण दोनों भाइयों का स्मरण करते हैं ॥ ३ ॥ तो इसमें लाभ अधिक और हानि कम प्रतीत हुई, परन्तु रानियों को दुःख-सुख समान ही थे (राम-लक्ष्मण वन में रहें या भरत-शत्रुघ्न, दो पुत्रों का वियोग तो रहेगा ही), यह समझकर वे सब रोने लगीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि सुभाउ सनेहु सुसेवा । देहिं असीस मुदित बनदेवा ॥",
+            "फिरहिं गएँ दिनु पहर अढ़ाई । प्रभु पद कमल बिलोकहिं आई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी के स्वभाव, प्रेम और सुंदर सेवाभाव को देखकर वनदेवता आनंदित होकर आशीर्वाद देते हैं । यों घूम-फिरकर ढाई पहर दिन बीतने पर लौट पड़ते हैं और आकर प्रभु श्री रघुनाथजी के चरणकमलों का दर्शन करते हैं ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखे थल तीरथ सकल भरत पाँच दिन माझ ।",
+            "कहत सुनत हरि हर सुजसु गयउ दिवसु भइ साँझ ॥ ३१२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भरतजी ने पाँच दिन में सब तीर्थ स्थानों के दर्शन कर लिए । भगवान विष्णु और महादेवजी का सुंदर यश कहते-सुनते वह (पाँचवाँ) दिन भी बीत गया, संध्या हो गई ॥ ३१२ ॥"
+        ]
+    }
+]

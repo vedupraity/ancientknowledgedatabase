@@ -1,0 +1,3764 @@
+[
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनु मुनि कथा पुनीत पुरानी । जो गिरिजा प्रति संभु बखानी ॥",
+            "बिस्व बिदित एक कैकय देसू । सत्यकेतु तहँ बसइ नरेसू ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे मुनि! वह पवित्र और प्राचीन कथा सुनो, जो शिवजी ने पार्वती से कही थी । संसार में प्रसिद्ध एक कैकय देश है । वहाँ सत्यकेतु नाम का राजा रहता (राज्य करता) था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "धरम धुरंधर नीति निधाना । तेज प्रताप सील बलवाना ॥",
+            "तेहि कें भए जुगल सुत बीरा । सब गुन धाम महा रनधीरा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह धर्म की धुरी को धारण करने वाला, नीति की खान, तेजस्वी, प्रतापी, सुशील और बलवान था, उसके दो वीर पुत्र हुए, जो सब गुणों के भंडार और बड़े ही रणधीर थे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राज धनी जो जेठ सुत आही । नाम प्रतापभानु अस ताही ॥",
+            "अपर सुतहि अरिमर्दन नामा । भुजबल अतुल अचल संग्रामा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राज्य का उत्तराधिकारी जो बड़ा लड़का था, उसका नाम प्रतापभानु था । दूसरे पुत्र का नाम अरिमर्दन था, जिसकी भुजाओं में अपार बल था और जो युद्ध में (पर्वत के समान) अटल रहता था ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भाइहि भाइहि परम समीती । सकल दोष छल बरजित प्रीती ॥",
+            "जेठे सुतहि राज नृप दीन्हा । हरि हित आपु गवन बन कीन्हा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "भाई-भाई में बड़ा मेल और सब प्रकार के दोषों और छलों से रहित (सच्ची) प्रीति थी । राजा ने जेठे पुत्र को राज्य दे दिया और आप भगवान (के भजन) के लिए वन को चल दिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जब प्रतापरबि भयउ नृप फिरी दोहाई देस ।",
+            "प्रजा पाल अति बेदबिधि कतहुँ नहीं अघ लेस ॥ १५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "जब प्रतापभानु राजा हुआ, देश में उसकी दुहाई फिर गई । वह वेद में बताई हुई विधि के अनुसार उत्तम रीति से प्रजा का पालन करने लगा । उसके राज्य में पाप का कहीं लेश भी नहीं रह गया ॥ १५३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नृप हितकारक सचिव सयाना । नाम धरमरुचि सुक्र समाना ॥",
+            "सचिव सयान बंधु बलबीरा । आपु प्रतापपुंज रनधीरा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा का हित करने वाला और शुक्राचार्य के समान बुद्धिमान धर्मरुचि नामक उसका मंत्री था । इस प्रकार बुद्धिमान मंत्री और बलवान तथा वीर भाई के साथ ही स्वयं राजा भी बड़ा प्रतापी और रणधीर था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सेन संग चतुरंग अपारा । अमित सुभट सब समर जुझारा ॥",
+            "सेन बिलोकि राउ हरषाना । अरु बाजे गहगहे निसाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "साथ में अपार चतुरंगिणी सेना थी, जिसमें असंख्य योद्धा थे, जो सब के सब रण में जूझ मरने वाले थे । अपनी सेना को देखकर राजा बहुत प्रसन्न हुआ और घमाघम नगाड़े बजने लगे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिजय हेतु कटकई बनाई । सुदिन साधि नृप चलेउ बजाई ॥",
+            "जहँ तहँ परीं अनेक लराईं । जीते सकल भूप बरिआईं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दिग्विजय के लिए सेना सजाकर वह राजा शुभ दिन (मुहूर्त) साधकर और डंका बजाकर चला । जहाँ-तहाँ बहुतसी लड़ाइयाँ हुईं । उसने सब राजाओं को बलपूर्वक जीत लिया ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सप्त दीप भुजबल बस कीन्हे । लै लै दंड छाड़ि नृप दीन्हे ॥",
+            "सकल अवनि मंडल तेहि काला । एक प्रतापभानु महिपाला ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अपनी भुजाओं के बल से उसने सातों द्वीपों (भूमिखण्डों) को वश में कर लिया और राजाओं से दंड (कर) ले-लेकर उन्हें छोड़ दिया । सम्पूर्ण पृथ्वी मंडल का उस समय प्रतापभानु ही एकमात्र (चक्रवर्ती) राजा था ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "स्वबस बिस्व करि बाहुबल निज पुर कीन्ह प्रबेसु ।",
+            "अरथ धरम कामादि सुख सेवइ समयँ नरेसु ॥ १५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "संसारभर को अपनी भुजाओं के बल से वश में करके राजा ने अपने नगर में प्रवेश किया । राजा अर्थ, धर्म और काम आदि के सुखों का समयानुसार सेवन करता था ॥ १५४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूप प्रतापभानु बल पाई । कामधेनु भै भूमि सुहाई ॥",
+            "सब दुख बरजित प्रजा सुखारी । धरमसील सुंदर नर नारी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा प्रतापभानु का बल पाकर भूमि सुंदर कामधेनु (मनचाही वस्तु देने वाली) हो गई । (उनके राज्य में) प्रजा सब (प्रकार के) दुःखों से रहित और सुखी थी और सभी स्त्री-पुरुष सुंदर और धर्मात्मा थे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सचिव धरमरुचि हरि पद प्रीती । नृप हित हेतु सिखव नित नीती ॥",
+            "गुर सुर संत पितर महिदेवा । करइ सदा नृप सब कै सेवा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "धर्मरुचि मंत्री का श्री हरि के चरणों में प्रेम था । वह राजा के हित के लिए सदा उसको नीति सिखाया करता था । राजा गुरु, देवता, संत, पितर और ब्राह्मण- इन सबकी सदा सेवा करता रहता था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूप धरम जे बेद बखाने । सकल करइ सादर सुख माने ॥",
+            "दिन प्रति देइ बिबिध बिधि दाना । सुनइ सास्त्र बर बेद पुराना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वेदों में राजाओं के जो धर्म बताए गए हैं, राजा सदा आदरपूर्वक और सुख मानकर उन सबका पालन करता था । प्रतिदिन अनेक प्रकार के दान देता और उत्तम शास्त्र, वेद और पुराण सुनता था ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाना बापीं कूप तड़ागा । सुमन बाटिका सुंदर बागा ॥",
+            "बिप्रभवन सुरभवन सुहाए । सब तीरथन्ह विचित्र बनाए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसने बहुत सी बावलियाँ, कुएँ, तालाब, फुलवाड़ियाँ सुंदर बगीचे, ब्राह्मणों के लिए घर और देवताओं के सुंदर विचित्र मंदिर सब तीर्थों में बनवाए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जहँ लजि कहे पुरान श्रुति एक एक सब जाग ।",
+            "बार सहस्र सहस्र नृप किए सहित अनुराग ॥ १५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वेद और पुराणों में जितने प्रकार के यज्ञ कहे गए हैं, राजा ने एक-एक करके उन सब यज्ञों को प्रेम सहित हजार-हजार बार किया ॥ १५५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हृदयँ न कछु फल अनुसंधाना । भूप बिबेकी परम सुजाना ॥",
+            "करइ जे धरम करम मन बानी । बासुदेव अर्पित नृप ग्यानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(राजा के) हृदय में किसी फल की टोह (कामना) न थी । राजा बड़ा ही बुद्धिमान और ज्ञानी था । वह ज्ञानी राजा कर्म, मन और वाणी से जो कुछ भी धर्म करता था, सब भगवान वासुदेव को अर्पित करते रहता था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चढ़ि बर बाजि बार एक राजा । मृगया कर सब साजि समाजा ॥",
+            "बिंध्याचल गभीर बन गयऊ । मृग पुनीत बहु मारत भयऊ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक बार वह राजा एक अच्छे घोड़े पर सवार होकर, शिकार का सब सामान सजाकर विंध्याचल के घने जंगल में गया और वहाँ उसने बहुत से उत्तम-उत्तम हिरन मारे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "फिरत बिपिन नृप दीख बराहू । जनु बन दुरेउ ससिहि ग्रसि राहू ॥",
+            "बड़ बिधु नहिं समात मुख माहीं । मनहुँ क्रोध बस उगिलत नाहीं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने वन में फिरते हुए एक सूअर को देखा । (दाँतों के कारण वह ऐसा दिख पड़ता था) मानो चन्द्रमा को ग्रसकर (मुँह में पकड़कर) राहु वन में आ छिपा हो । चन्द्रमा बड़ा होने से उसके मुँह में समाता नहीं है और मानो क्रोधवश वह भी उसे उगलता नहीं है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कोल कराल दसन छबि गाई । तनु बिसाल पीवर अधिकाई ॥",
+            "घुरुघुरात हय आरौ पाएँ । चकित बिलोकत कान उठाएँ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यह तो सूअर के भयानक दाँतों की शोभा कही गई । (इधर) उसका शरीर भी बहुत विशाल और मोटा था । घोड़े की आहट पाकर वह घुरघुराता हुआ कान उठाए चौकन्ना होकर देख रहा था ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नील महीधर सिखर सम देखि बिसाल बराहु ।",
+            "चपरि चलेउ हय सुटुकि नृप हाँकि न होइ निबाहु ॥ १५६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नील पर्वत के शिखर के समान विशाल (शरीर वाले) उस सूअर को देखकर राजा घोड़े को चाबुक लगाकर तेजी से चला और उसने सूअर को ललकारा कि अब तेरा बचाव नहीं हो सकता ॥ १५६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आवत देखि अधिक रव बाजी । चलेउ बराह मरुत गति भाजी ॥",
+            "तुरत कीन्ह नृप सर संधाना । महि मिलि गयउ बिलोकत बाना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अधिक शब्द करते हुए घोड़े को (अपनी तरफ) आता देखकर सूअर पवन वेग से भाग चला । राजा ने तुरंत ही बाण को धनुष पर चढ़ाया । सूअर बाण को देखते ही धरती में दुबक गया ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तकि तकि तीर महीस चलावा । करि छल सुअर सरीर बचावा ॥",
+            "प्रगटत दुरत जाइ मृग भागा । रिस बस भूप चलेउ सँग लागा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा तक-तककर तीर चलाता है, परन्तु सूअर छल करके शरीर को बचाता जाता है । वह पशु कभी प्रकट होता और कभी छिपता हुआ भाग जाता था और राजा भी क्रोध के वश उसके साथ (पीछे) लगा चला जाता था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गयउ दूरि घन गहन बराहू । जहँ नाहिन गज बाजि निबाहू ॥",
+            "अति अकेल बन बिपुल कलेसू । तदपि न मृग मग तजइ नरेसू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सूअर बहुत दूर ऐसे घने जंगल में चला गया, जहाँ हाथी-घोड़े का निबाह (गमन) नहीं था । राजा बिलकुल अकेला था और वन में क्लेश भी बहुत था, फिर भी राजा ने उस पशु का पीछा नहीं छोड़ा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कोल बिलोकि भूप बड़ धीरा । भागि पैठ गिरिगुहाँ गभीरा ॥",
+            "अगम देखि नृप अति पछिताई । फिरेउ महाबन परेउ भुलाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा को बड़ा धैर्यवान देखकर, सूअर भागकर पहाड़ की एक गहरी गुफा में जा घुसा । उसमें जाना कठिन देखकर राजा को बहुत पछताकर लौटना पड़ा, पर उस घोर वन में वह रास्ता भूल गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "खेद खिन्न छुद्धित तृषित राजा बाजि समेत ।",
+            "खोजत ब्याकुल सरित सर जल बिनु भयउ अचेत ॥ १५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बहुत परिश्रम करने से थका हुआ और घोड़े समेत भूख-प्यास से व्याकुल राजा नदी-तालाब खोजता-खोजता पानी बिना बेहाल हो गया ॥ १५७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "फिरत बिपिन आश्रम एक देखा । तहँ बस नृपति कपट मुनिबेषा ॥",
+            "जासु देस नृप लीन्ह छड़ाई । समर सेन तजि गयउ पराई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वन में फिरते-फिरते उसने एक आश्रम देखा, वहाँ कपट से मुनि का वेष बनाए एक राजा रहता था, जिसका देश राजा प्रतापभानु ने छीन लिया था और जो सेना को छोड़कर युद्ध से भाग गया था ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समय प्रतापभानु कर जानी । आपन अति असमय अनुमानी ॥",
+            "गयउ न गृह मन बहुत गलानी । मिला न राजहि नृप अभिमानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "प्रतापभानु का समय (अच्छे दिन) जानकर और अपना कुसमय (बुरे दिन) अनुमानकर उसके मन में बड़ी ग्लानि हुई । इससे वह न तो घर गया और न अभिमानी होने के कारण राजा प्रतापभानु से ही मिला (मेल किया) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रिस उर मारि रंक जिमि राजा । बिपिन बसइ तापस कें साजा ॥",
+            "तासु समीप गवन नृप कीन्हा । यह प्रतापरबि तेहिं तब चीन्हा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दरिद्र की भाँति मन ही में क्रोध को मारकर वह राजा तपस्वी के वेष में वन में रहता था । राजा (प्रतापभानु) उसी के पास गया । उसने तुरंत पहचान लिया कि यह प्रतापभानु है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राउ तृषित नहिं सो पहिचाना । देखि सुबेष महामुनि जाना ॥",
+            "उतरि तुरग तें कीन्ह प्रनामा । परम चतुर न कहेउ निज नामा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा प्यासा होने के कारण (व्याकुलता में) उसे पहचान न सका । सुंदर वेष देखकर राजा ने उसे महामुनि समझा और घोड़े से उतरकर उसे प्रणाम किया, परन्तु बड़ा चतुर होने के कारण राजा ने उसे अपना नाम नहीं बताया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूपति तृषित बिलोकि तेहिं सरबरू दीन्ह देखाइ ।",
+            "मज्जन पान समेत हय कीन्ह नृपति हरषाइ ॥ १५८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा को प्यासा देखकर उसने सरोवर दिखला दिया । हर्षित होकर राजा ने घोड़े सहित उसमें स्नान और जलपान किया ॥ १५८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गै श्रम सकल सुखी नृप भयऊ । निज आश्रम तापस लै गयऊ ॥",
+            "आसन दीन्ह अस्त रबि जानी । पुनि तापस बोलेउ मृदु बानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सारी थकावट मिट गई, राजा सुखी हो गया । तब तपस्वी उसे अपने आश्रम में ले गया और सूर्यास्त का समय जानकर उसने (राजा को बैठने के लिए) आसन दिया । फिर वह तपस्वी कोमल वाणी से बोला- ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "को तुम्ह कस बन फिरहु अकेलें । सुंदर जुबा जीव परहेलें ॥",
+            "चक्रबर्ति के लच्छन तोरें । देखत दया लागि अति मोरें ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तुम कौन हो? सुंदर युवक होकर, जीवन की परवाह न करके वन में अकेले क्यों फिर रहे हो? तुम्हारे चक्रवर्ती राजा के से लक्षण देखकर मुझे बड़ी दया आती है ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाम प्रतापभानु अवनीसा । तासु सचिव मैं सुनहु मुनीसा ॥",
+            "फिरत अहेरें परेउँ भुलाई । बड़ें भाग देखेउँ पद आई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(राजा ने कहा - ) हे मुनीश्वर! सुनिए, प्रतापभानु नाम का एक राजा है, मैं उसका मंत्री हूँ । शिकार के लिए फिरते हुए राह भूल गया हूँ । बड़े भाग्य से यहाँ आकर मैंने आपके चरणों के दर्शन पाए हैं ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हम कहँ दुर्लभ दरस तुम्हारा । जानत हौं कछु भल होनिहारा ॥",
+            "कह मुनि तात भयउ अँधिआरा । जोजन सत्तरि नगरु तुम्हारा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हमें आपका दर्शन दुर्लभ था, इससे जान पड़ता है कुछ भला होने वाला है । मुनि ने कहा - हे तात! अँधेरा हो गया । तुम्हारा नगर यहाँ से सत्तर योजन पर है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "निसा घोर गंभीर बन पंथ न सुनहु सुजान ।",
+            "बसहु आजु अस जानि तुम्ह जाएहु होत बिहान ॥ १५९ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे सुजान! सुनो, घोर अँधेरी रात है, घना जंगल है, रास्ता नहीं है, ऐसा समझकर तुम आज यहीं ठहर जाओ, सबेरा होते ही चले जाना ॥ १५९ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुलसी जसि भवतब्यता तैसी मिलइ सहाइ ।",
+            "आपुनु आवइ ताहि पहिं ताहि तहाँ लै जाइ ॥ १५९(ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तुलसीदासजी कहते हैं - जैसी भवितव्यता (होनहार) होती है, वैसी ही सहायता मिल जाती है । या तो वह आप ही उसके पास आती है या उसको वहाँ ले जाती है ॥ १५९ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भलेहिं नाथ आयसु धरि सीसा । बाँधि तुरग तरु बैठ महीसा ॥",
+            "नृप बहु भाँति प्रसंसेउ ताही । चरन बंदि निज भाग्य सराही ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नाथ! बहुत अच्छा, ऐसा कहकर और उसकी आज्ञा सिर चढ़ाकर, घोड़े को वृक्ष से बाँधकर राजा बैठ गया । राजा ने उसकी बहुत प्रकार से प्रशंसा की और उसके चरणों की वंदना करके अपने भाग्य की सराहना की ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुनि बोलेउ मृदु गिरा सुहाई । जानि पिता प्रभु करउँ ढिठाई ॥",
+            "मोहि मुनीस सुत सेवक जानी । नाथ नाम निज कहहु बखानी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर सुंदर कोमल वाणी से कहा - हे प्रभो! आपको पिता जानकर मैं ढिठाई करता हूँ । हे मुनीश्वर! मुझे अपना पुत्र और सेवक जानकर अपना नाम (धाम) विस्तार से बतलाइए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि न जान नृप नृपहि सो जाना । भूप सुहृद सो कपट सयाना ॥",
+            "बैरी पुनि छत्री पुनि राजा । छल बल कीन्ह चहइ निज काजा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने उसको नहीं पहचाना, पर वह राजा को पहचान गया था । राजा तो शुद्ध हृदय था और वह कपट करने में चतुर था । एक तो वैरी, फिर जाति का क्षत्रिय, फिर राजा । वह छल-बल से अपना काम बनाना चाहता था ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "समुझि राजसुख दुखित अराती । अवाँ अनल इव सुलगइ छाती ॥",
+            "ससरल बचन नृप के सुनि काना । बयर सँभारि हृदयँ हरषाना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह शत्रु अपने राज्य सुख को समझ करके (स्मरण करके) दुःखी था । उसकी छाती (कुम्हार के) आँवे की आग की तरह (भीतर ही भीतर) सुलग रही थी । राजा के सरल वचन कान से सुनकर, अपने वैर को यादकर वह हृदय में हर्षित हुआ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कपट बोरि बानी मृदल बोलेउ जुगुति समेत ।",
+            "नाम हमार भिखारि अब निर्धन रहित निकेत ॥ १६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह कपट में डुबोकर बड़ी युक्ति के साथ कोमल वाणी बोला- अब हमारा नाम भिखारी है, क्योंकि हम निर्धन और अनिकेत (घर-द्वारहीन) हैं ॥ १६० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कह नृप जे बिग्यान निधाना । तुम्ह सारिखे गलित अभिमाना ॥",
+            "सदा रहहिं अपनपौ दुराएँ । सब बिधि कुसल कुबेष बनाएँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने कहा - जो आपके सदृश विज्ञान के निधान और सर्वथा अभिमानरहित होते हैं, वे अपने स्वरूप को सदा छिपाए रहते हैं, क्योंकि कुवेष बनाकर रहने में ही सब तरह का कल्याण है (प्रकट संत वेश में मान होने की सम्भावना है और मान से पतन की) ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि तें कहहिं संत श्रुति टेरें । परम अकिंचन प्रिय हरि केरें ॥",
+            "तुम्ह सम अधन भिखारि अगेहा । होत बिरंचि सिवहि संदेहा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "इसी से तो संत और वेद पुकारकर कहते हैं कि परम अकिंचन (सर्वथा अहंकार, ममता और मानरहित) ही भगवान को प्रिय होते हैं । आप सरीखे निर्धन, भिखारी और गृहहीनों को देखकर ब्रह्मा और शिवजी को भी संदेह हो जाता है (कि वे वास्तविक संत हैं या भिखारी) ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जोसि सोसि तव चरन नमामी । मो पर कृपा करिअ अब स्वामी ॥",
+            "सहज प्रीति भूपति कै देखी । आपु बिषय बिस्वास बिसेषी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "आप जो हों सो हों (अर्थात् जो कोई भी हों), मैं आपके चरणों में नमस्कार करता हूँ । हे स्वामी! अब मुझ पर कृपा कीजिए । अपने ऊपर राजा की स्वाभाविक प्रीति और अपने विषय में उसका अधिक विश्वास देखकर ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सब प्रकार राजहि अपनाई । बोलेउ अधिक सनेह जनाई ॥",
+            "सुनु सतिभाउ कहउँ महिपाला । इहाँ बसत बीते बहु काला ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सब प्रकार से राजा को अपने वश में करके, अधिक स्नेह दिखाता हुआ वह (कपट-तपस्वी) बोला- हे राजन्! सुनो, मैं तुमसे सत्य कहता हूँ, मुझे यहाँ रहते बहुत समय बीत गया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब लगि मोहि न मिलेउ कोउ मैं न जनावउँ काहु ।",
+            "लोकमान्यता अनल सम कर तप कानन दाहु ॥ १६१ क ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब तक न तो कोई मुझसे मिला और न मैं अपने को किसी पर प्रकट करता हूँ, क्योंकि लोक में प्रतिष्ठा अग्नि के समान है, जो तप रूपी वन को भस्म कर डालती है ॥ १६१ (क) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुलसी देखि सुबेषु भूलहिं मूढ़ न चतुर नर ।",
+            "सुंदर केकिहि पेखु बचन सुधा सम असन अहि ॥ १६१ ख ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तुलसीदासजी कहते हैं - सुंदर वेष देखकर मूढ़ नहीं (मूढ़ तो मूढ़ ही हैं), चतुर मनुष्य भी धोखा खा जाते हैं । सुंदर मोर को देखो, उसका वचन तो अमृत के समान है और आहार साँप का है ॥ १६१ (ख) ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तातें गुपुत रहउँ जग माहीं । हरि तजि किमपि प्रयोजन नाहीं ॥",
+            "प्रभु जानत सब बिनहिं जनाए । कहहु कवनि सिधि लोक रिझाएँ ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(कपट-तपस्वी ने कहा - ) इसी से मैं जगत में छिपकर रहता हूँ । श्री हरि को छोड़कर किसी से कुछ भी प्रयोजन नहीं रखता । प्रभु तो बिना जनाए ही सब जानते हैं । फिर कहो संसार को रिझाने से क्या सिद्धि मिलेगी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तुम्ह सुचि सुमति परम प्रिय मोरें । प्रीति प्रतीति मोहि पर तोरें ॥",
+            "अब जौं तात दुरावउँ तोही । दारुन दोष घटइ अति मोही ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तुम पवित्र और सुंदर बुद्धि वाले हो, इससे मुझे बहुत ही प्यारे हो और तुम्हारी भी मुझ पर प्रीति और विश्वास है । हे तात! अब यदि मैं तुमसे कुछ छिपाता हूँ, तो मुझे बहुत ही भयानक दोष लगेगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जिमि जिमि तापसु कथइ उदासा । तिमि तिमि नृपहि उपज बिस्वासा ॥",
+            "देखा स्वबस कर्म मन बानी । तब बोला तापस बगध्यानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ज्यों-ज्यों वह तपस्वी उदासीनता की बातें कहता था, त्यों ही त्यों राजा को विश्वास उत्पन्न होता जाता था । जब उस बगुले की तरह ध्यान लगाने वाले (कपटी) मुनि ने राजा को कर्म, मन और वचन से अपने वश में जाना, तब वह बोला- ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाम हमार एकतनु भाई । सुनि नृप बोलेउ पुनि सिरु नाई ॥",
+            "कहहु नाम कर अरथ बखानी । मोहि सेवक अति आपन जानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे भाई! हमारा नाम एकतनु है । यह सुनकर राजा ने फिर सिर नवाकर कहा - मुझे अपना अत्यन्त (अनुरागी) सेवक जानकर अपने नाम का अर्थ समझाकर कहिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आदिसृष्टि उपजी जबहिं तब उतपति भै मोरि ।",
+            "नाम एकतनु हेतु तेहि देह न धरी बहोरि ॥ १६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(कपटी मुनि ने कहा - ) जब सबसे पहले सृष्टि उत्पन्न हुई थी, तभी मेरी उत्पत्ति हुई थी । तबसे मैंने फिर दूसरी देह नहीं धारण की, इसी से मेरा नाम एकतनु है ॥ १६२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जनि आचरजु करहु मन माहीं । सुत तप तें दुर्लभ कछु नाहीं ॥",
+            "तप बल तें जग सृजइ बिधाता । तप बल बिष्नु भए परित्राता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे पुत्र! मन में आश्चर्य मत करो, तप से कुछ भी दुर्लभ नहीं है, तप के बल से ब्रह्मा जगत को रचते हैं । तप के ही बल से विष्णु संसार का पालन करने वाले बने हैं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तपबल संभु करहिं संघारा । तप तें अगम न कछु संसारा ॥",
+            "भयउ नृपहि सुनि अति अनुरागा । कथा पुरातन कहै सो लागा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तप ही के बल से रुद्र संहार करते हैं । संसार में कोई ऐसी वस्तु नहीं जो तप से न मिल सके । यह सुनकर राजा को बड़ा अनुराग हुआ । तब वह (तपस्वी) पुरानी कथाएँ कहने लगा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "करम धरम इतिहास अनेका । करइ निरूपन बिरति बिबेका ॥",
+            "उदभव पालन प्रलय कहानी । कहेसि अमित आचरज बखानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कर्म, धर्म और अनेकों प्रकार के इतिहास कहकर वह वैराग्य और ज्ञान का निरूपण करने लगा । सृष्टि की उत्पत्ति, पालन (स्थिति) और संहार (प्रलय) की अपार आश्चर्यभरी कथाएँ उसने विस्तार से कही ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनि महीप तापस बस भयऊ । आपन नाम कहन तब लयउ ॥",
+            "कह तापस नृप जानउँ तोही । कीन्हेहु कपट लाग भल मोही ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा सुनकर उस तपस्वी के वश में हो गया और तब वह उसे अपना नाम बताने लगा । तपस्वी ने कहा - राजन ! मैं तुमको जानता हूँ । तुमने कपट किया, वह मुझे अच्छा लगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "सोरठा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनु महीस असि नीति जहँ तहँ नाम न कहहिं नृप ।",
+            "मोहि तोहि पर अति प्रीति सोइ चतुरता बिचारि तव ॥ १६३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! सुनो, ऐसी नीति है कि राजा लोग जहाँ-तहाँ अपना नाम नहीं कहते । तुम्हारी वही चतुराई समझकर तुम पर मेरा बड़ा प्रेम हो गया है ॥ १६३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नाम तुम्हार प्रताप दिनेसा । सत्यकेतु तव पिता नरेसा ॥",
+            "गुर प्रसाद सब जानिअ राजा । कहिअ न आपन जानि अकाजा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तुम्हारा नाम प्रतापभानु है, महाराज सत्यकेतु तुम्हारे पिता थे । हे राजन्! गुरु की कृपा से मैं सब जानता हूँ, पर अपनी हानि समझकर कहता नहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "देखि तात तव सहज सुधाई । प्रीति प्रतीति नीति निपुनाई ॥",
+            "उपजि परी ममता मन मोरें । कहउँ कथा निज पूछे तोरें ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे तात! तुम्हारा स्वाभाविक सीधापन (सरलता), प्रेम, विश्वास और नीति में निपुणता देखकर मेरे मन में तुम्हारे ऊपर बड़ी ममता उत्पन्न हो गई है, इसीलिए मैं तुम्हारे पूछने पर अपनी कथा कहता हूँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब प्रसन्न मैं संसय नाहीं । मागु जो भूप भाव मन माहीं ॥",
+            "सुनि सुबचन भूपति हरषाना । गहि पद बिनय कीन्हि बिधि नाना ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अब मैं प्रसन्न हूँ, इसमें संदेह न करना । हे राजन्! जो मन को भावे वही माँग लो । सुंदर (प्रिय) वचन सुनकर राजा हर्षित हो गया और (मुनि के) पैर पकड़कर उसने बहुत प्रकार से विनती की ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कृपासिंधु मुनि दरसन तोरें । चारि पदारथ करतल मोरें ॥",
+            "प्रभुहि तथापि प्रसन्न बिलोकी । मागि अगम बर होउँ असोकी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे दयासागर मुनि! आपके दर्शन से ही चारों पदार्थ (अर्थ, धर्म, काम और मोक्ष) मेरी मुट्ठी में आ गए । तो भी स्वामी को प्रसन्न देखकर मैं यह दुर्लभ वर माँगकर (क्यों न) शोकरहित हो जाऊँ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जरा मरन दुख रहित तनु समर जितै जनि कोउ ।",
+            "एकछत्र रिपुहीन महि राज कलप सत होउ ॥ १६४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मेरा शरीर वृद्धावस्था, मृत्यु और दुःख से रहित हो जाए, मुझे युद्ध में कोई जीत न सके और पृथ्वी पर मेरा सौ कल्पतक एकछत्र अकण्टक राज्य हो ॥ १६४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कह तापस नृप ऐसेइ होऊ । कारन एक कठिन सुनु सोऊ ॥",
+            "कालउ तुअ पद नाइहि सीसा । एक बिप्रकुल छाड़ि महीसा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तपस्वी ने कहा - हे राजन्! ऐसा ही हो, पर एक बात कठिन है, उसे भी सुन लो । हे पृथ्वी के स्वामी! केवल ब्राह्मण कुल को छोड़ काल भी तुम्हारे चरणों पर सिर नवाएगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तपबल बिप्र सदा बरिआरा । तिन्ह के कोप न कोउ रखवारा ॥",
+            "जौं बिप्रन्ह बस करहु नरेसा । तौ तुअ बस बिधि बिष्नु महेसा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तप के बल से ब्राह्मण सदा बलवान रहते हैं । उनके क्रोध से रक्षा करने वाला कोई नहीं है । हे नरपति! यदि तुम ब्राह्मणों को वश में कर लो, तो ब्रह्मा, विष्णु और महेश भी तुम्हारे अधीन हो जाएँगे ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "चल न ब्रह्मकुल सन बरिआई । सत्य कहउँ दोउ भुजा उठाई ॥",
+            "बिप्र श्राप बिनु सुनु महिपाला । तोर नास नहिं कवनेहुँ काला ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ब्राह्मण कुल से जोर जबर्दस्ती नहीं चल सकती, मैं दोनों भुजा उठाकर सत्य कहता हूँ । हे राजन्! सुनो, ब्राह्मणों के शाप बिना तुम्हारा नाश किसी काल में नहीं होगा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "हरषेउ राउ बचन सुनि तासू । नाथ न होइ मोर अब नासू ॥",
+            "तव प्रसाद प्रभु कृपानिधाना । मो कहुँ सर्बकाल कल्याना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा उसके वचन सुनकर बड़ा प्रसन्न हुआ और कहने लगा- हे स्वामी! मेरा नाश अब नहीं होगा । हे कृपानिधान प्रभु! आपकी कृपा से मेरा सब समय कल्याण होगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एवमस्तु कहि कपट मुनि बोला कुटिल बहोरि ।",
+            "मिलब हमार भुलाब निज कहहु त हमहि न खोरि ॥ १६५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "‘एवमस्तु’ (ऐसा ही हो) कहकर वह कुटिल कपटी मुनि फिर बोला- (किन्तु) तुम मेरे मिलने तथा अपने राह भूल जाने की बात किसी से (कहना नहीं, यदि) कह दोगे, तो हमारा दोष नहीं ॥ १६५ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तातें मैं तोहि बरजउँ राजा । कहें कथा तव परम अकाजा ॥",
+            "छठें श्रवन यह परत कहानी । नास तुम्हार सत्य मम बानी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! मैं तुमको इसलिए मना करता हूँ कि इस प्रसंग को कहने से तुम्हारी बड़ी हानि होगी । छठे कान में यह बात पड़ते ही तुम्हारा नाश हो जाएगा, मेरा यह वचन सत्य जानना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "यह प्रगटें अथवा द्विजश्रापा । नास तोर सुनु भानुप्रतापा ॥",
+            "आन उपायँ निधन तव नाहीं । जौं हरि हर कोपहिं मन माहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे प्रतापभानु! सुनो, इस बात के प्रकट करने से अथवा ब्राह्मणों के शाप से तुम्हारा नाश होगा और किसी उपाय से, चाहे ब्रह्मा और शंकर भी मन में क्रोध करें, तुम्हारी मृत्यु नहीं होगी ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सत्य नाथ पद गहि नृप भाषा । द्विज गुर कोप कहहु को राखा ॥",
+            "राखइ गुर जौं कोप बिधाता । गुर बिरोध नहिं कोउ जग त्राता ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने मुनि के चरण पकड़कर कहा - हे स्वामी! सत्य ही है । ब्राह्मण और गुरु के क्रोध से, कहिए, कौन रक्षा कर सकता है? यदि ब्रह्मा भी क्रोध करें, तो गुरु बचा लेते हैं, पर गुरु से विरोध करने पर जगत में कोई भी बचाने वाला नहीं है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं न चलब हम कहे तुम्हारें । होउ नास नहिं सोच हमारें ॥",
+            "एकहिं डर डरपत मन मोरा । प्रभु महिदेव श्राप अति घोरा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यदि मैं आपके कथन के अनुसार नहीं चलूँगा, तो (भले ही) मेरा नाश हो जाए । मुझे इसकी चिन्ता नहीं है । मेरा मन तो हे प्रभो! (केवल) एक ही डर से डर रहा है कि ब्राह्मणों का शाप बड़ा भयानक होता है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "होहिं बिप्र बस कवन बिधि कहहु कृपा करि सोउ ।",
+            "तुम्ह तजि दीनदयाल निज हितू न देखउँ कोउ ॥ १६६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वे ब्राह्मण किस प्रकार से वश में हो सकते हैं, कृपा करके वह भी बताइए । हे दीनदयालु! आपको छोड़कर और किसी को मैं अपना हितू नहीं देखता ॥ १६६ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सुनु नृप बिबिध जतन जग माहीं । कष्टसाध्य पुनि होहिं कि नाहीं ॥",
+            "अहइ एक अति सुगम उपाई । तहाँ परन्तु एक कठिनाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(तपस्वी ने कहा - ) हे राजन् !सुनो, संसार में उपाय तो बहुत हैं, पर वे कष्ट साध्य हैं (बड़ी कठिनता से बनने में आते हैं) और इस पर भी सिद्ध हों या न हों (उनकी सफलता निश्चित नहीं है) हाँ, एक उपाय बहुत सहज है, परन्तु उसमें भी एक कठिनता है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मम आधीन जुगुति नृप सोई । मोर जाब तव नगर न होई ॥",
+            "आजु लगें अरु जब तें भयऊँ । काहू के गृह ग्राम न गयऊँ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! वह युक्ति तो मेरे हाथ है, पर मेरा जाना तुम्हारे नगर में हो नहीं सकता । जब से पैदा हुआ हूँ, तब से आज तक मैं किसी के घर अथवा गाँव नहीं गया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं न जाउँ तव होइ अकाजू । बना आइ असमंजस आजू ॥",
+            "सुनि महीस बोलेउ मृदु बानी । नाथ निगम असि नीति बखानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "परन्तु यदि नहीं जाता हूँ, तो तुम्हारा काम बिगड़ता है । आज यह बड़ा असमंजस आ पड़ा है । यह सुनकर राजा कोमल वाणी से बोला, हे नाथ! वेदों में ऐसी नीति कही है कि - ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बड़े सनेह लघुन्ह पर करहीं । गिरि निज सिरनि सदा तृन धरहीं ॥",
+            "जलधि अगाध मौलि बह फेनू । संतत धरनि धरत सिर रेनू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "बड़े लोग छोटों पर स्नेह करते ही हैं । पर्वत अपने सिरों पर सदा तृण (घास) को धारण किए रहते हैं । अगाध समुद्र अपने मस्तक पर फेन को धारण करता है और धरती अपने सिर पर सदा धूलि को धारण किए रहती है ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस कहि गहे नरेस पद स्वामी होहु कृपाल ।",
+            "मोहि लागि दुख सहिअ प्रभु सज्जन दीनदयाल ॥ १६७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा कहकर राजा ने मुनि के चरण पकड़ लिए । (और कहा - ) हे स्वामी! कृपा कीजिए । आप संत हैं । दीनदयालु हैं । (अतः) हे प्रभो! मेरे लिए इतना कष्ट (अवश्य) सहिए ॥ १६७ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जानि नृपहि आपन आधीना । बोला तापस कपट प्रबीना ॥",
+            "सत्य कहउँ भूपति सुनु तोही । जग नाहिन दुर्लभ कछु मोही ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा को अपने अधीन जानकर कपट में प्रवीण तपस्वी बोला- हे राजन्! सुनो, मैं तुमसे सत्य कहता हूँ, जगत में मुझे कुछ भी दुर्लभ नहीं है ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अवसि काज मैं करिहउँ तोरा । मन तन बचन भगत तैं मोरा ॥",
+            "जोग जुगुति तप मंत्र प्रभाऊ । फलइ तबहिं जब करिअ दुराऊ ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं तुम्हारा काम अवश्य करूँगा, (क्योंकि) तुम, मन, वाणी और शरीर (तीनों) से मेरे भक्त हो । पर योग, युक्ति, तप और मंत्रों का प्रभाव तभी फलीभूत होता है जब वे छिपाकर किए जाते हैं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जौं नरेस मैं करौं रसोई । तुम्ह परुसहु मोहि जान न कोई ॥",
+            "अन्न सो जोइ जोइ भोजन करई । सोइ सोइ तव आयसु अनुसरई ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे नरपति! मैं यदि रसोई बनाऊँ और तुम उसे परोसो और मुझे कोई जानने न पावे, तो उस अन्न को जो-जो खाएगा, सो-सो तुम्हारा आज्ञाकारी बन जाएगा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "पुनि तिन्ह के गृह जेवँइ जोऊ । तव बस होइ भूप सुनु सोऊ ॥",
+            "जाइ उपाय रचहु नृप एहू । संबत भरि संकलप करेहू ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "यही नहीं, उन (भोजन करने वालों) के घर भी जो कोई भोजन करेगा, हे राजन्! सुनो, वह भी तुम्हारे अधीन हो जाएगा । हे राजन्! जाकर यही उपाय करो और वर्षभर (भोजन कराने) का संकल्प कर लेना ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नित नूतन द्विज सहस सत बरेहु सहित परिवार ।",
+            "मैं तुम्हरे संकलप लगि दिनहिं करबि जेवनार ॥ १६८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "नित्य नए एक लाख ब्राह्मणों को कुटुम्ब सहित निमंत्रित करना । मैं तुम्हारे सकंल्प (के काल अर्थात एक वर्ष) तक प्रतिदिन भोजन बना दिया करूँगा ॥ १६८ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "एहि बिधि भूप कष्ट अति थोरें । होइहहिं सकल बिप्र बस तोरें ॥",
+            "करिहहिं बिप्र होममख सेवा । तेहिं प्रसंग सहजेहिं बस देवा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! इस प्रकार बहुत ही थोड़े परिश्रम से सब ब्राह्मण तुम्हारे वश में हो जाएँगे । ब्राह्मण हवन, यज्ञ और सेवा-पूजा करेंगे, तो उस प्रसंग (संबंध) से देवता भी सहज ही वश में हो जाएँगे ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "और एक तोहि कहउँ लखाऊ । मैं एहिं बेष न आउब काऊ ॥",
+            "तुम्हरे उपरोहित कहुँ राया । हरि आनब मैं करि निज माया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं एक और पहचान तुमको बताए देता हूँ कि मैं इस रूप में कभी न आऊँगा । हे राजन्! मैं अपनी माया से तुम्हारे पुरोहित को हर लाऊँगा ॥ २ ॥ \\\\"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तपबल तेहि करि आपु समाना । रखिहउँ इहाँ बरष परवाना ॥",
+            "मैं धरि तासु बेषु सुनु राजा । सब बिधि तोर सँवारब काजा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तप के बल से उसे अपने समान बनाकर एक वर्ष यहाँ रखूँगा और हे राजन्! सुनो, मैं उसका रूप बनाकर सब प्रकार से तुम्हारा काम सिद्ध करूँगा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गै निसि बहुत सयन अब कीजे । मोहि तोहि भूप भेंट दिन तीजे ॥",
+            "मैं तपबल तोहि तुरग समेता । पहुँचैहउँ सोवतहि निकेता ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! रात बहुत बीत गई, अब सो जाओ । आज से तीसरे दिन मुझसे तुम्हारी भेंट होगी । तप के बल से मैं घोड़े सहित तुमको सोते ही में घर पहुँचा दूँगा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मैं आउब सोइ बेषु धरि पहिचानेहु तब मोहि ।",
+            "जब एकांत बोलाइ सब कथा सुनावौं तोहि ॥ १६९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मैं वही (पुरोहित का) वेश धरकर आऊँगा । जब एकांत में तुमको बुलाकर सब कथा सुनाऊँगा, तब तुम मुझे पहचान लेना ॥ १६९ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सयन कीन्ह नृप आयसु मानी । आसन जाइ बैठ छलग्यानी ॥",
+            "श्रमित भूप निद्रा अति आई । सो किमि सोव सोच अधिकाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा ने आज्ञा मानकर शयन किया और वह कपट-ज्ञानी आसन पर जा बैठा । राजा थका था, (उसे) खूब (गहरी) नींद आ गई । पर वह कपटी कैसे सोता । उसे तो बहुत चिन्ता हो रही थी ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कालकेतु निसिचर तहँ आवा । जेहिं सूकर होइ नृपहि भुलावा ॥",
+            "परम मित्र तापस नृप केरा । जानइ सो अति कपट घनेरा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(उसी समय) वहाँ कालकेतु राक्षस आया, जिसने सूअर बनकर राजा को भटकाया था । वह तपस्वी राजा का बड़ा मित्र था और खूब छल-प्रपंच जानता था ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहि के सत सुत अरु दस भाई । खल अति अजय देव दुखदाई ॥",
+            "प्रथमहिं भूप समर सब मारे । बिप्र संत सुर देखि दुखारे ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसके सौ पुत्र और दस भाई थे, जो बड़े ही दुष्ट, किसी से न जीते जाने वाले और देवताओं को दुःख देने वाले थे । ब्राह्मणों, संतों और देवताओं को दुःखी देखकर राजा ने उन सबको पहले ही युद्ध में मार डाला था ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तेहिं खल पाछिल बयरु सँभारा । तापस नृप मिलि मंत्र बिचारा ॥",
+            "जेहिं रिपु छय सोइ रचेन्हि उपाऊ । भावी बस न जान कछु राऊ ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उस दुष्ट ने पिछला बैर याद करके तपस्वी राजा से मिलकर सलाह विचारी (षड्यंत्र किया) और जिस प्रकार शत्रु का नाश हो, वही उपाय रचा । भावीवश राजा (प्रतापभानु) कुछ भी न समझ सका ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "रिपु तेजसी अकेल अपि लघु करि गनिअ न ताहु ।",
+            "अजहुँ देत दुख रबि ससिहि सिर अवसेषित राहु ॥ १७० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तेजस्वी शत्रु अकेला भी हो तो भी उसे छोटा नहीं समझना चाहिए । जिसका सिर मात्र बचा था, वह राहु आज तक सूर्य-चन्द्रमा को दुःख देता है ॥ १७० ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तापस नृप निज सखहि निहारी । हरषि मिलेउ उठि भयउ सुखारी ॥",
+            "मित्रहि कहि सब कथा सुनाई । जातुधान बोला सुख पाई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तपस्वी राजा अपने मित्र को देख प्रसन्न हो उठकर मिला और सुखी हुआ । उसने मित्र को सब कथा कह सुनाई, तब राक्षस आनंदित होकर बोला ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अब साधेउँ रिपु सुनहु नरेसा । जौं तुम्ह कीन्ह मोर उपदेसा ॥",
+            "परिहरि सोच रहहु तुम्ह सोई । बिनु औषध बिआधि बिधि खोई ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन्! सुनो, जब तुमने मेरे कहने के अनुसार (इतना) काम कर लिया, तो अब मैंने शत्रु को काबू में कर ही लिया (समझो) । तुम अब चिन्ता त्याग सो रहो । विधाता ने बिना ही दवा के रोग दूर कर दिया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "कुल समेत रिपु मूल बहाई । चौथें दिवस मिलब मैं आई ॥",
+            "तापस नृपहि बहुत परितोषी । चला महाकपटी अतिरोषी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "कुल सहित शत्रु को जड़-मूल से उखाड़-बहाकर, (आज से) चौथे दिन मैं तुमसे आ मिलूँगा । (इस प्रकार) तपस्वी राजा को खूब दिलासा देकर वह महामायावी और अत्यन्त क्रोधी राक्षस चला ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भानुप्रतापहि बाजि समेता । पहुँचाएसि छन माझ निकेता ॥",
+            "नृपहि नारि पहिं सयन कराई । हयगृहँ बाँधेसि बाजि बनाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "उसने प्रतापभानु राजा को घोड़े सहित क्षणभर में घर पहुँचा दिया । राजा को रानी के पास सुलाकर घोड़े को अच्छी तरह से घुड़साल में बाँध दिया ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "राजा के उपरोहितहि हरि लै गयउ बहोरि ।",
+            "लै राखेसि गिरि खोह महुँ मायाँ करि मति भोरि ॥ १७१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "फिर वह राजा के पुरोहित को उठा ले गया और माया से उसकी बुद्धि को भ्रम में डालकर उसे उसने पहाड़ की खोह में ला रखा ॥ १७१ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "आपु बिरचि उपरोहित रूपा । परेउ जाइ तेहि सेज अनूपा ॥",
+            "जागेउ नृप अनभएँ बिहाना । देखि भवन अति अचरजु माना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "वह आप पुरोहित का रूप बनाकर उसकी सुंदर सेज पर जा लेटा । राजा सबेरा होने से पहले ही जागा और अपना घर देखकर उसने बड़ा ही आश्चर्य माना ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "मुनि महिमा मन महुँ अनुमानी । उठेउ गवँहिं जेहिं जान न रानी ॥",
+            "कानन गयउ बाजि चढ़ि तेहीं । पुर नर नारि न जानेउ केहीं ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "मन में मुनि की महिमा का अनुमान करके वह धीरे से उठा, जिसमें रानी न जान पावे । फिर उसी घोड़े पर चढ़कर वन को चला गया । नगर के किसी भी स्त्री-पुरुष ने नहीं जाना ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "गएँ जाम जुग भूपति आवा । घर घर उत्सव बाज बधावा ॥",
+            "उपरोहितहि देख जब राजा । चकित बिलोक सुमिरि सोइ काजा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "दो पहर बीत जाने पर राजा आया । घर-घर उत्सव होने लगे और बधावा बजने लगा । जब राजा ने पुरोहित को देखा, तब वह (अपने) उसी कार्य का स्मरणकर उसे आश्चर्य से देखने लगा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "जुग सम नृपहि गए दिन तीनी । कपटी मुनि पद रह मति लीनी ॥",
+            "समय जान उपरोहित आवा । नृपहि मते सब कहि समुझावा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "राजा को तीन दिन युग के समान बीते । उसकी बुद्धि कपटी मुनि के चरणों में लगी रही । निश्चित समय जानकर पुरोहित (बना हुआ राक्षस) आया और राजा के साथ की हुई गुप्त सलाह के अनुसार (उसने अपने) सब विचार उसे समझाकर कह दिए ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "नृप हरषेउ पहिचानि गुरु भ्रम बस रहा न चेत ।",
+            "बरे तुरत सत सहस बर बिप्र कुटुंब समेत ॥ १७२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(संकेत के अनुसार) गुरु को (उस रूप में) पहचानकर राजा प्रसन्न हुआ । भ्रमवश उसे चेत न रहा (कि यह तापस मुनि है या कालकेतु राक्षस) । उसने तुरंत एक लाख उत्तम ब्राह्मणों को कुटुम्ब सहित निमंत्रण दे दिया ॥ १७२ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "उपरोहित जेवनार बनाई । छरस चारि बिधि जसि श्रुति गाई ॥",
+            "मायामय तेहिं कीन्हि रसोई । बिंजन बहु गनि सकइ न कोई ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पुरोहित ने छह रस और चार प्रकार के भोजन, जैसा कि वेदों में वर्णन है, बनाए । उसने मायामयी रसोई तैयार की और इतने व्यंजन बनाए, जिन्हें कोई गिन नहीं सकता ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिबिध मृगन्ह कर आमिष राँधा । तेहि महुँ बिप्र माँसु खल साँधा ॥",
+            "भोजन कहुँ सब बिप्र बोलाए । पद पखारि सादर बैठाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "अनेक प्रकार के पशुओं का मांस पकाया और उसमें उस दुष्ट ने ब्राह्मणों का मांस मिला दिया । सब ब्राह्मणों को भोजन के लिए बुलाया और चरण धोकर आदर सहित बैठाया ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "परुसन जबहिं लाग महिपाला । भै अकासबानी तेहि काला ॥",
+            "बिप्रबृंद उठि उठि गृह जाहू । है बड़ि हानि अन्न जनि खाहू ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ज्यों ही राजा परोसने लगा, उसी काल (कालकेतुकृत) आकाशवाणी हुई- हे ब्राह्मणों! उठ-उठकर अपने घर जाओ, यह अन्न मत खाओ । इस (के खाने) में बड़ी हानि है ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भयउ रसोईं भूसुर माँसू । सब द्विज उठे मानि बिस्वासू ॥",
+            "भूप बिकल मति मोहँ भुलानी । भावी बस न आव मुख बानी ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रसोई में ब्राह्मणों का मांस बना है । (आकाशवाणी का) विश्वास मानकर सब ब्राह्मण उठ खड़े हुए । राजा व्याकुल हो गया (परन्तु), उसकी बुद्धि मोह में भूली हुई थी । होनहारवश उसके मुँह से (एक) बात (भी) न निकली ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बोले बिप्र सकोप तब नहिं कछु कीन्ह बिचार ।",
+            "जाइ निसाचर होहु नृप मूढ़ सहित परिवार ॥ १७३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "तब ब्राह्मण क्रोध सहित बोल उठे- उन्होंने कुछ भी विचार नहीं किया- अरे मूर्ख राजा! तू जाकर परिवार सहित राक्षस हो ॥ १७३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "छत्रबंधु तैं बिप्र बोलाई । घालै लिए सहित समुदाई ॥",
+            "ईश्वर राखा धरम हमारा । जैहसि तैं समेत परिवारा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "रे नीच क्षत्रिय! तूने तो परिवार सहित ब्राह्मणों को बुलाकर उन्हें नष्ट करना चाहा था, ईश्वर ने हमारे धर्म की रक्षा की । अब तू परिवार सहित नष्ट होगा ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "संबत मध्य नास तव होऊ । जलदाता न रहिहि कुल कोऊ ॥",
+            "नृप सुनि श्राप बिकल अति त्रासा । भै बहोरि बर गिरा अकासा ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "एक वर्ष के भीतर तेरा नाश हो जाए, तेरे कुल में कोई पानी देने वाला तक न रहेगा । शाप सुनकर राजा भय के मारे अत्यन्त व्याकुल हो गया । फिर सुंदर आकाशवाणी हुई- ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "बिप्रहु श्राप बिचारि न दीन्हा । नहिं अपराध भूप कछु कीन्हा ॥",
+            "चकित बिप्र सब सुनि नभबानी । भूप गयउ जहँ भोजन खानी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे ब्राह्मणों! तुमने विचार कर शाप नहीं दिया । राजा ने कुछ भी अपराध नहीं किया । आकाशवाणी सुनकर सब ब्राह्मण चकित हो गए । तब राजा वहाँ गया, जहाँ भोजन बना था ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "तहँ न असन नहिं बिप्र सुआरा । फिरेउ राउ मन सोच अपारा ॥",
+            "सब प्रसंग महिसुरन्ह सुनाई । त्रसित परेउ अवनीं अकुलाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "(देखा तो) वहाँ न भोजन था, न रसोइया ब्राह्मण ही था । तब राजा मन में अपार चिन्ता करता हुआ लौटा । उसने ब्राह्मणों को सब वृत्तान्त सुनाया और (बड़ा ही) भयभीत और व्याकुल होकर वह पृथ्वी पर गिर पड़ा ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "दोहा :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "भूपति भावी मिटइ नहिं जदपि न दूषन तोर ।",
+            "किएँ अन्यथा दोइ नहिं बिप्रश्राप अति घोर ॥ १७४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "हे राजन! यद्यपि तुम्हारा दोष नहीं है, तो भी होनहार नहीं मिटता । ब्राह्मणों का शाप बहुत ही भयानक होता है, यह किसी तरह भी टाले टल नहीं सकता ॥ १७४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "has-text-warning-dark",
+            "mb-3"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold"
+        ],
+        "text": [
+            "चौपाई :"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "अस कहि सब महिदेव सिधाए । समाचार पुरलोगन्ह पाए ॥",
+            "सोचहिं दूषन दैवहि देहीं । बिरचत हंस काग किए जेहीं ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "ऐसा कहकर सब ब्राह्मण चले गए । नगरवासियों ने (जब) यह समाचार पाया, तो वे चिन्ता करने और विधाता को दोष देने लगे, जिसने हंस बनाते-बनाते कौआ कर दिया (ऐसे पुण्यात्मा राजा को देवता बनाना चाहिए था, सो राक्षस बना दिया) ॥ १ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "उपरोहितहि भवन पहुँचाई । असुर तापसहि खबरि जनाई ॥",
+            "तेहिं खल जहँ तहँ पत्र पठाए । सजि सजि सेन भूप सब धाए ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "पुरोहित को उसके घर पहुँचाकर असुर (कालकेतु) ने (कपटी) तपस्वी को खबर दी । उस दुष्ट ने जहाँ-तहाँ पत्र भेजे, जिससे सब (बैरी) राजा सेना सजा-सजाकर (चढ़) दौड़े ॥ २ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "घेरेन्हि नगर निसान बजाई । बिबिध भाँति नित होइ लराई ॥",
+            "जूझे सकल सुभट करि करनी । बंधु समेत परेउ नृप धरनी ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "और उन्होंने डंका बजाकर नगर को घेर लिया । नित्य प्रति अनेक प्रकार से लड़ाई होने लगी । (प्रताप भानु के) सब योद्धा (शूरवीरों की) करनी करके रण में जूझ मरे । राजा भी भाई सहित खेत रहा ॥ ३ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-centered",
+            "has-text-weight-bold",
+            "mb-1"
+        ],
+        "text": [
+            "सत्यकेतु कुल कोउ नहिं बाँचा । बिप्रश्राप किमि होइ असाँचा ॥",
+            "रिपु जिति सब नृप नगर बसाई । निज पुर गवने जय जसु पाई ॥ ४ ॥"
+        ]
+    },
+    {
+        "type": "textGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "सत्यकेतु के कुल में कोई नहीं बचा । ब्राह्मणों का शाप झूठा कैसे हो सकता था । शत्रु को जीतकर नगर को (फिर से) बसाकर सब राजा विजय और यश पाकर अपने-अपने नगर को चले गए ॥ ४ ॥"
+        ]
+    }
+]
