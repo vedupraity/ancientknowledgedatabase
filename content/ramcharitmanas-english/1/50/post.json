@@ -363,7 +363,7 @@
             "has-text-justified"
         ],
         "text": [
-            "Whosoever are called our friends, dear ones, are mere spectators of a show; no one urges the preceptor (Viśvāmitra) and tells him that the two princes are yet boys and that such insistence on his part is not desirable. Knowing that Rāvaṇa and Banasura did not even touch the bow and that all other kings were worsted in spite of all their boasts, strange that he should give the same bow into the hands of this young prince; can cygnets ever lift Mount Mandara? Good sense has taken leave of the king; and one does not know the dispensation of Providence, dear ones,\" One of her sharp-witted companions gently replied, \"The glorious are not to be lightly regarded, O queen. What comparison is there between the sage Agastya, who was born of a jar, and the vast ocean? Yet the sage drained it dry, and his good fame has spread throughout the world. The orb of the sun is so small to look at, but the moment is rises the darkness of all the three worlds disappears."
+            "Whosoever are called our friends, dear ones, are mere spectators of a show; no one urges the preceptor (Viśvāmitra) and tells him that the two princes are yet boys and that such insistence on his part is not desirable. Knowing that Rāvaṇa and Bāṇāsura did not even touch the bow and that all other kings were worsted in spite of all their boasts, strange that he should give the same bow into the hands of this young prince; can cygnets ever lift Mount Mandara? Good sense has taken leave of the king; and one does not know the dispensation of Providence, dear ones,\" One of her sharp-witted companions gently replied, \"The glorious are not to be lightly regarded, O queen. What comparison is there between the sage Agastya, who was born of a jar, and the vast ocean? Yet the sage drained it dry, and his good fame has spread throughout the world. The orb of the sun is so small to look at, but the moment is rises the darkness of all the three worlds disappears."
         ]
     },
     {
@@ -539,7 +539,7 @@
             "has-text-justified"
         ],
         "text": [
-            "She feasted Her eyes to their fill on Śrī Rāma's beauty; but then the thought of Her father's vow agitated Her mind. She said to Herself.\" Alas, my father has made a terrible resolve having no regard to good or evil consequences. The ministers are afraid; therefore none of them gives him good counsel. It is all the more pity that it should be so in a conclave of wise men. While on this side stands the bow harder than adamant, on the other side we find that dark-complexioned prince of delicate frame and tender age. How then, O god, can I maintain my balance of mind? Is a diamond ever pierced with the pointed end of a Sirisa flower? The sense of the whole assembly has become dull; hence my only hope now lies in you, O Śambhu's bow. Imparting your heaviness to the assembly grow light yourself at the sight of (in proportion to the size of) Śrī Rāma.\" Sītā felt much agitated at heart; an instant hung heavy on Her as a hundred Yugas."
+            "She feasted Her eyes to their fill on Śrī Rāma's beauty; but then the thought of Her father's vow agitated Her mind. She said to Herself.\" Alas, my father has made a terrible resolve having no regard to good or evil consequences. The ministers are afraid; therefore none of them gives him good counsel. It is all the more pity that it should be so in a conclave of wise men. While on this side stands the bow harder than adamant, on the other side we find that dark-complexioned prince of delicate frame and tender age. How then, O god, can I maintain my balance of mind? Is a diamond ever pierced with the pointed end of a Śirīṣa flower? The sense of the whole assembly has become dull; hence my only hope now lies in you, O Śambhu's bow. Imparting your heaviness to the assembly grow light yourself at the sight of (in proportion to the size of) Śrī Rāma.\" Sītā felt much agitated at heart; an instant hung heavy on Her as a hundred Yugas."
         ]
     },
     {
@@ -631,6 +631,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Shedding of tears is regarded in India as an ill-omen; therefore, on auspicious occasions Indian women would take particular care not to allow tears to drop from their eyes."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
@@ -715,7 +727,19 @@
             "has-text-justified"
         ],
         "text": [
-            "O elephants guarding the cardinal points, O divine tortoise*, O serpent-king, and O divine boar*, steadily hold the earth that it may not shake. Śrī Rāma seeks to break the bow of Śaṅkara; therefore, listen to my command and be ready.\" When Rāma drew near to the bow, men and women present there invoked in His behalf the help of gods as well as of their past good deeds. The doubts and ignorance of all who had assembled there, the arrogance of the foolish kings, the proud pretensions of Paraśurāma (the Chief of Bhrgu's race), the apprehension of gods and the great sages, the distress of Sītā, King Janaka's remorse and the fire of the queen's terrible agony-all these boarded together the great bark of Śambhu's bow, with whose help they sought to cross the boundless ocean of Śrī Rāma's strength of arm; but there was no helmsman to steer the ship."
+            "O elephants guarding the cardinal points, O divine tortoise\\*, O serpent-king, and O divine boar\\*, steadily hold the earth that it may not shake. Śrī Rāma seeks to break the bow of Śaṅkara; therefore, listen to my command and be ready.\" When Rāma drew near to the bow, men and women present there invoked in His behalf the help of gods as well as of their past good deeds. The doubts and ignorance of all who had assembled there, the arrogance of the foolish kings, the proud pretensions of Paraśurāma (the Chief of Bhṛgu's race), the apprehension of gods and the great sages, the distress of Sītā, King Janaka's remorse and the fire of the queen's terrible agony-all these boarded together the great bark of Śambhu's bow, with whose help they sought to cross the boundless ocean of Śrī Rāma's strength of arm; but there was no helmsman to steer the ship."
+        ]
+    },
+    {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** The divine tortoise referred to here is the same who served as the base for churning the ocean of milk at the dawn of creation. And the divine boar refers to the manifestation of the Lord as a boar in order to lift the earth out of the waters in which the demon Hiraṇyākṣa had submerged it. The tortoise as well as the boar are represented here as ever holding the earth, conjointly with the serpent-king, the one on its back and the other on its tusks."
         ]
     }
 ]
