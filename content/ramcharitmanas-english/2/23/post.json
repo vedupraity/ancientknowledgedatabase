@@ -52,7 +52,7 @@
             "has-text-justified"
         ],
         "text": [
-            "The Nisada was overcome with grief as he beheld the minister and his horses. He then called four trusted grooms and sent them with the charioteer (Sumantra)."
+            "The Niṣāda was overcome with grief as he beheld the minister and his horses. He then called four trusted grooms and sent them with the charioteer (Sumantra)."
         ]
     },
     {
@@ -99,7 +99,7 @@
             "has-text-justified"
         ],
         "text": [
-            "Seeing off the charioteer, Guha returned; the agony of his separation was too deep for words. And the Nisadas drove off to Ayodhyā, plunged in sorrow every moment. Agitated and stricken with grief, Sumantra lamented: \"Accursed is life without the Hero of Raghu's race. This wretched body will not survive in the long run; but what a pity it did not earn fame by perishing at the time of its parting from the Hero of Raghu's race. This life has become a sink of infamy and sin; I wonder what prevents it from departing. Alas! this vile soul has missed its chance. Oh, that my heart does not break in twain even now!\" Wringing his hands and beating his head he rued his lot like a miser who has lost his hoard of riches. It seemed as if after assuming the role of, and posing as, an eminent hero, a great warrior had taken to flight."
+            "Seeing off the charioteer, Guha returned; the agony of his separation was too deep for words. And the Niṣādas drove off to Ayodhyā, plunged in sorrow every moment. Agitated and stricken with grief, Sumantra lamented: \"Accursed is life without the Hero of Raghu's race. This wretched body will not survive in the long run; but what a pity it did not earn fame by perishing at the time of its parting from the Hero of Raghu's race. This life has become a sink of infamy and sin; I wonder what prevents it from departing. Alas! this vile soul has missed its chance. Oh, that my heart does not break in twain even now!\" Wringing his hands and beating his head he rued his lot like a miser who has lost his hoard of riches. It seemed as if after assuming the role of, and posing as, an eminent hero, a great warrior had taken to flight."
         ]
     },
     {
@@ -320,6 +320,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** It is mentioned in the scriptures that sinners who are condemned to hell are endowed with a subtle body (known by the name of Yātanā-Śarīra), which though subjected to tortures in various forms is wonderfully tenacious and does not perish till the sinner has served the sentence."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
@@ -363,7 +375,7 @@
             "has-text-justified"
         ],
         "text": [
-            "While Sumantra was thus lamenting on the way, his chariot presently reached the bank of the Tamasa river. He politely dismissed the Nisadas, who fell at his feet and returned with a heart stricken with grief. The minister hesitated to enter the city as if he had murdered his own preceptor, killed a Brāhmaṇa or butchered a cow. He passed the day sitting under a tree and found his opportunity only when it was dusk. He entered Ayodhyā in the dark and slunk into the palace leaving the chariot at the gate. All who heard the news flocked to the entrance of the royal palace to see the chariot. When they recognized the chariot and found the horses restless with their body wasting away as hail in the sun, the citizens, both men and women, were sore distressed as fish when the water runs short."
+            "While Sumantra was thus lamenting on the way, his chariot presently reached the bank of the Tamasa river. He politely dismissed the Niṣādas, who fell at his feet and returned with a heart stricken with grief. The minister hesitated to enter the city as if he had murdered his own preceptor, killed a Brāhmaṇa or butchered a cow. He passed the day sitting under a tree and found his opportunity only when it was dusk. He entered Ayodhyā in the dark and slunk into the palace leaving the chariot at the gate. All who heard the news flocked to the entrance of the royal palace to see the chariot. When they recognized the chariot and found the horses restless with their body wasting away as hail in the sun, the citizens, both men and women, were sore distressed as fish when the water runs short."
         ]
     },
     {
@@ -451,7 +463,20 @@
             "has-text-justified"
         ],
         "text": [
-            "In deep agony all the queens questioned him; but no reply came from him, his voice failed him. His ears could not hear, nor could his eyes see; he asked whomsoever he met: \"Tell me, where is the king?\" Seeing his confusion, the maid-servants conducted him to Kausalyā's apartments. Arriving there Sumantra found the king as pale and lustreless as the moon without nectar. Without a seat, couch or ornaments he lay on the ground in a most wretched condition. Heaving a sigh he lamented even as Yayati* when he had fallen from the abode of gods. With his heart bursting with grief every moment, he looked like Sampati† who had dropped from the heavens on account of his wings having been singed. That great lover of Rāma cried \"Rāma, Rāma\" and again \"Rāma, Lakṣmaṇa and Sītā."
+            "In deep agony all the queens questioned him; but no reply came from him, his voice failed him. His ears could not hear, nor could his eyes see; he asked whomsoever he met: \"Tell me, where is the king?\" Seeing his confusion, the maid-servants conducted him to Kausalyā's apartments. Arriving there Sumantra found the king as pale and lustreless as the moon without nectar. Without a seat, couch or ornaments he lay on the ground in a most wretched condition. Heaving a sigh he lamented even as Yayāti* when he had fallen from the abode of gods. With his heart bursting with grief every moment, he looked like Sampati† who had dropped from the heavens on account of his wings having been singed. That great lover of Rāma cried \"Rāma, Rāma\" and again \"Rāma, Lakṣmaṇa and Sītā."
+        ]
+    },
+    {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** As a reward for the many sacrifices performed by him during his life-time King Yayāti ascended to heaven. Indra received him most courteously and encouraged him to speak highly of his own meritorious acts. In this way he unwittingly exhausted all his merits and was hurled back to the mortal plane.",
+            "**†** For the story of Sampātī see the Caupāīs following Dohā 26 et seq in Kiṣkindhā-Kāṇḍa."
         ]
     }
 ]

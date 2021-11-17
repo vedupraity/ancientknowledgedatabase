@@ -717,6 +717,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** The sixteen modes of worship prescribed in Tantric works consist in offering the following:ó(1) Āsana (seat), (2) Pādya (water for washing the feet), (3) Arghya (water for washing the hands), (4) Ācamanīya (water to drink), (5) Snānīya (water for ablution), (6) Gandha (sandal-paste), (7) Vastra (raiment), (8) Puṣpa (flowers), (9) Dhūpa (burning incense), (10) Dīpa (light), (11) Naivedya (food), (12) Ācamanīya (water for rinsing the mouth), (13) Tāmbūla (betel-leaves), (14) Dakṣiṇā (a gift in coins), (15) Pradakṣiṇā (circumambulation), and (16) Nīrājana (waving lights)."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
