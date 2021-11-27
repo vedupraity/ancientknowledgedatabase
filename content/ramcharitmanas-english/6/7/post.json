@@ -103,6 +103,19 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** The ten quarters alongwith their regents are named below:",
+            "| Name of the quarter | Regent | \n | -- | -- | \n | East | Indra (the lord of paradise) | \n | South-East | Agni (the god of fire) | \n | South | Yama (the god who recompenses our deeds after death) | \n | South-West | Nirṛti (the lord of the Rākṣasas of a benevolent type) | \n | West | Varuṇa (the god presiding over the waters) | \n | North-West | Vāyu (the wind-god) | \n | North | Kubera (the god of riches) | \n | North-East | Īśāna (Lord Śiva) | \n | The Upper Region | Brahmā (the Creator) | \n | The Lower Region | Ananta (the serpent-god) |"
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
@@ -142,7 +155,19 @@
             "has-text-justified"
         ],
         "text": [
-            "\"Lord Śiva is His ego, Brahma His reason, the moon His mind and the great Viṣṇu is His faculty of understanding. It is the same Lord Śrī Rāma, manifested in the form of this animate and inanimate creation, who has assumed a human semblance. Pondering thus, hear me, O lord of my life: cease hostility with the Lord and cultivate devotion to the feet of Śrī Rāma (the Hero of Raghu's line) so that my good-luck† may not desert me.\""
+            "\"Lord Śiva is His ego, Brahma His reason, the moon His mind and the great Viṣṇu is His faculty of understanding. It is the same Lord Śrī Rāma, manifested in the form of this animate and inanimate creation, who has assumed a human semblance. Pondering thus, hear me, O lord of my life: cease hostility with the Lord and cultivate devotion to the feet of Śrī Rāma (the Hero of Raghu's line) so that my good-luck* may not desert me.\""
+        ]
+    },
+    {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Good-luck in the eyes of a Hindu lady consists in the longevity of her husband and widowhood is considered as the greatest curse."
         ]
     },
     {
