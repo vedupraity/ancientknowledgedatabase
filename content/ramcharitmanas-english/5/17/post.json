@@ -56,6 +56,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** It is stated in the Rāmāyaṇa of Vālmīki and other scriptures that the bed of the ocean was dug by King Sagara, hence it is known by the name of 'Sāgara.' King Sagara was an ancestor of Śrī Rāma and thus the deity presiding over the ocean is also spoken of by Vibhīṣaṇa as a forefather of the Lord."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",

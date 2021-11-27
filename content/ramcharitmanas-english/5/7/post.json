@@ -106,6 +106,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Obviously the orchard in which Sītā had been confined was open to the fair sex alone. Naturally, therefore, when She heard an unseen voice utter Śrī Rāma's praises, She concluded that it must be some female."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",

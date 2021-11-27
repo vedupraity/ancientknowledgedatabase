@@ -145,6 +145,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Our scriptures tell us that there are forty-nine varieties of winds, each presided over by a distinct god, these gods being collectively known as the Maruts. In the ordinary course it is only at the time of universal dissolution (प्रलय) that all these winds are let loose by the god of destruction."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
