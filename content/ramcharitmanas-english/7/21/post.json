@@ -375,6 +375,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Wealth invariably meets with one of the following three fates: it is either devoted to some charitable purpose, squandered away on luxury and enjoyment or lost. Evidently the first of these is the best use of it. The wealth of the miser who neither devotes it to the service of the needy, nor spends it on his own comforts meets with the third, which is the worst fate."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
@@ -686,7 +698,19 @@
             "has-text-justified"
         ],
         "text": [
-            "Listen, my stupid soul : who has not been saved by adoring Śrī Rāma, the purifier of the fallen? The harlot (Pingala), Ajāmila, the hunter (Vālmīki), the vulture (Jaṭāyu), the elephant and many other wretches have been delivered by Him. Even abhiras (a hilly tribe inhabiting the south-west coast in the ancient times), Yavanas, Kirātas (Bhīlas), Khasas (another hill-tribe found in Assam), Candalas (the pariah) and others, the very embodiments of grievous sin, are hallowed by merely uttering Your name even once : I adore You, O Rāma. Men who repeat to others, listen to (when repeated by others) or chant alone this narrative of Śrī Rāma (the Ornament of Raghu's race) thereby wipe out the sins that are incident to the Kali age as well as the impurities of their soul, and ascend to the Abode of Śrī Rāma without any difficulty. Nay the Chief of the Raghus cures the perversities, caused by the fivefold* ignorance, of those men who treasure up in their heart even a few Caupāis (small four-footed verses) of this narrative that appeal to them as most charming. If there is anyone who is all-beautiful, all-wise and all-merciful and who is fond of the forlorn, it is Rāma and Rāma alone; who else can compare with Him as a disinterested friend and a bestower of eternal bliss? Nowhere can we find a lord like Śrī Rāma, by an iota of whose grace even the dull-witted Tulasīdāsa has found supreme peace."
+            "Listen, my stupid soul : who has not been saved by adoring Śrī Rāma, the purifier of the fallen? The harlot (Piṅgalā), Ajāmila, the hunter (Vālmīki), the vulture (Jaṭāyu), the elephant and many other wretches have been delivered by Him. Even abhiras (a hilly tribe inhabiting the south-west coast in the ancient times), Yavanas, Kirātas (Bhīlas), Khasas (another hill-tribe found in Assam), Cāṇḍālas (the pariah) and others, the very embodiments of grievous sin, are hallowed by merely uttering Your name even once : I adore You, O Rāma. Men who repeat to others, listen to (when repeated by others) or chant alone this narrative of Śrī Rāma (the Ornament of Raghu's race) thereby wipe out the sins that are incident to the Kali age as well as the impurities of their soul, and ascend to the Abode of Śrī Rāma without any difficulty. Nay the Chief of the Raghus cures the perversities, caused by the fivefold* ignorance, of those men who treasure up in their heart even a few Caupāis (small four-footed verses) of this narrative that appeal to them as most charming. If there is anyone who is all-beautiful, all-wise and all-merciful and who is fond of the forlorn, it is Rāma and Rāma alone; who else can compare with Him as a disinterested friend and a bestower of eternal bliss? Nowhere can we find a lord like Śrī Rāma, by an iota of whose grace even the dull-witted Tulasīdāsa has found supreme peace."
+        ]
+    },
+    {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** The fivefold ignorance has been characterized as mistaking (1) the unreal for real, (2) the ephemeral for the eternal, (3) the painful as pleasurable, (4) the impure for pure and (5) that which is worth discarding for something worth acquiring."
         ]
     },
     {
