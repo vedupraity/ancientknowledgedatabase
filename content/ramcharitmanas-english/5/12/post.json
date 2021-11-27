@@ -504,6 +504,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** It should be remembered in this connection that Lord Śiva Himself had taken the form of Hanumān. It was, therefore, easy for Him to recall that thrilling experience."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
