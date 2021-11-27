@@ -241,6 +241,18 @@
         ]
     },
     {
+        "type": "unorderedListGroup",
+        "groupStyle": [
+            "mb-5"
+        ],
+        "textStyle": [
+            "has-text-justified"
+        ],
+        "text": [
+            "***** Although Lakṣmaṇa and Śatrughna were real brothers, the latter bore greater affinity to Bharata and preferred to live with him. Hence he is referred to here as Bharata's younger brother."
+        ]
+    },
+    {
         "type": "textGroup",
         "groupStyle": [
             "has-text-warning-dark",
