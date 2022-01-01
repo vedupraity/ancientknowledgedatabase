@@ -1,0 +1,640 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        श्रीभगवान् ने कहा - हे महाबाहु अर्जुन! और आगे सुनो । चूँकि तुम मेरे प्रिय सखा हो, अतः मैं तुम्हारे लाभ के लिए ऐसा ज्ञान प्रदान करूँगा, जो अभी तक मेरे द्वारा बताये गये ज्ञान से श्रेष्ठ होगा ।
+    en:
+      title: 'Chapter 10 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Supreme Personality of Godhead said: Listen again, O mighty-armed Arjuna. Because you are My dear friend, for your benefit I shall speak to you further, giving knowledge that is better than what I have already explained.
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        न तो देवतागण मेरी उत्पत्ति या ऐश्वर्य को जानते हैं और न महर्षिगण ही जानते हैं, क्योंकि मैं सभी प्रकार से देवताओं और महर्षियों का भी कारणस्वरूप (उद्गम) हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: |-
+        Neither the hosts of demigods nor the great sages know My origin or opulences, for, in every respect, I am the source of the demigods and sages.
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो मुझे अजन्मा, अनादि, समस्त लोकों के स्वामी के रूप में जानता है, मनुष्यों में केवल वही मोहरहित और समस्त पापों से मुक्त होता है ।
+    en:
+      title: 'Chapter 10 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: |-
+        He who knows Me as the unborn, as the beginningless, as the Supreme Lord of all the worlds – he only, undeluded among men, is freed from all sins.
+- id: '4-5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ४-५'
+      subtitle: ''
+      image: ''
+      description: |-
+        बुद्धि, ज्ञान, संशय तथा मोह से मुक्ति, क्षमाभाव, सत्यता, इन्द्रियनिग्रह, मननिग्रह, सुख तथा दुख, जन्म, मृत्यु, भय, अभय, अहिंसा, समता, तुष्टि, तप, दान, यश तथा अपयश - जीवों के ये विविध गुण मेरे ही द्वारा उत्पन्न हैं ।
+    en:
+      title: 'Chapter 10 - Verse 4-5'
+      subtitle: ''
+      image: ''
+      description: |-
+        Intelligence, knowledge, freedom from doubt and delusion, forgiveness, truthfulness, control of the senses, control of the mind, happiness and distress, birth, death, fear, fearlessness, nonviolence, equanimity, satisfaction, austerity, charity, fame and infamy – all these various qualities of living beings are created by Me alone.
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        सप्तर्षिगण तथा उनसे भी पूर्व चार अन्य महर्षि एवं सारे मनु (मानवजाति के पूर्वज) सब मेरे मन से उत्पन्न हैं और विभिन्न लोकों में निवास करने वाले सारे जीव उनसे अवतरित होते हैं ।
+    en:
+      title: 'Chapter 10 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: |-
+        The seven great sages and before them the four other great sages and the Manus [progenitors of mankind] come from Me, born from My mind, and all the living beings populating the various planets descend from them.
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो मेरे इस ऐश्वर्य तथा योग से पूर्णतया आश्वस्त है, वह मेरी अनन्य भक्ति में तत्पर होता है । इसमें तनिक भी सन्देह नहीं है ।
+    en:
+      title: 'Chapter 10 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who is factually convinced of this opulence and mystic power of Mine engages in unalloyed devotional service; of this there is no doubt.
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं समस्त आध्यात्मिक तथा भौतिक जगतों का कारण हूँ, प्रत्येक वस्तु मुझ ही से उद्भूत है । जो बुद्धिमान यह भलीभाँति जानते हैं, वे मेरी प्रेमाभक्ति में लगते हैं तथा हृदय से पूरी तरह मेरी पूजा में तत्पर होते हैं ।
+    en:
+      title: 'Chapter 10 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: |-
+        I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        मेरे शुद्धभक्तों के विचार मुझमें वास करते हैं, उनके जीवन मेरी सेवा में अर्पित रहते हैं और वे एक दूसरे को ज्ञान प्रदान करते तथा मेरे विषय में बातें करते हुए परम सन्तोष तथा आनन्द का अनुभव करते हैं ।
+    en:
+      title: 'Chapter 10 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: |-
+        The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me.
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो प्रेमपूर्वक मेरी सेवा करने में निरन्तर लगे रहते हैं, उन्हें मैं ज्ञान प्रदान करता हूँ, जिसके द्वारा वे मुझ तक आ सकते हैं ।
+    en:
+      title: 'Chapter 10 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: |-
+        To those who are constantly devoted to serving Me with love, I give the understanding by which they can come to Me.
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं उन पर विशेष कृपा करने के हेतु उनके हृदयों में वास करते हुए ज्ञान के प्रकाशमान दीपक के द्वारा अज्ञानजन्य अंधकार को दूर करता हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: |-
+        To show them special mercy, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance.
+- id: '12-13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १२-१३'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा - आप परम भगवान्, परमधाम, परमपवित्र, परमसत्य हैं । आप नित्य, दिव्य, आदि पुरुष, अजन्मा तथा महानतम हैं । नारद, असित, देवल तथा व्यास जैसे ऋषि आपके इस सत्य की पुष्टि करते हैं और अब आप स्वयं भी मुझसे प्रकट कह रहे हैं ।
+    en:
+      title: 'Chapter 10 - Verse 12-13'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna said: You are the Supreme Personality of Godhead, the ultimate abode, the purest, the Absolute Truth. You are the eternal, transcendental, original person, the unborn, the greatest. All the great sages such as Nārada, Asita, Devala and Vyāsa confirm this truth about You, and now You Yourself are declaring it to me.
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे कृष्ण! आपने मुझसे जो कुछ कहा है, उसे मैं पूर्णतया सत्य मानता हूँ । हे प्रभु! न तो देवतागण, न असुरगण ही आपके स्वरूप को समझ सकते हैं ।
+    en:
+      title: 'Chapter 10 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Kṛṣṇa, I totally accept as truth all that You have told me. Neither the demigods nor the demons, O Lord, can understand Your personality.
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे परमपुरुष, हे सबके उद्गम, हे समस्त प्राणियों के स्वामी, हे देवों के देव, हे ब्रह्माण्ड के प्रभु! निस्सन्देह एकमात्र आप ही अपने को अपनी अन्तरंगाशक्ति से जानने वाले हैं ।
+    en:
+      title: 'Chapter 10 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: |-
+        Indeed, You alone know Yourself by Your own internal potency, O Supreme Person, origin of all, Lord of all beings, God of gods, Lord of the universe!
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        कृपा करके विस्तारपूर्वक मुझे अपने उन दैवी ऐश्वर्यों को बतायें, जिनके द्वारा आप इन समस्त लोकों में व्याप्त हैं ।
+    en:
+      title: 'Chapter 10 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: |-
+        Please tell me in detail of Your divine opulences by which You pervade all these worlds.
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे कृष्ण, हे परम योगी! मैं किस तरह आपका निरन्तर चिन्तन करूँ और आपको कैसे जानूँ ? हे भगवान्! आपका स्मरण किन-किन रूपों में किया जाय ?
+    en:
+      title: 'Chapter 10 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Kṛṣṇa, O supreme mystic, how shall I constantly think of You, and how shall I know You? In what various forms are You to be remembered, O Supreme Personality of Godhead?
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे जनार्दन! आप पुनः विस्तार से अपने ऐश्वर्य तथा योगशक्ति का वर्णन करें । मैं आपके विषय में सुनकर कभी तृप्त नहीं होता हूँ, क्योंकि जितना ही आपके विषय में सुनता हूँ, उतना ही आपके शब्द-अमृत को चखना चाहता हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Janārdana, again please describe in detail the mystic power of Your opulences. I am never satiated in hearing about You, for the more I hear the more I want to taste the nectar of Your words.
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        श्रीभगवान् ने कहा - हाँ, अब मैं तुमसे अपने मुख्य-मुख्य वैभवयुक्त रूपों का वर्णन करूँगा, क्योंकि हे अर्जुन! मेरा ऐश्वर्य असीम है ।
+    en:
+      title: 'Chapter 10 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Supreme Personality of Godhead said: Yes, I will tell you of My splendorous manifestations, but only of those which are prominent, O Arjuna, for My opulence is limitless.
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे अर्जुन! मैं समस्त जीवों के हृदयों में स्थित परमात्मा हूँ । मैं ही समस्त जीवों का आदि, मध्य तथा अन्त हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: |-
+        I am the Supersoul, O Arjuna, seated in the hearts of all living entities. I am the beginning, the middle and the end of all beings.
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २१'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं आदित्यों में विष्णु, प्रकाशों में तेजस्वी सूर्य, मरुतों में मरीचि तथा नक्षत्रों में चन्द्रमा हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 21'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, of the Maruts I am Marīci, and among the stars I am the moon.
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २२'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं वेदों में सामवेद हूँ, देवों में स्वर्ग का राजा इन्द्र हूँ, इन्द्रियों में मन हूँ, तथा समस्त जीवों में जीवनीशक्ति (चेतना)
+    en:
+      title: 'Chapter 10 - Verse 22'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the Vedas I am the Sāma Veda; of the demigods I am Indra, the king of heaven; of the senses I am the mind; and in living beings I am the living force [consciousness].
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २३'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं समस्त रुद्रों में शिव हूँ, यक्षों तथा राक्षसों में सम्पत्ति का देवता (कुबेर) हूँ, वसुओं में अग्नि हूँ और समस्त पर्वतों में मेरु हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 23'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of all the Rudras I am Lord Śiva, of the Yakṣas and Rākṣasas I am the Lord of wealth [Kuvera], of the Vasus I am fire [Agni], and of mountains I am Meru.
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २४'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे अर्जुन! मुझे समस्त पुरोहितों में मुख्य पुरोहित बृहस्पति जानो । मैं ही समस्त सेनानायकों में कार्तिकेय हूँ और समस्त जलाशयों में समुद्र हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 24'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of priests, O Arjuna, know Me to be the chief, Bṛhaspati. Of generals I am Kārttikeya, and of bodies of water I am the ocean.
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २५'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं महर्षियों में भृगु हूँ, वाणी में दिव्य ओंकार हूँ, समस्त यज्ञों में पवित्र नाम का कीर्तन (जप) तथा समस्त अचलों में हिमालय हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 25'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the great sages I am Bhṛgu; of vibrations I am the transcendental oṁ. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himālayas.
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २६'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं समस्त वृक्षों में अश्वत्थ वृक्ष हूँ और देवर्षियों में नारद हूँ । मैं गन्धर्वों में चित्ररथ हूँ और सिद्ध पुरुषों में कपिल मुनि हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 26'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of all trees I am the banyan tree, and of the sages among the demigods I am Nārada. Of the Gandharvas I am Citraratha, and among perfected beings I am the sage Kapila.
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २७'
+      subtitle: ''
+      image: ''
+      description: |-
+        घोड़ों में मुझे उच्चैःश्रवा जानो, जो अमृत के लिए समुद्र मन्थन के समय उत्पन्न हुआ था । गजराजों में मैं ऐरावत हूँ तथा मनुष्यों में राजा हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 27'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of horses know Me to be Uccaiḥśravā, produced during the churning of the ocean for nectar. Of lordly elephants I am Airāvata, and among men I am the monarch.
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २८'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं हथियारों में वज्र हूँ, गायों में सुरभि, सन्तति उत्पत्ति के कारणों में प्रेम का देवता कामदेव तथा सपों में वासुकि हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 28'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of weapons I am the thunderbolt; among cows I am the surabhi. Of causes for procreation I am Kandarpa, the god of love, and of serpents I am Vāsuki.
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक २९'
+      subtitle: ''
+      image: ''
+      description: |-
+        अनेक फणों वाले नागों में मैं अनन्त हूँ और जलचरों में वरुणदेव हूँ । मैं पितरों में अर्यमा हूँ तथा नियमों के निर्वाहकों में मैं मृत्युराज यम हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 29'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the many-hooded Nāgas I am Ananta, and among the aquatics I am the demigod Varuṇa. Of departed ancestors I am Aryamā, and among the dispensers of law I am Yama, the lord of death.
+- id: '30'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३०'
+      subtitle: ''
+      image: ''
+      description: |-
+        दैत्यों में मैं भक्तराज प्रह्लाद हूँ, दमन करने वालों में काल हूँ, पशुओं में सिंह हूँ, तथा पक्षियों में गरुड़ हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 30'
+      subtitle: ''
+      image: ''
+      description: |-
+        Among the Daitya demons I am the devoted Prahlāda, among subduers I am time, among beasts I am the lion, and among birds I am Garuḍa.
+- id: '31'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३१'
+      subtitle: ''
+      image: ''
+      description: |-
+        समस्त पवित्र करने वालों में मैं वायु हूँ, शस्त्रधारियों में राम, मछलियों में मगर तथा नदियों में गंगा हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 31'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of purifiers I am the wind, of the wielders of weapons I am Rāma, of fishes I am the shark, and of flowing rivers I am the Ganges.
+- id: '32'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३२'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे अर्जुन! मैं समस्त सृष्टियों का आदि, मध्य और अन्त हूँ । मैं समस्त विद्याओं में अध्यात्म विद्या हूँ और तर्कशास्त्रियों में मैं निर्णायक सत्य हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 32'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the self, and among logicians I am the conclusive truth.
+- id: '33'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३३'
+      subtitle: ''
+      image: ''
+      description: |-
+        अक्षरों में मैं अकार हूँ और समासों में द्वन्द्व समास हूँ । मैं शाश्वत काल भी हूँ और स्रष्टाओं में ब्रह्मा हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 33'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of letters I am the letter A, and among compound words I am the dual compound. I am also inexhaustible time, and of creators I am Brahmā.
+- id: '34'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३४'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं सर्वभक्षी मृत्यु हूँ और मैं ही आगे होने वालों को उत्पन्न करने वाला हूँ । स्त्रियों में मैं कीर्ति, श्री, वाक्, स्मृति, मेघा, धृति तथा क्षमा हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 34'
+      subtitle: ''
+      image: ''
+      description: |-
+        I am all-devouring death, and I am the generating principle of all that is yet to be. Among women I am fame, fortune, fine speech, memory, intelligence, steadfastness and patience.
+- id: '35'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३५'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं सामवेद के गीतों में बृहत्साम हूँ और छन्दों में गायत्री हूँ । समस्त महीनों में मैं मार्गशीर्ष (अगहन) तथा समस्त ऋतुओं में फूल खिलाने वाली वसन्त ऋतु हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 35'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the hymns in the Sāma Veda I am the Bṛhat-sāma, and of poetry I am the Gāyatrī. Of months I am Mārgaśīrṣa [November-December], and of seasons I am flower-bearing spring.
+- id: '36'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३६'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं छलियों में जुआ हूँ और तेजस्वियों में तेज हूँ । मैं विजय हूँ, साहस हूँ और बलवानों का बल हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 36'
+      subtitle: ''
+      image: ''
+      description: |-
+        I am also the gambling of cheats, and of the splendid I am the splendor. I am victory, I am adventure, and I am the strength of the strong.
+- id: '37'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३७'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं वृष्णिवंशियों में वासुदेव और पाण्डवों में अर्जुन हूँ । मैं समस्त मुनियों में व्यास तथा महान विचारकों में उशना हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 37'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of the descendants of Vṛṣṇi I am Vāsudeva, and of the Pāṇḍavas I am Arjuna. Of the sages I am Vyāsa, and among great thinkers I am Uśanā.
+- id: '38'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३८'
+      subtitle: ''
+      image: ''
+      description: |-
+        अराजकता को दमन करने वाले समस्त साधनों में से मैं दण्ड हूँ और जो विजय के आकांक्षी हैं उनकी मैं नीति हूँ । रहस्यों में मैं मौन हूँ और बुद्धिमानों में ज्ञान हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 38'
+      subtitle: ''
+      image: ''
+      description: |-
+        Among all means of suppressing lawlessness I am punishment, and of those who seek victory I am morality. Of secret things I am silence, and of the wise I am the wisdom.
+- id: '39'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ३९'
+      subtitle: ''
+      image: ''
+      description: |-
+        यही नहीं, हे अर्जुन! मैं समस्त सृष्टि का जनक बीज हूँ । ऐसा चर तथा अचर कोई भी प्राणी नहीं है, जो मेरे बिना रह सके ।
+    en:
+      title: 'Chapter 10 - Verse 39'
+      subtitle: ''
+      image: ''
+      description: |-
+        Furthermore, O Arjuna, I am the generating seed of all existences. There is no being – moving or nonmoving – that can exist without Me.
+- id: '40'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ४०'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे परन्तप! मेरी दैवी विभूतियों का अन्त नहीं है । मैंने तुमसे जो कुछ कहा, वह तो मेरी अनन्त विभूतियों का संकेत मात्र है ।
+    en:
+      title: 'Chapter 10 - Verse 40'
+      subtitle: ''
+      image: ''
+      description: |-
+        O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences.
+- id: '41'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ४१'
+      subtitle: ''
+      image: ''
+      description: |-
+        तुम जान लो कि सारा ऐश्वर्य, सौन्दर्य तथा तेजस्वी सृष्टियाँ मेरे तेज के एक स्फुलिंग मात्र से उद्भूत हैं ।
+    en:
+      title: 'Chapter 10 - Verse 41'
+      subtitle: ''
+      image: ''
+      description: |-
+        Know that all opulent, beautiful and glorious creations spring from but a spark of My splendor.
+- id: '42'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक ४२'
+      subtitle: ''
+      image: ''
+      description: |-
+        किन्तु हे अर्जुन! इस सारे विशद ज्ञान की आवश्यकता क्या है ? मैं तो अपने एक अंश मात्र से सम्पूर्ण ब्रह्माण्ड में व्याप्त होकर इसको धारण करता हूँ ।
+    en:
+      title: 'Chapter 10 - Verse 42'
+      subtitle: ''
+      image: ''
+      description: |-
+        But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe.

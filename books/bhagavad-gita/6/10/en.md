@@ -1,0 +1,35 @@
+#### योगी युञ्जीत सततमात्मानं रहसि स्थित: ।
+#### एकाकी यतचित्तात्मा निराशीरपरिग्रह: ॥ १० ॥
+
+#### yogī yuñjīta satatam
+#### ātmānaṁ rahasi sthitaḥ
+#### ekākī yata-cittātmā
+#### nirāśīr aparigrahaḥ
+
+### Synonyms
+
+**yogī** — a transcendentalist; **yuñjīta** — must concentrate in Kṛṣṇa consciousness; **satatam** — constantly; **ātmānam** — himself (by body, mind and self); **rahasi** — in a secluded place; **sthitaḥ** — being situated; **ekākī** — alone; **yata**-**citta**-**ātmā** — always careful in mind; **nirāśīḥ** — without being attracted by anything else; **aparigrahaḥ** — free from the feeling of possessiveness.
+
+### Translation
+
+A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness.
+
+### Purport
+
+Kṛṣṇa is realized in different degrees as Brahman, Paramātmā and the Supreme Personality of Godhead. Kṛṣṇa consciousness means, concisely, to be always engaged in the transcendental loving service of the Lord. But those who are attached to the impersonal Brahman or the localized Supersoul are also partially Kṛṣṇa conscious, because the impersonal Brahman is the spiritual ray of Kṛṣṇa and the Supersoul is the all-pervading partial expansion of Kṛṣṇa. Thus the impersonalist and the meditator are also indirectly Kṛṣṇa conscious. A directly Kṛṣṇa conscious person is the topmost transcendentalist because such a devotee knows what is meant by Brahman and Paramātmā. His knowledge of the Absolute Truth is perfect, whereas the impersonalist and the meditative yogī are imperfectly Kṛṣṇa conscious.
+
+Nevertheless, all of these are instructed herewith to be constantly engaged in their particular pursuits so that they may come to the highest perfection sooner or later. The first business of a transcendentalist is to keep the mind always on Kṛṣṇa. One should always think of Kṛṣṇa and not forget Him even for a moment. Concentration of the mind on the Supreme is called samādhi, or trance. In order to concentrate the mind, one should always remain in seclusion and avoid disturbance by external objects. He should be very careful to accept favorable and reject unfavorable conditions that affect his realization. And, in perfect determination, he should not hanker after unnecessary material things that entangle him by feelings of possessiveness.
+
+All these perfections and precautions are perfectly executed when one is directly in Kṛṣṇa consciousness, because direct Kṛṣṇa consciousness means self-abnegation, wherein there is very little chance for material possessiveness. Śrīla Rūpa Gosvāmī characterizes Kṛṣṇa consciousness in this way:
+
+#### anāsaktasya viṣayān, yathārham upayuñjataḥ
+#### nirbandhaḥ kṛṣṇa-sambandhe, yuktaṁ vairāgyam ucyate
+
+#### prāpañcikatayā buddhyā
+#### hari-sambandhi-vastunaḥ
+#### mumukṣubhiḥ parityāgo
+#### vairāgyaṁ phalgu kathyate
+
+“When one is not attached to anything, but at the same time accepts everything in relation to Kṛṣṇa, one is rightly situated above possessiveness. On the other hand, one who rejects everything without knowledge of its relationship to Kṛṣṇa is not as complete in his renunciation.” (Bhakti-rasāmṛta-sindhu 1.2.255–256)
+
+A Kṛṣṇa conscious person well knows that everything belongs to Kṛṣṇa, and thus he is always free from feelings of personal possession. As such, he has no hankering for anything on his own personal account. He knows how to accept things in favor of Kṛṣṇa consciousness and how to reject things unfavorable to Kṛṣṇa consciousness. He is always aloof from material things because he is always transcendental, and he is always alone, having nothing to do with persons not in Kṛṣṇa consciousness. Therefore a person in Kṛṣṇa consciousness is the perfect yogī.

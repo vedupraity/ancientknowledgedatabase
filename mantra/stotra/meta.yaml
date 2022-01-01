@@ -1,0 +1,28 @@
+- id: 'hari-stotram'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री हरि स्तोत्रं'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Śrī Hari Stotraṃ'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'shiv-tandav-stotram'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'शिव तांडव स्तोत्रं'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Śiva Tāṃḍava Stotraṃ'
+      subtitle: ''
+      image: ''
+      description: ''

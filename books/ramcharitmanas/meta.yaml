@@ -1,0 +1,126 @@
+- id: 'a'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'निवेदन'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Publisher''s Note'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'b'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'गोस्वामी तुलसीदासजी की संक्षिप्त जीवनी'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Procedure of Reciting the Rāmacaritamānasa'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '1'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '१ - बालकाण्ड'
+      subtitle: 'बालकाण्ड में प्रभु राम के जन्म से लेकर राम-विवाह तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '1 - Baal Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '2'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '२ - अयोध्याकाण्ड'
+      subtitle: 'अयोध्याकांड में श्रीराम वनगमन से लेकर श्रीराम-भरत मिलाप तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '2 - Ayodhyā Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '3'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '३ - अरण्यकाण्ड'
+      subtitle: 'अरण्यकाण्ड में शूर्पणखा वध से सीता हरण प्रकरण तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '3 - Aranya Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '4'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '४ - किष्किन्धाकाण्ड'
+      subtitle: 'किष्किंधाकाण्ड में हनुमान मिलन से बालि वध व सीता खोज की तैयारी तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '4 - Kishkindha Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '5'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '५ - सुन्दरकाण्ड'
+      subtitle: 'सुंदरकाण्ड में हनुमान का लंका प्रस्थान, लंका दहन से लंका से वापसी तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '5 - Sundar Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '6'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '६ - लंकाकाणड'
+      subtitle: 'लंकाकाण्ड में पुल निर्माण से राम-रावण युद्ध व अयोध्या वापसी तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '6 - Laṅkā Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '7'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: '७ - उत्तरकाण्ड'
+      subtitle: 'उत्तरकाण्ड में राज्याभिषेक से काकभुशुण्डि तक के घटनाक्रम आते हैं ।'
+      image: ''
+      description: ''
+    en:
+      title: '7 - Uttar Kaanda'
+      subtitle: ''
+      image: ''
+      description: ''

@@ -1,0 +1,14 @@
+- id: 'stotra'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'स्तोत्र'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Stotra'
+      subtitle: ''
+      image: ''
+      description: ''

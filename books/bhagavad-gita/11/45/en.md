@@ -1,0 +1,21 @@
+#### अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा
+#### भयेन च प्रव्यथितं मनो मे ।
+#### तदेव मे दर्शय देव रूपं
+#### प्रसीद देवेश जगन्निवास ॥ ४५ ॥
+
+#### adṛṣṭa-pūrvaṁ hṛṣito ’smi dṛṣṭvā
+#### bhayena ca pravyathitaṁ mano me
+#### tad eva me darśaya deva rūpaṁ
+#### prasīda deveśa jagan-nivāsa
+
+### Synonyms
+
+**adṛṣṭa**-**pūrvam** — never seen before; **hṛṣitaḥ** — gladdened; **asmi** — I am; **dṛṣṭvā** — by seeing; **bhayena** — out of fear; **ca** — also; **pravyathitam** — perturbed; **manaḥ** — mind; **me** — my; **tat** — that; **eva** — certainly; **me** — unto me; **darśaya** — show; **deva** — O Lord; **rūpam** — the form; **prasīda** — just be gracious; **deva**-**īśa** — O Lord of lords; **jagat**-**nivāsa** — O refuge of the universe.
+
+### Translation
+
+After seeing this universal form, which I have never seen before, I am gladdened, but at the same time my mind is disturbed with fear. Therefore please bestow Your grace upon me and reveal again Your form as the Personality of Godhead, O Lord of lords, O abode of the universe.
+
+### Purport
+
+Arjuna is always in confidence with Kṛṣṇa because he is a very dear friend, and as a dear friend is gladdened by his friend’s opulence, Arjuna is very joyful to see that his friend Kṛṣṇa is the Supreme Personality of Godhead and can show such a wonderful universal form. But at the same time, after seeing that universal form, he is afraid that he has committed so many offenses to Kṛṣṇa out of his unalloyed friendship. Thus his mind is disturbed out of fear, although he had no reason to fear. Arjuna therefore is asking Kṛṣṇa to show His Nārāyaṇa form, because He can assume any form. This universal form is material and temporary, as the material world is temporary. But in the Vaikuṇṭha planets He has His transcendental form with four hands as Nārāyaṇa. There are innumerable planets in the spiritual sky, and in each of them Kṛṣṇa is present by His plenary manifestations of different names. Thus Arjuna desired to see one of the forms manifest in the Vaikuṇṭha planets. Of course in each Vaikuṇṭha planet the form of Nārāyaṇa is four-handed, but the four hands hold different arrangements of symbols – the conchshell, mace, lotus and disc. According to the different hands these four things are held in, the Nārāyaṇas are variously named. All of these forms are one with Kṛṣṇa; therefore Arjuna requests to see His four-handed feature.

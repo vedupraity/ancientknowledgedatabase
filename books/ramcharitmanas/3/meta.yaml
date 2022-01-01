@@ -1,0 +1,224 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १'
+      subtitle: 'मङ्गलाचरण'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 1'
+      subtitle: 'Invocations'
+      image: ''
+      description: ''
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २'
+      subtitle: 'जयन्त की कुटिलता और फल प्राप्ति'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 2'
+      subtitle: 'Jayanta''s mischief and punishment'
+      image: ''
+      description: ''
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३'
+      subtitle: 'अत्रि-मिलन एवं स्तुति'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 3'
+      subtitle: 'Meeting with the sage Atri and his hymn of praise to Śrī Rāma'
+      image: ''
+      description: ''
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४'
+      subtitle: 'श्रीसीता-अनसूया-मिलन और श्रीसीताजी को अनसूयाजी का पातिव्रत धर्म कहना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 4'
+      subtitle: 'Sītā''s meeting with Anasūyā (Atri''s wife) and the latter''s discourse on the duties of a devoted wife'
+      image: ''
+      description: ''
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५'
+      subtitle: 'श्रीरामजी का आगे प्रस्थान, विराध-वध और शरभङ्ग-प्रसङ्ग'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 5'
+      subtitle: 'Śrī Rāma proceeds further and kill Virādha; the episode of the sage Śarabhaṅga'
+      image: ''
+      description: ''
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ६'
+      subtitle: 'राक्षस-वध की प्रतिज्ञा करना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 6'
+      subtitle: 'Śrī Rāma takes a vow to kill the demons'
+      image: ''
+      description: ''
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ७'
+      subtitle: 'सुतीक्ष्णजी का प्रेम, अगस्त्य-मिलन, अगस्त्य-संवाद, राम का दण्डकवन-प्रवेश और जटायु-मिलन, पञ्चवटी-निवास और श्रीराम-लक्ष्मण-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 7'
+      subtitle: 'Sutīkṣṇa''s love and Śrī Rāma''s meeting with the sage Agastya; dialogue with Agastya; Śrī Rāma''s entry into the Daṇḍaka forest and His meeting with Jaṭāyu'
+      image: ''
+      description: ''
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ८'
+      subtitle: 'शूर्पणखा की कथा, शूर्पणखा का खर-दूषण के पास जाना और खर-दूषणादि का वध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 8'
+      subtitle: 'The story of Śūrpaṇakhā; her approaching Khara, Dūṣaṇa and Triśirā for redress and their subsequent death at Śrī Rāma''s hands'
+      image: ''
+      description: ''
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ९'
+      subtitle: 'शूर्पणखा का रावण के निकट जाना, श्रीसीताजी का अग्नि-प्रवेश और माया-सीता'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 9'
+      subtitle: 'Śūrpaṇakhā approaches Rāvaṇa; Sītā enters into the fire leaving Her shadow behind'
+      image: ''
+      description: ''
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १०'
+      subtitle: 'मारीच प्रसङ्ग और स्वर्णमृग रूप में मारीच का मारा जाना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 10'
+      subtitle: 'The episode of Mārīca and how he was killed in the form of a gold deer'
+      image: ''
+      description: ''
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ११'
+      subtitle: 'श्रीसीता हरण और श्रीसीता-विलाप'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 11'
+      subtitle: 'Sītā''s abduction and Her wail'
+      image: ''
+      description: ''
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १२'
+      subtitle: 'जटायु-रावण युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 12'
+      subtitle: 'The combat of Jaṭāyu with Rāvaṇa'
+      image: ''
+      description: ''
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १३'
+      subtitle: 'श्रीरामजी का विलाप, जटायु का प्रसङ्ग, कबन्ध-उद्धार'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 13'
+      subtitle: 'Śrī Rāma''s lament; His meeting with Jaṭāyu'
+      image: ''
+      description: ''
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १४'
+      subtitle: 'शबरी पर कृपा, नवधा भक्ति-उपदेश और पम्पासर की ओर प्रस्थान'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 14'
+      subtitle: 'Grace on Śabarī; a discourse on the nine forms of Devotion and departure for the Pampā lake'
+      image: ''
+      description: ''
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १५'
+      subtitle: 'नारद-राम-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 15'
+      subtitle: 'A description of the spring; Nārada''s meeting with Śrī Rāma'
+      image: ''
+      description: ''
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १६'
+      subtitle: 'संतों के लक्षण और सत्सङ्ग-भजन के लिये प्रेरणा'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 16'
+      subtitle: 'The glory of hearing the praises of Śrī Rāma and an exhortation to cultivate fellowship with saints and practise adoration'
+      image: ''
+      description: ''

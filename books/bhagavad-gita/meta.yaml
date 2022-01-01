@@ -1,0 +1,326 @@
+- id: 'a'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'पृष्ठभूमि'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'The background'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'b'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'आमुख'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Preface'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'c'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भूमिका'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Introduction'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'd'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'गुरु परंपरा'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'The Disciplic Succession'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '1'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १ - अर्जुनविषादयोग'
+      subtitle: 'कुरुक्षेत्र के युद्धस्थल में सैन्यनिरीक्षण'
+      image: ''
+      description: |-
+        शक्तिशाली योद्धा अर्जुन युद्धाभिमुख विपक्षी सेनाओं में अपने निकट सम्बन्धियों, शिक्षकों तथा मित्रों को युद्ध में अपना अपना जीवन उत्सर्ग करने के लिए उद्यत देखता है । वह शोक तथा करुणा से अभिभूत होकर अपनी शक्ति खो देता है, उसका मन मोहग्रस्त हो जाता है और वह युद्ध करने के अपने संकल्प को त्याग देता है ।
+    en:
+      title: 'Chapter 1 - Arjuna Vishada Yoga'
+      subtitle: 'Observing the Armies on the Battlefield of Kuruksetra'
+      image: ''
+      description: ''
+- id: '2'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय २ - सांख्ययोग'
+      subtitle: 'गीता का सार'
+      image: ''
+      description: |-
+        अर्जुन शिष्य रूप में कृष्ण की शरण ग्रहण करता है और कृष्ण उससे नश्वर भौतिक शरीर तथा नित्य आत्मा के मूलभूत अन्तर की व्याख्या करते हुए अपना उपदेश प्रारम्भ करते हैं । भगवान् उसे देहान्तरण की प्रक्रिया, परमेश्वर की निष्काम सेवा तथा स्वरूपसिद्ध व्यक्ति के गुणों से अवगत कराते हैं ।
+    en:
+      title: 'Chapter 2 - Sankhya Yoga'
+      subtitle: 'Contents of the Gita Summarized'
+      image: ''
+      description: ''
+- id: '3'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ३ - कर्मयोग'
+      subtitle: 'कर्मयोग'
+      image: ''
+      description: |-
+        इस भौतिक जगत में हर व्यक्ति को किसी न किसी प्रकार के कर्म में प्रवृत्त होना पड़ता है । किन्तु ये ही कर्म उसे इस जगत से बाँधते या मुक्त कराते हैं । निष्काम भाव से परमेश्वर की प्रसन्नता के लिए कर्म करने से मनुष्य कर्म के नियम से छूट सकता है और आत्मा तथा परमेश्वर विषयक दिव्य ज्ञान प्राप्त कर सकता है ।
+    en:
+      title: 'Chapter 3 - Karma Yoga'
+      subtitle: 'Karma-yoga'
+      image: ''
+      description: ''
+- id: '4'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ४ - ज्ञानकर्मसन्यासयोग'
+      subtitle: 'दिव्य ज्ञान'
+      image: ''
+      description: |-
+        आत्मा, ईश्वर तथा इन दोनों से सम्बन्धित दिव्य ज्ञान शुद्ध करने, तथा मोक्षा प्रदान करने वाला है । ऐसा ज्ञान कर्मयोग का फल है । भगवान् गीता के प्राचीन इतिहास, इस भौतिक जगत में बारम्बार अपने अवतरण की महत्ता तथा गुरु के पास जाने की आवश्यकता का उपदेश देते हैं ।
+    en:
+      title: 'Chapter 4 - Gyana Karma Sanyasa Yoga'
+      subtitle: 'Transcendental Knowledge'
+      image: ''
+      description: ''
+- id: '5'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ५ - कर्मसन्यासयोग'
+      subtitle: 'कर्मयोग-कृष्णभावनाभावित कर्म'
+      image: ''
+      description: |-
+        ज्ञानी पुरुष दिव्य ज्ञान की अग्नि से शुद्ध होकर बाह्यतः सारे कर्म करता है, किन्तु अन्तर में उन कर्मों के फल का परित्याग करता हुआ शान्ति, विरक्ति, सहिष्णुता, आध्यात्मिक दृष्टि तथा आनन्द की प्राप्ति करता है ।
+    en:
+      title: 'Chapter 5 - Karma Sanyasa Yoga'
+      subtitle: 'Karma-yoga-Action in Krsna Consciousness'
+      image: ''
+      description: ''
+- id: '6'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ६ - ध्यानयोग'
+      subtitle: 'ध्यानयोग'
+      image: ''
+      description: |-
+        अष्टांगयोग मन तथा इन्द्रियों को नियन्त्रित करता है और ध्यान को परमात्मा पर केन्द्रित करता है । इस विधि की परिणति समाधि में होती है ।
+    en:
+      title: 'Chapter 6 - Dhyana Yoga'
+      subtitle: 'Sankhya-yoga'
+      image: ''
+      description: ''
+- id: '7'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ७ - ज्ञानविज्ञानयोग'
+      subtitle: 'भगवद्ज्ञान'
+      image: ''
+      description: |-
+        भगवान् कृष्ण समस्त कारणों के कारण, परम सत्य हैं । महात्मागण भक्तिपूर्वक उनकी शरण ग्रहण करते हैं, किन्तु अपवित्र जन पूजा के अन्य विषयों की ओर अपने मन को मोड़ देते हैं ।
+    en:
+      title: 'Chapter 7 - Gyaan Vigyana Yoga'
+      subtitle: 'Knowledge of the Absolute'
+      image: ''
+      description: ''
+- id: '8'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ८ - अक्षरब्रह्मयोग'
+      subtitle: 'भगवत्प्राप्ति'
+      image: ''
+      description: |-
+        भक्तिपूर्वक भगवान् कृष्ण का आजीवन स्मरण करते रहने से और विशेषतया मृत्यु के समय ऐसा करने से मनुष्य परम धाम को प्राप्त कर सकता है ।
+    en:
+      title: 'Chapter 8 - Akshara Brahma Yoga'
+      subtitle: 'Attaining the Supreme'
+      image: ''
+      description: ''
+- id: '9'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ९ - राजविद्याराजगुह्ययोग'
+      subtitle: 'परम गुह्य ज्ञान'
+      image: ''
+      description: |-
+        भगवान् श्रीकृष्ण परमेश्वर हैं और पूज्य हैं । भक्ति के माध्यम से जीव उनसे शाश्वत सम्बद्ध है । शुद्ध भक्ति को जागृत करके मनुष्य कृष्ण के धाम को वापस जाता है ।
+    en:
+      title: 'Chapter 9 - Raja Vidya rajguhy Yoga'
+      subtitle: 'The Most Confidential Knowledge'
+      image: ''
+      description: ''
+- id: '10'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १० - विभूतियोग'
+      subtitle: 'श्रीभगवान् का ऐश्वर्य'
+      image: ''
+      description: |-
+        बल, सौन्दर्य, ऐश्वर्य या उत्कृष्टता प्रदर्शित करने वाली समस्त अद्भुत घटनाएँ, चाहे वे इस लोक में हों या आध्यात्मिक जगत में, कृष्ण की दैवी शक्तियों एवं ऐश्वर्यों की आंशिक अभिव्यक्तियाँ हैं । समस्त कारणों के कारण स्वरूप तथा सर्वस्वरूप कृष्ण समस्त जीवों के परम पूजनीय हैं ।
+    en:
+      title: 'Chapter 10 - Vibhooti Yoga'
+      subtitle: 'The Opulence of the Absolute'
+      image: ''
+      description: ''
+- id: '11'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय ११ - विश्वरूपदर्शनयोग'
+      subtitle: 'विराट रूप'
+      image: ''
+      description: |-
+        भगवान् कृष्ण अर्जुन को दिव्य दृष्टि प्रदान करते हैं और विश्व रूप में अपना अद्भुत असीम रूप प्रकट करते हैं । इस प्रकार वे अपनी दिव्यता स्थापित करते हैं । कृष्ण बतलाते हैं कि उनका सर्व आकर्षक मानव रूप ही ईश्वर का आदि रूप है । मनुष्य शुद्ध भक्ति के द्वारा ही इस रूप का दर्शन कर सकता है ।
+    en:
+      title: 'Chapter 11 - Vishwaroopa Darshana Yoga'
+      subtitle: 'The Universal Form'
+      image: ''
+      description: ''
+- id: '12'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १२ - भक्तियोग'
+      subtitle: 'भक्तियोग'
+      image: ''
+      description: |-
+        कृष्ण के शुद्ध प्रेम को प्राप्त करने का सबसे सुगम एवं सर्वोच्च साधन भक्तियोग है । इस परम पथ का अनुसरण करने वालों में दिव्य गुण उत्पन्न होते हैं ।
+    en:
+      title: 'Chapter 12 - Bhakti Yoga'
+      subtitle: 'Devotional Service'
+      image: ''
+      description: ''
+- id: '13'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १३ - क्षेत्र-क्षेत्रज्ञविभागयोग'
+      subtitle: 'प्रकृति, पुरुष तथा चेतना'
+      image: ''
+      description: |-
+        जो व्यक्ति शरीर, आत्मा तथा इनसे भी परे परमात्मा के अन्तर को समझ लेता है, उसे इस भौतिक जगत से मोक्ष प्राप्त होता है ।
+    en:
+      title: 'Chapter 13 - Ksetra Ksetrajna Vibhaaga Yoga'
+      subtitle: 'Nature, the Enjoyer, and Consciousness'
+      image: ''
+      description: ''
+- id: '14'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १४ - गुणत्रयविभागयोग'
+      subtitle: 'प्रकृति के तीन गुण'
+      image: ''
+      description: |-
+        सारे देहधारी जीव भौतिक प्रकृति के तीन गुणों के अधीन हैं - ये हैं सतोगुण, रजोगुण तथा तमोगुण । कृष्ण बतलाते हैं कि ये गुण क्या हैं ? ये हम पर किस प्रकार क्रिया करते हैं ? कोई इनको कैसे पार कर सकता है ? और दिव्य पद को प्राप्त व्यक्ति के कौन-कौन से लक्षण हैं ?
+    en:
+      title: 'Chapter 14 - Gunatraya Vibhaga Yoga'
+      subtitle: 'The Three Modes of Material Nature'
+      image: ''
+      description: ''
+- id: '15'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १५ - पुरुषोत्तमयोग'
+      subtitle: 'पुरुषोत्तम योग'
+      image: ''
+      description: |-
+        वैदिक ज्ञान का चरम लक्ष्य अपने आपको भौतिक जगत के पाश से विलग करना तथा कृष्ण को भगवान् मानना है । जो कृष्ण के परम स्वरूप को समझ लेता है, वह उनकी शरण ग्रहण करके उनकी भक्ति में लग जाता है ।
+    en:
+      title: 'Chapter 15 - Purushottama Yoga'
+      subtitle: 'The Yoga of the Supreme Person'
+      image: ''
+      description: ''
+- id: '16'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १६ - दैवासुरसम्पद्विभागयोग'
+      subtitle: 'दैवी तथा आसुरी स्वभाव'
+      image: ''
+      description: |-
+        शास्त्रों के नियमों का पालन न करके मनमाने ढंग से जीवन व्यतीत करने वाले तथा आसुरी गुणों वाले व्यक्ति अधम योनियों को प्राप्त होते हैं और आगे भी भवबन्धन में पड़े रहते हैं । किन्तु दैवी गुणों से सम्पन्न तथा शास्त्रों को आधार मानकर नियमित जीवन बिताने वाले लोग आध्यात्मिक सिद्धि प्राप्त करते हैं ।
+    en:
+      title: 'Chapter 16 - Daivasura Sampad Vibhaga Yoga'
+      subtitle: 'The Divine and Demoniac Natures'
+      image: ''
+      description: ''
+- id: '17'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्रद्धात्रयविभागयोग'
+      subtitle: 'श्रद्धा के विभाग'
+      image: ''
+      description: |-
+        भौतिक प्रकृति के तीन गुणों से तीन प्रकार की श्रद्धा उत्पन्न होती है । रजोगुण तथा तमोगुण में श्रद्धापूर्वक किये गये कर्मों से अस्थायी फल प्राप्त होते हैं, जबकि शास्त्र-सम्मत विधि से सतोगुण में रहकर सम्पन्न कर्म हृदय को शुद्ध करते हैं । ये भगवान् कृष्ण के प्रति शुद्ध श्रद्धा तथा भक्ति उत्पन्न करने वाले होते हैं ।
+    en:
+      title: 'Chapter 17 - Sraddhatraya Vibhaga Yoga'
+      subtitle: 'The Divisions of Faith'
+      image: ''
+      description: ''
+- id: '18'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'अध्याय १८ - मोक्षसंन्यासयोग'
+      subtitle: 'उपसंहार-संन्यास की सिद्धि'
+      image: ''
+      description: |-
+        कृष्ण वैराग्य का अर्थ और मानवीय चेतना तथा कर्म पर प्रकृति के गुणों का प्रभाव समझाते हैं । वे ब्रह्म-अनुभूति, भगवद्गीता की महिमा तथा भगवद्गीता के चरम निष्कर्ष को समझाते हैं । यह चरम निष्कर्ष यह है कि धर्म का सर्वोच्च मार्ग भगवान् कृष्ण की परम शरणागति है जो पूर्ण प्रकाश प्रदान करने वाली है और मनुष्य को कृष्ण के नित्य धाम को वापस जाने में समर्थ बनाती है ।
+    en:
+      title: 'Chapter 18 - Moksha Sanyaas Yoga'
+      subtitle: 'Conclusion-The Perfection of Renunciation'
+      image: ''
+      description: ''

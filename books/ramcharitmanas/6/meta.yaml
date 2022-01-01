@@ -1,0 +1,504 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १'
+      subtitle: 'मङ्गलाचरण'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 1'
+      subtitle: 'Invocations'
+      image: ''
+      description: ''
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २'
+      subtitle: 'नल-नीलद्वारा पुल बाँधना, श्रीरामजी द्वारा श्रीरामेश्वर की स्थापना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 2'
+      subtitle: 'Bridging of the ocean by Nala and Nīla; Śrī Rāma''s installation of Śrī Rāmeśvara'
+      image: ''
+      description: ''
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३'
+      subtitle: 'श्रीरामजी का सेना सहित समुद्र पार उतरना, सुबेल पर्वत पर निवास, रावण की व्याकुलता'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 3'
+      subtitle: 'Śrī Rāma crosses the ocean with the whole army and encamps on Mount Suvela; Rāvaṇa feels agitated at the news'
+      image: ''
+      description: ''
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४'
+      subtitle: 'रावण को मन्दोदरी का समझाना, रावण-प्रहस्त संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 4'
+      subtitle: 'Mandodarī expostulates with Rāvaṇa; dialogue between Rāvaṇa and Prahasta (his son)'
+      image: ''
+      description: ''
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५'
+      subtitle: 'सुबेल पर श्रीरामजी की झाँकी और चन्द्रोदय वर्णन'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 5'
+      subtitle: 'A mental view of Śrī Rāma on Mount Suvela and a description of the rising moon'
+      image: ''
+      description: ''
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ६'
+      subtitle: 'श्रीरामजी के बाण से रावण के मुकुट-छत्रादि का गिरना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 6'
+      subtitle: 'An arrow from Śrī Rāma''s bow strikes down Rāvaṇa''s diadems and umbrella'
+      image: ''
+      description: ''
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ७'
+      subtitle: 'मन्दोदरी का फिर रावण को समझाना और श्रीराम की महिमा कहना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 7'
+      subtitle: 'Mandodarī makes remonstrance with Rāvaṇa again and dwells upon Śrī Rāma''s glory'
+      image: ''
+      description: ''
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ८'
+      subtitle: 'अङ्गदजी का लङ्का जाना और रावण की सभा में अङ्गद-रावण-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 8'
+      subtitle: 'Aṅgada''s departure for Laṅkā and dialogue between Aṅgada and Rāvaṇa in the latter''s court'
+      image: ''
+      description: ''
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ९'
+      subtitle: 'रावण को पुनः मन्दोदरी का समझाना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 9'
+      subtitle: 'Mandodarī offers advice to Rāvaṇa once more'
+      image: ''
+      description: ''
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १०'
+      subtitle: 'अङ्गद-राम-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 10'
+      subtitle: 'Dialogue between Aṅgada and Śrī Rāma; conflict actually begins'
+      image: ''
+      description: ''
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ११'
+      subtitle: 'युद्धारम्भ'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 11'
+      subtitle: 'conflict actually begins'
+      image: ''
+      description: ''
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १२'
+      subtitle: 'माल्यवान् का रावण को समझाना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 12'
+      subtitle: 'Mālyavān''s admonition to Rāvaṇa'
+      image: ''
+      description: ''
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १३'
+      subtitle: 'लक्ष्मण-मेघनाद-युद्ध, लक्ष्मणजी को शक्ति लगना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 13'
+      subtitle: 'The battle recommences; encounter between Lakṣmaṇa and Meghanāda; a javelin thrown by the latter strikes Lakṣmaṇa in the breast'
+      image: ''
+      description: ''
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १४'
+      subtitle: 'हनुमान् जी का सुषेण वैद्य को लाना एवं सञ्जीवनी के लिये जाना, कालनेमि-रावण संवाद, मकरी-उद्धार, कालनेमि-उद्धार'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 14'
+      subtitle: 'Hanumān fetches the physician Suṣeṇa and proceeds in quest of the life-giving herb; dialogue between Kālanemi and Rāvaṇa, redemption of the she-alligator; deliverance of Kālanemi'
+      image: ''
+      description: ''
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १५'
+      subtitle: 'भरतजी के बाण से हनुमान् का मूर्च्छित होना, भरत-हनुमान्-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 15'
+      subtitle: 'Struck by Bharata''s arrow, Hanumān drops down unconscious; dialogue between Bharata and Hanumān'
+      image: ''
+      description: ''
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १६'
+      subtitle: 'श्रीरामजी की प्रलाप लीला, हनुमान् जी का लौटना, लक्ष्मणजी का उठ बैठना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 16'
+      subtitle: 'Śrī Rāma''s sport of a frantic wail; Hanumān''s return; Lakṣmaṇa''s coming back to consciousness'
+      image: ''
+      description: ''
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १७'
+      subtitle: 'रावण का कुम्भकर्ण को जगाना, कुम्भकर्ण का रावण को उपदेश और विभीषण-कुम्भकर्ण-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 17'
+      subtitle: 'Rāvaṇa awakes Kumbhakarṇa; Kumbhakarṇa''s exhortation to Rāvaṇa and dialogue between Vibhīṣaṇa and Kumbhakarṇa'
+      image: ''
+      description: ''
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १८'
+      subtitle: 'कुम्भकर्ण-युद्ध और उसकी परमगति'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 18'
+      subtitle: 'Kumbhakarṇa joins the beale and attains final beatitude'
+      image: ''
+      description: ''
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १९'
+      subtitle: 'मेघनाद का युद्ध, रामजी का लीला से नागपाश में बँधना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 19'
+      subtitle: 'Meghanāda gives battle and Śrī Rāma sportfully allows Himself to be bound by a snare of serpents'
+      image: ''
+      description: ''
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २०'
+      subtitle: 'मेघनाद-यज्ञ-विध्वंस, युद्ध और मेघनाद-उद्धार'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 20'
+      subtitle: 'Destruction of Meghanāda''s sacrificial performance; his engagement on the battle-field and deliverance at the hands of Lakṣmaṇa'
+      image: ''
+      description: ''
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २१'
+      subtitle: 'रावण का युद्ध के लिये प्रस्थान और श्रीरामजी का विजय-रथ तथा वानर-राक्षसों का युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 21'
+      subtitle: 'Rāvana''s march to the field of battle; Śrī Rāma''s victory-chariot and an encounter between the monkeys and the demons'
+      image: ''
+      description: ''
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २२'
+      subtitle: 'लक्ष्मण-रावण-युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 22'
+      subtitle: 'Encounter between Lakṣmaṇa and Rāvaṇa'
+      image: ''
+      description: ''
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २३'
+      subtitle: 'रावण-मूर्च्छा, रावण-यज्ञ-विध्वंस, राम-रावण युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 23'
+      subtitle: 'Rāvaṇa''s swoon; destruction of his sacrificial performance; combat between Śrī Rāma and Rāvaṇa'
+      image: ''
+      description: ''
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २४'
+      subtitle: 'इन्द्र का श्रीरामजी के लिये रथ भेजना, राम-रावण युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 24'
+      subtitle: 'Indra (the lord of paradise) sends a chariot for the use of Śrī Rāma; encounter between Śrī Rāma and Rāvaṇa'
+      image: ''
+      description: ''
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २५'
+      subtitle: 'रावण का विभीषण पर शक्ति छोड़ना, रामजीका शक्ति को अपने ऊपर लेना, विभीषण-रावण-युद्ध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 25'
+      subtitle: 'Rāvaṇa hurls a lance at Vibhīṣaṇa : Śrī Rāma puts Vibhīṣaṇa behind Him and exposes Himself to its full force; encounter between Vibhīṣaṇa and Rāvaṇa'
+      image: ''
+      description: ''
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २६'
+      subtitle: 'रावण-हनुमान्-युद्ध, रावण का माया रचना, रामजी द्वारा माया-नाश'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 26'
+      subtitle: 'Combat of Rāvaṇa and Hanumān; Rāvaṇa creates phantoms and Śrī Rāma disperses the phantoms'
+      image: ''
+      description: ''
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २७'
+      subtitle: 'घोरयुद्ध, रावण की मूर्च्छा'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 27'
+      subtitle: 'Fierce fighting; Rāvaṇa''s swoon'
+      image: ''
+      description: ''
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २८'
+      subtitle: 'त्रिजटा-सीता-संवाद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 28'
+      subtitle: 'Dialogue between Sītā and Trijaṭā'
+      image: ''
+      description: ''
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २९'
+      subtitle: 'राम-रावण-युद्ध, रावण-वध, सर्वत्र जय ध्वनि'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 29'
+      subtitle: 'Final encounter between Śrī Rāma and Rāvaṇa; end of Rāvaṇa; shouts of victory everywhere'
+      image: ''
+      description: ''
+- id: '30'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३०'
+      subtitle: 'मन्दोदरी-विलाप, रावण की अन्त्येष्टि क्रिया'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 30'
+      subtitle: 'Mandodarī and other queens lament; Rāvaṇa''s funeral'
+      image: ''
+      description: ''
+- id: '31'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३१'
+      subtitle: 'विभीषण का राज्याभिषेक'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 31'
+      subtitle: 'Vibhīṣaṇa''s installation'
+      image: ''
+      description: ''
+- id: '32'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३२'
+      subtitle: 'हनुमान् जी का सीताजी को कुशल सुनाना, सीताजी का आगमन और अग्नि परीक्षा'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 32'
+      subtitle: 'Hanumān carries the happy news to Sītā; Sītā rejoins Sti Rāma and enters fire as a test of her purity'
+      image: ''
+      description: ''
+- id: '33'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३३'
+      subtitle: 'देवताओं की स्तुति, इन्द्र की अमृत वर्षा'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 33'
+      subtitle: 'The gods sing the Lord''s praises; Indra rains down nectar on the dead'
+      image: ''
+      description: ''
+- id: '34'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३४'
+      subtitle: 'विभीषण की प्रार्थना, श्रीरामजी के द्वारा भरतजी की प्रेमदशा का वर्णन, शीघ्र अयोध्या पहुँचने का अनुरोध'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 34'
+      subtitle: 'Vibhīṣaṇa''s entreaty; Śrī Rāma portrayal and Bharata''s condition by due to the excessive love he bore towards the Lord; Śrī Rāma urges Vibhīṣaṇa to arrange His speedy return to Ayodhyā'
+      image: ''
+      description: ''
+- id: '35'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३५'
+      subtitle: 'विभीषण का वस्त्राभूषण बरसाना और वानर-भालुओं का उन्हें पहनना'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 35'
+      subtitle: 'Vibhīṣaṇa rains down clothes and ornaments from the air and the monkeys and bears pick them up and adorn their person with them'
+      image: ''
+      description: ''
+- id: '36'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३६'
+      subtitle: 'पुष्पक विमान पर चढ़कर श्रीसीतारामजी का अवध के लिये प्रस्थान, श्रीरामचरित की महिमा'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 36'
+      subtitle: 'Śrī Rāma and Sītā leave for Ayodhyā on the aerial car, Puṣpaka'
+      image: ''
+      description: ''

@@ -1,0 +1,622 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        धृतराष्ट्र ने कहा — हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे तथा पाण्डु के पुत्रों ने क्या किया ?
+    en:
+      title: 'Chapter 1 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: |-
+        Dhṛtarāṣṭra said: O Sañjaya, after my sons and the sons of Pāṇḍu assembled in the place of pilgrimage at Kurukṣetra, desiring to fight, what did they do?
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        संजय ने कहा – हे राजन! पाण्डुपुत्रों द्वारा सेना की व्यूहरचना देखकर राजा दुर्योधन अपने गुरु के पास गया और उसने ये शब्द कहे ।
+    en:
+      title: 'Chapter 1 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: |-
+        Sañjaya said: O King, after looking over the army arranged in military formation by the sons of Pāṇḍu, King Duryodhana went to his teacher and spoke the following words.
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे आचार्य! पाण्डुपुत्रों की विशाल सेना को देखें, जिसे आपके बुद्धिमान् शिष्य द्रुपद के पुत्र ने इतने कौशल से व्यवस्थित किया है ।
+    en:
+      title: 'Chapter 1 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: |-
+        O my teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple the son of Drupada.
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        इस सेना में भीम तथा अर्जुन के समान युद्ध करने वाले अनेक वीर धनुर्धर हैं – यथा महारथी युयुधान, विराट तथा द्रुपद ।
+    en:
+      title: 'Chapter 1 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: |-
+        Here in this army are many heroic bowmen equal in fighting to Bhīma and Arjuna: great fighters like Yuyudhāna, Virāṭa and Drupada.
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        इनके साथ ही धृष्टकेतु, चेकितान, काशिराज, पुरुजित्, कुन्तिभोज तथा शैब्य जैसे महान शक्तिशाली योद्धा भी हैं ।
+    en:
+      title: 'Chapter 1 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: |-
+        There are also great heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya.
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        पराक्रमी युधामन्यु, अत्यन्त शक्तिशाली उत्तमौजा, सुभद्रा का पुत्र तथा द्रोपदी के पुत्र – ये सभी महारथी हैं ।
+    en:
+      title: 'Chapter 1 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: |-
+        There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters.
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        किन्तु हे ब्राह्मणश्रेष्ठ! आपकी सूचना के लिए मैं अपनी सेना के उन नायकों के विषय में बताना चाहूँगा जो मेरी सेना को संचालित करने में विशेष रूप से निपुण हैं ।
+    en:
+      title: 'Chapter 1 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: |-
+        But for your information, O best of the brāhmaṇas, let me tell you about the captains who are especially qualified to lead my military force.
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        मेरी सेना में स्वयं आप, भीष्म, कर्ण, कृपाचार्य, अश्वत्थामा, विकर्ण तथा सोमदत्त का पुत्र भूरिश्रवा आदि हैं जो युद्ध में सदैव विजयी रहे हैं ।
+    en:
+      title: 'Chapter 1 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: |-
+        There are personalities like you, Bhīṣma, Karṇa, Kṛpa, Aśvatthāmā, Vikarṇa and the son of Somadatta called Bhūriśravā, who are always victorious in battle.
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: "ऐसे अन्य अनेक वीर भी हैं जो मेरे लिए अपना जीवन त्याग करने के लिए उद्यत हैं । वे विविध प्रकार के हथियारों से सुसज्जित हैं और युद्धविद्या में निपुण हैं । "
+    en:
+      title: 'Chapter 1 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: |-
+        There are many other heroes who are prepared to lay down their lives for my sake. All of them are well equipped with different kinds of weapons, and all are experienced in military science.
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        हमारी शक्ति अपरिमेय है और हम सब पितामह द्वारा भलीभाँति संरक्षित हैं, जबकि पाण्डवों की शक्ति भीम द्वारा भलीभाँति संरक्षित होकर भी सीमित है ।
+    en:
+      title: 'Chapter 1 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: |-
+        Our strength is immeasurable, and we are perfectly protected by Grandfather Bhīṣma, whereas the strength of the Pāṇḍavas, carefully protected by Bhīma, is limited.
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        अतएव सैन्यव्यूह में अपने-अपने मोर्चों पर खड़े रहकर आप सभी भीष्म पितामह को पूरी-पूरी सहायता दें ।
+    en:
+      title: 'Chapter 1 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: |-
+        All of you must now give full support to Grandfather Bhīṣma, as you stand at your respective strategic points of entrance into the phalanx of the army.
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: "तब कुरुवंश के वयोवृद्ध परम प्रतापी एवं वृद्ध पितामह ने सिंह-गर्जना की सी ध्वनि करने वाले अपने शंख को उच्च स्वर से बजाया, जिससे दुर्योधन को हर्ष हुआ । "
+    en:
+      title: 'Chapter 1 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: |-
+        Then Bhīṣma, the great valiant grandsire of the Kuru dynasty, the grandfather of the fighters, blew his conchshell very loudly, making a sound like the roar of a lion, giving Duryodhana joy.
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        तत्पश्चात् शंख, नगाड़े, बिगुल, तुरही तथा सींग सहसा एकसाथ बज उठे । वह समवेत स्वर अत्यन्त कोलाहलपूर्ण था ।
+    en:
+      title: 'Chapter 1 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: |-
+        After that, the conchshells, drums, bugles, trumpets and horns were all suddenly sounded, and the combined sound was tumultuous.
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        दूसरी ओर से श्वेत घोड़ों द्वारा खींचे जाने वाले विशाल रथ पर आसीन कृष्ण तथा अर्जुन ने अपने-अपने दिव्य शंख बजाये ।
+    en:
+      title: 'Chapter 1 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: |-
+        On the other side, both Lord Kṛṣṇa and Arjuna, stationed on a great chariot drawn by white horses, sounded their transcendental conchshells.
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        भगवान् कृष्ण ने अपना पाञ्चजन्य शंख बजाया, अर्जुन ने देवदत्त शंख तथा अतिभोजी एवं अतिमानवीय कार्य करने वाले भीम ने पौण्ड्र नामक भयंकर शंख बजाया ।
+    en:
+      title: 'Chapter 1 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: |-
+        Lord Kṛṣṇa blew His conchshell, called Pāñcajanya; Arjuna blew his, the Devadatta; and Bhīma, the voracious eater and performer of herculean tasks, blew his terrific conchshell, called Pauṇḍra.
+- id: '16-18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १६-१८'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे राजन्! कुन्तीपुत्र राजा युधिष्ठिर ने अपना अनंतविजय नामक शंख बजाया तथा नकुल और सहदेव ने सुघोष एवं मणिपुष्पक शंख बजाये । महान धनुर्धर काशीराज, परम योद्धा शिखण्डी, धृष्टद्युम्न, विराट, अजेय सात्यकि, द्रुपद, द्रौपदी के पुत्र तथा सुभद्रा के महाबाहु पुत्र आदि सबों ने अपने-अपने शंख बजाये ।
+    en:
+      title: 'Chapter 1 - Verse 16-18'
+      subtitle: ''
+      image: ''
+      description: |-
+        King Yudhiṣṭhira, the son of Kuntī, blew his conchshell, the Ananta-vijaya, and Nakula and Sahadeva blew the Sughoṣa and Maṇipuṣpaka. That great archer the King of Kāśī, the great fighter Śikhaṇḍī, Dhṛṣṭadyumna, Virāṭa, the unconquerable Sātyaki, Drupada, the sons of Draupadī, and others, O King, such as the mighty-armed son of Subhadrā, all blew their respective conchshells.
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        इन विभिन्न शंखों की ध्वनि कोलाहलपूर्ण बन गई जो आकाश तथा पृथ्वी को शब्दायमान करती हुई धृतराष्ट्र के पुत्रों के हृदयों को विदीर्ण करने लगी ।
+    en:
+      title: 'Chapter 1 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: |-
+        The blowing of these different conchshells became uproarious. Vibrating both in the sky and on the earth, it shattered the hearts of the sons of Dhṛtarāṣṭra.
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        उस समय हनुमान से अंकित ध्वजा लगे रथ पर आसीन पाण्डुपुत्र अर्जुन अपना धनुष उठा कर तीर चलाने के लिए उद्यत हुआ । हे राजन्! धृतराष्ट्र के पुत्रों को व्यूह में खड़ा देखकर अर्जुन ने श्रीकृष्ण से ये वचन कहे ।
+    en:
+      title: 'Chapter 1 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: |-
+        At that time Arjuna, the son of Pāṇḍu, seated in the chariot bearing the flag marked with Hanumān, took up his bow and prepared to shoot his arrows. O King, after looking at the sons of Dhṛtarāṣṭra drawn in military array, Arjuna then spoke to Lord Kṛṣṇa these words.
+- id: '21-22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २१-२२'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा – हे अच्युत! कृपा करके मेरा रथ दोनों सेनाओं के बीच में ले चलें जिससे मैं यहाँ युद्ध की अभिलाषा रखने वालों को और शस्त्रों कि इस महान परीक्षा में, जिनसे मुझे संघर्ष करना है, उन्हें देख सकूँ ।
+    en:
+      title: 'Chapter 1 - Verse 21-22'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna said: O infallible one, please draw my chariot between the two armies so that I may see those present here, who desire to fight, and with whom I must contend in this great trial of arms.
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २३'
+      subtitle: ''
+      image: ''
+      description: |-
+        मुझे उन लोगों को देखने दीजिये जो यहाँ पर धृतराष्ट्र के दुर्बुद्धि पुत्र (दुर्योधन) को प्रसन्न करने की इच्छा से लड़ने के लिए आये हुए हैं ।
+    en:
+      title: 'Chapter 1 - Verse 23'
+      subtitle: ''
+      image: ''
+      description: |-
+        Let me see those who have come here to fight, wishing to please the evil-minded son of Dhṛtarāṣṭra.
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २४'
+      subtitle: ''
+      image: ''
+      description: |-
+        संजय ने कहा – हे भरतवंशी! अर्जुन द्वारा इस प्रकार सम्बोधित किये जाने पर भगवान् कृष्ण ने दोनों दलों के बीच में उस उत्तम रथ को लाकर खड़ा कर दिया ।
+    en:
+      title: 'Chapter 1 - Verse 24'
+      subtitle: ''
+      image: ''
+      description: |-
+        Sañjaya said: O descendant of Bharata, having thus been addressed by Arjuna, Lord Kṛṣṇa drew up the fine chariot in the midst of the armies of both parties.
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २५'
+      subtitle: ''
+      image: ''
+      description: |-
+        भीष्म, द्रोण तथा विश्व भर के अन्य समस्त राजाओं के सामने भगवान् ने कहा कि हे पार्थ! यहाँ पर एकत्र सारे कुरुओं को देखो ।
+    en:
+      title: 'Chapter 1 - Verse 25'
+      subtitle: ''
+      image: ''
+      description: |-
+        In the presence of Bhīṣma, Droṇa and all the other chieftains of the world, the Lord said, “Just behold, Pārtha, all the Kurus assembled here.”
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २६'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने वहाँ पर दोनों पक्षों की सेनाओं के मध्य में अपने चाचा-ताउओं, पितामहों, गुरुओं, मामाओं, भाइयों, पुत्रों, पौत्रों, मित्रों, ससुरों और शुभचिन्तकों को भी देखा ।
+    en:
+      title: 'Chapter 1 - Verse 26'
+      subtitle: ''
+      image: ''
+      description: |-
+        There Arjuna could see, within the midst of the armies of both parties, his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, and also his fathers-in-law and well-wishers.
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २७'
+      subtitle: ''
+      image: ''
+      description: |-
+        जब कुन्तीपुत्र अर्जुन ने मित्रों तथा सम्बन्धियों की इन विभिन्न श्रेणियों को देखा तो वह करुणा से अभिभूत हो गया और इस प्रकार बोला ।
+    en:
+      title: 'Chapter 1 - Verse 27'
+      subtitle: ''
+      image: ''
+      description: |-
+        When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus.
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २८'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा – हे कृष्ण! इस प्रकार युद्ध कि इच्छा रखने वाले मित्रों तथा सम्बन्धियों को अपने समक्ष उपस्थित देखकर मेरे शरीर के अंग काँप रहे हैं और मेरा मुँह सूखा जा रहा है ।
+    en:
+      title: 'Chapter 1 - Verse 28'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna said: My dear Kṛṣṇa, seeing my friends and relatives present before me in such a fighting spirit, I feel the limbs of my body quivering and my mouth drying up.
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक २९'
+      subtitle: ''
+      image: ''
+      description: |-
+        मेरा सारा शरीर काँप रहा है, मेरे रोंगटे खड़े हो रहे हैं, मेरा गाण्डीव धनुष मेरे हाथ से सरक रहा है और मेरी त्वचा जल रही है ।
+    en:
+      title: 'Chapter 1 - Verse 29'
+      subtitle: ''
+      image: ''
+      description: |-
+        My whole body is trembling, my hair is standing on end, my bow Gāṇḍīva is slipping from my hand, and my skin is burning.
+- id: '30'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३०'
+      subtitle: ''
+      image: ''
+      description: |-
+        मैं यहाँ अब और अधिक खड़ा रहने में असमर्थ हूँ । मैं अपने को भूल रहा हूँ और मेरा सिर चकरा रहा है । हे कृष्ण! मुझे तो केवल अमंगल के कारण दिख रहे हैं ।
+    en:
+      title: 'Chapter 1 - Verse 30'
+      subtitle: ''
+      image: ''
+      description: |-
+        I am now unable to stand here any longer. I am forgetting myself, and my mind is reeling. I see only causes of misfortune, O Kṛṣṇa, killer of the Keśī demon.
+- id: '31'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३१'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे कृष्ण! इस युद्ध में अपने ही स्वजनों का वध करने से न तो मुझे कोई अच्छाई दिखती है और न, मैं उससे किसी प्रकार की विजय, राज्य या सुख की इच्छा रखता हूँ ।
+    en:
+      title: 'Chapter 1 - Verse 31'
+      subtitle: ''
+      image: ''
+      description: |-
+        I do not see how any good can come from killing my own kinsmen in this battle, nor can I, my dear Kṛṣṇa, desire any subsequent victory, kingdom or happiness.
+- id: '32-33-34-35'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३२-३३-३४-३५'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे गोविन्द! हमें राज्य, सुख अथवा इस जीवन से क्या लाभ! क्योंकि जिन सारे लोगों के लिए हम उन्हें चाहते हैं वे ही इस युद्धभूमि में खड़े हैं । हे मधुसूदन! जब गुरुजन, पितृगण, पुत्रगण, पितामह, मामा, ससुर, पौत्रगण, साले तथा अन्य सारे सम्बन्धी अपना-अपना धन एवं प्राण देने के लिए तत्पर हैं और मेरे समक्ष खड़े हैं तो फिर मैं इन सबको क्यों मारना चाहूँगा, भले ही वे मुझे क्यों न मार डालें ? हे जीवों के पालक! मैं इन सबों से लड़ने को तैयार नहीं, भले ही बदले में मुझे तीनों लोक क्यों न मिलते हों, इस पृथ्वी की तो बात ही छोड़ दें । भला धृतराष्ट्र के पुत्रों को मारकर हमें कौन सी प्रसन्नता मिलेगी ?
+    en:
+      title: 'Chapter 1 - Verse 32-33-34-35'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Govinda, of what avail to us are a kingdom, happiness or even life itself when all those for whom we may desire them are now arrayed on this battlefield? O Madhusūdana, when teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law and other relatives are ready to give up their lives and properties and are standing before me, why should I wish to kill them, even though they might otherwise kill me? O maintainer of all living entities, I am not prepared to fight with them even in exchange for the three worlds, let alone this earth. What pleasure will we derive from killing the sons of Dhṛtarāṣṭra?
+- id: '36'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३६'
+      subtitle: ''
+      image: ''
+      description: |-
+        यदि हम ऐसे आततायियों का वध करते हैं तो हम पर पाप चढ़ेगा, अतः यह उचित नहीं होगा कि हम धृतराष्ट्र के पुत्रों तथा उनके मित्रों का वध करें । हे लक्ष्मीपति कृष्ण! इससे हमें क्या लाभ होगा ? और अपने ही कुटुम्बियों को मार कर हम किस प्रकार सुखी हो सकते हैं ?
+    en:
+      title: 'Chapter 1 - Verse 36'
+      subtitle: ''
+      image: ''
+      description: |-
+        Sin will overcome us if we slay such aggressors. Therefore it is not proper for us to kill the sons of Dhṛtarāṣṭra and our friends. What should we gain, O Kṛṣṇa, husband of the goddess of fortune, and how could we be happy by killing our own kinsmen?
+- id: '37-38'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३७-३८'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे जनार्दन! यद्यपि लोभ से अभिभूत चित्त वाले ये लोग अपने परिवार को मारने या अपने मित्रों से द्रोह करने में कोई दोष नहीं देखते किन्तु हम लोग, जो परिवार के विनष्ट करने में अपराध देख सकते हैं, ऐसे पापकर्मों में क्यों प्रवृत्त हों ?
+    en:
+      title: 'Chapter 1 - Verse 37-38'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Janārdana, although these men, their hearts overtaken by greed, see no fault in killing one’s family or quarreling with friends, why should we, who can see the crime in destroying a family, engage in these acts of sin?
+- id: '39'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ३९'
+      subtitle: ''
+      image: ''
+      description: |-
+        कुल का नाश होने पर सनातन कुल-परम्परा नष्ट हो जाती है और इस तरह शेष कुल भी अधर्म में प्रवृत्त हो जाता है ।
+    en:
+      title: 'Chapter 1 - Verse 39'
+      subtitle: ''
+      image: ''
+      description: |-
+        With the destruction of the dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligion.
+- id: '40'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४०'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे कृष्ण! जब कुल में अधर्म प्रमुख हो जाता है तो कुल की स्त्रियाँ दूषित हो जाती हैं और स्त्रीत्व के पतन से हे वृष्णिवंशी! अवांछित सन्तानें उत्पन्न होती हैं ।
+    en:
+      title: 'Chapter 1 - Verse 40'
+      subtitle: ''
+      image: ''
+      description: |-
+        When irreligion is prominent in the family, O Kṛṣṇa, the women of the family become polluted, and from the degradation of womanhood, O descendant of Vṛṣṇi, comes unwanted progeny.
+- id: '41'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४१'
+      subtitle: ''
+      image: ''
+      description: |-
+        अवांछित सन्तानों की वृद्धि से निश्चय ही परिवार के लिए तथा पारिवारिक परम्परा को विनष्ट करने वालों के लिए नारकीय जीवन उत्पन्न होता है । ऐसे पतित कुलों के पुरखे (पितर लोग) गिर जाते हैं क्योंकि उन्हें जल तथा पिण्ड दान देने की क्रियाएँ समाप्त हो जाती हैं ।
+    en:
+      title: 'Chapter 1 - Verse 41'
+      subtitle: ''
+      image: ''
+      description: |-
+        An increase of unwanted population certainly causes hellish life both for the family and for those who destroy the family tradition. The ancestors of such corrupt families fall down, because the performances for offering them food and water are entirely stopped.
+- id: '42'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४२'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो लोग कुल-परम्परा को विनष्ट करते हैं और इस तरह अवांछित सन्तानों को जन्म देते हैं उनके दुष्कर्मों से समस्त प्रकार की सामुदायिक योजनाएँ तथा पारिवारिक कल्याण-कार्य विनष्ट हो जाते हैं ।
+    en:
+      title: 'Chapter 1 - Verse 42'
+      subtitle: ''
+      image: ''
+      description: |-
+        By the evil deeds of those who destroy the family tradition and thus give rise to unwanted children, all kinds of community projects and family welfare activities are devastated.
+- id: '43'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४३'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे प्रजापालक कृष्ण! मैंने गुरु-परम्परा से सुना है कि जो लोग कुल-धर्म का विनाश करते हैं, वे सदैव नरक में वास करते हैं ।
+    en:
+      title: 'Chapter 1 - Verse 43'
+      subtitle: ''
+      image: ''
+      description: |-
+        O Kṛṣṇa, maintainer of the people, I have heard by disciplic succession that those whose family traditions are destroyed dwell always in hell.
+- id: '44'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४४'
+      subtitle: ''
+      image: ''
+      description: |-
+        ओह! कितने आश्चर्य की बात है कि हम सब जघन्य पापकर्म करने के लिए उद्यत हो रहे हैं । राज्यसुख भोगने की इच्छा से प्रेरित होकर हम अपने ही सम्बन्धियों को मारने पर तुले हैं ।
+    en:
+      title: 'Chapter 1 - Verse 44'
+      subtitle: ''
+      image: ''
+      description: |-
+        Alas, how strange it is that we are preparing to commit greatly sinful acts. Driven by the desire to enjoy royal happiness, we are intent on killing our own kinsmen.
+- id: '45'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४५'
+      subtitle: ''
+      image: ''
+      description: |-
+        यदि शस्त्रधारी धृतराष्ट्र के पुत्र मुझ निहत्थे तथा रणभूमि में प्रतिरोध न करने वाले को मारें, तो यह मेरे लिए श्रेयस्कर होगा ।
+    en:
+      title: 'Chapter 1 - Verse 45'
+      subtitle: ''
+      image: ''
+      description: |-
+        Better for me if the sons of Dhṛtarāṣṭra, weapons in hand, were to kill me unarmed and unresisting on the battlefield.
+- id: '46'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक ४६'
+      subtitle: ''
+      image: ''
+      description: |-
+        संजय ने कहा – युद्धभूमि में इस प्रकार कह कर अर्जुन ने अपना धनुष तथा बाण एक ओर रख दिया और शोकसंतप्त चित्त से रथ के आसन पर बैठ गया ।
+    en:
+      title: 'Chapter 1 - Verse 46'
+      subtitle: ''
+      image: ''
+      description: |-
+        Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.

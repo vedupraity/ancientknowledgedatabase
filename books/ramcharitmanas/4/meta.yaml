@@ -1,0 +1,154 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १'
+      subtitle: 'मङ्गलाचरण'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 1'
+      subtitle: 'Invocations'
+      image: ''
+      description: ''
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २'
+      subtitle: 'श्रीरामजी से हनुमान् जी का मिलना और श्रीराम-सुग्रीव की मित्रता'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 2'
+      subtitle: 'Śrī Rāma''s meeting with Hanumān and the conclusion of an alliance between Śrī Rāma and Sugrīva'
+      image: ''
+      description: ''
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३'
+      subtitle: 'सुग्रीव का दुःख सुनाना, बालि वध की प्रतिज्ञा, श्रीरामजी का मित्र-लक्षण-वर्णन, सुग्रीव का वैराग्य'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 3'
+      subtitle: 'Sugrīva apprizes Śrī Rāma of his woes; the latter''s vow to kill Vāli; Śrī Rāma expatiates on the characteristics of a friend'
+      image: ''
+      description: ''
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४'
+      subtitle: 'बालि-सुग्रीव-युद्ध, बालि-उद्धार'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 4'
+      subtitle: 'Duel between Vāli and Sugrīva; deliverance of Vāli'
+      image: ''
+      description: ''
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५'
+      subtitle: 'तारा का विलाप, तारा को श्रीरामजी द्वारा उपदेश और सुग्रीव का राज्याभिषेक तथा अङ्गद को युवराज पद'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 5'
+      subtitle: 'Tārā''s wail; Śrī Rāma''s advice to Tārā and Sugrīva''s coronation and Aṅgada''s installation as his Heir- Apparent'
+      image: ''
+      description: ''
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ६'
+      subtitle: 'वर्षा-ऋतु-वर्णन'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 6'
+      subtitle: 'A description of the rainy season'
+      image: ''
+      description: ''
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ७'
+      subtitle: 'शरद्-ऋतु-वर्णन'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 7'
+      subtitle: 'Autumn Description'
+      image: ''
+      description: ''
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ८'
+      subtitle: 'श्रीराम की सुग्रीव पर नाराजी, लक्ष्मणजी का कोप'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 8'
+      subtitle: 'Śrī Rāma''s show of displeasure towards Sugrīva and Lakṣmaṇa''s wrath'
+      image: ''
+      description: ''
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ९'
+      subtitle: 'सुग्रीव-राम-संवाद और सीताजी की खोज के लिये बंदरों का प्रस्थान'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 9'
+      subtitle: 'Dialogue between Sugrīva and Śrī Rāma and the departure of the monkeys in quest of Sītā'
+      image: ''
+      description: ''
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १०'
+      subtitle: 'गुफा में तपस्विनी के दर्शन, वानरों का समुद्र तट पर आना, सम्पाती से भेंट और बातचीत'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 10'
+      subtitle: 'The monkeys'' arrival at the seashore; their meeting and conversation with Sampātī (Jaṭāyu''s brother)'
+      image: ''
+      description: ''
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ११'
+      subtitle: 'समुद्र लाँघने का परामर्श, जाम्बवन्त का हनुमान् जी को बल याद दिलाकर उत्साहित करना, श्रीराम-गुण का माहात्म्य'
+      image: ''
+      description: ''
+    en:
+      title: 'Part - 11'
+      subtitle: 'Sampātī''ss advice to the monkeys to leap across the ocean; Jāmbavān encourages Hanumān by reminding him of his strength'
+      image: ''
+      description: ''
