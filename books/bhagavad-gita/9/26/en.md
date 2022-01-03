@@ -1,20 +1,20 @@
-#### पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।
-#### तदहं भक्त्युपहृतमश्नामि प्रयतात्मन: ॥ २६ ॥
+##### पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।
+##### तदहं भक्त्युपहृतमश्नामि प्रयतात्मन: ॥ २६ ॥
 
-#### patraṁ puṣpaṁ phalaṁ toyaṁ
-#### yo me bhaktyā prayacchati
-#### tad ahaṁ bhakty-upahṛtam
-#### aśnāmi prayatātmanaḥ
+##### patraṁ puṣpaṁ phalaṁ toyaṁ
+##### yo me bhaktyā prayacchati
+##### tad ahaṁ bhakty-upahṛtam
+##### aśnāmi prayatātmanaḥ
 
-### Synonyms
+#### Synonyms
 
 **patram** — a leaf; **puṣpam** — a flower; **phalam** — a fruit; **toyam** — water; **yaḥ** — whoever; **me** — unto Me; **bhaktyā** — with devotion; **prayacchati** — offers; **tat** — that; **aham** — I; **bhakti**-**upahṛtam** — offered in devotion; **aśnāmi** — accept; **prayata**-**ātmanaḥ** — from one in pure consciousness.
 
-### Translation
+#### Translation
 
 If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it.
 
-### Purport
+#### Purport
 
 For the intelligent person, it is essential to be in Kṛṣṇa consciousness, engaged in the transcendental loving service of the Lord, in order to achieve a permanent, blissful abode for eternal happiness. The process of achieving such a marvelous result is very easy and can be attempted even by the poorest of the poor, without any kind of qualification. The only qualification required in this connection is to be a pure devotee of the Lord. It does not matter what one is or where one is situated. The process is so easy that even a leaf or a little water or fruit can be offered to the Supreme Lord in genuine love and the Lord will be pleased to accept it. No one, therefore, can be barred from Kṛṣṇa consciousness, because it is so easy and universal. Who is such a fool that he does not want to be Kṛṣṇa conscious by this simple method and thus attain the highest perfectional life of eternity, bliss and knowledge? Kṛṣṇa wants only loving service and nothing more. Kṛṣṇa accepts even a little flower from His pure devotee. He does not want any kind of offering from a nondevotee. He is not in need of anything from anyone, because He is self-sufficient, and yet He accepts the offering of His devotee in an exchange of love and affection. To develop Kṛṣṇa consciousness is the highest perfection of life. Bhakti is mentioned twice in this verse in order to declare more emphatically that bhakti, or devotional service, is the only means to approach Kṛṣṇa. No other condition, such as becoming a brāhmaṇa, a learned scholar, a very rich man or a great philosopher, can induce Kṛṣṇa to accept some offering. Without the basic principle of bhakti, nothing can induce the Lord to agree to accept anything from anyone. Bhakti is never causal. The process is eternal. It is direct action in service to the absolute whole.
 

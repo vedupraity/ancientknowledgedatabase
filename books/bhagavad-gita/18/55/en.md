@@ -1,20 +1,20 @@
-#### भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वत: ।
-#### ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥ ५५ ॥
+##### भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वत: ।
+##### ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥ ५५ ॥
 
-#### bhaktyā mām abhijānāti
-#### yāvān yaś cāsmi tattvataḥ
-#### tato māṁ tattvato jñātvā
-#### viśate tad-anantaram
+##### bhaktyā mām abhijānāti
+##### yāvān yaś cāsmi tattvataḥ
+##### tato māṁ tattvato jñātvā
+##### viśate tad-anantaram
 
-### Synonyms
+#### Synonyms
 
 **bhaktyā** — by pure devotional service; **mām** — Me; **abhijānāti** — one can know; **yāvān** — as much as; **yaḥ** **ca** **asmi** — as I am; **tattvataḥ** — in truth; **tataḥ** — thereafter; **mām** — Me; **tattvataḥ** — in truth; **jñātvā** — knowing; **viśate** — he enters; **tat**-**anantaram** — thereafter.
 
-### Translation
+#### Translation
 
 One can understand Me as I am, as the Supreme Personality of Godhead, only by devotional service. And when one is in full consciousness of Me by such devotion, he can enter into the kingdom of God.
 
-### Purport
+#### Purport
 
 The Supreme Personality of Godhead, Kṛṣṇa, and His plenary portions cannot be understood by mental speculation nor by the nondevotees. If anyone wants to understand the Supreme Personality of Godhead, he has to take to pure devotional service under the guidance of a pure devotee. Otherwise, the truth of the Supreme Personality of Godhead will always be hidden. As already stated in Bhagavad-gītā (7.25), nāhaṁ prakāśaḥ sarvasya: He is not revealed to everyone. No one can understand God simply by erudite scholarship or mental speculation. Only one who is actually engaged in Kṛṣṇa consciousness and devotional service can understand what Kṛṣṇa is. University degrees are not helpful.
 

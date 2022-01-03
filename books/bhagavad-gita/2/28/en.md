@@ -1,20 +1,20 @@
-#### अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।
-#### अव्यक्तनिधनान्येव तत्र का परिदेवना ॥ २८ ॥
+##### अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।
+##### अव्यक्तनिधनान्येव तत्र का परिदेवना ॥ २८ ॥
 
-#### avyaktādīni bhūtāni
-#### vyakta-madhyāni bhārata
-#### avyakta-nidhanāny eva
-#### tatra kā paridevanā
+##### avyaktādīni bhūtāni
+##### vyakta-madhyāni bhārata
+##### avyakta-nidhanāny eva
+##### tatra kā paridevanā
 
-### Synonyms
+#### Synonyms
 
 **avyakta**-**ādīni** — in the beginning unmanifested; **bhūtāni** — all that are created; **vyakta** — manifested; **madhyāni** — in the middle; **bhārata** — O descendant of Bharata; **avyakta** — nonmanifested; **nidhanāni** — when vanquished; **eva** — it is all like that; **tatra** — therefore; **kā** — what; **paridevanā** — lamentation.
 
-### Translation
+#### Translation
 
 All created beings are unmanifest in their beginning, manifest in their interim state, and unmanifest again when annihilated. So what need is there for lamentation?
 
-### Purport
+#### Purport
 
 Accepting that there are two classes of philosophers, one believing in the existence of the soul and the other not believing in the existence of the soul, there is no cause for lamentation in either case. Nonbelievers in the existence of the soul are called atheists by followers of Vedic wisdom. Yet even if, for argument’s sake, we accept this atheistic theory, there is still no cause for lamentation. Apart from the separate existence of the soul, the material elements remain unmanifested before creation. From this subtle state of nonmanifestation comes manifestation, just as from ether, air is generated; from air, fire is generated; from fire, water is generated; and from water, earth becomes manifested. From the earth, many varieties of manifestations take place. Take, for example, a big skyscraper manifested from the earth. When it is dismantled, the manifestation becomes again unmanifested and remains as atoms in the ultimate stage. The law of conservation of energy remains, but in course of time things are manifested and unmanifested – that is the difference. Then what cause is there for lamentation either in the stage of manifestation or in unmanifestation? Somehow or other, even in the unmanifested stage, things are not lost. Both at the beginning and at the end, all elements remain unmanifested, and only in the middle are they manifested, and this does not make any real material difference.
 

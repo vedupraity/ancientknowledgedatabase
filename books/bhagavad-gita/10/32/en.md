@@ -1,20 +1,20 @@
-#### सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन ।
-#### अध्यात्मविद्या विद्यानां वाद: प्रवदतामहम् ॥ ३२ ॥
+##### सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन ।
+##### अध्यात्मविद्या विद्यानां वाद: प्रवदतामहम् ॥ ३२ ॥
 
-#### sargāṇām ādir antaś ca
-#### madhyaṁ caivāham arjuna
-#### adhyātma-vidyā vidyānāṁ
-#### vādaḥ pravadatām aham
+##### sargāṇām ādir antaś ca
+##### madhyaṁ caivāham arjuna
+##### adhyātma-vidyā vidyānāṁ
+##### vādaḥ pravadatām aham
 
-### Synonyms
+#### Synonyms
 
 **sargāṇām** — of all creations; **ādiḥ** — the beginning; **antaḥ** — end; **ca** — and; **madhyam** — middle; **ca** — also; **eva** — certainly; **aham** — I am; **arjuna** — O Arjuna; **adhyātma**-**vidyā** — spiritual knowledge; **vidyānām** — of all education; **vādaḥ** — the natural conclusion; **pravadatām** — of arguments; **aham** — I am.
 
-### Translation
+#### Translation
 
 Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the self, and among logicians I am the conclusive truth.
 
-### Purport
+#### Purport
 
 Among the created manifestations, the first is the creation of the total material elements. As explained before, the cosmic manifestation is created and conducted by Mahā-viṣṇu, Garbhodaka-śāyī Viṣṇu and Kṣīrodaka-śāyī Viṣṇu, and then again it is annihilated by Lord Śiva. Brahmā is a secondary creator. All these agents of creation, maintenance and annihilation are incarnations of the material qualities of the Supreme Lord. Therefore He is the beginning, the middle and the end of all creation.
 

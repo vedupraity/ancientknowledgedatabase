@@ -1,29 +1,29 @@
-#### न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।
-#### न चैव नभविष्यामः सर्वे वयमतः परम् ॥ १२ ॥
+##### न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।
+##### न चैव नभविष्यामः सर्वे वयमतः परम् ॥ १२ ॥
 
-#### na tv evāhaṁ jātu nāsaṁ
-#### na tvaṁ neme janādhipāḥ
-#### na caiva na bhaviṣyāmaḥ
-#### sarve vayam ataḥ param
+##### na tv evāhaṁ jātu nāsaṁ
+##### na tvaṁ neme janādhipāḥ
+##### na caiva na bhaviṣyāmaḥ
+##### sarve vayam ataḥ param
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **tu** — but; **eva** — certainly; **aham** — I; **jātu** — at any time; **na** — did not; **āsam** — exist; **na** — not; **tvam** — you; **na** — not; **ime** — all these; **jana**-**adhipāḥ** — kings; **na** — never; **ca** — also; **eva** — certainly; **na** — not; **bhaviṣyāmaḥ** — shall exist; **sarve** **vayam** — all of us; **ataḥ** **param** — hereafter.
 
-### Translation
+#### Translation
 
 Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.
 
-### Purport
+#### Purport
 
 In the Vedas – in the Kaṭha Upaniṣad as well as in the Śvetāśvatara Upaniṣad – it is said that the Supreme Personality of Godhead is the maintainer of innumerable living entities, in terms of their different situations according to individual work and reaction of work. That Supreme Personality of Godhead is also, by His plenary portions, alive in the heart of every living entity. Only saintly persons who can see, within and without, the same Supreme Lord can actually attain to perfect and eternal peace.
 
-#### nityo nityānāṁ cetanaś cetanānām
-#### eko bahūnāṁ yo vidadhāti kāmān
-#### tam ātma-sthaṁ ye ’nupaśyanti dhīrās
-#### teṣāṁ śāntiḥ śāśvatī netareṣām
+##### nityo nityānāṁ cetanaś cetanānām
+##### eko bahūnāṁ yo vidadhāti kāmān
+##### tam ātma-sthaṁ ye ’nupaśyanti dhīrās
+##### teṣāṁ śāntiḥ śāśvatī netareṣām
 
-#### (Kaṭha Upaniṣad 2.2.13)
+##### (Kaṭha Upaniṣad 2.2.13)
 
 The same Vedic truth given to Arjuna is given to all persons in the world who pose themselves as very learned but factually have but a poor fund of knowledge. The Lord says clearly that He Himself, Arjuna and all the kings who are assembled on the battlefield are eternally individual beings and that the Lord is eternally the maintainer of the individual living entities both in their conditioned and in their liberated situations. The Supreme Personality of Godhead is the supreme individual person, and Arjuna, the Lord’s eternal associate, and all the kings assembled there are individual eternal persons. It is not that they did not exist as individuals in the past, and it is not that they will not remain eternal persons. Their individuality existed in the past, and their individuality will continue in the future without interruption. Therefore, there is no cause for lamentation for anyone.
 

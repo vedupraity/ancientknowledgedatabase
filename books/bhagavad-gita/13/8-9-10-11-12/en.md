@@ -1,48 +1,48 @@
-#### अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।
-#### आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रह: ॥ ८ ॥
-#### इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च ।
-#### जन्ममृत्युजराव्याधिदु:खदोषानुदर्शनम् ॥ ९ ॥
-#### असक्तिरनभिष्वङ्ग: पुत्रदारगृहादिषु ।
-#### नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ॥ १० ॥
-#### मयि चानन्ययोगेन भक्तिरव्यभिचारिणी ।
-#### विविक्तदेशसेवित्वमरतिर्जनसंसदि ॥ ११ ॥
-#### अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।
-#### एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ॥ १२ ॥
+##### अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।
+##### आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रह: ॥ ८ ॥
+##### इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च ।
+##### जन्ममृत्युजराव्याधिदु:खदोषानुदर्शनम् ॥ ९ ॥
+##### असक्तिरनभिष्वङ्ग: पुत्रदारगृहादिषु ।
+##### नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ॥ १० ॥
+##### मयि चानन्ययोगेन भक्तिरव्यभिचारिणी ।
+##### विविक्तदेशसेवित्वमरतिर्जनसंसदि ॥ ११ ॥
+##### अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।
+##### एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ॥ १२ ॥
 
-#### amānitvam adambhitvam
-#### ahiṁsā kṣāntir ārjavam
-#### ācāryopāsanaṁ śaucaṁ
-#### sthairyam ātma-vinigrahaḥ
+##### amānitvam adambhitvam
+##### ahiṁsā kṣāntir ārjavam
+##### ācāryopāsanaṁ śaucaṁ
+##### sthairyam ātma-vinigrahaḥ
 
-#### indriyārtheṣu vairāgyam
-#### anahaṅkāra eva ca
-#### janma-mṛtyu-jarā-vyādhi-
-#### duḥkha-doṣānudarśanam
+##### indriyārtheṣu vairāgyam
+##### anahaṅkāra eva ca
+##### janma-mṛtyu-jarā-vyādhi-
+##### duḥkha-doṣānudarśanam
 
-#### asaktir anabhiṣvaṅgaḥ
-#### putra-dāra-gṛhādiṣu
-#### nityaṁ ca sama-cittatvam
-#### iṣṭāniṣṭopapattiṣu
+##### asaktir anabhiṣvaṅgaḥ
+##### putra-dāra-gṛhādiṣu
+##### nityaṁ ca sama-cittatvam
+##### iṣṭāniṣṭopapattiṣu
 
-#### mayi cānanya-yogena
-#### bhaktir avyabhicāriṇī
-#### vivikta-deśa-sevitvam
-#### aratir jana-saṁsadi
+##### mayi cānanya-yogena
+##### bhaktir avyabhicāriṇī
+##### vivikta-deśa-sevitvam
+##### aratir jana-saṁsadi
 
-#### adhyātma-jñāna-nityatvaṁ
-#### tattva-jñānārtha-darśanam
-#### etaj jñānam iti proktam
-#### ajñānaṁ yad ato ’nyathā
+##### adhyātma-jñāna-nityatvaṁ
+##### tattva-jñānārtha-darśanam
+##### etaj jñānam iti proktam
+##### ajñānaṁ yad ato ’nyathā
 
-### Synonyms
+#### Synonyms
 
 **amānitvam** — humility; **adambhitvam** — pridelessness; **ahiṁsā** — nonviolence; **kṣāntiḥ** — tolerance; **ārjavam** — simplicity; **ācārya**-**upāsanam** — approaching a bona fide spiritual master; **śaucam** — cleanliness; **sthairyam** — steadfastness; **ātma**-**vinigrahaḥ** — self-control; **indriya**-**artheṣu** — in the matter of the senses; **vairāgyam** — renunciation; **anahaṅkāraḥ** — being without false egoism; **eva** — certainly; **ca** — also; **janma** — of birth; **mṛtyu** — death; **jarā** — old age; **vyādhi** — and disease; **duḥkha** — of the distress; **doṣa** — the fault; **anudarśanam** — observing; **asaktiḥ** — being without attachment; **anabhiṣvaṅgaḥ** — being without association; **putra** — for son; **dāra** — wife; **gṛha**-**ādiṣu** — home, etc.; **nityam** — constant; **ca** — also; **sama**-**cittatvam** — equilibrium; **iṣṭa** — the desirable; **aniṣṭa** — and undesirable; **upapattiṣu** — having obtained; **mayi** — unto Me; **ca** — also; **ananya**-**yogena** — by unalloyed devotional service; **bhaktiḥ** — devotion; **avyabhicāriṇī** — without any break; **vivikta** — to solitary; **deśa** — places; **sevitvam** — aspiring; **aratiḥ** — being without attachment; **jana**-**saṁsadi** — to people in general; **adhyātma** — pertaining to the self; **jñāna** — in knowledge; **nityatvam** — constancy; **tattva**-**jñāna** — of knowledge of the truth; **artha** — for the object; **darśanam** — philosophy; **etat** — all this; **jñānam** — knowledge; **iti** — thus; **proktam** — declared; **ajñānam** — ignorance; **yat** — that which; **ataḥ** — from this; **anyathā** — other.
 
-### Translation
+#### Translation
 
 Humility; pridelessness; nonviolence; tolerance; simplicity; approaching a bona fide spiritual master; cleanliness; steadiness; self-control; renunciation of the objects of sense gratification; absence of false ego; the perception of the evil of birth, death, old age and disease; detachment; freedom from entanglement with children, wife, home and the rest; even-mindedness amid pleasant and unpleasant events; constant and unalloyed devotion to Me; aspiring to live in a solitary place; detachment from the general mass of people; accepting the importance of self-realization; and philosophical search for the Absolute Truth – all these I declare to be knowledge, and besides this whatever there may be is ignorance.
 
-### Purport
+#### Purport
 
 This process of knowledge is sometimes misunderstood by less intelligent men as being the interaction of the field of activity. But actually this is the real process of knowledge. If one accepts this process, then the possibility of approaching the Absolute Truth exists. This is not the interaction of the twenty-four elements, as described before. This is actually the means to get out of the entanglement of those elements. The embodied soul is entrapped by the body, which is a casing made of the twenty-four elements, and the process of knowledge as described here is the means to get out of it. Of all the descriptions of the process of knowledge, the most important point is described in the first line of the eleventh verse. Mayi cānanya-yogena bhaktir avyabhicāriṇī: the process of knowledge terminates in unalloyed devotional service to the Lord. So if one does not approach, or is not able to approach, the transcendental service of the Lord, then the other nineteen items are of no particular value. But if one takes to devotional service in full Kṛṣṇa consciousness, the other nineteen items automatically develop within him. As stated in Śrīmad-Bhāgavatam (5.18.12), yasyāsti bhaktir bhagavaty akiñcanā sarvair guṇais tatra samāsate surāḥ. All the good qualities of knowledge develop in one who has attained the stage of devotional service. The principle of accepting a spiritual master, as mentioned in the eighth verse, is essential. Even for one who takes to devotional service, it is most important. Transcendental life begins when one accepts a bona fide spiritual master. The Supreme Personality of Godhead, Śrī Kṛṣṇa, clearly states here that this process of knowledge is the actual path. Anything speculated beyond this is nonsense.
 

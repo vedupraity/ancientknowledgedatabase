@@ -1,20 +1,20 @@
-#### यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति ।
-#### तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ॥ २१ ॥
+##### यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति ।
+##### तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ॥ २१ ॥
 
-#### yo yo yāṁ yāṁ tanuṁ bhaktaḥ
-#### śraddhayārcitum icchati
-#### tasya tasyācalāṁ śraddhāṁ
-#### tām eva vidadhāmy aham
+##### yo yo yāṁ yāṁ tanuṁ bhaktaḥ
+##### śraddhayārcitum icchati
+##### tasya tasyācalāṁ śraddhāṁ
+##### tām eva vidadhāmy aham
 
-### Synonyms
+#### Synonyms
 
 **yaḥ** **yaḥ** — whoever; **yām** **yām** — whichever; **tanum** — form of a demigod; **bhaktaḥ** — devotee; **śraddhayā** — with faith; **arcitum** — to worship; **icchati** — desires; **tasya** **tasya** — to him; **acalām** — steady; **śraddhām** — faith; **tām** — that; **eva** — surely; **vidadhāmi** — give; **aham** — I.
 
-### Translation
+#### Translation
 
 I am in everyone’s heart as the Supersoul. As soon as one desires to worship some demigod, I make his faith steady so that he can devote himself to that particular deity.
 
-### Purport
+#### Purport
 
 God has given independence to everyone; therefore, if a person desires to have material enjoyment and wants very sincerely to have such facilities from the material demigods, the Supreme Lord, as Supersoul in everyone’s heart, understands and gives facilities to such persons. As the supreme father of all living entities, He does not interfere with their independence, but gives all facilities so that they can fulfill their material desires. Some may ask why the all-powerful God gives facilities to the living entities for enjoying this material world and so lets them fall into the trap of the illusory energy. The answer is that if the Supreme Lord as Supersoul does not give such facilities, then there is no meaning to independence. Therefore He gives everyone full independence – whatever one likes – but His ultimate instruction we find in the Bhagavad-gītā: one should give up all other engagements and fully surrender unto Him. That will make man happy.
 

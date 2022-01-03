@@ -1,20 +1,20 @@
-#### क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।
-#### क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ॥ ३ ॥
+##### क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।
+##### क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ॥ ३ ॥
 
-#### kṣetra-jñaṁ cāpi māṁ viddhi
-#### sarva-kṣetreṣu bhārata
-#### kṣetra-kṣetrajñayor jñānaṁ
-#### yat taj jñānaṁ mataṁ mama
+##### kṣetra-jñaṁ cāpi māṁ viddhi
+##### sarva-kṣetreṣu bhārata
+##### kṣetra-kṣetrajñayor jñānaṁ
+##### yat taj jñānaṁ mataṁ mama
 
-### Synonyms
+#### Synonyms
 
 **kṣetra**-**jñam** — the knower of the field; **ca** — also; **api** — certainly; **mām** — Me; **viddhi** — know; **sarva** — all; **kṣetreṣu** — in bodily fields; **bhārata** — O son of Bharata; **kṣetra** — the field of activities (the body); **kṣetra**-**jñayoḥ** — and the knower of the field; **jñānam** — knowledge of; **yat** — that which; **tat** — that; **jñānam** — knowledge; **matam** — opinion; **mama** — My.
 
-### Translation
+#### Translation
 
 O scion of Bharata, you should understand that I am also the knower in all bodies, and to understand this body and its knower is called knowledge. That is My opinion.
 
-### Purport
+#### Purport
 
 While discussing the subject of the body and the knower of the body, the soul and the Supersoul, we shall find three different topics of study: the Lord, the living entity, and matter. In every field of activities, in every body, there are two souls: the individual soul and the Supersoul. Because the Supersoul is the plenary expansion of the Supreme Personality of Godhead, Kṛṣṇa, Kṛṣṇa says, “I am also the knower, but I am not the individual knower of the body. I am the superknower. I am present in every body as the Paramātmā, or Supersoul.”
 
@@ -24,10 +24,10 @@ The Lord says, “I am the knower of the field of activities in every individual
 
 The body consists of the senses. The Supreme Lord is Hṛṣīkeśa, which means “the controller of the senses.” He is the original controller of the senses, just as the king is the original controller of all the activities of the state; the citizens are secondary controllers. The Lord says, “I am also the knower.” This means that He is the superknower; the individual soul knows only his particular body. In the Vedic literature, it is stated as follows:
 
-#### kṣetrāṇi hi śarīrāṇi
-#### bījaṁ cāpi śubhāśubhe
-#### tāni vetti sa yogātmā
-#### tataḥ kṣetra-jña ucyate
+##### kṣetrāṇi hi śarīrāṇi
+##### bījaṁ cāpi śubhāśubhe
+##### tāni vetti sa yogātmā
+##### tataḥ kṣetra-jña ucyate
 
 This body is called the kṣetra, and within it dwells the owner of the body and the Supreme Lord, who knows both the body and the owner of the body. Therefore He is called the knower of all fields. The distinction between the field of activities, the knower of activities, and the supreme knower of activities is described as follows. Perfect knowledge of the constitution of the body, the constitution of the individual soul, and the constitution of the Supersoul is known in terms of Vedic literature as jñāna. That is the opinion of Kṛṣṇa. To understand both the soul and the Supersoul as one yet distinct is knowledge. One who does not understand the field of activity and the knower of activity is not in perfect knowledge. One has to understand the position of prakṛti (nature), puruṣa (the enjoyer of nature) and īśvara (the knower who dominates or controls nature and the individual soul). One should not confuse the three in their different capacities. One should not confuse the painter, the painting and the easel. This material world, which is the field of activities, is nature, and the enjoyer of nature is the living entity, and above them both is the supreme controller, the Personality of Godhead. It is stated in the Vedic language (in the Śvetāśvatara Upaniṣad 1.12), bhoktā bhogyaṁ preritāraṁ ca matvā/ sarvaṁ proktaṁ tri-vidhaṁ brahmam etat. There are three Brahman conceptions: prakṛti is Brahman as the field of activities, and the jīva (individual soul) is also Brahman and is trying to control material nature, and the controller of both of them is also Brahman, but He is the factual controller.
 

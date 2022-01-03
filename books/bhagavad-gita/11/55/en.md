@@ -1,29 +1,29 @@
-#### मत्कर्मकृन्मत्परमो मद्भक्त: सङ्गवर्जित: ।
-#### निर्वैर: सर्वभूतेषु य: स मामेति पाण्डव ॥ ५५ ॥
+##### मत्कर्मकृन्मत्परमो मद्भक्त: सङ्गवर्जित: ।
+##### निर्वैर: सर्वभूतेषु य: स मामेति पाण्डव ॥ ५५ ॥
 
-#### mat-karma-kṛn mat-paramo
-#### mad-bhaktaḥ saṅga-varjitaḥ
-#### nirvairaḥ sarva-bhūteṣu
-#### yaḥ sa mām eti pāṇḍava
+##### mat-karma-kṛn mat-paramo
+##### mad-bhaktaḥ saṅga-varjitaḥ
+##### nirvairaḥ sarva-bhūteṣu
+##### yaḥ sa mām eti pāṇḍava
 
-### Synonyms
+#### Synonyms
 
 **mat**-**karma**-**kṛt** — engaged in doing My work; **mat**-**paramaḥ** — considering Me the Supreme; **mat**-**bhaktaḥ** — engaged in My devotional service; **saṅga**-**varjitaḥ** — freed from the contamination of fruitive activities and mental speculation; **nirvairaḥ** — without an enemy; **sarva**-**bhūteṣu** — among all living entities; **yaḥ** — one who; **saḥ** — he; **mām** — unto Me; **eti** — comes; **pāṇḍava** — O son of Pāṇḍu.
 
-### Translation
+#### Translation
 
 My dear Arjuna, he who engages in My pure devotional service, free from the contaminations of fruitive activities and mental speculation, he who works for Me, who makes Me the supreme goal of his life, and who is friendly to every living being – he certainly comes to Me.
 
-### Purport
+#### Purport
 
 Anyone who wants to approach the supreme of all the Personalities of Godhead, on the Kṛṣṇaloka planet in the spiritual sky, and be intimately connected with the Supreme Personality, Kṛṣṇa, must take this formula, as stated by the Supreme Himself. Therefore, this verse is considered to be the essence of Bhagavad-gītā. The Bhagavad-gītā is a book directed to the conditioned souls, who are engaged in the material world with the purpose of lording it over nature and who do not know of the real, spiritual life. The Bhagavad-gītā is meant to show how one can understand his spiritual existence and his eternal relationship with the supreme spiritual personality and to teach one how to go back home, back to Godhead. Now here is the verse which clearly explains the process by which one can attain success in his spiritual activity: devotional service.
 
 As far as work is concerned, one should transfer his energy entirely to Kṛṣṇa conscious activities. As stated in the Bhakti-rasāmṛta-sindhu (1.2.255),
 
-#### anāsaktasya viṣayān
-#### yathārham upayuñjataḥ
-#### nirbandhaḥ kṛṣṇa-sambandhe
-#### yuktaṁ vairāgyam ucyate
+##### anāsaktasya viṣayān
+##### yathārham upayuñjataḥ
+##### nirbandhaḥ kṛṣṇa-sambandhe
+##### yuktaṁ vairāgyam ucyate
 
 No work should be done by any man except in relationship to Kṛṣṇa. This is called kṛṣṇa-karma. One may be engaged in various activities, but one should not be attached to the result of his work; the result should be done only for Him. For example, one may be engaged in business, but to transform that activity into Kṛṣṇa consciousness, one has to do business for Kṛṣṇa. If Kṛṣṇa is the proprietor of the business, then Kṛṣṇa should enjoy the profit of the business. If a businessman is in possession of thousands and thousands of dollars, and if he has to offer all this to Kṛṣṇa, he can do it. This is work for Kṛṣṇa. Instead of constructing a big building for his sense gratification, he can construct a nice temple for Kṛṣṇa, and he can install the Deity of Kṛṣṇa and arrange for the Deity’s service, as is outlined in the authorized books of devotional service. This is all kṛṣṇa-karma. One should not be attached to the result of his work, but the result should be offered to Kṛṣṇa, and one should accept as prasādam the remnants of offerings to Kṛṣṇa. If one constructs a very big building for Kṛṣṇa and installs the Deity of Kṛṣṇa, one is not prohibited from living there, but it is understood that the proprietor of the building is Kṛṣṇa. That is called Kṛṣṇa consciousness. If, however, one is not able to construct a temple for Kṛṣṇa, one can engage himself in cleansing the temple of Kṛṣṇa; that is also kṛṣṇa-karma. One can cultivate a garden. Anyone who has land – in India, at least, any poor man has a certain amount of land – can utilize that for Kṛṣṇa by growing flowers to offer Him. One can sow tulasī plants, because tulasī leaves are very important and Kṛṣṇa has recommended this in Bhagavad-gītā. Patraṁ puṣpaṁ phalaṁ toyam. Kṛṣṇa desires that one offer Him either a leaf, or a flower, or fruit, or a little water – and by such an offering He is satisfied. This leaf especially refers to the tulasī. So one can sow tulasī and pour water on the plant. Thus, even the poorest man can engage in the service of Kṛṣṇa. These are some of the examples of how one can engage in working for Kṛṣṇa.
 
@@ -31,10 +31,10 @@ The word mat-paramaḥ refers to one who considers the association of Kṛṣṇ
 
 The term saṅga-varjitaḥ is very significant. One should disassociate himself from persons who are against Kṛṣṇa. Not only are the atheistic persons against Kṛṣṇa, but so also are those who are attracted to fruitive activities and mental speculation. Therefore the pure form of devotional service is described in Bhakti-rasāmṛta-sindhu (1.1.11) as follows:
 
-#### anyābhilāṣitā-śūnyaṁ
-#### jñāna-karmādy-anāvṛtam
-#### ānukūlyena kṛṣṇānu-
-#### śīlanaṁ bhaktir uttamā
+##### anyābhilāṣitā-śūnyaṁ
+##### jñāna-karmādy-anāvṛtam
+##### ānukūlyena kṛṣṇānu-
+##### śīlanaṁ bhaktir uttamā
 
 In this verse Śrīla Rūpa Gosvāmī clearly states that if anyone wants to execute unalloyed devotional service, he must be freed from all kinds of material contamination. He must be freed from the association of persons who are addicted to fruitive activities and mental speculation. When, freed from such unwanted association and from the contamination of material desires, one favorably cultivates knowledge of Kṛṣṇa, that is called pure devotional service. Ānukūlyasya saṅkalpaḥ prātikūlyasya varjanam (Hari-bhakti-vilāsa 11.676). One should think of Kṛṣṇa and act for Kṛṣṇa favorably, not unfavorably. Kaṁsa was an enemy of Kṛṣṇa’s. From the very beginning of Kṛṣṇa’s birth, Kaṁsa planned in so many ways to kill Him, and because he was always unsuccessful, he was always thinking of Kṛṣṇa. Thus while working, while eating and while sleeping, he was always Kṛṣṇa conscious in every respect, but that Kṛṣṇa consciousness was not favorable, and therefore in spite of his always thinking of Kṛṣṇa twenty-four hours a day, he was considered a demon, and Kṛṣṇa at last killed him. Of course anyone who is killed by Kṛṣṇa attains salvation immediately, but that is not the aim of the pure devotee. The pure devotee does not even want salvation. He does not want to be transferred even to the highest planet, Goloka Vṛndāvana. His only objective is to serve Kṛṣṇa wherever he may be.
 

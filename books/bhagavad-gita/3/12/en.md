@@ -1,20 +1,20 @@
-#### इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।
-#### तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥ १२ ॥
+##### इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।
+##### तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥ १२ ॥
 
-#### iṣṭān bhogān hi vo devā
-#### dāsyante yajña-bhāvitāḥ
-#### tair dattān apradāyaibhyo
-#### yo bhuṅkte stena eva saḥ
+##### iṣṭān bhogān hi vo devā
+##### dāsyante yajña-bhāvitāḥ
+##### tair dattān apradāyaibhyo
+##### yo bhuṅkte stena eva saḥ
 
-### Synonyms
+#### Synonyms
 
 **iṣṭān** — desired; **bhogān** — necessities of life; **hi** — certainly; **vaḥ** — unto you; **devāḥ** — the demigods; **dāsyante** — will award; **yajña**-**bhāvitāḥ** — being satisfied by the performance of sacrifices; **taiḥ** — by them; **dattān** — things given; **apradāya** — without offering; **ebhyaḥ** — to these demigods; **yaḥ** — he who; **bhuṅkte** — enjoys; **stenaḥ** — thief; **eva** — certainly; **saḥ** — he.
 
-### Translation
+#### Translation
 
 In charge of the various necessities of life, the demigods, being satisfied by the performance of yajña [sacrifice], will supply all necessities to you. But he who enjoys such gifts without offering them to the demigods in return is certainly a thief.
 
-### Purport
+#### Purport
 
 The demigods are authorized supplying agents on behalf of the Supreme Personality of Godhead, Viṣṇu. Therefore, they must be satisfied by the performance of prescribed yajñas. In the Vedas, there are different kinds of yajñas prescribed for different kinds of demigods, but all are ultimately offered to the Supreme Personality of Godhead. For one who cannot understand what the Personality of Godhead is, sacrifice to the demigods is recommended. According to the different material qualities of the persons concerned, different types of yajñas are recommended in the Vedas. Worship of different demigods is also on the same basis – namely, according to different qualities. For example, the meat-eaters are recommended to worship the goddess Kālī, the ghastly form of material nature, and before the goddess the sacrifice of animals is recommended. But for those who are in the mode of goodness, the transcendental worship of Viṣṇu is recommended. But ultimately all yajñas are meant for gradual promotion to the transcendental position. For ordinary men, at least five yajñas, known as pañca-mahā-yajña, are necessary.
 

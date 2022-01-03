@@ -1,20 +1,20 @@
-#### ममैवांशो जीवलोके जीवभूत: सनातन: ।
-#### मन:षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥ ७ ॥
+##### ममैवांशो जीवलोके जीवभूत: सनातन: ।
+##### मन:षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥ ७ ॥
 
-#### mamaivāṁśo jīva-loke
-#### jīva-bhūtaḥ sanātanaḥ
-#### manaḥ-ṣaṣṭhānīndriyāṇi
-#### prakṛti-sthāni karṣati
+##### mamaivāṁśo jīva-loke
+##### jīva-bhūtaḥ sanātanaḥ
+##### manaḥ-ṣaṣṭhānīndriyāṇi
+##### prakṛti-sthāni karṣati
 
-### Synonyms
+#### Synonyms
 
 **mama** — My; **eva** — certainly; **aṁśaḥ** — fragmental particle; **jīva**-**loke** — in the world of conditional life; **jīva**-**bhūtaḥ** — the conditioned living entity; **sanātanaḥ** — eternal; **manaḥ** — with the mind; **ṣaṣṭhāni** — the six; **indriyāṇi** — senses; **prakṛti** — in material nature; **sthāni** — situated; **karṣati** — is struggling hard.
 
-### Translation
+#### Translation
 
 The living entities in this conditioned world are My eternal fragmental parts. Due to conditioned life, they are struggling very hard with the six senses, which include the mind.
 
-### Purport
+#### Purport
 
 In this verse the identity of the living being is clearly given. The living entity is the fragmental part and parcel of the Supreme Lord – eternally. It is not that he assumes individuality in his conditional life and in his liberated state becomes one with the Supreme Lord. He is eternally fragmented. It is clearly said, sanātanaḥ. According to the Vedic version, the Supreme Lord manifests and expands Himself in innumerable expansions, of which the primary expansions are called viṣṇu-tattva and the secondary expansions are called the living entities. In other words, the viṣṇu-tattva is the personal expansion, and the living entities are the separated expansions. By His personal expansion, He is manifested in various forms like Lord Rāma, Nṛsiṁha-deva, Viṣṇumūrti and all the predominating Deities in the Vaikuṇṭha planets. The separated expansions, the living entities, are eternally servitors. The personal expansions of the Supreme Personality of Godhead, the individual identities of the Godhead, are always present. Similarly, the separated expansions of living entities have their identities. As fragmental parts and parcels of the Supreme Lord, the living entities also have fragmental portions of His qualities, of which independence is one. Every living entity, as an individual soul, has his personal individuality and a minute form of independence. By misuse of that independence one becomes a conditioned soul, and by proper use of independence he is always liberated. In either case, he is qualitatively eternal, as the Supreme Lord is. In his liberated state he is freed from this material condition, and he is under the engagement of transcendental service unto the Lord; in his conditioned life he is dominated by the material modes of nature, and he forgets the transcendental loving service of the Lord. As a result, he has to struggle very hard to maintain his existence in the material world.
 

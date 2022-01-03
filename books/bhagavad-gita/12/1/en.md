@@ -1,22 +1,22 @@
-#### अर्जुन उवाच
-#### एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।
-#### ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमा: ॥ १ ॥
+##### अर्जुन उवाच
+##### एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।
+##### ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमा: ॥ १ ॥
 
-#### arjuna uvāca
-#### evaṁ satata-yuktā ye
-#### bhaktās tvāṁ paryupāsate
-#### ye cāpy akṣaram avyaktaṁ
-#### teṣāṁ ke yoga-vittamāḥ
+##### arjuna uvāca
+##### evaṁ satata-yuktā ye
+##### bhaktās tvāṁ paryupāsate
+##### ye cāpy akṣaram avyaktaṁ
+##### teṣāṁ ke yoga-vittamāḥ
 
-### Synonyms
+#### Synonyms
 
 **arjunaḥ** **uvāca** — Arjuna said; **evam** — thus; **satata** — always; **yuktāḥ** — engaged; **ye** — those who; **bhaktāḥ** — devotees; **tvām** — You; **paryupāsate** — properly worship; **ye** — those who; **ca** — also; **api** — again; **akṣaram** — beyond the senses; **avyaktam** — the unmanifested; **teṣām** — of them; **ke** — who; **yoga**-**vit**-**tamāḥ** — the most perfect in knowledge of **yoga.**
 
-### Translation
+#### Translation
 
 Arjuna inquired: Which are considered to be more perfect, those who are always properly engaged in Your devotional service or those who worship the impersonal Brahman, the unmanifested?
 
-### Purport
+#### Purport
 
 Kṛṣṇa has now explained about the personal, the impersonal and the universal and has described all kinds of devotees and yogīs. Generally, the transcendentalists can be divided into two classes. One is the impersonalist, and the other is the personalist. The personalist devotee engages himself with all energy in the service of the Supreme Lord. The impersonalist also engages himself, not directly in the service of Kṛṣṇa but in meditation on the impersonal Brahman, the unmanifested.
 

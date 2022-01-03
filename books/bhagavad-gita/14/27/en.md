@@ -1,20 +1,20 @@
-#### ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च ।
-#### शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ॥ २७ ॥
+##### ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च ।
+##### शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ॥ २७ ॥
 
-#### brahmaṇo hi pratiṣṭhāham
-#### amṛtasyāvyayasya ca
-#### śāśvatasya ca dharmasya
-#### sukhasyaikāntikasya ca
+##### brahmaṇo hi pratiṣṭhāham
+##### amṛtasyāvyayasya ca
+##### śāśvatasya ca dharmasya
+##### sukhasyaikāntikasya ca
 
-### Synonyms
+#### Synonyms
 
 **brahmaṇaḥ** — of the impersonal **brahma-jyotir**; **hi** — certainly; **pratiṣṭhā** — the rest; **aham** — I am; **amṛtasya** — of the immortal; **avyayasya** — of the imperishable; **ca** — also; **śāśvatasya** — of the eternal; **ca** — and; **dharmasya** — of the constitutional position; **sukhasya** — of happiness; **aikāntikasya** — ultimate; **ca** — also.
 
-### Translation
+#### Translation
 
 And I am the basis of the impersonal Brahman, which is immortal, imperishable and eternal and is the constitutional position of ultimate happiness.
 
-### Purport
+#### Purport
 
 The constitution of Brahman is immortality, imperishability, eternity and happiness. Brahman is the beginning of transcendental realization. Paramātmā, the Supersoul, is the middle, the second stage in transcendental realization, and the Supreme Personality of Godhead is the ultimate realization of the Absolute Truth. Therefore, both Paramātmā and the impersonal Brahman are within the Supreme Person. It is explained in the Seventh Chapter that material nature is the manifestation of the inferior energy of the Supreme Lord. The Lord impregnates the inferior, material nature with fragments of the superior nature, and that is the spiritual touch in the material nature. When a living entity conditioned by this material nature begins the cultivation of spiritual knowledge, he elevates himself from the position of material existence and gradually rises up to the Brahman conception of the Supreme. This attainment of the Brahman conception of life is the first stage in self-realization. At this stage the Brahman-realized person is transcendental to the material position, but he is not actually perfect in Brahman realization. If he wants, he can continue to stay in the Brahman position and then gradually rise up to Paramātmā realization and then to the realization of the Supreme Personality of Godhead. There are many examples of this in Vedic literature. The four Kumāras were situated first in the impersonal Brahman conception of truth, but then they gradually rose to the platform of devotional service. One who cannot elevate himself beyond the impersonal conception of Brahman runs the risk of falling down. In Śrīmad-Bhāgavatam it is stated that although a person may rise to the stage of impersonal Brahman, without going further, with no information of the Supreme Person, his intelligence is not perfectly clear. Therefore, in spite of being raised to the Brahman platform, there is the chance of falling down if one is not engaged in the devotional service of the Lord. In the Vedic language it is also said, raso vai saḥ, rasaṁ hy evāyaṁ labdhvānandī bhavati: “When one understands the Personality of Godhead, the reservoir of pleasure, Kṛṣṇa, he actually becomes transcendentally blissful.” (Taittirīya Upaniṣad 2.7.1) The Supreme Lord is full in six opulences, and when a devotee approaches Him there is an exchange of these six opulences. The servant of the king enjoys on an almost equal level with the king. And so eternal happiness, imperishable happiness, and eternal life accompany devotional service. Therefore, realization of Brahman, or eternity, or imperishability, is included in devotional service. This is already possessed by a person who is engaged in devotional service.
 

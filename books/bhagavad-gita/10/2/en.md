@@ -1,20 +1,20 @@
-#### न मे विदु: सुरगणा: प्रभवं न महर्षय: ।
-#### अहमादिर्हि देवानां महर्षीणां च सर्वश: ॥ २ ॥
+##### न मे विदु: सुरगणा: प्रभवं न महर्षय: ।
+##### अहमादिर्हि देवानां महर्षीणां च सर्वश: ॥ २ ॥
 
-#### na me viduḥ sura-gaṇāḥ
-#### prabhavaṁ na maharṣayaḥ
-#### aham ādir hi devānāṁ
-#### maharṣīṇāṁ ca sarvaśaḥ
+##### na me viduḥ sura-gaṇāḥ
+##### prabhavaṁ na maharṣayaḥ
+##### aham ādir hi devānāṁ
+##### maharṣīṇāṁ ca sarvaśaḥ
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **me** — My; **viduḥ** — know; **sura**-**gaṇāḥ** — the demigods; **prabhavam** — origin, opulences; **na** — never; **mahā**-**ṛṣayaḥ** — great sages; **aham** — I am; **ādiḥ** — the origin; **hi** — certainly; **devānām** — of the demigods; **mahā**-**ṛṣīṇām** — of the great sages; **ca** — also; **sarvaśaḥ** — in all respects.
 
-### Translation
+#### Translation
 
 Neither the hosts of demigods nor the great sages know My origin or opulences, for, in every respect, I am the source of the demigods and sages.
 
-### Purport
+#### Purport
 
 As stated in the Brahma-saṁhitā, Lord Kṛṣṇa is the Supreme Lord. No one is greater than Him; He is the cause of all causes. Here it is also stated by the Lord personally that He is the cause of all the demigods and sages. Even the demigods and great sages cannot understand Kṛṣṇa; they can understand neither His name nor His personality, so what is the position of the so-called scholars of this tiny planet? No one can understand why this Supreme God comes to earth as an ordinary human being and executes such wonderful, uncommon activities. One should know, then, that scholarship is not the qualification necessary to understand Kṛṣṇa. Even the demigods and the great sages have tried to understand Kṛṣṇa by their mental speculation, and they have failed to do so. In the Śrīmad-Bhāgavatam also it is clearly said that even the great demigods are not able to understand the Supreme Personality of Godhead. They can speculate to the limits of their imperfect senses and can reach the opposite conclusion of impersonalism, of something not manifested by the three qualities of material nature, or they can imagine something by mental speculation, but it is not possible to understand Kṛṣṇa by such foolish speculation.
 

@@ -1,20 +1,20 @@
-#### प्रकृतिं स्वामवष्टभ्य विसृजामि पुन: पुन: ।
-#### भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥ ८ ॥
+##### प्रकृतिं स्वामवष्टभ्य विसृजामि पुन: पुन: ।
+##### भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥ ८ ॥
 
-#### prakṛtiṁ svām avaṣṭabhya
-#### visṛjāmi punaḥ punaḥ
-#### bhūta-grāmam imaṁ kṛtsnam
-#### avaśaṁ prakṛter vaśāt
+##### prakṛtiṁ svām avaṣṭabhya
+##### visṛjāmi punaḥ punaḥ
+##### bhūta-grāmam imaṁ kṛtsnam
+##### avaśaṁ prakṛter vaśāt
 
-### Synonyms
+#### Synonyms
 
 **prakṛtim** — the material nature; **svām** — of My personal Self; **avaṣṭabhya** — entering into; **visṛjāmi** — I create; **punaḥ** **punaḥ** — again and again; **bhūta**-**grāmam** — all the cosmic manifestations; **imam** — these; **kṛtsnam** — in total; **avaśam** — automatically; **prakṛteḥ** — of the force of nature; **vaśāt** — under obligation.
 
-### Translation
+#### Translation
 
 The whole cosmic order is under Me. Under My will it is automatically manifested again and again, and under My will it is annihilated at the end.
 
-### Purport
+#### Purport
 
 This material world is the manifestation of the inferior energy of the Supreme Personality of Godhead. This has already been explained several times. At the creation, the material energy is let loose as the mahat-tattva, into which the Lord as His first puruṣa incarnation, Mahā-viṣṇu, enters. He lies within the Causal Ocean and breathes out innumerable universes, and into each universe the Lord again enters as Garbhodaka-śāyī Viṣṇu. Each universe is in that way created. He still further manifests Himself as Kṣīrodaka-śāyī Viṣṇu, and that Viṣṇu enters into everything – even into the minute atom. This fact is explained here. He enters into everything.
 

@@ -1,20 +1,20 @@
-#### अहमात्मा गुडाकेश सर्वभूताशयस्थित: ।
-#### अहमादिश्च मध्यं च भूतानामन्त एव च ॥ २० ॥
+##### अहमात्मा गुडाकेश सर्वभूताशयस्थित: ।
+##### अहमादिश्च मध्यं च भूतानामन्त एव च ॥ २० ॥
 
-#### aham ātmā guḍākeśa
-#### sarva-bhūtāśaya-sthitaḥ
-#### aham ādiś ca madhyaṁ ca
-#### bhūtānām anta eva ca
+##### aham ātmā guḍākeśa
+##### sarva-bhūtāśaya-sthitaḥ
+##### aham ādiś ca madhyaṁ ca
+##### bhūtānām anta eva ca
 
-### Synonyms
+#### Synonyms
 
 **aham** — I; **ātmā** — the soul; **guḍākeśa** — O Arjuna; **sarva**-**bhūta** — of all living entities; **āśaya**-**sthitaḥ** — situated within the heart; **aham** — I am; **ādiḥ** — the origin; **ca** — also; **madhyam** — middle; **ca** — also; **bhūtānām** — of all living entities; **antaḥ** — end; **eva** — certainly; **ca** — and.
 
-### Translation
+#### Translation
 
 I am the Supersoul, O Arjuna, seated in the hearts of all living entities. I am the beginning, the middle and the end of all beings.
 
-### Purport
+#### Purport
 
 In this verse Arjuna is addressed as Guḍākeśa, which means “one who has conquered the darkness of sleep.” For those who are sleeping in the darkness of ignorance, it is not possible to understand how the Supreme Personality of Godhead manifests Himself in various ways in the material and spiritual worlds. Thus this address by Kṛṣṇa to Arjuna is significant. Because Arjuna is above such darkness, the Personality of Godhead agrees to describe His various opulences.
 

@@ -1,20 +1,20 @@
-#### योगी युञ्जीत सततमात्मानं रहसि स्थित: ।
-#### एकाकी यतचित्तात्मा निराशीरपरिग्रह: ॥ १० ॥
+##### योगी युञ्जीत सततमात्मानं रहसि स्थित: ।
+##### एकाकी यतचित्तात्मा निराशीरपरिग्रह: ॥ १० ॥
 
-#### yogī yuñjīta satatam
-#### ātmānaṁ rahasi sthitaḥ
-#### ekākī yata-cittātmā
-#### nirāśīr aparigrahaḥ
+##### yogī yuñjīta satatam
+##### ātmānaṁ rahasi sthitaḥ
+##### ekākī yata-cittātmā
+##### nirāśīr aparigrahaḥ
 
-### Synonyms
+#### Synonyms
 
 **yogī** — a transcendentalist; **yuñjīta** — must concentrate in Kṛṣṇa consciousness; **satatam** — constantly; **ātmānam** — himself (by body, mind and self); **rahasi** — in a secluded place; **sthitaḥ** — being situated; **ekākī** — alone; **yata**-**citta**-**ātmā** — always careful in mind; **nirāśīḥ** — without being attracted by anything else; **aparigrahaḥ** — free from the feeling of possessiveness.
 
-### Translation
+#### Translation
 
 A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness.
 
-### Purport
+#### Purport
 
 Kṛṣṇa is realized in different degrees as Brahman, Paramātmā and the Supreme Personality of Godhead. Kṛṣṇa consciousness means, concisely, to be always engaged in the transcendental loving service of the Lord. But those who are attached to the impersonal Brahman or the localized Supersoul are also partially Kṛṣṇa conscious, because the impersonal Brahman is the spiritual ray of Kṛṣṇa and the Supersoul is the all-pervading partial expansion of Kṛṣṇa. Thus the impersonalist and the meditator are also indirectly Kṛṣṇa conscious. A directly Kṛṣṇa conscious person is the topmost transcendentalist because such a devotee knows what is meant by Brahman and Paramātmā. His knowledge of the Absolute Truth is perfect, whereas the impersonalist and the meditative yogī are imperfectly Kṛṣṇa conscious.
 
@@ -22,13 +22,13 @@ Nevertheless, all of these are instructed herewith to be constantly engaged in t
 
 All these perfections and precautions are perfectly executed when one is directly in Kṛṣṇa consciousness, because direct Kṛṣṇa consciousness means self-abnegation, wherein there is very little chance for material possessiveness. Śrīla Rūpa Gosvāmī characterizes Kṛṣṇa consciousness in this way:
 
-#### anāsaktasya viṣayān, yathārham upayuñjataḥ
-#### nirbandhaḥ kṛṣṇa-sambandhe, yuktaṁ vairāgyam ucyate
+##### anāsaktasya viṣayān, yathārham upayuñjataḥ
+##### nirbandhaḥ kṛṣṇa-sambandhe, yuktaṁ vairāgyam ucyate
 
-#### prāpañcikatayā buddhyā
-#### hari-sambandhi-vastunaḥ
-#### mumukṣubhiḥ parityāgo
-#### vairāgyaṁ phalgu kathyate
+##### prāpañcikatayā buddhyā
+##### hari-sambandhi-vastunaḥ
+##### mumukṣubhiḥ parityāgo
+##### vairāgyaṁ phalgu kathyate
 
 “When one is not attached to anything, but at the same time accepts everything in relation to Kṛṣṇa, one is rightly situated above possessiveness. On the other hand, one who rejects everything without knowledge of its relationship to Kṛṣṇa is not as complete in his renunciation.” (Bhakti-rasāmṛta-sindhu 1.2.255–256)
 

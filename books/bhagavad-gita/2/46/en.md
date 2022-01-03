@@ -1,27 +1,27 @@
-#### यावानर्थ उदपाने सर्वतः सम्प्लुतोदके ।
-#### तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ ४६ ॥
+##### यावानर्थ उदपाने सर्वतः सम्प्लुतोदके ।
+##### तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ ४६ ॥
 
-#### yāvān artha uda-pāne
-#### sarvataḥ samplutodake
-#### tāvān sarveṣu vedeṣu
-#### brāhmaṇasya vijānataḥ
+##### yāvān artha uda-pāne
+##### sarvataḥ samplutodake
+##### tāvān sarveṣu vedeṣu
+##### brāhmaṇasya vijānataḥ
 
-### Synonyms
+#### Synonyms
 
 **yāvān** — all that; **arthaḥ** — is meant; **uda**-**pāne** — in a well of water; **sarvataḥ** — in all respects; **sampluta**-**udake** — in a great reservoir of water; **tāvān** — similarly; **sarveṣu** — in all; **vedeṣu** — Vedic literatures; **brāhmaṇasya** — of the man who knows the Supreme Brahman; **vijānataḥ** — who is in complete knowledge.
 
-### Translation
+#### Translation
 
 All purposes served by a small well can at once be served by a great reservoir of water. Similarly, all the purposes of the Vedas can be served to one who knows the purpose behind them.
 
-### Purport
+#### Purport
 
 The rituals and sacrifices mentioned in the karma-kāṇḍa division of the Vedic literature are meant to encourage gradual development of self-realization. And the purpose of self-realization is clearly stated in the Fifteenth Chapter of the Bhagavad-gītā (15.15): the purpose of studying the Vedas is to know Lord Kṛṣṇa, the primeval cause of everything. So, self-realization means understanding Kṛṣṇa and one’s eternal relationship with Him. The relationship of the living entities with Kṛṣṇa is also mentioned in the Fifteenth Chapter of Bhagavad-gītā (15.7). The living entities are parts and parcels of Kṛṣṇa; therefore, revival of Kṛṣṇa consciousness by the individual living entity is the highest perfectional stage of Vedic knowledge. This is confirmed in the Śrīmad-Bhāgavatam (3.33.7) as follows:
 
-#### aho bata śva-paco ’to garīyān
-#### yaj-jihvāgre vartate nāma tubhyam
-#### tepus tapas te juhuvuḥ sasnur āryā
-#### brahmānūcur nāma gṛṇanti ye te
+##### aho bata śva-paco ’to garīyān
+##### yaj-jihvāgre vartate nāma tubhyam
+##### tepus tapas te juhuvuḥ sasnur āryā
+##### brahmānūcur nāma gṛṇanti ye te
 
 “O my Lord, a person who is chanting Your holy name, although born of a low family like that of a caṇḍāla [dog-eater], is situated on the highest platform of self-realization. Such a person must have performed all kinds of penances and sacrifices according to Vedic rituals and studied the Vedic literatures many, many times after taking his bath in all the holy places of pilgrimage. Such a person is considered to be the best of the Āryan family.”
 

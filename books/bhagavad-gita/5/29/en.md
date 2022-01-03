@@ -1,20 +1,20 @@
-#### भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।
-#### सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥
+##### भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।
+##### सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥ २९ ॥
 
-#### bhoktāraṁ yajña-tapasāṁ
-#### sarva-loka-maheśvaram
-#### suhṛdaṁ sarva-bhūtānāṁ
-#### jñātvā māṁ śāntim ṛcchati
+##### bhoktāraṁ yajña-tapasāṁ
+##### sarva-loka-maheśvaram
+##### suhṛdaṁ sarva-bhūtānāṁ
+##### jñātvā māṁ śāntim ṛcchati
 
-### Synonyms
+#### Synonyms
 
 **bhoktāram** — the beneficiary; **yajña** — of sacrifices; **tapasām** — and penances and austerities; **sarva**-**loka** — of all planets and the demigods thereof; **mahā**-**īśvaram** — the Supreme Lord; **su**-**hṛdam** — the benefactor; **sarva** — of all; **bhūtānām** — the living entities; **jñātvā** — thus knowing; **mām** — Me (Lord Kṛṣṇa); **śāntim** — relief from material pangs; **ṛcchati** — one achieves.
 
-### Translation
+#### Translation
 
 A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.
 
-### Purport
+#### Purport
 
 The conditioned souls within the clutches of the illusory energy are all anxious to attain peace in the material world. But they do not know the formula for peace, which is explained in this part of the Bhagavad-gītā. The greatest peace formula is simply this: Lord Kṛṣṇa is the beneficiary in all human activities. Men should offer everything to the transcendental service of the Lord because He is the proprietor of all planets and the demigods thereon. No one is greater than He. He is greater than the greatest of the demigods, Lord Śiva and Lord Brahmā. In the Vedas (Śvetāśvatara Upaniṣad 6.7) the Supreme Lord is described as tam īśvarāṇāṁ paramaṁ maheśvaraṁ. Under the spell of illusion, living entities are trying to be lords of all they survey, but actually they are dominated by the material energy of the Lord. The Lord is the master of material nature, and the conditioned souls are under the stringent rules of material nature. Unless one understands these bare facts, it is not possible to achieve peace in the world either individually or collectively. This is the sense of Kṛṣṇa consciousness: Lord Kṛṣṇa is the supreme predominator, and all living entities, including the great demigods, are His subordinates. One can attain perfect peace only in complete Kṛṣṇa consciousness.
 

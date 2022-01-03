@@ -1,20 +1,20 @@
-#### अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।
-#### परं भावमजानन्तो मम भूतमहेश्वरम् ॥ ११ ॥
+##### अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।
+##### परं भावमजानन्तो मम भूतमहेश्वरम् ॥ ११ ॥
 
-#### avajānanti māṁ mūḍhā
-#### mānuṣīṁ tanum āśritam
-#### paraṁ bhāvam ajānanto
-#### mama bhūta-maheśvaram
+##### avajānanti māṁ mūḍhā
+##### mānuṣīṁ tanum āśritam
+##### paraṁ bhāvam ajānanto
+##### mama bhūta-maheśvaram
 
-### Synonyms
+#### Synonyms
 
 **avajānanti** — deride; **mām** — Me; **mūḍhāḥ** — foolish men; **mānuṣīm** — in a human form; **tanum** — a body; **āśritam** — assuming; **param** — transcendental; **bhāvam** — nature; **ajānantaḥ** — not knowing; **mama** — My; **bhūta** — of everything that be; **mahā**-**īśvaram** — the supreme proprietor.
 
-### Translation
+#### Translation
 
 Fools deride Me when I descend in the human form. They do not know My transcendental nature as the Supreme Lord of all that be.
 
-### Purport
+#### Purport
 
 From the other explanations of the previous verses in this chapter, it is clear that the Supreme Personality of Godhead, although appearing like a human being, is not a common man. The Personality of Godhead, who conducts the creation, maintenance and annihilation of the complete cosmic manifestation, cannot be a human being. Yet there are many foolish men who consider Kṛṣṇa to be merely a powerful man and nothing more. Actually, He is the original Supreme Personality, as is confirmed in the Brahma-saṁhitā (īśvaraḥ paramaḥ kṛṣṇaḥ); He is the Supreme Lord.
 
@@ -28,10 +28,10 @@ Nor do they know that the appearance of the Supreme Personality of Godhead in th
 
 There are many controversies between the impersonalists and the personalists about the Lord’s appearance as a human being. But if we consult Bhagavad-gītā and Śrīmad-Bhāgavatam, the authoritative texts for understanding the science of Kṛṣṇa, then we can understand that Kṛṣṇa is the Supreme Personality of Godhead. He is not an ordinary man, although He appeared on this earth as an ordinary human. In the Śrīmad-Bhāgavatam, First Canto, First Chapter, when the sages headed by Śaunaka inquired about the activities of Kṛṣṇa, they said:
 
-#### kṛtavān kila karmāṇi
-#### saha rāmeṇa keśavaḥ
-#### ati-martyāni bhagavān
-#### gūḍhaḥ kapaṭa-māṇuṣaḥ
+##### kṛtavān kila karmāṇi
+##### saha rāmeṇa keśavaḥ
+##### ati-martyāni bhagavān
+##### gūḍhaḥ kapaṭa-māṇuṣaḥ
 
 “Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, along with Balarāma, played like a human being, and so masked He performed many superhuman acts.” (Bhāg. 1.1.20) The Lord’s appearance as a man bewilders the foolish. No human being could perform the wonderful acts that Kṛṣṇa performed while He was present on this earth. When Kṛṣṇa appeared before His father and mother, Vasudeva and Devakī, He appeared with four hands, but after the prayers of the parents He transformed Himself into an ordinary child. As stated in the Bhāgavatam (10.3.46), babhūva prākṛtaḥ śiśuḥ: He became just like an ordinary child, an ordinary human being. Now, here again it is indicated that the Lord’s appearance as an ordinary human being is one of the features of His transcendental body. In the Eleventh Chapter of Bhagavad-gītā also it is stated that Arjuna prayed to see Kṛṣṇa’s form of four hands (tenaiva rūpeṇa catur-bhujena). After revealing this form, Kṛṣṇa, when petitioned by Arjuna, again assumed His original humanlike form (mānuṣaṁ rūpam). These different features of the Supreme Lord are certainly not those of an ordinary human being.
 

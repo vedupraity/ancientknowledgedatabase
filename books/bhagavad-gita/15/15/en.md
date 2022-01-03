@@ -1,22 +1,22 @@
-#### सर्वस्य चाहं हृदि सन्निविष्टो
-#### मत्त: स्मृतिर्ज्ञानमपोहनं च ।
-#### वेदैश्च सर्वैरहमेव वेद्यो
-#### वेदान्तकृद्वेदविदेव चाहम् ॥ १५ ॥
+##### सर्वस्य चाहं हृदि सन्निविष्टो
+##### मत्त: स्मृतिर्ज्ञानमपोहनं च ।
+##### वेदैश्च सर्वैरहमेव वेद्यो
+##### वेदान्तकृद्वेदविदेव चाहम् ॥ १५ ॥
 
-#### sarvasya cāhaṁ hṛdi sanniviṣṭo
-#### mattaḥ smṛtir jñānam apohanaṁ ca
-#### vedaiś ca sarvair aham eva vedyo
-#### vedānta-kṛd veda-vid eva cāham
+##### sarvasya cāhaṁ hṛdi sanniviṣṭo
+##### mattaḥ smṛtir jñānam apohanaṁ ca
+##### vedaiś ca sarvair aham eva vedyo
+##### vedānta-kṛd veda-vid eva cāham
 
-### Synonyms
+#### Synonyms
 
 **sarvasya** — of all living beings; **ca** — and; **aham** — I; **hṛdi** — in the heart; **sanniviṣṭaḥ** — situated; **mattaḥ** — from Me; **smṛtiḥ** — remembrance; **jñānam** — knowledge; **apohanam** — forgetfulness; **ca** — and; **vedaiḥ** — by the **Vedas**; **ca** — also; **sarvaiḥ** — all; **aham** — I am; **eva** — certainly; **vedyaḥ** — knowable; **vedānta**-**kṛt** — the compiler of the **Vedānta**; **veda**-**vit** — the knower of the **Vedas**; **eva** — certainly; **ca** — and; **aham** — I.
 
-### Translation
+#### Translation
 
 I am seated in everyone’s heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known. Indeed, I am the compiler of Vedānta, and I am the knower of the Vedas.
 
-### Purport
+#### Purport
 
 The Supreme Lord is situated as Paramātmā in everyone’s heart, and it is from Him that all activities are initiated. The living entity forgets everything of his past life, but he has to act according to the direction of the Supreme Lord, who is witness to all his work. Therefore he begins his work according to his past deeds. Required knowledge is supplied to him, and remembrance is given to him, and he forgets, also, about his past life. Thus, the Lord is not only all-pervading; He is also localized in every individual heart. He awards the different fruitive results. He is worshipable not only as the impersonal Brahman, the Supreme Personality of Godhead and the localized Paramātmā, but as the form of the incarnation of the Vedas as well. The Vedas give the right direction to people so that they can properly mold their lives and come back to Godhead, back to home. The Vedas offer knowledge of the Supreme Personality of Godhead, Kṛṣṇa, and Kṛṣṇa in His incarnation as Vyāsadeva is the compiler of the Vedānta-sūtra. The commentation on the Vedānta-sūtra by Vyāsadeva in the Śrīmad-Bhāgavatam gives the real understanding of Vedānta-sūtra. The Supreme Lord is so full that for the deliverance of the conditioned soul He is the supplier and digester of foodstuff, the witness of his activity, and the giver of knowledge in the form of the Vedas and as the Supreme Personality of Godhead, Śrī Kṛṣṇa, the teacher of the Bhagavad-gītā. He is worshipable by the conditioned soul. Thus God is all-good; God is all-merciful.
 

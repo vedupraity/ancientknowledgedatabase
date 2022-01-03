@@ -1,20 +1,20 @@
-#### यो मामजमनादिं च वेत्ति लोकमहेश्वरम् ।
-#### असम्मूढ: स मर्त्येषु सर्वपापै: प्रमुच्यते ॥ ३ ॥
+##### यो मामजमनादिं च वेत्ति लोकमहेश्वरम् ।
+##### असम्मूढ: स मर्त्येषु सर्वपापै: प्रमुच्यते ॥ ३ ॥
 
-#### yo mām ajam anādiṁ ca
-#### vetti loka-maheśvaram
-#### asammūḍhaḥ sa martyeṣu
-#### sarva-pāpaiḥ pramucyate
+##### yo mām ajam anādiṁ ca
+##### vetti loka-maheśvaram
+##### asammūḍhaḥ sa martyeṣu
+##### sarva-pāpaiḥ pramucyate
 
-### Synonyms
+#### Synonyms
 
 **yaḥ** — anyone who; **mām** — Me; **ajam** — unborn; **anādim** — without beginning; **ca** — also; **vetti** — knows; **loka** — of the planets; **mahā**-**īśvaram** — the supreme master; **asammūḍhaḥ** — undeluded; **saḥ** — he; **martyeṣu** — among those subject to death; **sarva**-**pāpaiḥ** — from all sinful reactions; **pramucyate** — is delivered.
 
-### Translation
+#### Translation
 
 He who knows Me as the unborn, as the beginningless, as the Supreme Lord of all the worlds – he only, undeluded among men, is freed from all sins.
 
-### Purport
+#### Purport
 
 As stated in the Seventh Chapter (7.3), manuṣyāṇāṁ sahasreṣu kaścid yatati siddhaye: those who are trying to elevate themselves to the platform of spiritual realization are not ordinary men; they are superior to millions and millions of ordinary men who have no knowledge of spiritual realization. But out of those actually trying to understand their spiritual situation, one who can come to the understanding that Kṛṣṇa is the Supreme Personality of Godhead, the proprietor of everything, the unborn, is the most successful spiritually realized person. In that stage only, when one has fully understood Kṛṣṇa’s supreme position, can one be free completely from all sinful reactions.
 

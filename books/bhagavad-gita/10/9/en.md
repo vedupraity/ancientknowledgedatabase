@@ -1,20 +1,20 @@
-#### मच्चित्ता मद्गतप्राणा बोधयन्त: परस्परम् ।
-#### कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥ ९ ॥
+##### मच्चित्ता मद्गतप्राणा बोधयन्त: परस्परम् ।
+##### कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥ ९ ॥
 
-#### mac-cittā mad-gata-prāṇā
-#### bodhayantaḥ parasparam
-#### kathayantaś ca māṁ nityaṁ
-#### tuṣyanti ca ramanti ca
+##### mac-cittā mad-gata-prāṇā
+##### bodhayantaḥ parasparam
+##### kathayantaś ca māṁ nityaṁ
+##### tuṣyanti ca ramanti ca
 
-### Synonyms
+#### Synonyms
 
 **mat**-**cittāḥ** — their minds fully engaged in Me; **mat**-**gata**-**prāṇāḥ** — their lives devoted to Me; **bodhayantaḥ** — preaching; **parasparam** — among themselves; **kathayantaḥ** — talking; **ca** — also; **mām** — about Me; **nityam** — perpetually; **tuṣyanti** — become pleased; **ca** — also; **ramanti** — enjoy transcendental bliss; **ca** — also.
 
-### Translation
+#### Translation
 
 The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me.
 
-### Purport
+#### Purport
 
 Pure devotees, whose characteristics are mentioned here, engage themselves fully in the transcendental loving service of the Lord. Their minds cannot be diverted from the lotus feet of Kṛṣṇa. Their talks are solely on the transcendental subjects. The symptoms of the pure devotees are described in this verse specifically. Devotees of the Supreme Lord are twenty-four hours daily engaged in glorifying the qualities and pastimes of the Supreme Lord. Their hearts and souls are constantly submerged in Kṛṣṇa, and they take pleasure in discussing Him with other devotees.
 

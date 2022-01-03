@@ -1,20 +1,20 @@
-#### ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् ।
-#### ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितै: ॥ ५ ॥
+##### ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् ।
+##### ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितै: ॥ ५ ॥
 
-#### ṛṣibhir bahudhā gītaṁ
-#### chandobhir vividhaiḥ pṛthak
-#### brahma-sūtra-padaiś caiva
-#### hetumadbhir viniścitaiḥ
+##### ṛṣibhir bahudhā gītaṁ
+##### chandobhir vividhaiḥ pṛthak
+##### brahma-sūtra-padaiś caiva
+##### hetumadbhir viniścitaiḥ
 
-### Synonyms
+#### Synonyms
 
 **ṛṣibhiḥ** — by the wise sages; **bahudhā** — in many ways; **gītam** — described; **chandobhiḥ** — by Vedic hymns; **vividhaiḥ** — various; **pṛthak** — variously; **brahma**-**sūtra** — of the **Vedānta**; **padaiḥ** — by the aphorisms; **ca** — also; **eva** — certainly; **hetu**-**madbhiḥ** — with cause and effect; **viniścitaiḥ** — certain.
 
-### Translation
+#### Translation
 
 That knowledge of the field of activities and of the knower of activities is described by various sages in various Vedic writings. It is especially presented in Vedānta-sūtra with all reasoning as to cause and effect.
 
-### Purport
+#### Purport
 
 The Supreme Personality of Godhead, Kṛṣṇa, is the highest authority in explaining this knowledge. Still, as a matter of course, learned scholars and standard authorities always give evidence from previous authorities. Kṛṣṇa is explaining this most controversial point regarding the duality and nonduality of the soul and the Supersoul by referring to a scripture, the Vedānta, which is accepted as authority. First He says, “This is according to different sages.” As far as the sages are concerned, besides Himself, Vyāsadeva (the author of the Vedānta-sūtra) is a great sage, and in the Vedānta-sūtra duality is perfectly explained. And Vyāsadeva’s father, Parāśara, is also a great sage, and he writes in his books of religiosity, aham tvaṁ ca tathānye.… “we – you, I and the various other living entities – are all transcendental, although in material bodies. Now we are fallen into the ways of the three modes of material nature according to our different karma. As such, some are on higher levels, and some are in the lower nature. The higher and lower natures exist due to ignorance and are being manifested in an infinite number of living entities. But the Supersoul, which is infallible, is uncontaminated by the three qualities of nature and is transcendental.” Similarly, in the original Vedas, a distinction between the soul, the Supersoul and the body is made, especially in the Kaṭha Upaniṣad. There are many great sages who have explained this, and Parāśara is considered principal among them.
 

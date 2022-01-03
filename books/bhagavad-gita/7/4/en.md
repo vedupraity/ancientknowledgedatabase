@@ -1,29 +1,29 @@
-#### भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च ।
-#### अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥ ४ ॥
+##### भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च ।
+##### अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥ ४ ॥
 
-#### bhūmir āpo ’nalo vāyuḥ
-#### khaṁ mano buddhir eva ca
-#### ahaṅkāra itīyaṁ me
-#### bhinnā prakṛtir aṣṭadhā
+##### bhūmir āpo ’nalo vāyuḥ
+##### khaṁ mano buddhir eva ca
+##### ahaṅkāra itīyaṁ me
+##### bhinnā prakṛtir aṣṭadhā
 
-### Synonyms
+#### Synonyms
 
 **bhūmiḥ** — earth; **āpaḥ** — water; **analaḥ** — fire; **vāyuḥ** — air; **kham** — ether; **manaḥ** — mind; **buddhiḥ** — intelligence; **eva** — certainly; **ca** — and; **ahaṅkāraḥ** — false ego; **iti** — thus; **iyam** — all these; **me** — My; **bhinnā** — separated; **prakṛtiḥ** — energies; **aṣṭadhā** — eightfold.
 
-### Translation
+#### Translation
 
 Earth, water, fire, air, ether, mind, intelligence and false ego – all together these eight constitute My separated material energies.
 
-### Purport
+#### Purport
 
 The science of God analyzes the constitutional position of God and His diverse energies. Material nature is called prakṛti, or the energy of the Lord in His different puruṣa incarnations (expansions) as described in the Nārada Pañcarātra, one of the Sātvata-tantras:
 
-#### viṣṇos tu trīṇi rūpāṇi
-#### puruṣākhyāny atho viduḥ
-#### ekaṁ tu mahataḥ sraṣṭṛ
-#### dvitīyaṁ tv aṇḍa-saṁsthitam
-#### tṛtīyaṁ sarva-bhūta-sthaṁ
-#### tāni jñātvā vimucyate
+##### viṣṇos tu trīṇi rūpāṇi
+##### puruṣākhyāny atho viduḥ
+##### ekaṁ tu mahataḥ sraṣṭṛ
+##### dvitīyaṁ tv aṇḍa-saṁsthitam
+##### tṛtīyaṁ sarva-bhūta-sthaṁ
+##### tāni jñātvā vimucyate
 
 “For material creation, Lord Kṛṣṇa’s plenary expansion assumes three Viṣṇus. The first one, Mahā-viṣṇu, creates the total material energy, known as the mahat-tattva. The second, Garbhodaka-śāyī Viṣṇu, enters into all the universes to create diversities in each of them. The third, Kṣīrodaka-śāyī Viṣṇu, is diffused as the all-pervading Supersoul in all the universes and is known as Paramātmā. He is present even within the atoms. Anyone who knows these three Viṣṇus can be liberated from material entanglement.”
 

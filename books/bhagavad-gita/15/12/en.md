@@ -1,20 +1,20 @@
-#### यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।
-#### यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥ १२ ॥
+##### यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।
+##### यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥ १२ ॥
 
-#### yad āditya-gataṁ tejo
-#### jagad bhāsayate ’khilam
-#### yac candramasi yac cāgnau
-#### tat tejo viddhi māmakam
+##### yad āditya-gataṁ tejo
+##### jagad bhāsayate ’khilam
+##### yac candramasi yac cāgnau
+##### tat tejo viddhi māmakam
 
-### Synonyms
+#### Synonyms
 
 **yat** — that which; **āditya**-**gatam** — in the sunshine; **tejaḥ** — splendor; **jagat** — the whole world; **bhāsayate** — illuminates; **akhilam** — entirely; **yat** — that which; **candramasi** — in the moon; **yat** — that which; **ca** — also; **agnau** — in fire; **tat** — that; **tejaḥ** — splendor; **viddhi** — understand; **māmakam** — from Me.
 
-### Translation
+#### Translation
 
 The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me.
 
-### Purport
+#### Purport
 
 The unintelligent cannot understand how things are taking place. But one can begin to be established in knowledge by understanding what the Lord explains here. Everyone sees the sun, moon, fire and electricity. One should simply try to understand that the splendor of the sun, the splendor of the moon, and the splendor of electricity or fire are coming from the Supreme Personality of Godhead. In such a conception of life, the beginning of Kṛṣṇa consciousness, lies a great deal of advancement for the conditioned soul in this material world. The living entities are essentially the parts and parcels of the Supreme Lord, and He is giving herewith the hint how they can come back to Godhead, back to home.
 

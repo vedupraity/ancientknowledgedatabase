@@ -1,20 +1,20 @@
-#### ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसा: ।
-#### जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसा: ॥ १८ ॥
+##### ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसा: ।
+##### जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसा: ॥ १८ ॥
 
-#### ūrdhvaṁ gacchanti sattva-sthā
-#### madhye tiṣṭhanti rājasāḥ
-#### jaghanya-guṇa-vṛtti-sthā
-#### adho gacchanti tāmasāḥ
+##### ūrdhvaṁ gacchanti sattva-sthā
+##### madhye tiṣṭhanti rājasāḥ
+##### jaghanya-guṇa-vṛtti-sthā
+##### adho gacchanti tāmasāḥ
 
-### Synonyms
+#### Synonyms
 
 **ūrdhvam** — upwards; **gacchanti** — go; **sattva**-**sthāḥ** — those situated in the mode of goodness; **madhye** — in the middle; **tiṣṭhanti** — dwell; **rājasāḥ** — those situated in the mode of passion; **jaghanya** — of abominable; **guṇa** — quality; **vṛtti**-**sthāḥ** — whose occupation; **adhaḥ** — down; **gacchanti** — go; **tāmasāḥ** — persons in the mode of ignorance.
 
-### Translation
+#### Translation
 
 Those situated in the mode of goodness gradually go upward to the higher planets; those in the mode of passion live on the earthly planets; and those in the abominable mode of ignorance go down to the hellish worlds.
 
-### Purport
+#### Purport
 
 In this verse the results of actions in the three modes of nature are more explicitly set forth. There is an upper planetary system, consisting of the heavenly planets, where everyone is highly elevated. According to the degree of development of the mode of goodness, the living entity can be transferred to various planets in this system. The highest planet is Satyaloka, or Brahmaloka, where the prime person of this universe, Lord Brahmā, resides. We have seen already that we can hardly calculate the wondrous condition of life in Brahmaloka, but the highest condition of life, the mode of goodness, can bring us to this.
 

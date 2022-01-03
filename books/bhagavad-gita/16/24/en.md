@@ -1,20 +1,20 @@
-#### तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।
-#### ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥ २४ ॥
+##### तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।
+##### ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥ २४ ॥
 
-#### tasmāc chāstraṁ pramāṇaṁ te
-#### kāryākārya-vyavasthitau
-#### jñātvā śāstra-vidhānoktaṁ
-#### karma kartum ihārhasi
+##### tasmāc chāstraṁ pramāṇaṁ te
+##### kāryākārya-vyavasthitau
+##### jñātvā śāstra-vidhānoktaṁ
+##### karma kartum ihārhasi
 
-### Synonyms
+#### Synonyms
 
 **tasmāt** — therefore; **śāstram** — the scriptures; **pramāṇam** — evidence; **te** — your; **kārya** — duty; **akārya** — and forbidden activities; **vyavasthitau** — in determining; **jñātvā** — knowing; **śāstra** — of scripture; **vidhāna** — the regulations; **uktam** — as declared; **karma** — work; **kartum** — do; **iha** — in this world; **arhasi** — you should.
 
-### Translation
+#### Translation
 
 One should therefore understand what is duty and what is not duty by the regulations of the scriptures. Knowing such rules and regulations, one should act so that he may gradually be elevated.
 
-### Purport
+#### Purport
 
 As stated in the Fifteenth Chapter, all the rules and regulations of the Vedas are meant for knowing Kṛṣṇa. If one understands Kṛṣṇa from the Bhagavad-gītā and becomes situated in Kṛṣṇa consciousness, engaging himself in devotional service, he has reached the highest perfection of knowledge offered by the Vedic literature. Lord Caitanya Mahāprabhu made this process very easy: He asked people simply to chant Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare and to engage in the devotional service of the Lord and eat the remnants of foodstuff offered to the Deity. One who is directly engaged in all these devotional activities is to be understood as having studied all Vedic literature. He has come to the conclusion perfectly. Of course, for the ordinary persons who are not in Kṛṣṇa consciousness or who are not engaged in devotional service, what is to be done and what is not to be done must be decided by the injunctions of the Vedas. One should act accordingly, without argument. That is called following the principles of śāstra, or scripture. Śāstra is without the four principal defects that are visible in the conditioned soul: imperfect senses, the propensity for cheating, certainty of committing mistakes, and certainty of being illusioned. These four principal defects in conditioned life disqualify one from putting forth rules and regulations. Therefore, the rules and regulations as described in the śāstra – being above these defects – are accepted without alteration by all great saints, ācāryas and great souls.
 

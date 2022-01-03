@@ -1,22 +1,22 @@
-#### श्री भगवानुवाच
-#### काम एष क्रोध एष रजोगुणसमुद्भवः ।
-#### महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥ ३७ ॥
+##### श्री भगवानुवाच
+##### काम एष क्रोध एष रजोगुणसमुद्भवः ।
+##### महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥ ३७ ॥
 
-#### śrī-bhagavān uvāca
-#### kāma eṣa krodha eṣa
-#### rajo-guṇa-samudbhavaḥ
-#### mahāśano mahā-pāpmā
-#### viddhy enam iha vairiṇam
+##### śrī-bhagavān uvāca
+##### kāma eṣa krodha eṣa
+##### rajo-guṇa-samudbhavaḥ
+##### mahāśano mahā-pāpmā
+##### viddhy enam iha vairiṇam
 
-### Synonyms
+#### Synonyms
 
 **śri**-**bhagavān** **uvāca** — the Personality of Godhead said; **kāmaḥ** — lust; **eṣaḥ** — this; **krodhaḥ** — wrath; **eṣaḥ** — this; **rajaḥ**-**guṇa** — the mode of passion; **samudbhavaḥ** — born of; **mahā**-**aśanaḥ** — all-devouring; **mahā**-**pāpmā** — greatly sinful; **viddhi** — know; **enam** — this; **iha** — in the material world; **vairiṇam** — greatest enemy.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: It is lust only, Arjuna, which is born of contact with the material mode of passion and later transformed into wrath, and which is the all-devouring sinful enemy of this world.
 
-### Purport
+#### Purport
 
 When a living entity comes in contact with the material creation, his eternal love for Kṛṣṇa is transformed into lust, in association with the mode of passion. Or, in other words, the sense of love of God becomes transformed into lust, as milk in contact with sour tamarind is transformed into yogurt. Then again, when lust is unsatisfied, it turns into wrath; wrath is transformed into illusion, and illusion continues the material existence. Therefore, lust is the greatest enemy of the living entity, and it is lust only which induces the pure living entity to remain entangled in the material world. Wrath is the manifestation of the mode of ignorance; these modes exhibit themselves as wrath and other corollaries. If, therefore, the mode of passion, instead of being degraded into the mode of ignorance, is elevated to the mode of goodness by the prescribed method of living and acting, then one can be saved from the degradation of wrath by spiritual attachment.
 

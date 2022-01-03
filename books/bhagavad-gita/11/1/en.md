@@ -1,22 +1,22 @@
-#### अर्जुन उवाच
-#### मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् ।
-#### यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ॥ १ ॥
+##### अर्जुन उवाच
+##### मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् ।
+##### यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ॥ १ ॥
 
-#### arjuna uvāca
-#### mad-anugrahāya paramaṁ
-#### guhyam adhyātma-saṁjñitam
-#### yat tvayoktaṁ vacas tena
-#### moho ’yaṁ vigato mama
+##### arjuna uvāca
+##### mad-anugrahāya paramaṁ
+##### guhyam adhyātma-saṁjñitam
+##### yat tvayoktaṁ vacas tena
+##### moho ’yaṁ vigato mama
 
-### Synonyms
+#### Synonyms
 
 **arjunaḥ** **uvāca** — Arjuna said; **mat**-**anugrahāya** — just to show me favor; **paramam** — supreme; **guhyam** — confidential subject; **adhyātma** — spiritual; **saṁjñitam** — in the matter of; **yat** — what; **tvayā** — by You; **uktam** — said; **vacaḥ** — words; **tena** — by that; **mohaḥ** — illusion; **ayam** — this; **vigataḥ** — is removed; **mama** — my.
 
-### Translation
+#### Translation
 
 Arjuna said: By my hearing the instructions You have kindly given me about these most confidential spiritual subjects, my illusion has now been dispelled.
 
-### Purport
+#### Purport
 
 This chapter reveals Kṛṣṇa as the cause of all causes. He is even the cause of the Mahā-viṣṇu, from whom the material universes emanate. Kṛṣṇa is not an incarnation; He is the source of all incarnations. That has been completely explained in the last chapter.
 

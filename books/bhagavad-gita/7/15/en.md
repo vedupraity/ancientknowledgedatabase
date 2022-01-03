@@ -1,20 +1,20 @@
-#### न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।
-#### माययापहृतज्ञाना आसुरं भावमाश्रिता: ॥ १५ ॥
+##### न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।
+##### माययापहृतज्ञाना आसुरं भावमाश्रिता: ॥ १५ ॥
 
-#### na māṁ duṣkṛtino mūḍhāḥ
-#### prapadyante narādhamāḥ
-#### māyayāpahṛta-jñānā
-#### āsuraṁ bhāvam āśritāḥ
+##### na māṁ duṣkṛtino mūḍhāḥ
+##### prapadyante narādhamāḥ
+##### māyayāpahṛta-jñānā
+##### āsuraṁ bhāvam āśritāḥ
 
-### Synonyms
+#### Synonyms
 
 **na** — not; **mām** — unto Me; **duṣkṛtinaḥ** — miscreants; **mūḍhāḥ** — foolish; **prapadyante** — surrender; **nara**-**adhamāḥ** — lowest among mankind; **māyayā** — by the illusory energy; **apahṛta** — stolen; **jñānāḥ** — whose knowledge; **āsuram** — demonic; **bhāvam** — nature; **āśritāḥ** — accepting.
 
-### Translation
+#### Translation
 
 Those miscreants who are grossly foolish, who are lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons do not surrender unto Me.
 
-### Purport
+#### Purport
 
 It is said in Bhagavad-gītā that simply by surrendering oneself unto the lotus feet of the Supreme Personality Kṛṣṇa one can surmount the stringent laws of material nature. At this point a question arises: How is it that educated philosophers, scientists, businessmen, administrators and all the leaders of ordinary men do not surrender to the lotus feet of Śrī Kṛṣṇa, the all-powerful Personality of Godhead? Mukti, or liberation from the laws of material nature, is sought by the leaders of mankind in different ways and with great plans and perseverance for a great many years and births. But if that liberation is possible by simply surrendering unto the lotus feet of the Supreme Personality of Godhead, then why don’t these intelligent and hard-working leaders adopt this simple method?
 

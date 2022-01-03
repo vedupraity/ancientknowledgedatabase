@@ -1,4 +1,4 @@
-#### Evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ (Bhagavad-gītā 4.2).
+##### Evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ (Bhagavad-gītā 4.2).
 
 This Bhagavad-gītā As It Is is received through this disciplic succession:
 

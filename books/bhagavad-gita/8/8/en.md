@@ -1,20 +1,20 @@
-#### अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।
-#### परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥ ८ ॥
+##### अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।
+##### परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥ ८ ॥
 
-#### abhyāsa-yoga-yuktena
-#### cetasā nānya-gāminā
-#### paramaṁ puruṣaṁ divyaṁ
-#### yāti pārthānucintayan
+##### abhyāsa-yoga-yuktena
+##### cetasā nānya-gāminā
+##### paramaṁ puruṣaṁ divyaṁ
+##### yāti pārthānucintayan
 
-### Synonyms
+#### Synonyms
 
 **abhyāsa**-**yoga** — in the practice of meditation; **yuktena** — being engaged; **cetasā** — by the mind and intelligence; **na** **anya**-**gāminā** — without their being deviated; **paramam** — the Supreme; **puruṣam** — Personality of Godhead; **divyam** — transcendental; **yāti** — one achieves; **pārtha** — O son of Pṛthā; **anucintayan** — constantly thinking of.
 
-### Translation
+#### Translation
 
 He who meditates on Me as the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Pārtha, is sure to reach Me.
 
-### Purport
+#### Purport
 
 In this verse Lord Kṛṣṇa stresses the importance of remembering Him. One’s memory of Kṛṣṇa is revived by chanting the mahā-mantra, Hare Kṛṣṇa. By this practice of chanting and hearing the sound vibration of the Supreme Lord, one’s ear, tongue and mind are engaged. This mystic meditation is very easy to practice, and it helps one attain the Supreme Lord. Puruṣam means enjoyer. Although living entities belong to the marginal energy of the Supreme Lord, they are in material contamination. They think themselves enjoyers, but they are not the supreme enjoyer. Here it is clearly stated that the supreme enjoyer is the Supreme Personality of Godhead in His different manifestations and plenary expansions as Nārāyaṇa, Vāsudeva, etc.
 

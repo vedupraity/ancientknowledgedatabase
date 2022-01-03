@@ -1,20 +1,20 @@
-#### नासतो विद्यते भावो नाभावो विद्यते सतः ।
-#### उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥ १६ ॥
+##### नासतो विद्यते भावो नाभावो विद्यते सतः ।
+##### उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥ १६ ॥
 
-#### nāsato vidyate bhāvo
-#### nābhāvo vidyate sataḥ
-#### ubhayor api dṛṣṭo ’ntas
-#### tv anayos tattva-darśibhiḥ
+##### nāsato vidyate bhāvo
+##### nābhāvo vidyate sataḥ
+##### ubhayor api dṛṣṭo ’ntas
+##### tv anayos tattva-darśibhiḥ
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **asataḥ** — of the nonexistent; **vidyate** — there is; **bhāvaḥ** — endurance; **na** — never; **abhāvaḥ** — changing quality; **vidyate** — there is; **sataḥ** — of the eternal; **ubhayoḥ** — of the two; **api** — verily; **dṛṣṭaḥ** — observed; **antaḥ** — conclusion; **tu** — indeed; **anayoḥ** — of them; **tattva** — of the truth; **darśibhiḥ** — by the seers.
 
-### Translation
+#### Translation
 
 Those who are seers of the truth have concluded that of the nonexistent [the material body] there is no endurance and of the eternal [the soul] there is no change. This they have concluded by studying the nature of both.
 
-### Purport
+#### Purport
 
 There is no endurance of the changing body. That the body is changing every moment by the actions and reactions of the different cells is admitted by modern medical science; and thus growth and old age are taking place in the body. But the spirit soul exists permanently, remaining the same despite all changes of the body and the mind. That is the difference between matter and spirit. By nature, the body is ever changing, and the soul is eternal. This conclusion is established by all classes of seers of the truth, both impersonalist and personalist. In the Viṣṇu Purāṇa (2.12.38) it is stated that Viṣṇu and His abodes all have self-illuminated spiritual existence (jyotīṁṣi viṣṇur bhuvanāni viṣṇuḥ). The words existent and nonexistent refer only to spirit and matter. That is the version of all seers of truth.
 

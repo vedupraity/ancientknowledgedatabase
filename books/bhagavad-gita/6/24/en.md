@@ -1,31 +1,31 @@
-#### स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ।
-#### सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: ।
-#### मनसैवेन्द्रियग्रामं विनियम्य समन्तत: ॥ २४ ॥
+##### स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ।
+##### सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: ।
+##### मनसैवेन्द्रियग्रामं विनियम्य समन्तत: ॥ २४ ॥
 
-#### sa niścayena yoktavyo
-#### yogo ’nirviṇṇa-cetasā
-#### saṅkalpa-prabhavān kāmāṁs
-#### tyaktvā sarvān aśeṣataḥ
+##### sa niścayena yoktavyo
+##### yogo ’nirviṇṇa-cetasā
+##### saṅkalpa-prabhavān kāmāṁs
+##### tyaktvā sarvān aśeṣataḥ
 
-#### manasaivendriya-grāmaṁ
-#### viniyamya samantataḥ
+##### manasaivendriya-grāmaṁ
+##### viniyamya samantataḥ
 
-### Synonyms
+#### Synonyms
 
 **saḥ** — that; **niścayena** — with firm determination; **yoktavyaḥ** — must be practiced; **yogaḥ** — **yoga** system; **anirviṇṇa**-**cetasā** — without deviation; **saṅkalpa** — mental speculations; **prabhavān** — born of; **kāmān** — material desires; **tyaktvā** — giving up; **sarvān** — all; **aśeṣataḥ** — completely; **manasā** — by the mind; **eva** — certainly; **indriya**-**grāmam** — the full set of senses; **viniyamya** — regulating; **samantataḥ** — from all sides.
 
-### Translation
+#### Translation
 
 One should engage oneself in the practice of yoga with determination and faith and not be deviated from the path. One should abandon, without exception, all material desires born of mental speculation and thus control all the senses on all sides by the mind.
 
-### Purport
+#### Purport
 
 The yoga practitioner should be determined and should patiently prosecute the practice without deviation. One should be sure of success at the end and pursue this course with great perseverance, not becoming discouraged if there is any delay in the attainment of success. Success is sure for the rigid practitioner. Regarding bhakti-yoga, Rūpa Gosvāmī says:
 
-#### utsāhān niścayād dhairyāt
-#### tat-tat-karma-pravartanāt
-#### saṅga-tyāgāt sato vṛtteḥ
-#### ṣaḍbhir bhaktiḥ prasidhyati
+##### utsāhān niścayād dhairyāt
+##### tat-tat-karma-pravartanāt
+##### saṅga-tyāgāt sato vṛtteḥ
+##### ṣaḍbhir bhaktiḥ prasidhyati
 
 “One can execute the process of bhakti-yoga successfully with full-hearted enthusiasm, perseverance and determination, by following the prescribed duties in the association of devotees and by engaging completely in activities of goodness.” (Upadeśāmṛta 3)
 

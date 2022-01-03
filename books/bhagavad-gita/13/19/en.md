@@ -1,20 +1,20 @@
-#### इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासत: ।
-#### मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ॥ १९ ॥
+##### इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासत: ।
+##### मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ॥ १९ ॥
 
-#### iti kṣetraṁ tathā jñānaṁ
-#### jñeyaṁ coktaṁ samāsataḥ
-#### mad-bhakta etad vijñāya
-#### mad-bhāvāyopapadyate
+##### iti kṣetraṁ tathā jñānaṁ
+##### jñeyaṁ coktaṁ samāsataḥ
+##### mad-bhakta etad vijñāya
+##### mad-bhāvāyopapadyate
 
-### Synonyms
+#### Synonyms
 
 **iti** — thus; **kṣetram** — the field of activities (the body); **tathā** — also; **jñānam** — knowledge; **jñeyam** — the knowable; **ca** — also; **uktam** — described; **samāsataḥ** — in summary; **mat**-**bhaktaḥ** — My devotee; **etat** — all this; **vijñāya** — after understanding; **mat**-**bhāvāya** — to My nature; **upapadyate** — attains.
 
-### Translation
+#### Translation
 
 Thus the field of activities [the body], knowledge and the knowable have been summarily described by Me. Only My devotees can understand this thoroughly and thus attain to My nature.
 
-### Purport
+#### Purport
 
 The Lord has described in summary the body, knowledge and the knowable. This knowledge is of three things: the knower, the knowable and the process of knowing. Combined, these are called vijñāna, or the science of knowledge. Perfect knowledge can be understood by the unalloyed devotees of the Lord directly. Others are unable to understand. The monists say that at the ultimate stage these three items become one, but the devotees do not accept this. Knowledge and development of knowledge mean understanding oneself in Kṛṣṇa consciousness. We are being led by material consciousness, but as soon as we transfer all consciousness to Kṛṣṇa’s activities and realize that Kṛṣṇa is everything, then we attain real knowledge. In other words, knowledge is nothing but the preliminary stage of understanding devotional service perfectly. In the Fifteenth Chapter this will be very clearly explained.
 

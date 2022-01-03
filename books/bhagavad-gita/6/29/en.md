@@ -1,20 +1,20 @@
-#### सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।
-#### ईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: ॥ २९ ॥
+##### सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।
+##### ईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: ॥ २९ ॥
 
-#### sarva-bhūta-stham ātmānaṁ
-#### sarva-bhūtāni cātmani
-#### īkṣate yoga-yuktātmā
-#### sarvatra sama-darśanaḥ
+##### sarva-bhūta-stham ātmānaṁ
+##### sarva-bhūtāni cātmani
+##### īkṣate yoga-yuktātmā
+##### sarvatra sama-darśanaḥ
 
-### Synonyms
+#### Synonyms
 
 **sarva**-**bhūta**-**stham** — situated in all beings; **ātmānam** — the Supersoul; **sarva** — all; **bhūtāni** — entities; **ca** — also; **ātmani** — in the Self; **īkṣate** — does see; **yoga**-**yukta**-**ātmā** — one who is dovetailed in Kṛṣṇa consciousness; **sarvatra** — everywhere; **sama**-**darśanaḥ** — seeing equally.
 
-### Translation
+#### Translation
 
 A true yogī observes Me in all beings and also sees every being in Me. Indeed, the self-realized person sees Me, the same Supreme Lord, everywhere.
 
-### Purport
+#### Purport
 
 A Kṛṣṇa conscious yogī is the perfect seer because he sees Kṛṣṇa, the Supreme, situated in everyone’s heart as Supersoul (Paramātmā). Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe ’rjuna tiṣṭhati. The Lord in His Paramātmā feature is situated within both the heart of the dog and that of a brāhmaṇa. The perfect yogī knows that the Lord is eternally transcendental and is not materially affected by His presence in either a dog or a brāhmaṇa. That is the supreme neutrality of the Lord. The individual soul is also situated in the individual heart, but he is not present in all hearts. That is the distinction between the individual soul and the Supersoul. One who is not factually in the practice of yoga cannot see so clearly. A Kṛṣṇa conscious person can see Kṛṣṇa in the heart of both the believer and the nonbeliever. In the smṛti this is confirmed as follows: ātatatvāc ca mātṛtvāc ca ātmā hi paramo hariḥ. The Lord, being the source of all beings, is like the mother and the maintainer. As the mother is neutral to all different kinds of children, the supreme father (or mother) is also. Consequently the Supersoul is always in every living being.
 

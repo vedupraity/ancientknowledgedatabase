@@ -1,27 +1,27 @@
-#### पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: ।
-#### जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥ ४४ ॥
+##### पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: ।
+##### जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥ ४४ ॥
 
-#### pūrvābhyāsena tenaiva
-#### hriyate hy avaśo ’pi saḥ
-#### jijñāsur api yogasya
-#### śabda-brahmātivartate
+##### pūrvābhyāsena tenaiva
+##### hriyate hy avaśo ’pi saḥ
+##### jijñāsur api yogasya
+##### śabda-brahmātivartate
 
-### Synonyms
+#### Synonyms
 
 **pūrva** — previous; **abhyāsena** — by practice; **tena** — by that; **eva** — certainly; **hriyate** — is attracted; **hi** — surely; **avaśaḥ** — automatically; **api** — also; **saḥ** — he; **jijñāsuḥ** — inquisitive; **api** — even; **yogasya** — about **yoga**; **śabda**-**brahma** — ritualistic principles of scriptures; **ativartate** — transcends.
 
-### Translation
+#### Translation
 
 By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles – even without seeking them. Such an inquisitive transcendentalist stands always above the ritualistic principles of the scriptures.
 
-### Purport
+#### Purport
 
 Advanced yogīs are not very much attracted to the rituals of the scriptures, but they automatically become attracted to the yoga principles, which can elevate them to complete Kṛṣṇa consciousness, the highest yoga perfection. In the Śrīmad-Bhāgavatam (3.33.7), such disregard of Vedic rituals by the advanced transcendentalists is explained as follows:
 
-#### aho bata śva-paco ’to garīyān
-#### yaj-jihvāgre vartate nāma tubhyam
-#### tepus tapas te juhuvuḥ sasnur āryā
-#### brahmānūcur nāma gṛṇanti ye te
+##### aho bata śva-paco ’to garīyān
+##### yaj-jihvāgre vartate nāma tubhyam
+##### tepus tapas te juhuvuḥ sasnur āryā
+##### brahmānūcur nāma gṛṇanti ye te
 
 “O my Lord! Persons who chant the holy names of Your Lordship are far, far advanced in spiritual life, even if born in families of dog-eaters. Such chanters have undoubtedly performed all kinds of austerities and sacrifices, bathed in all sacred places and finished all scriptural studies.”
 

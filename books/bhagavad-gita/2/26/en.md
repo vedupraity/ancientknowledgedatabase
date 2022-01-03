@@ -1,20 +1,20 @@
-#### अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।
-#### तथापि त्वं महाबाहो नैनं शोचितुमर्हसि ॥ २६ ॥
+##### अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।
+##### तथापि त्वं महाबाहो नैनं शोचितुमर्हसि ॥ २६ ॥
 
-#### atha cainaṁ nitya-jātaṁ
-#### nityaṁ vā manyase mṛtam
-#### tathāpi tvaṁ mahā-bāho
-#### nainaṁ śocitum arhasi
+##### atha cainaṁ nitya-jātaṁ
+##### nityaṁ vā manyase mṛtam
+##### tathāpi tvaṁ mahā-bāho
+##### nainaṁ śocitum arhasi
 
-### Synonyms
+#### Synonyms
 
 **atha** — if, however; **ca** — also; **enam** — this soul; **nitya**-**jātam** — always born; **nityam** — forever; **vā** — either; **manyase** — you so think; **mṛtam** — dead; **tathā** **api** — still; **tvam** — you; **mahā**-**bāho** — O mighty-armed one; **na** — never; **enam** — about the soul; **śocitum** — to lament; **arhasi** — deserve.
 
-### Translation
+#### Translation
 
 If, however, you think that the soul [or the symptoms of life] will always be born and die forever, you still have no reason to lament, O mighty-armed.
 
-### Purport
+#### Purport
 
 There is always a class of philosophers, almost akin to the Buddhists, who do not believe in the separate existence of the soul beyond the body. When Lord Kṛṣṇa spoke the Bhagavad-gītā, it appears that such philosophers existed, and they were known as the Lokāyatikas and Vaibhāṣikas. Such philosophers maintain that life symptoms take place at a certain mature condition of material combination. The modern material scientist and materialist philosophers also think similarly. According to them, the body is a combination of physical elements, and at a certain stage the life symptoms develop by interaction of the physical and chemical elements. The science of anthropology is based on this philosophy. Currently, many pseudo religions – now becoming fashionable in America – are also adhering to this philosophy, as are the nihilistic nondevotional Buddhist sects.
 

@@ -1,43 +1,43 @@
-#### अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।
-#### विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥ १७ ॥
+##### अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।
+##### विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥ १७ ॥
 
-#### avināśi tu tad viddhi
-#### yena sarvam idaṁ tatam
-#### vināśam avyayasyāsya
-#### na kaścit kartum arhati
+##### avināśi tu tad viddhi
+##### yena sarvam idaṁ tatam
+##### vināśam avyayasyāsya
+##### na kaścit kartum arhati
 
-### Synonyms
+#### Synonyms
 
 **avināśi** — imperishable; **tu** — but; **tat** — that; **viddhi** — know it; **yena** — by whom; **sarvam** — all of the body; **idam** — this; **tatam** — pervaded; **vināśam** — destruction; **avyayasya** — of the imperishable; **asya** — of it; **na** **kaścit** — no one; **kartum** — to do; **arhati** — is able.
 
-### Translation
+#### Translation
 
 That which pervades the entire body you should know to be indestructible. No one is able to destroy that imperishable soul.
 
-### Purport
+#### Purport
 
 This verse more clearly explains the real nature of the soul, which is spread all over the body. Anyone can understand what is spread all over the body: it is consciousness. Everyone is conscious of the pains and pleasures of the body in part or as a whole. This spreading of consciousness is limited within one’s own body. The pains and pleasures of one body are unknown to another. Therefore, each and every body is the embodiment of an individual soul, and the symptom of the soul’s presence is perceived as individual consciousness. This soul is described as one ten-thousandth part of the upper portion of the hair point in size. The Śvetāśvatara Upaniṣad (5.9) confirms this:
 
-#### bālāgra-śata-bhāgasya
-#### śatadhā kalpitasya ca
-#### bhāgo jīvaḥ sa vijñeyaḥ
-#### sa cānantyāya kalpate
+##### bālāgra-śata-bhāgasya
+##### śatadhā kalpitasya ca
+##### bhāgo jīvaḥ sa vijñeyaḥ
+##### sa cānantyāya kalpate
 
 “When the upper point of a hair is divided into one hundred parts and again each of such parts is further divided into one hundred parts, each such part is the measurement of the dimension of the spirit soul.” Similarly the same version is stated:
 
-#### keśāgra-śata-bhāgasya
-#### śatāṁśaḥ sādṛśātmakaḥ
-#### jīvaḥ sūkṣma-svarūpo ’yaṁ
-#### saṅkhyātīto hi cit-kaṇaḥ
+##### keśāgra-śata-bhāgasya
+##### śatāṁśaḥ sādṛśātmakaḥ
+##### jīvaḥ sūkṣma-svarūpo ’yaṁ
+##### saṅkhyātīto hi cit-kaṇaḥ
 
 “There are innumerable particles of spiritual atoms, which are measured as one ten-thousandth of the upper portion of the hair.”
 
 Therefore, the individual particle of spirit soul is a spiritual atom smaller than the material atoms, and such atoms are innumerable. This very small spiritual spark is the basic principle of the material body, and the influence of such a spiritual spark is spread all over the body as the influence of the active principle of some medicine spreads throughout the body. This current of the spirit soul is felt all over the body as consciousness, and that is the proof of the presence of the soul. Any layman can understand that the material body minus consciousness is a dead body, and this consciousness cannot be revived in the body by any means of material administration. Therefore, consciousness is not due to any amount of material combination, but to the spirit soul. In the Muṇḍaka Upaniṣad (3.1.9) the measurement of the atomic spirit soul is further explained:
 
-#### eṣo ’ṇur ātmā cetasā veditavyo
-#### yasmin prāṇaḥ pañcadhā saṁviveśa
-#### prāṇaiś cittaṁ sarvam otaṁ prajānāṁ
-#### yasmin viśuddhe vibhavaty eṣa ātmā
+##### eṣo ’ṇur ātmā cetasā veditavyo
+##### yasmin prāṇaḥ pañcadhā saṁviveśa
+##### prāṇaiś cittaṁ sarvam otaṁ prajānāṁ
+##### yasmin viśuddhe vibhavaty eṣa ātmā
 
 “The soul is atomic in size and can be perceived by perfect intelligence. This atomic soul is floating in the five kinds of air (prāṇa, apāna, vyāna, samāna and udāna), is situated within the heart, and spreads its influence all over the body of the embodied living entities. When the soul is purified from the contamination of the five kinds of material air, its spiritual influence is exhibited.”
 

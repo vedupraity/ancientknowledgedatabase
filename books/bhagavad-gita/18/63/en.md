@@ -1,20 +1,20 @@
-#### इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।
-#### विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥ ६३ ॥
+##### इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।
+##### विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥ ६३ ॥
 
-#### iti te jñānam ākhyātaṁ
-#### guhyād guhya-taraṁ mayā
-#### vimṛśyaitad aśeṣeṇa
-#### yathecchasi tathā kuru
+##### iti te jñānam ākhyātaṁ
+##### guhyād guhya-taraṁ mayā
+##### vimṛśyaitad aśeṣeṇa
+##### yathecchasi tathā kuru
 
-### Synonyms
+#### Synonyms
 
 **iti** — thus; **te** — unto you; **jñānam** — knowledge; **ākhyātam** — described; **guhyāt** — than confidential; **guhya**-**taram** — still more confidential; **mayā** — by Me; **vimṛśya** — deliberating; **etat** — on this; **aśeṣeṇa** — fully; **yathā** — as; **icchasi** — you like; **tathā** — that; **kuru** — perform.
 
-### Translation
+#### Translation
 
 Thus I have explained to you knowledge still more confidential. Deliberate on this fully, and then do what you wish to do.
 
-### Purport
+#### Purport
 
 The Lord has already explained to Arjuna the knowledge of brahma-bhūta. One who is in the brahma-bhūta condition is joyful; he never laments, nor does he desire anything. That is due to confidential knowledge. Kṛṣṇa also discloses knowledge of the Supersoul. This is also Brahman knowledge, knowledge of Brahman, but it is superior.
 

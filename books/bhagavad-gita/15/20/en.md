@@ -1,20 +1,20 @@
-#### इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।
-#### एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥ २० ॥
+##### इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।
+##### एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥ २० ॥
 
-#### iti guhya-tamaṁ śāstram
-#### idam uktaṁ mayānagha
-#### etad buddhvā buddhimān syāt
-#### kṛta-kṛtyaś ca bhārata
+##### iti guhya-tamaṁ śāstram
+##### idam uktaṁ mayānagha
+##### etad buddhvā buddhimān syāt
+##### kṛta-kṛtyaś ca bhārata
 
-### Synonyms
+#### Synonyms
 
 **iti** — thus; **guhya**-**tamam** — the most confidential; **śāstram** — revealed scripture; **idam** — this; **uktam** — disclosed; **mayā** — by Me; **anagha** — O sinless one; **etat** — this; **buddhvā** — understanding; **buddhi**-**mān** — intelligent; **syāt** — one becomes; **kṛta**-**kṛtyaḥ** — the most perfect in his endeavors; **ca** — and; **bhārata** — O son of Bharata.
 
-### Translation
+#### Translation
 
 This is the most confidential part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection.
 
-### Purport
+#### Purport
 
 The Lord clearly explains here that this is the substance of all revealed scriptures. And one should understand this as it is given by the Supreme Personality of Godhead. Thus one will become intelligent and perfect in transcendental knowledge. In other words, by understanding this philosophy of the Supreme Personality of Godhead and engaging in His transcendental service, everyone can become freed from all contaminations of the modes of material nature. Devotional service is a process of spiritual understanding. Wherever devotional service exists, the material contamination cannot coexist. Devotional service to the Lord and the Lord Himself are one and the same because they are spiritual; devotional service takes place within the internal energy of the Supreme Lord. The Lord is said to be the sun, and ignorance is called darkness. Where the sun is present, there is no question of darkness. Therefore, whenever devotional service is present under the proper guidance of a bona fide spiritual master, there is no question of ignorance.
 

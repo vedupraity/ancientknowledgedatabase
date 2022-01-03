@@ -1,20 +1,20 @@
-#### अनन्यचेता: सततं यो मां स्मरति नित्यश: ।
-#### तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: ॥ १४ ॥
+##### अनन्यचेता: सततं यो मां स्मरति नित्यश: ।
+##### तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: ॥ १४ ॥
 
-#### ananya-cetāḥ satataṁ
-#### yo māṁ smarati nityaśaḥ
-#### tasyāhaṁ su-labhaḥ pārtha
-#### nitya-yuktasya yoginaḥ
+##### ananya-cetāḥ satataṁ
+##### yo māṁ smarati nityaśaḥ
+##### tasyāhaṁ su-labhaḥ pārtha
+##### nitya-yuktasya yoginaḥ
 
-### Synonyms
+#### Synonyms
 
 **ananya**-**cetāḥ** — without deviation of the mind; **satatam** — always; **yaḥ** — anyone who; **mām** — Me (Kṛṣṇa); **smarati** — remembers; **nityaśaḥ** — regularly; **tasya** — to him; **aham** — I am; **su**-**labhaḥ** — very easy to achieve; **pārtha** — O son of Pṛthā; **nitya** — regularly; **yuktasya** — engaged; **yoginaḥ** — for the devotee.
 
-### Translation
+#### Translation
 
 For one who always remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service.
 
-### Purport
+#### Purport
 
 This verse especially describes the final destination attained by the unalloyed devotees who serve the Supreme Personality of Godhead in bhakti-yoga. Previous verses have mentioned four different kinds of devotees – the distressed, the inquisitive, those who seek material gain, and the speculative philosophers. Different processes of liberation have also been described: karma-yoga, jñāna-yoga and haṭha-yoga. The principles of these yoga systems have some bhakti added, but this verse particularly mentions pure bhakti-yoga, without any mixture of jñāna, karma or haṭha. As indicated by the word ananya-cetāḥ, in pure bhakti-yoga the devotee desires nothing but Kṛṣṇa. A pure devotee does not desire promotion to heavenly planets, nor does he seek oneness with the brahma-jyotir or salvation or liberation from material entanglement. A pure devotee does not desire anything. In the Caitanya-caritāmṛta the pure devotee is called niṣkāma, which means he has no desire for self-interest. Perfect peace belongs to him alone, not to them who strive for personal gain. Whereas a jñāna-yogī, karma-yogī or haṭha-yogī has his own selfish interests, a perfect devotee has no desire other than to please the Supreme Personality of Godhead. Therefore the Lord says that for anyone who is unflinchingly devoted to Him, He is easy to attain.
 

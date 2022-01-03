@@ -1,22 +1,22 @@
-#### श्रीभगवानुवाच
-#### मय्यासक्तमना: पार्थ योगं युञ्जन्मदाश्रय: ।
-#### असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥ १ ॥
+##### श्रीभगवानुवाच
+##### मय्यासक्तमना: पार्थ योगं युञ्जन्मदाश्रय: ।
+##### असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥ १ ॥
 
-#### śrī-bhagavān uvāca
-#### mayy āsakta-manāḥ pārtha
-#### yogaṁ yuñjan mad-āśrayaḥ
-#### asaṁśayaṁ samagraṁ māṁ
-#### yathā jñāsyasi tac chṛṇu
+##### śrī-bhagavān uvāca
+##### mayy āsakta-manāḥ pārtha
+##### yogaṁ yuñjan mad-āśrayaḥ
+##### asaṁśayaṁ samagraṁ māṁ
+##### yathā jñāsyasi tac chṛṇu
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Lord said; **mayi** — to Me; **āsakta**-**manāḥ** — mind attached; **pārtha** — O son of Pṛthā; **yogam** — self-realization; **yuñjan** — practicing; **mat**-**āśrayaḥ** — in consciousness of Me (Kṛṣṇa consciousness); **asaṁśayam** — without doubt; **samagram** — completely; **mām** — Me; **yathā** — how; **jñāsyasi** — you can know; **tat** — that; **śṛṇu** — try to hear.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: Now hear, O son of Pṛthā, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.
 
-### Purport
+#### Purport
 
 In this Seventh Chapter of Bhagavad-gītā, the nature of Kṛṣṇa consciousness is fully described. Kṛṣṇa is full in all opulences, and how He manifests such opulences is described herein. Also, four kinds of fortunate people who become attached to Kṛṣṇa and four kinds of unfortunate people who never take to Kṛṣṇa are described in this chapter.
 
@@ -26,29 +26,29 @@ One should therefore begin yoga practice as directed in the last verse of the Si
 
 In the Śrīmad-Bhāgavatam this process of understanding Kṛṣṇa, the Supreme Personality of Godhead, the Absolute Truth, is described in the Second Chapter of the First Canto as follows:
 
-#### śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ
-#### puṇya-śravaṇa-kīrtanaḥ
-#### hṛdy antaḥ-stho hy abhadrāṇi
-#### vidhunoti suhṛt satām
+##### śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ
+##### puṇya-śravaṇa-kīrtanaḥ
+##### hṛdy antaḥ-stho hy abhadrāṇi
+##### vidhunoti suhṛt satām
 
-#### naṣṭa-prāyeṣv abhadreṣu
-#### nityaṁ bhāgavata-sevayā
-#### bhagavaty uttama-śloke
-#### bhaktir bhavati naiṣṭhikī
+##### naṣṭa-prāyeṣv abhadreṣu
+##### nityaṁ bhāgavata-sevayā
+##### bhagavaty uttama-śloke
+##### bhaktir bhavati naiṣṭhikī
 
-#### tadā rajas-tamo-bhāvāḥ
-#### kāma-lobhādayaś ca ye
-#### ceta etair anāviddhaṁ
-#### sthitaṁ sattve prasīdati
+##### tadā rajas-tamo-bhāvāḥ
+##### kāma-lobhādayaś ca ye
+##### ceta etair anāviddhaṁ
+##### sthitaṁ sattve prasīdati
 
-#### evaṁ prasanna-manaso
-#### bhagavad-bhakti-yogataḥ
-#### bhagavat-tattva-vijñānaṁ
-#### mukta-saṅgasya jāyate
+##### evaṁ prasanna-manaso
+##### bhagavad-bhakti-yogataḥ
+##### bhagavat-tattva-vijñānaṁ
+##### mukta-saṅgasya jāyate
 
-#### bhidyate hṛdaya-granthiś
-#### chidyante sarva-saṁśayāḥ
-#### kṣīyante cāsya karmāṇi
-#### dṛṣṭa evātmanīśvare
+##### bhidyate hṛdaya-granthiś
+##### chidyante sarva-saṁśayāḥ
+##### kṣīyante cāsya karmāṇi
+##### dṛṣṭa evātmanīśvare
 
 “To hear about Kṛṣṇa from Vedic literatures, or to hear from Him directly through the Bhagavad-gītā, is itself righteous activity. And for one who hears about Kṛṣṇa, Lord Kṛṣṇa, who is dwelling in everyone’s heart, acts as a best-wishing friend and purifies the devotee who constantly engages in hearing of Him. In this way, a devotee naturally develops his dormant transcendental knowledge. As he hears more about Kṛṣṇa from the Bhāgavatam and from the devotees, he becomes fixed in the devotional service of the Lord. By development of devotional service one becomes freed from the modes of passion and ignorance, and thus material lusts and avarice are diminished. When these impurities are wiped away, the candidate remains steady in his position of pure goodness, becomes enlivened by devotional service and understands the science of God perfectly. Thus bhakti-yoga severs the hard knot of material affection and enables one to come at once to the stage of asaṁśayaṁ samagram, understanding of the Supreme Absolute Truth Personality of Godhead.” (Bhāg. 1.2.17–21) Therefore only by hearing from Kṛṣṇa or from His devotee in Kṛṣṇa consciousness can one understand the science of Kṛṣṇa.

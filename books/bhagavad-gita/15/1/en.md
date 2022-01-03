@@ -1,22 +1,22 @@
-#### श्रीभगवानुवाच
-#### ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् ।
-#### छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥ १ ॥
+##### श्रीभगवानुवाच
+##### ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् ।
+##### छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥ १ ॥
 
-#### śrī-bhagavān uvāca
-#### ūrdhva-mūlam adhaḥ-śākham
-#### aśvatthaṁ prāhur avyayam
-#### chandāṁsi yasya parṇāni
-#### yas taṁ veda sa veda-vit
+##### śrī-bhagavān uvāca
+##### ūrdhva-mūlam adhaḥ-śākham
+##### aśvatthaṁ prāhur avyayam
+##### chandāṁsi yasya parṇāni
+##### yas taṁ veda sa veda-vit
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **ūrdhva**-**mūlam** — with roots above; **adhaḥ** — downwards; **śākham** — branches; **aśvattham** — a banyan tree; **prāhuḥ** — is said; **avyayam** — eternal; **chandāṁsi** — the Vedic hymns; **yasya** — of which; **parṇāni** — the leaves; **yaḥ** — anyone who; **tam** — that; **veda** — knows; **saḥ** — he; **veda**-**vit** — the knower of the **Vedas.**
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: It is said that there is an imperishable banyan tree that has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.
 
-### Purport
+#### Purport
 
 After the discussion of the importance of bhakti-yoga, one may question, “What about the Vedas?” It is explained in this chapter that the purpose of Vedic study is to understand Kṛṣṇa. Therefore one who is in Kṛṣṇa consciousness, who is engaged in devotional service, already knows the Vedas.
 

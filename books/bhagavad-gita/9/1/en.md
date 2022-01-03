@@ -1,22 +1,22 @@
-#### श्रीभगवानुवाच
-#### इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।
-#### ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥ १ ॥
+##### श्रीभगवानुवाच
+##### इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।
+##### ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥ १ ॥
 
-#### śrī-bhagavān uvāca
-#### idaṁ tu te guhya-tamaṁ
-#### pravakṣyāmy anasūyave
-#### jñānaṁ vijñāna-sahitaṁ
-#### yaj jñātvā mokṣyase ’śubhāt
+##### śrī-bhagavān uvāca
+##### idaṁ tu te guhya-tamaṁ
+##### pravakṣyāmy anasūyave
+##### jñānaṁ vijñāna-sahitaṁ
+##### yaj jñātvā mokṣyase ’śubhāt
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **idam** — this; **tu** — but; **te** — unto you; **guhya**-**tamam** — the most confidential; **pravakṣyāmi** — I am speaking; **anasūyave** — to the nonenvious; **jñānam** — knowledge; **vijñāna** — realized knowledge; **sahitam** — with; **yat** — which; **jñātvā** — knowing; **mokṣyase** — you will be released; **aśubhāt** — from this miserable material existence.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most confidential knowledge and realization, knowing which you shall be relieved of the miseries of material existence.
 
-### Purport
+#### Purport
 
 As a devotee hears more and more about the Supreme Lord, he becomes enlightened. This hearing process is recommended in the Śrīmad-Bhāgavatam: “The messages of the Supreme Personality of Godhead are full of potencies, and these potencies can be realized if topics regarding the Supreme Godhead are discussed amongst devotees.” This cannot be achieved by the association of mental speculators or academic scholars, for it is realized knowledge.
 

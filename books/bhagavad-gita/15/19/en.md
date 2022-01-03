@@ -1,20 +1,20 @@
-#### यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।
-#### स सर्वविद्भजति मां सर्वभावेन भारत ॥ १९ ॥
+##### यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।
+##### स सर्वविद्भजति मां सर्वभावेन भारत ॥ १९ ॥
 
-#### yo mām evam asammūḍho
-#### jānāti puruṣottamam
-#### sa sarva-vid bhajati māṁ
-#### sarva-bhāvena bhārata
+##### yo mām evam asammūḍho
+##### jānāti puruṣottamam
+##### sa sarva-vid bhajati māṁ
+##### sarva-bhāvena bhārata
 
-### Synonyms
+#### Synonyms
 
 **yaḥ** — anyone who; **mām** — Me; **evam** — thus; **asammūḍhaḥ** — without a doubt; **jānāti** — knows; **puruṣa**-**uttamam** — the Supreme Personality of Godhead; **saḥ** — he; **sarva**-**vit** — the knower of everything; **bhajati** — renders devotional service; **mām** — unto Me; **sarva**-**bhāvena** — in all respects; **bhārata** — O son of Bharata.
 
-### Translation
+#### Translation
 
 Whoever knows Me as the Supreme Personality of Godhead, without doubting, is the knower of everything. He therefore engages himself in full devotional service to Me, O son of Bharata.
 
-### Purport
+#### Purport
 
 There are many philosophical speculations about the constitutional position of the living entities and the Supreme Absolute Truth. Now in this verse the Supreme Personality of Godhead clearly explains that anyone who knows Lord Kṛṣṇa to be the Supreme Person is actually the knower of everything. The imperfect knower goes on simply speculating about the Absolute Truth, but the perfect knower, without wasting his valuable time, engages directly in Kṛṣṇa consciousness, the devotional service of the Supreme Lord. Throughout the whole of Bhagavad-gītā, this fact is being stressed at every step. And still there are so many stubborn commentators on Bhagavad-gītā who consider the Supreme Absolute Truth and the living entities to be one and the same.
 

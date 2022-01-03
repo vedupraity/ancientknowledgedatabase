@@ -1,38 +1,38 @@
-#### यत्रोपरमते चित्तं निरुद्धं योगसेवया ।
-#### यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥ २० ॥
-#### सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।
-#### वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वत: ॥ २१ ॥
-#### यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: ।
-#### यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ॥ २२ ॥
-#### तं विद्याद्दु:खसंयोगवियोगं योगसंज्ञितम् ॥ २३ ॥
+##### यत्रोपरमते चित्तं निरुद्धं योगसेवया ।
+##### यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥ २० ॥
+##### सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।
+##### वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वत: ॥ २१ ॥
+##### यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: ।
+##### यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ॥ २२ ॥
+##### तं विद्याद्दु:खसंयोगवियोगं योगसंज्ञितम् ॥ २३ ॥
 
-#### yatroparamate cittaṁ
-#### niruddhaṁ yoga-sevayā
-#### yatra caivātmanātmānaṁ
-#### paśyann ātmani tuṣyati
+##### yatroparamate cittaṁ
+##### niruddhaṁ yoga-sevayā
+##### yatra caivātmanātmānaṁ
+##### paśyann ātmani tuṣyati
 
-#### sukham ātyantikaṁ yat tad
-#### buddhi-grāhyam atīndriyam
-#### vetti yatra na caivāyaṁ
-#### sthitaś calati tattvataḥ
+##### sukham ātyantikaṁ yat tad
+##### buddhi-grāhyam atīndriyam
+##### vetti yatra na caivāyaṁ
+##### sthitaś calati tattvataḥ
 
-#### yaṁ labdhvā cāparaṁ lābhaṁ
-#### manyate nādhikaṁ tataḥ
-#### yasmin sthito na duḥkhena
-#### guruṇāpi vicālyate
+##### yaṁ labdhvā cāparaṁ lābhaṁ
+##### manyate nādhikaṁ tataḥ
+##### yasmin sthito na duḥkhena
+##### guruṇāpi vicālyate
 
-#### taṁ vidyād duḥkha-saṁyoga-
-#### viyogaṁ yoga-saṁjñitam
+##### taṁ vidyād duḥkha-saṁyoga-
+##### viyogaṁ yoga-saṁjñitam
 
-### Synonyms
+#### Synonyms
 
 **yatra** — in that state of affairs where; **uparamate** — cease (because one feels transcendental happiness); **cittam** — mental activities; **niruddham** — being restrained from matter; **yoga**-**sevayā** — by performance of **yoga**; **yatra** — in which; **ca** — also; **eva** — certainly; **ātmanā** — by the pure mind; **ātmānam** — the Self; **paśyan** — realizing the position of; **ātmani** — in the Self; **tuṣyati** — one becomes satisfied; **sukham** — happiness; **ātyantikam** — supreme; **yat** — which; **tat** — that; **buddhi** — by intelligence; **grāhyam** — accessible; **atīndriyam** — transcendental; **vetti** — one knows; **yatra** — wherein; **na** — never; **ca** — also; **eva** — certainly; **ayam** — he; **sthitaḥ** — situated; **calati** — moves; **tattvataḥ** — from the truth; **yam** — that which; **labdhvā** — by attainment; **ca** — also; **aparam** — any other; **lābham** — gain; **manyate** — considers; **na** — never; **adhikam** — more; **tataḥ** — than that; **yasmin** — in which; **sthitaḥ** — being situated; **na** — never; **duḥkhena** — by miseries; **guruṇā** **api** — even though very difficult; **vicālyate** — becomes shaken; **tam** — that; **vidyāt** — you must know; **duḥkha**-**saṁyoga** — of the miseries of material contact; **viyogam** — extermination; **yoga**-**saṁjñitam** — called trance in **yoga.**
 
-### Translation
+#### Translation
 
 In the stage of perfection called trance, or samādhi, one’s mind is completely restrained from material mental activities by practice of yoga. This perfection is characterized by one’s ability to see the Self by the pure mind and to relish and rejoice in the Self. In that joyous state, one is situated in boundless transcendental happiness, realized through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty. This indeed is actual freedom from all miseries arising from material contact.
 
-### Purport
+#### Purport
 
 By practice of yoga one becomes gradually detached from material concepts. This is the primary characteristic of the yoga principle. And after this, one becomes situated in trance, or samādhi, which means that the yogī realizes the Supersoul through transcendental mind and intelligence, without any of the misgivings of identifying the self with the Superself. Yoga practice is more or less based on the principles of the Patañjali system. Some unauthorized commentators try to identify the individual soul with the Supersoul, and the monists think this to be liberation, but they do not understand the real purpose of the Patañjali system of yoga. There is an acceptance of transcendental pleasure in the Patañjali system, but the monists do not accept this transcendental pleasure, out of fear of jeopardizing the theory of oneness. The duality of knowledge and knower is not accepted by the nondualist, but in this verse transcendental pleasure – realized through transcendental senses – is accepted. And this is corroborated by Patañjali Muni, the famous exponent of the yoga system. The great sage declares in his Yoga-sūtras (4.33): puruṣārtha-śūnyānāṁ guṇānāṁ pratiprasavaḥ kaivalyaṁ svarūpa-pratiṣṭhā vā citi-śaktir iti.
 

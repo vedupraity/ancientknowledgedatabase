@@ -1,4 +1,4 @@
-### Publisher's Note
+#### Publisher's Note
 
 Śrī Rāmacaritamānasa of Gosvāmī Tulasīdāsa enjoys a unique place among the classics of the world's literature. It is a specimen of most exquisite poetry and can compare favourably with the best poems of the world. It was considered to be the best work on Devotion by Mahātmā Gāndhi, the greatest man of the modern world and styled as 'the perfect example of the perfect book' by foreign scholars. It is universally accepted by all classes of people from Bihar to the Punjab and from the Himālayas to the Narmadā. According to an old Christian missionary, who is no more in this world, no one could hope to understand the people of Upper India till he had mastered every line that Tulasīdāsa had written.
 

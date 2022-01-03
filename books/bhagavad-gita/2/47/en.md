@@ -1,20 +1,20 @@
-#### कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
-#### मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥ ४७ ॥
+##### कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+##### मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥ ४७ ॥
 
-#### karmaṇy evādhikāras te
-#### mā phaleṣu kadācana
-#### mā karma-phala-hetur bhūr
-#### mā te saṅgo ’stv akarmaṇi
+##### karmaṇy evādhikāras te
+##### mā phaleṣu kadācana
+##### mā karma-phala-hetur bhūr
+##### mā te saṅgo ’stv akarmaṇi
 
-### Synonyms
+#### Synonyms
 
 **karmaṇi** — in prescribed duties; **eva** — certainly; **adhikāraḥ** — right; **te** — of you; **mā** — never; **phaleṣu** — in the fruits; **kadācana** — at any time; **mā** — never; **karma**-**phala** — in the result of the work; **hetuḥ** — cause; **bhūḥ** — become; **mā** — never; **te** — of you; **saṅgaḥ** — attachment; **astu** — there should be; **akarmaṇi** — in not doing prescribed duties.
 
-### Translation
+#### Translation
 
 You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.
 
-### Purport
+#### Purport
 
 There are three considerations here: prescribed duties, capricious work, and inaction. Prescribed duties are activities enjoined in terms of one’s acquired modes of material nature. Capricious work means actions without the sanction of authority, and inaction means not performing one’s prescribed duties. The Lord advised that Arjuna not be inactive, but that he perform his prescribed duty without being attached to the result. One who is attached to the result of his work is also the cause of the action. Thus he is the enjoyer or sufferer of the result of such actions.
 

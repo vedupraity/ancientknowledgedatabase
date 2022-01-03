@@ -1,20 +1,20 @@
-#### यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।
-#### स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: ॥ ४६ ॥
+##### यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।
+##### स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: ॥ ४६ ॥
 
-#### yataḥ pravṛttir bhūtānāṁ
-#### yena sarvam idaṁ tatam
-#### sva-karmaṇā tam abhyarcya
-#### siddhiṁ vindati mānavaḥ
+##### yataḥ pravṛttir bhūtānāṁ
+##### yena sarvam idaṁ tatam
+##### sva-karmaṇā tam abhyarcya
+##### siddhiṁ vindati mānavaḥ
 
-### Synonyms
+#### Synonyms
 
 **yataḥ** — from whom; **pravṛttiḥ** — the emanation; **bhūtānām** — of all living entities; **yena** — by whom; **sarvam** — all; **idam** — this; **tatam** — is pervaded; **sva**-**karmaṇā** — by his own duties; **tam** — Him; **abhyarcya** — by worshiping; **siddhim** — perfection; **vindati** — achieves; **mānavaḥ** — a man.
 
-### Translation
+#### Translation
 
 By worship of the Lord, who is the source of all beings and who is all-pervading, a man can attain perfection through performing his own work.
 
-### Purport
+#### Purport
 
 As stated in the Fifteenth Chapter, all living beings are fragmental parts and parcels of the Supreme Lord. Thus the Supreme Lord is the beginning of all living entities. This is confirmed in the Vedānta-sūtra – janmādy asya yataḥ. The Supreme Lord is therefore the beginning of life of every living entity. And as stated in the Seventh Chapter of Bhagavad-gītā, the Supreme Lord, by His two energies, His external energy and internal energy, is all-pervading. Therefore one should worship the Supreme Lord with His energies. Generally the Vaiṣṇava devotees worship the Supreme Lord with His internal energy. His external energy is a perverted reflection of the internal energy. The external energy is a background, but the Supreme Lord by the expansion of His plenary portion as Paramātmā is situated everywhere. He is the Supersoul of all demigods, all human beings, all animals, everywhere. One should therefore know that as part and parcel of the Supreme Lord one has his duty to render service unto the Supreme. Everyone should be engaged in devotional service to the Lord in full Kṛṣṇa consciousness. That is recommended in this verse.
 

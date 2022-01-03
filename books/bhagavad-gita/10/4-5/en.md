@@ -1,27 +1,27 @@
-#### बुद्धिर्ज्ञानमसम्मोह: क्षमा सत्यं दम: शम: ।
-#### सुखं दु:खं भवोऽभावो भयं चाभयमेव च ॥ ४ ॥
-#### अहिंसा समता तुष्टिस्तपो दानं यशोऽयश: ।
-#### भवन्ति भावा भूतानां मत्त एव पृथग्विधा: ॥ ५ ॥
+##### बुद्धिर्ज्ञानमसम्मोह: क्षमा सत्यं दम: शम: ।
+##### सुखं दु:खं भवोऽभावो भयं चाभयमेव च ॥ ४ ॥
+##### अहिंसा समता तुष्टिस्तपो दानं यशोऽयश: ।
+##### भवन्ति भावा भूतानां मत्त एव पृथग्विधा: ॥ ५ ॥
 
-#### buddhir jñānam asammohaḥ
-#### kṣamā satyaṁ damaḥ śamaḥ
-#### sukhaṁ duḥkhaṁ bhavo ’bhāvo
-#### bhayaṁ cābhayam eva ca
+##### buddhir jñānam asammohaḥ
+##### kṣamā satyaṁ damaḥ śamaḥ
+##### sukhaṁ duḥkhaṁ bhavo ’bhāvo
+##### bhayaṁ cābhayam eva ca
 
-#### ahiṁsā samatā tuṣṭis
-#### tapo dānaṁ yaśo ’yaśaḥ
-#### bhavanti bhāvā bhūtānāṁ
-#### matta eva pṛthag-vidhāḥ
+##### ahiṁsā samatā tuṣṭis
+##### tapo dānaṁ yaśo ’yaśaḥ
+##### bhavanti bhāvā bhūtānāṁ
+##### matta eva pṛthag-vidhāḥ
 
-### Synonyms
+#### Synonyms
 
 **buddhiḥ** — intelligence; **jñānam** — knowledge; **asammohaḥ** — freedom from doubt; **kṣamā** — forgiveness; **satyam** — truthfulness; **damaḥ** — control of the senses; **śamaḥ** — control of the mind; **sukham** — happiness; **duḥkham** — distress; **bhavaḥ** — birth; **abhāvaḥ** — death; **bhayam** — fear; **ca** — also; **abhayam** — fearlessness; **eva** — also; **ca** — and; **ahiṁsā** — nonviolence; **samatā** — equilibrium; **tuṣṭiḥ** — satisfaction; **tapaḥ** — penance; **dānam** — charity; **yaśaḥ** — fame; **ayaśaḥ** — infamy; **bhavanti** — come about; **bhāvāḥ** — natures; **bhūtānām** — of living entities; **mattaḥ** — from Me; **eva** — certainly; **pṛthak**-**vidhāḥ** — variously arranged.
 
-### Translation
+#### Translation
 
 Intelligence, knowledge, freedom from doubt and delusion, forgiveness, truthfulness, control of the senses, control of the mind, happiness and distress, birth, death, fear, fearlessness, nonviolence, equanimity, satisfaction, austerity, charity, fame and infamy – all these various qualities of living beings are created by Me alone.
 
-### Purport
+#### Purport
 
 The different qualities of living entities, be they good or bad, are all created by Kṛṣṇa, and they are described here.
 

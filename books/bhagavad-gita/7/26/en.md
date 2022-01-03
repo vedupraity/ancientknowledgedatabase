@@ -1,20 +1,20 @@
-#### वेदाहं समतीतानि वर्तमानानि चार्जुन ।
-#### भविष्याणि च भूतानि मां तु वेद न कश्चन ॥ २६ ॥
+##### वेदाहं समतीतानि वर्तमानानि चार्जुन ।
+##### भविष्याणि च भूतानि मां तु वेद न कश्चन ॥ २६ ॥
 
-#### vedāhaṁ samatītāni
-#### vartamānāni cārjuna
-#### bhaviṣyāṇi ca bhūtāni
-#### māṁ tu veda na kaścana
+##### vedāhaṁ samatītāni
+##### vartamānāni cārjuna
+##### bhaviṣyāṇi ca bhūtāni
+##### māṁ tu veda na kaścana
 
-### Synonyms
+#### Synonyms
 
 **veda** — know; **aham** — I; **samatītāni** — completely past; **vartamānāni** — present; **ca** — and; **arjuna** — O Arjuna; **bhaviṣyāṇi** — future; **ca** — also; **bhūtāni** — all living entities; **mām** — Me; **tu** — but; **veda** — knows; **na** — not; **kaścana** — anyone.
 
-### Translation
+#### Translation
 
 O Arjuna, as the Supreme Personality of Godhead, I know everything that has happened in the past, all that is happening in the present, and all things that are yet to come. I also know all living entities; but Me no one knows.
 
-### Purport
+#### Purport
 
 Here the question of personality and impersonality is clearly stated. If Kṛṣṇa, the form of the Supreme Personality of Godhead, were māyā, material, as the impersonalists consider Him to be, then like the living entity He would change His body and forget everything about His past life. Anyone with a material body cannot remember his past life, nor can he foretell his future life, nor can he predict the outcome of his present life; therefore he cannot know what is happening in past, present and future. Unless one is liberated from material contamination, he cannot know past, present and future.
 

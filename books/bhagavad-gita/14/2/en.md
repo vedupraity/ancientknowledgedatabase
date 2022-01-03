@@ -1,20 +1,20 @@
-#### इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागता: ।
-#### सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥ २ ॥
+##### इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागता: ।
+##### सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥ २ ॥
 
-#### idaṁ jñānam upāśritya
-#### mama sādharmyam āgatāḥ
-#### sarge ’pi nopajāyante
-#### pralaye na vyathanti ca
+##### idaṁ jñānam upāśritya
+##### mama sādharmyam āgatāḥ
+##### sarge ’pi nopajāyante
+##### pralaye na vyathanti ca
 
-### Synonyms
+#### Synonyms
 
 **idam** — this; **jñānam** — knowledge; **upāśritya** — taking shelter of; **mama** — My; **sādharmyam** — same nature; **āgatāḥ** — having attained; **sarge** **api** — even in the creation; **na** — never; **upajāyante** — are born; **pralaye** — in the annihilation; **na** — nor; **vyathanti** — are disturbed; **ca** — also.
 
-### Translation
+#### Translation
 
 By becoming fixed in this knowledge, one can attain to the transcendental nature like My own. Thus established, one is not born at the time of creation or disturbed at the time of dissolution.
 
-### Purport
+#### Purport
 
 After acquiring perfect transcendental knowledge, one acquires qualitative equality with the Supreme Personality of Godhead, becoming free from the repetition of birth and death. One does not, however, lose his identity as an individual soul. It is understood from Vedic literature that the liberated souls who have reached the transcendental planets of the spiritual sky always look to the lotus feet of the Supreme Lord, being engaged in His transcendental loving service. So, even after liberation, the devotees do not lose their individual identities.
 

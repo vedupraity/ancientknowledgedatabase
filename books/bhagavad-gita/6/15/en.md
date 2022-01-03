@@ -1,20 +1,20 @@
-#### युञ्जन्नेवं सदात्मानं योगी नियतमानस: ।
-#### शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥
+##### युञ्जन्नेवं सदात्मानं योगी नियतमानस: ।
+##### शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥
 
-#### yuñjann evaṁ sadātmānaṁ
-#### yogī niyata-mānasaḥ
-#### śāntiṁ nirvāṇa-paramāṁ
-#### mat-saṁsthām adhigacchati
+##### yuñjann evaṁ sadātmānaṁ
+##### yogī niyata-mānasaḥ
+##### śāntiṁ nirvāṇa-paramāṁ
+##### mat-saṁsthām adhigacchati
 
-### Synonyms
+#### Synonyms
 
 **yuñjan** — practicing; **evam** — as mentioned above; **sadā** — constantly; **ātmānam** — body, mind and soul; **yogī** — the mystic transcendentalist; **niyata**-**mānasaḥ** — with a regulated mind; **śāntim** — peace; **nirvāṇa**-**paramām** — cessation of material existence; **mat**-**saṁsthām** — the spiritual sky (the kingdom of God); **adhigacchati** — does attain.
 
-### Translation
+#### Translation
 
 Thus practicing constant control of the body, mind and activities, the mystic transcendentalist, his mind regulated, attains to the kingdom of God [or the abode of Kṛṣṇa] by cessation of material existence.
 
-### Purport
+#### Purport
 
 The ultimate goal in practicing yoga is now clearly explained. Yoga practice is not meant for attaining any kind of material facility; it is to enable the cessation of all material existence. One who seeks an improvement in health or aspires after material perfection is no yogī according to Bhagavad-gītā. Nor does cessation of material existence entail one’s entering into “the void,” which is only a myth. There is no void anywhere within the creation of the Lord. Rather, the cessation of material existence enables one to enter into the spiritual sky, the abode of the Lord. The abode of the Lord is also clearly described in the Bhagavad-gītā as that place where there is no need of sun, moon or electricity. All the planets in the spiritual kingdom are self-illuminated like the sun in the material sky. The kingdom of God is everywhere, but the spiritual sky and the planets thereof are called paraṁ dhāma, or superior abodes.
 

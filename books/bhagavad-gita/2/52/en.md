@@ -1,27 +1,27 @@
-#### यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।
-#### तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥ ५२ ॥
+##### यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।
+##### तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥ ५२ ॥
 
-#### yadā te moha-kalilaṁ
-#### buddhir vyatitariṣyati
-#### tadā gantāsi nirvedaṁ
-#### śrotavyasya śrutasya ca
+##### yadā te moha-kalilaṁ
+##### buddhir vyatitariṣyati
+##### tadā gantāsi nirvedaṁ
+##### śrotavyasya śrutasya ca
 
-### Synonyms
+#### Synonyms
 
 **yadā** — when; **te** — your; **moha** — of illusion; **kalilam** — dense forest; **buddhiḥ** — transcendental service with intelligence; **vyatitariṣyati** — surpasses; **tadā** — at that time; **gantā** **asi** — you shall go; **nirvedam** — callousness; **śrotavyasya** — toward all that is to be heard; **śrutasya** — all that is already heard; **ca** — also.
 
-### Translation
+#### Translation
 
 When your intelligence has passed out of the dense forest of delusion, you shall become indifferent to all that has been heard and all that is to be heard.
 
-### Purport
+#### Purport
 
 There are many good examples in the lives of the great devotees of the Lord of those who became indifferent to the rituals of the Vedas simply by devotional service to the Lord. When a person factually understands Kṛṣṇa and his relationship with Kṛṣṇa, he naturally becomes completely indifferent to the rituals of fruitive activities, even though an experienced brāhmaṇa. Śrī Mādhavendra Purī, a great devotee and ācārya in the line of the devotees, says:
 
-#### sandhyā-vandana bhadram astu bhavato bhoḥ snāna tubhyaṁ namo
-#### bho devāḥ pitaraś ca tarpaṇa-vidhau nāhaṁ kṣamaḥ kṣamyatām
-#### yatra kvāpi niṣadya yādava-kulottaṁsasya kaṁsa-dviṣaḥ
-#### smāraṁ smāram aghaṁ harāmi tad alaṁ manye kim anyena me
+##### sandhyā-vandana bhadram astu bhavato bhoḥ snāna tubhyaṁ namo
+##### bho devāḥ pitaraś ca tarpaṇa-vidhau nāhaṁ kṣamaḥ kṣamyatām
+##### yatra kvāpi niṣadya yādava-kulottaṁsasya kaṁsa-dviṣaḥ
+##### smāraṁ smāram aghaṁ harāmi tad alaṁ manye kim anyena me
 
 “O my prayers three times a day, all glory to you. O bathing, I offer my obeisances unto you. O demigods! O forefathers! Please excuse me for my inability to offer you my respects. Now wherever I sit, I can remember the great descendant of the Yadu dynasty [Kṛṣṇa], the enemy of Kaṁsa, and thereby I can free myself from all sinful bondage. I think this is sufficient for me.”
 

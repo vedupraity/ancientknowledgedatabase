@@ -1,20 +1,20 @@
-#### नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।
-#### न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥ २३ ॥
+##### नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।
+##### न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥ २३ ॥
 
-#### nainaṁ chindanti śastrāṇi
-#### nainaṁ dahati pāvakaḥ
-#### na cainaṁ kledayanty āpo
-#### na śoṣayati mārutaḥ
+##### nainaṁ chindanti śastrāṇi
+##### nainaṁ dahati pāvakaḥ
+##### na cainaṁ kledayanty āpo
+##### na śoṣayati mārutaḥ
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **enam** — this soul; **chindanti** — can cut to pieces; **śastrāṇi** — weapons; **na** — never; **enam** — this soul; **dahati** — burns; **pāvakaḥ** — fire; **na** — never; **ca** — also; **enam** — this soul; **kledayanti** — moistens; **āpaḥ** — water; **na** — never; **śoṣayati** — dries; **mārutaḥ** — wind.
 
-### Translation
+#### Translation
 
 The soul can never be cut to pieces by any weapon, nor burned by fire, nor moistened by water, nor withered by the wind.
 
-### Purport
+#### Purport
 
 All kinds of weapons – swords, flame weapons, rain weapons, tornado weapons, etc. – are unable to kill the spirit soul. It appears that there were many kinds of weapons made of earth, water, air, ether, etc., in addition to the modern weapons of fire. Even the nuclear weapons of the modern age are classified as fire weapons, but formerly there were other weapons made of all different types of material elements. Fire weapons were counteracted by water weapons, which are now unknown to modern science. Nor do modern scientists have knowledge of tornado weapons. Nonetheless, the soul can never be cut into pieces, nor annihilated by any number of weapons, regardless of scientific devices.
 

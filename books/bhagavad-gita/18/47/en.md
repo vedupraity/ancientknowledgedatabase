@@ -1,20 +1,20 @@
-#### श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् ।
-#### स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥ ४७ ॥
+##### श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् ।
+##### स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥ ४७ ॥
 
-#### śreyān sva-dharmo viguṇaḥ
-#### para-dharmāt sv-anuṣṭhitāt
-#### svabhāva-niyataṁ karma
-#### kurvan nāpnoti kilbiṣam
+##### śreyān sva-dharmo viguṇaḥ
+##### para-dharmāt sv-anuṣṭhitāt
+##### svabhāva-niyataṁ karma
+##### kurvan nāpnoti kilbiṣam
 
-### Synonyms
+#### Synonyms
 
 **śreyān** — better; **sva**-**dharmaḥ** — one’s own occupation; **viguṇaḥ** — imperfectly performed; **para**-**dharmāt** — than another’s occupation; **su**-**anuṣṭhitāt** — perfectly done; **svabhāva**-**niyatam** — prescribed according to one’s nature; **karma** — work; **kurvan** — performing; **na** — never; **āpnoti** — achieves; **kilbiṣam** — sinful reactions.
 
-### Translation
+#### Translation
 
 It is better to engage in one’s own occupation, even though one may perform it imperfectly, than to accept another’s occupation and perform it perfectly. Duties prescribed according to one’s nature are never affected by sinful reactions.
 
-### Purport
+#### Purport
 
 One’s occupational duty is prescribed in Bhagavad-gītā. As already discussed in previous verses, the duties of a brāhmaṇa, kṣatriya, vaiśya and śūdra are prescribed according to their particular modes of nature. One should not imitate another’s duty. A man who is by nature attracted to the kind of work done by śūdras should not artificially claim to be a brāhmaṇa, although he may have been born into a brāhmaṇa family. In this way one should work according to his own nature; no work is abominable, if performed in the service of the Supreme Lord. The occupational duty of a brāhmaṇa is certainly in the mode of goodness, but if a person is not by nature in the mode of goodness, he should not imitate the occupational duty of a brāhmaṇa. For a kṣatriya, or administrator, there are so many abominable things; a kṣatriya has to be violent to kill his enemies, and sometimes a kṣatriya has to tell lies for the sake of diplomacy. Such violence and duplicity accompany political affairs, but a kṣatriya is not supposed to give up his occupational duty and try to perform the duties of a brāhmaṇa.
 

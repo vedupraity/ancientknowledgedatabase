@@ -1,20 +1,20 @@
-#### मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।
-#### मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: ॥ ३४ ॥
+##### मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।
+##### मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: ॥ ३४ ॥
 
-#### man-manā bhava mad-bhakto
-#### mad-yājī māṁ namaskuru
-#### mām evaiṣyasi yuktvaivam
-#### ātmānaṁ mat-parāyaṇaḥ
+##### man-manā bhava mad-bhakto
+##### mad-yājī māṁ namaskuru
+##### mām evaiṣyasi yuktvaivam
+##### ātmānaṁ mat-parāyaṇaḥ
 
-### Synonyms
+#### Synonyms
 
 **mat**-**manāḥ** — always thinking of Me; **bhava** — become; **mat** — My; **bhaktaḥ** — devotee; **mat** — My; **yājī** — worshiper; **mām** — unto Me; **namas**-**kuru** — offer obeisances; **mām** — unto Me; **eva** — completely; **eṣyasi** — you will come; **yuktvā** — being absorbed; **evam** — thus; **ātmānam** — your soul; **mat**-**parāyaṇaḥ** — devoted to Me.
 
-### Translation
+#### Translation
 
 Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me.
 
-### Purport
+#### Purport
 
 In this verse it is clearly indicated that Kṛṣṇa consciousness is the only means of being delivered from the clutches of this contaminated material world. Sometimes unscrupulous commentators distort the meaning of what is clearly stated here: that all devotional service should be offered to the Supreme Personality of Godhead, Kṛṣṇa. Unfortunately, unscrupulous commentators divert the mind of the reader to that which is not at all feasible. Such commentators do not know that there is no difference between Kṛṣṇa’s mind and Kṛṣṇa. Kṛṣṇa is not an ordinary human being; He is Absolute Truth. His body, His mind and He Himself are one and absolute. It is stated in the Kūrma Purāṇa, as it is quoted by Bhaktisiddhānta Sarasvatī Gosvāmī in his Anubhāṣya comments on Caitanya-caritāmṛta (Fifth Chapter, Ādi-līlā, verses 41–48), deha-dehi-vibhedo ’yaṁ neśvare vidyate kvacit. This means that there is no difference in Kṛṣṇa, the Supreme Lord, between Himself and His body. But because the commentators do not know this science of Kṛṣṇa, they hide Kṛṣṇa and divide His personality from His mind or from His body. Although this is sheer ignorance of the science of Kṛṣṇa, some men make profit out of misleading people.
 

@@ -1,20 +1,20 @@
-#### अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।
-#### नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥ २४ ॥
+##### अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।
+##### नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥ २४ ॥
 
-#### acchedyo ’yam adāhyo ’yam
-#### akledyo ’śoṣya eva ca
-#### nityaḥ sarva-gataḥ sthāṇur
-#### acalo ’yaṁ sanātanaḥ
+##### acchedyo ’yam adāhyo ’yam
+##### akledyo ’śoṣya eva ca
+##### nityaḥ sarva-gataḥ sthāṇur
+##### acalo ’yaṁ sanātanaḥ
 
-### Synonyms
+#### Synonyms
 
 **acchedyaḥ** — unbreakable; **ayam** — this soul; **adāhyaḥ** — unable to be burned; **ayam** — this soul; **akledyaḥ** — insoluble; **aśoṣyaḥ** — not able to be dried; **eva** — certainly; **ca** — and; **nityaḥ** — everlasting; **sarva**-**gataḥ** — all-pervading; **sthāṇuḥ** — unchangeable; **acalaḥ** — immovable; **ayam** — this soul; **sanātanaḥ** — eternally the same.
 
-### Translation
+#### Translation
 
 This individual soul is unbreakable and insoluble, and can be neither burned nor dried. He is everlasting, present everywhere, unchangeable, immovable and eternally the same.
 
-### Purport
+#### Purport
 
 All these qualifications of the atomic soul definitely prove that the individual soul is eternally the atomic particle of the spirit whole, and he remains the same atom eternally, without change. The theory of monism is very difficult to apply in this case, because the individual soul is never expected to become one homogeneously. After liberation from material contamination, the atomic soul may prefer to remain as a spiritual spark in the effulgent rays of the Supreme Personality of Godhead, but the intelligent souls enter into the spiritual planets to associate with the Personality of Godhead.
 

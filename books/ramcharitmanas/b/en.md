@@ -1,3 +1,3 @@
-### Procedure of Reciting the Rāmacaritamānasa
+#### Procedure of Reciting the Rāmacaritamānasa
 
 Those who undertake to read the Rāmacaritamānasa according to the correct procedure should before commencing the reading invoke and worship the author. Gosvāmi Tulasidāsa, the sage Vālmīki, Lord Śiva and Śrī Hanumān, and then invoke the Divine Couple, Sītā and Rāma, alongwith Śrī Rāma's three divine brothers (Bharata, Lakṣmaṇa and Śatrughna), offer them the sixteenfold worship and meditate on them. The reading should be commenced after that.

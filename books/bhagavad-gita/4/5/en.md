@@ -1,38 +1,38 @@
-#### श्रीभगवानुवाच
-#### बहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।
-#### तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥ ५ ॥
+##### श्रीभगवानुवाच
+##### बहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।
+##### तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥ ५ ॥
 
-#### śrī-bhagavān uvāca
-#### bahūni me vyatītāni
-#### janmāni tava cārjuna
-#### tāny ahaṁ veda sarvāṇi
-#### na tvaṁ vettha paran-tapa
+##### śrī-bhagavān uvāca
+##### bahūni me vyatītāni
+##### janmāni tava cārjuna
+##### tāny ahaṁ veda sarvāṇi
+##### na tvaṁ vettha paran-tapa
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Personality of Godhead said; **bahūni** — many; **me** — of Mine; **vyatītāni** — have passed; **janmāni** — births; **tava** — of yours; **ca** — and also; **arjuna** — O Arjuna; **tāni** — those; **aham** — I; **veda** — do know; **sarvāṇi** — all; **na** — not; **tvam** — you; **vettha** — know; **param**-**tapa** — O subduer of the enemy.
 
-### Translation
+#### Translation
 
 The Personality of Godhead said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!
 
-### Purport
+#### Purport
 
 In the Brahma-saṁhitā (5.33) we have information of many, many incarnations of the Lord. It is stated there:
 
-#### advaitam acyutam anādim ananta-rūpam
-#### ādyaṁ purāṇa-puruṣaṁ nava-yauvanaṁ ca
-#### vedeṣu durlabham adurlabham ātma-bhaktau
-#### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+##### advaitam acyutam anādim ananta-rūpam
+##### ādyaṁ purāṇa-puruṣaṁ nava-yauvanaṁ ca
+##### vedeṣu durlabham adurlabham ātma-bhaktau
+##### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
 
 “I worship the Supreme Personality of Godhead, Govinda [Kṛṣṇa], who is the original person – absolute, infallible, without beginning. Although expanded into unlimited forms, He is still the same original, the oldest, and the person always appearing as a fresh youth. Such eternal, blissful, all-knowing forms of the Lord are usually not understood by even the best Vedic scholars, but they are always manifest to pure, unalloyed devotees.”
 
 It is also stated in Brahma-saṁhitā (5.39):
 
-#### rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan
-#### nānāvatāram akarod bhuvaneṣu kintu
-#### kṛṣṇaḥ svayaṁ samabhavat paramaḥ pumān yo
-#### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+##### rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan
+##### nānāvatāram akarod bhuvaneṣu kintu
+##### kṛṣṇaḥ svayaṁ samabhavat paramaḥ pumān yo
+##### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
 
 “I worship the Supreme Personality of Godhead, Govinda [Kṛṣṇa], who is always situated in various incarnations such as Rāma, Nṛsiṁha and many subincarnations as well, but who is the original Personality of Godhead known as Kṛṣṇa, and who incarnates personally also.”
 

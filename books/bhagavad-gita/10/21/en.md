@@ -1,20 +1,20 @@
-#### आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।
-#### मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥ २१ ॥
+##### आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।
+##### मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥ २१ ॥
 
-#### ādityānām ahaṁ viṣṇur
-#### jyotiṣāṁ ravir aṁśumān
-#### marīcir marutām asmi
-#### nakṣatrāṇām ahaṁ śaśī
+##### ādityānām ahaṁ viṣṇur
+##### jyotiṣāṁ ravir aṁśumān
+##### marīcir marutām asmi
+##### nakṣatrāṇām ahaṁ śaśī
 
-### Synonyms
+#### Synonyms
 
 **ādityānām** — of the Ādityas; **aham** — I am; **viṣṇuḥ** — the Supreme Lord; **jyotiṣām** — of all luminaries; **raviḥ** — the sun; **aṁśu**-**mān** — radiant; **marīciḥ** — Marīci; **marutām** — of the Maruts; **asmi** — I am; **nakṣatrāṇām** — of the stars; **aham** — I am; **śaśī** — the moon.
 
-### Translation
+#### Translation
 
 Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, of the Maruts I am Marīci, and among the stars I am the moon.
 
-### Purport
+#### Purport
 
 There are twelve Ādityas, of which Kṛṣṇa is the principal. Among all the luminaries shining in the sky, the sun is the chief, and in the Brahma-saṁhitā the sun is accepted as the glowing eye of the Supreme Lord. There are fifty varieties of wind blowing in space, and of these winds the controlling deity, Marīci, represents Kṛṣṇa.
 

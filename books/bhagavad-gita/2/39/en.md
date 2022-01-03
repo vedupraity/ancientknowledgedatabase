@@ -1,20 +1,20 @@
-#### एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु ।
-#### बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥ ३९ ॥
+##### एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु ।
+##### बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥ ३९ ॥
 
-#### eṣā te ’bhihitā sāṅkhye
-#### buddhir yoge tv imāṁ śṛṇu
-#### buddhyā yukto yayā pārtha
-#### karma-bandhaṁ prahāsyasi
+##### eṣā te ’bhihitā sāṅkhye
+##### buddhir yoge tv imāṁ śṛṇu
+##### buddhyā yukto yayā pārtha
+##### karma-bandhaṁ prahāsyasi
 
-### Synonyms
+#### Synonyms
 
 **eṣā** — all this; **te** — unto you; **abhihitā** — described; **sāṅkhye** — in analytical study; **buddhiḥ** — intelligence; **yoge** — in work without fruitive result; **tu** — but; **imām** — this; **śṛṇu** — just hear; **buddhyā** — by intelligence; **yuktaḥ** — dovetailed; **yayā** — by which; **pārtha** — O son of Pṛthā; **karma**-**bandham** — bondage of reaction; **prahāsyasi** — you can be released from.
 
-### Translation
+#### Translation
 
 Thus far I have described this knowledge to you through analytical study. Now listen as I explain it in terms of working without fruitive results. O son of Pṛthā, when you act in such knowledge you can free yourself from the bondage of works.
 
-### Purport
+#### Purport
 
 According to the Nirukti, or the Vedic dictionary, saṅkhyā means that which describes things in detail, and sāṅkhya refers to that philosophy which describes the real nature of the soul. And yoga involves controlling the senses. Arjuna’s proposal not to fight was based on sense gratification. Forgetting his prime duty, he wanted to cease fighting, because he thought that by not killing his relatives and kinsmen he would be happier than by enjoying the kingdom after conquering his cousins and brothers, the sons of Dhṛtarāṣṭra. In both ways, the basic principles were for sense gratification. Happiness derived from conquering them and happiness derived by seeing kinsmen alive are both on the basis of personal sense gratification, even at a sacrifice of wisdom and duty. Kṛṣṇa, therefore, wanted to explain to Arjuna that by killing the body of his grandfather he would not be killing the soul proper, and He explained that all individual persons, including the Lord Himself, are eternal individuals; they were individuals in the past, they are individuals in the present, and they will continue to remain individuals in the future, because all of us are individual souls eternally. We simply change our bodily dress in different manners, but actually we keep our individuality even after liberation from the bondage of material dress. An analytical study of the soul and the body has been very graphically explained by Lord Kṛṣṇa. And this descriptive knowledge of the soul and the body from different angles of vision has been described here as Sāṅkhya, in terms of the Nirukti dictionary. This Sāṅkhya has nothing to do with the Sāṅkhya philosophy of the atheist Kapila. Long before the imposter Kapila’s Sāṅkhya, the Sāṅkhya philosophy was expounded in the Śrīmad-Bhāgavatam by the true Lord Kapila, the incarnation of Lord Kṛṣṇa, who explained it to His mother, Devahūti. It is clearly explained by Him that the puruṣa, or the Supreme Lord, is active and that He creates by looking over the prakṛti. This is accepted in the Vedas and in the Gītā. The description in the Vedas indicates that the Lord glanced over the prakṛti, or nature, and impregnated it with atomic individual souls. All these individuals are working in the material world for sense gratification, and under the spell of material energy they are thinking of being enjoyers. This mentality is dragged to the last point of liberation when the living entity wants to become one with the Lord. This is the last snare of māyā, or sense gratificatory illusion, and it is only after many, many births of such sense gratificatory activities that a great soul surrenders unto Vāsudeva, Lord Kṛṣṇa, thereby fulfilling the search after the ultimate truth.
 

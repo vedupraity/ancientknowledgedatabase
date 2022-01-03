@@ -1,27 +1,27 @@
-#### ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्परा: ।
-#### अनन्येनैव योगेन मां ध्यायन्त उपासते ॥ ६ ॥
-#### तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।
-#### भवामि न चिरात्पार्थ मय्यावेशितचेतसाम् ॥ ७ ॥
+##### ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्परा: ।
+##### अनन्येनैव योगेन मां ध्यायन्त उपासते ॥ ६ ॥
+##### तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।
+##### भवामि न चिरात्पार्थ मय्यावेशितचेतसाम् ॥ ७ ॥
 
-#### ye tu sarvāṇi karmāṇi
-#### mayi sannyasya mat-parāḥ
-#### ananyenaiva yogena
-#### māṁ dhyāyanta upāsate
+##### ye tu sarvāṇi karmāṇi
+##### mayi sannyasya mat-parāḥ
+##### ananyenaiva yogena
+##### māṁ dhyāyanta upāsate
 
-#### teṣām ahaṁ samuddhartā
-#### mṛtyu-saṁsāra-sāgarāt
-#### bhavāmi na cirāt pārtha
-#### mayy āveśita-cetasām
+##### teṣām ahaṁ samuddhartā
+##### mṛtyu-saṁsāra-sāgarāt
+##### bhavāmi na cirāt pārtha
+##### mayy āveśita-cetasām
 
-### Synonyms
+#### Synonyms
 
 **ye** — those who; **tu** — but; **sarvāṇi** — all; **karmāṇi** — activities; **mayi** — unto Me; **sannyasya** — giving up; **mat**-**parāḥ** — being attached to Me; **ananyena** — without division; **eva** — certainly; **yogena** — by practice of such **bhakti-yoga**; **mām** — upon Me; **dhyāyantaḥ** — meditating; **upāsate** — worship; **teṣām** — of them; **aham** — I; **samuddhartā** — the deliverer; **mṛtyu** — of death; **saṁsāra** — in material existence; **sāgarāt** — from the ocean; **bhavāmi** — I become; **na** — not; **cirāt** — after a long time; **pārtha** — O son of Pṛthā; **mayi** — upon Me; **āveśita** — fixed; **cetasām** — of those whose minds.
 
-### Translation
+#### Translation
 
 But those who worship Me, giving up all their activities unto Me and being devoted to Me without deviation, engaged in devotional service and always meditating upon Me, having fixed their minds upon Me, O son of Pṛthā – for them I am the swift deliverer from the ocean of birth and death.
 
-### Purport
+#### Purport
 
 It is explicitly stated here that the devotees are very fortunate to be delivered very soon from material existence by the Lord. In pure devotional service one comes to the realization that God is great and that the individual soul is subordinate to Him. His duty is to render service to the Lord – and if he does not, then he will render service to māyā.
 
@@ -31,17 +31,17 @@ The Supreme Lord herein promises that without delay He will deliver a pure devot
 
 In the Varāha Purāṇa this verse appears:
 
-#### nayāmi paramaṁ sthānam
-#### arcir-ādi-gatiṁ vinā
-#### garuḍa-skandham āropya
-#### yatheccham anivāritaḥ
+##### nayāmi paramaṁ sthānam
+##### arcir-ādi-gatiṁ vinā
+##### garuḍa-skandham āropya
+##### yatheccham anivāritaḥ
 
 The purport of this verse is that a devotee does not need to practice aṣṭāṅga-yoga in order to transfer his soul to the spiritual planets. The responsibility is taken by the Supreme Lord Himself. He clearly states here that He Himself becomes the deliverer. A child is completely cared for by his parents, and thus his position is secure. Similarly, a devotee does not need to endeavor to transfer himself by yoga practice to other planets. Rather, the Supreme Lord, by His great mercy, comes at once, riding on His bird carrier Garuḍa, and at once delivers the devotee from material existence. Although a man who has fallen in the ocean may struggle very hard and may be very expert in swimming, he cannot save himself. But if someone comes and picks him up from the water, then he is easily rescued. Similarly, the Lord picks up the devotee from this material existence. One simply has to practice the easy process of Kṛṣṇa consciousness and fully engage himself in devotional service. Any intelligent man should always prefer the process of devotional service to all other paths. In the Nārāyaṇīya this is confirmed as follows:
 
-#### yā vai sādhana-sampattiḥ
-#### puruṣārtha-catuṣṭaye
-#### tayā vinā tad āpnoti
-#### naro nārāyaṇāśrayaḥ
+##### yā vai sādhana-sampattiḥ
+##### puruṣārtha-catuṣṭaye
+##### tayā vinā tad āpnoti
+##### naro nārāyaṇāśrayaḥ
 
 The purport of this verse is that one should not engage in the different processes of fruitive activity or cultivate knowledge by the mental speculative process. One who is devoted to the Supreme Personality can attain all the benefits derived from other yogic processes, speculation, rituals, sacrifices, charities, etc. That is the specific benediction of devotional service.
 
@@ -49,9 +49,9 @@ Simply by chanting the holy name of Kṛṣṇa – Hare Kṛṣṇa, Hare Kṛ�
 
 The conclusion of Bhagavad-gītā is stated in the Eighteenth Chapter:
 
-#### sarva-dharmān parityajya
-#### mām ekaṁ śaraṇaṁ vraja
-#### ahaṁ tvāṁ sarva-pāpebhyo
-#### mokṣayiṣyāmi mā śucaḥ
+##### sarva-dharmān parityajya
+##### mām ekaṁ śaraṇaṁ vraja
+##### ahaṁ tvāṁ sarva-pāpebhyo
+##### mokṣayiṣyāmi mā śucaḥ
 
 One should give up all other processes of self-realization and simply execute devotional service in Kṛṣṇa consciousness. That will enable one to reach the highest perfection of life. There is no need for one to consider the sinful actions of his past life, because the Supreme Lord fully takes charge of him. Therefore one should not futilely try to deliver himself in spiritual realization. Let everyone take shelter of the supreme omnipotent Godhead, Kṛṣṇa. That is the highest perfection of life.

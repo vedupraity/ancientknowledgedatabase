@@ -1,22 +1,22 @@
-#### श्रीभगवानुवाच
-#### सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम ।
-#### देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिण: ॥ ५२ ॥
+##### श्रीभगवानुवाच
+##### सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम ।
+##### देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिण: ॥ ५२ ॥
 
-#### śrī-bhagavān uvāca
-#### su-durdarśam idaṁ rūpaṁ
-#### dṛṣṭavān asi yan mama
-#### devā apy asya rūpasya
-#### nityaṁ darśana-kāṅkṣiṇaḥ
+##### śrī-bhagavān uvāca
+##### su-durdarśam idaṁ rūpaṁ
+##### dṛṣṭavān asi yan mama
+##### devā apy asya rūpasya
+##### nityaṁ darśana-kāṅkṣiṇaḥ
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **su**-**durdarśam** — very difficult to see; **idam** — this; **rūpam** — form; **dṛṣṭavān** **asi** — as you have seen; **yat** — which; **mama** — of Mine; **devāḥ** — the demigods; **api** — also; **asya** — this; **rūpasya** — form; **nityam** — eternally; **darśana**-**kāṅkṣiṇaḥ** — aspiring to see.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: My dear Arjuna, this form of Mine you are now seeing is very difficult to behold. Even the demigods are ever seeking the opportunity to see this form, which is so dear.
 
-### Purport
+#### Purport
 
 In the forty-eighth verse of this chapter Lord Kṛṣṇa concluded revealing His universal form and informed Arjuna that this form is not possible to be seen by so many pious activities, sacrifices, etc. Now here the word su-durdarśam is used, indicating that Kṛṣṇa’s two-handed form is still more confidential. One may be able to see the universal form of Kṛṣṇa by adding a little tinge of devotional service to various activities like penances, Vedic study and philosophical speculation. It may be possible, but without a tinge of bhakti one cannot see; that has already been explained. Still, beyond that universal form, the form of Kṛṣṇa with two hands is still more difficult to see, even for demigods like Brahmā and Lord Śiva. They desire to see Him, and we have evidence in the Śrīmad-Bhāgavatam that when He was supposed to be in the womb of His mother, Devakī, all the demigods from heaven came to see the marvel of Kṛṣṇa, and they offered nice prayers to the Lord, although He was not at that time visible to them. They waited to see Him. A foolish person may deride Him, thinking Him an ordinary person, and may offer respect not to Him but to the impersonal “something” within Him, but these are all nonsensical postures. Kṛṣṇa in His two-armed form is actually desired to be seen by demigods like Brahmā and Śiva.
 

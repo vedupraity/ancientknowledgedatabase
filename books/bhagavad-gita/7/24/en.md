@@ -1,27 +1,27 @@
-#### अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: ।
-#### परं भावमजानन्तो ममाव्ययमनुत्तमम् ॥ २४ ॥
+##### अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: ।
+##### परं भावमजानन्तो ममाव्ययमनुत्तमम् ॥ २४ ॥
 
-#### avyaktaṁ vyaktim āpannaṁ
-#### manyante mām abuddhayaḥ
-#### paraṁ bhāvam ajānanto
-#### mamāvyayam anuttamam
+##### avyaktaṁ vyaktim āpannaṁ
+##### manyante mām abuddhayaḥ
+##### paraṁ bhāvam ajānanto
+##### mamāvyayam anuttamam
 
-### Synonyms
+#### Synonyms
 
 **avyaktam** — nonmanifested; **vyaktim** — personality; **āpannam** — achieved; **manyante** — think; **mām** — Me; **abuddhayaḥ** — less intelligent persons; **param** — supreme; **bhāvam** — existence; **ajānantaḥ** — without knowing; **mama** — My; **avyayam** — imperishable; **anuttamam** — the finest.
 
-### Translation
+#### Translation
 
 Unintelligent men, who do not know Me perfectly, think that I, the Supreme Personality of Godhead, Kṛṣṇa, was impersonal before and have now assumed this personality. Due to their small knowledge, they do not know My higher nature, which is imperishable and supreme.
 
-### Purport
+#### Purport
 
 Those who are worshipers of demigods have been described as less intelligent persons, and here the impersonalists are similarly described. Lord Kṛṣṇa in His personal form is here speaking before Arjuna, and still, due to ignorance, impersonalists argue that the Supreme Lord ultimately has no form. Yāmunācārya, a great devotee of the Lord in the disciplic succession of Rāmānujācārya, has written a very appropriate verse in this connection. He says,
 
-#### tvāṁ śīla-rūpa-caritaiḥ parama-prakṛṣṭaiḥ
-#### sattvena sāttvikatayā prabalaiś ca śāstraiḥ
-#### prakhyāta-daiva-paramārtha-vidāṁ mataiś ca
-#### naivāsura-prakṛtayaḥ prabhavanti boddhum
+##### tvāṁ śīla-rūpa-caritaiḥ parama-prakṛṣṭaiḥ
+##### sattvena sāttvikatayā prabalaiś ca śāstraiḥ
+##### prakhyāta-daiva-paramārtha-vidāṁ mataiś ca
+##### naivāsura-prakṛtayaḥ prabhavanti boddhum
 
 “My dear Lord, devotees like Vyāsadeva and Nārada know You to be the Personality of Godhead. By understanding different Vedic literatures, one can come to know Your characteristics, Your form and Your activities, and one can thus understand that You are the Supreme Personality of Godhead. But those who are in the modes of passion and ignorance, the demons, the nondevotees, cannot understand You. They are unable to understand You. However expert such nondevotees may be in discussing Vedānta and the Upaniṣads and other Vedic literatures, it is not possible for them to understand the Personality of Godhead.” (Stotra-ratna 12)
 
@@ -29,10 +29,10 @@ In the Brahma-saṁhitā it is stated that the Personality of Godhead cannot be 
 
 The fact is that no one can understand Kṛṣṇa without rendering devotional service and without developing Kṛṣṇa consciousness. The Bhāgavatam (10.14.29) confirms this:
 
-#### athāpi te deva padāmbuja-dvaya-
-#### prasāda-leśānugṛhīta eva hi
-#### jānāti tattvaṁ bhagavan-mahimno
-#### na cānya eko ’pi ciraṁ vicinvan
+##### athāpi te deva padāmbuja-dvaya-
+##### prasāda-leśānugṛhīta eva hi
+##### jānāti tattvaṁ bhagavan-mahimno
+##### na cānya eko ’pi ciraṁ vicinvan
 
 “My Lord, if one is favored by even a slight trace of the mercy of Your lotus feet, he can understand the greatness of Your personality. But those who speculate to understand the Supreme Personality of Godhead are unable to know You, even though they continue to study the Vedas for many years.” One cannot understand the Supreme Personality of Godhead, Kṛṣṇa, or His form, quality or name simply by mental speculation or by discussing Vedic literature. One must understand Him by devotional service. When one is fully engaged in Kṛṣṇa consciousness, beginning by chanting the mahā-mantra – Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare – then only can one understand the Supreme Personality of Godhead. Nondevotee impersonalists think that Kṛṣṇa has a body made of this material nature and that all His activities, His form and everything are māyā. These impersonalists are known as Māyāvādīs. They do not know the ultimate truth.
 

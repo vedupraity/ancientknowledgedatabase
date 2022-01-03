@@ -1,20 +1,20 @@
-#### ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: ।
-#### ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा ॥ २३ ॥
+##### ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविध: स्मृत: ।
+##### ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिता: पुरा ॥ २३ ॥
 
-#### oṁ tat sad iti nirdeśo
-#### brahmaṇas tri-vidhaḥ smṛtaḥ
-#### brāhmaṇās tena vedāś ca
-#### yajñāś ca vihitāḥ purā
+##### oṁ tat sad iti nirdeśo
+##### brahmaṇas tri-vidhaḥ smṛtaḥ
+##### brāhmaṇās tena vedāś ca
+##### yajñāś ca vihitāḥ purā
 
-### Synonyms
+#### Synonyms
 
 **oṁ** — indication of the Supreme; **tat** — that; **sat** — eternal; **iti** — thus; **nirdeśaḥ** — indication; **brahmaṇaḥ** — of the Supreme; **tri**-**vidhaḥ** — threefold; **smṛtaḥ** — is considered; **brāhmaṇāḥ** — the **brāhmaṇas**; **tena** — with that; **vedāḥ** — the Vedic literature; **ca** — also; **yajñāḥ** — sacrifice; **ca** — also; **vihitāḥ** — used; **purā** — formerly.
 
-### Translation
+#### Translation
 
 From the beginning of creation, the three words oṁ tat sat were used to indicate the Supreme Absolute Truth. These three symbolic representations were used by brāhmaṇas while chanting the hymns of the Vedas and during sacrifices for the satisfaction of the Supreme.
 
-### Purport
+#### Purport
 
 It has been explained that penance, sacrifice, charity and foods are divided into three categories: the modes of goodness, passion and ignorance. But whether first class, second class or third class, they are all conditioned, contaminated by the material modes of nature. When they are aimed at the Supreme – oṁ tat sat, the Supreme Personality of Godhead, the eternal – they become means for spiritual elevation. In the scriptural injunctions such an objective is indicated. These three words, oṁ tat sat, particularly indicate the Absolute Truth, the Supreme Personality of Godhead. In the Vedic hymns, the word oṁ is always found.
 

@@ -1,22 +1,22 @@
-#### धृतराष्ट्र उवाच
-#### धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।
-#### मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
+##### धृतराष्ट्र उवाच
+##### धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।
+##### मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
 
-#### dhṛtarāṣṭra uvāca
-#### dharma-kṣetre kuru-kṣetre
-#### samavetā yuyutsavaḥ
-#### māmakāḥ pāṇḍavāś caiva
-#### kim akurvata sañjaya
+##### dhṛtarāṣṭra uvāca
+##### dharma-kṣetre kuru-kṣetre
+##### samavetā yuyutsavaḥ
+##### māmakāḥ pāṇḍavāś caiva
+##### kim akurvata sañjaya
 
-### Synonyms
+#### Synonyms
 
 **dhṛtarāṣṭraḥ** **uvāca** — King Dhṛtarāṣṭra said; **dharma**-**kṣetre** — in the place of pilgrimage; **kuru**-**kṣetre** — in the place named Kurukṣetra; **samavetāḥ** — assembled; **yuyutsavaḥ** — desiring to fight; **māmakāḥ** — my party (sons); **pāṇḍavāḥ** — the sons of Pāṇḍu; **ca** — and; **eva** — certainly; **kim** — what; **akurvata** — did they do; **sañjaya** — O Sañjaya.
 
-### Translation
+#### Translation
 
 Dhṛtarāṣṭra said: O Sañjaya, after my sons and the sons of Pāṇḍu assembled in the place of pilgrimage at Kurukṣetra, desiring to fight, what did they do?
 
-### Purport
+#### Purport
 
 Bhagavad-gītā is the widely read theistic science summarized in the Gītā-māhātmya (Glorification of the Gītā). There it says that one should read Bhagavad-gītā very scrutinizingly with the help of a person who is a devotee of Śrī Kṛṣṇa and try to understand it without personally motivated interpretations. The example of clear understanding is there in the Bhagavad-gītā itself, in the way the teaching is understood by Arjuna, who heard the Gītā directly from the Lord. If someone is fortunate enough to understand the Bhagavad-gītā in that line of disciplic succession, without motivated interpretation, then he surpasses all studies of Vedic wisdom, and all scriptures of the world. One will find in the Bhagavad-gītā all that is contained in other scriptures, but the reader will also find things which are not to be found elsewhere. That is the specific standard of the Gītā. It is the perfect theistic science because it is directly spoken by the Supreme Personality of Godhead, Lord Śrī Kṛṣṇa.
 

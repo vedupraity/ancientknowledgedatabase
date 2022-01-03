@@ -1,31 +1,31 @@
-#### श्रीभगवानुवाच
-#### इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।
-#### विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥ १ ॥
+##### श्रीभगवानुवाच
+##### इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।
+##### विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥ १ ॥
 
-#### śrī-bhagavān uvāca
-#### imaṁ vivasvate yogaṁ
-#### proktavān aham avyayam
-#### vivasvān manave prāha
-#### manur ikṣvākave ’bravīt
+##### śrī-bhagavān uvāca
+##### imaṁ vivasvate yogaṁ
+##### proktavān aham avyayam
+##### vivasvān manave prāha
+##### manur ikṣvākave ’bravīt
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **imam** — this; **vivasvate** — unto the sun-god; **yogam** — the science of one’s relationship to the Supreme; **proktavān** — instructed; **aham** — I; **avyayam** — imperishable; **vivasvān** — Vivasvān (the sun-god’s name); **manave** — unto the father of mankind (of the name Vaivasvata); **prāha** — told; **manuḥ** — the father of mankind; **ikṣvākave** — unto King Ikṣvāku; **abravīt** — said.
 
-### Translation
+#### Translation
 
 The Personality of Godhead, Lord Śrī Kṛṣṇa, said: I instructed this imperishable science of yoga to the sun-god, Vivasvān, and Vivasvān instructed it to Manu, the father of mankind, and Manu in turn instructed it to Ikṣvāku.
 
-### Purport
+#### Purport
 
 Herein we find the history of the Bhagavad-gītā traced from a remote time when it was delivered to the royal order of all planets, beginning from the sun planet. The kings of all planets are especially meant for the protection of the inhabitants, and therefore the royal order should understand the science of Bhagavad-gītā in order to be able to rule the citizens and protect them from material bondage to lust. Human life is meant for cultivation of spiritual knowledge, in eternal relationship with the Supreme Personality of Godhead, and the executive heads of all states and all planets are obliged to impart this lesson to the citizens by education, culture and devotion. In other words, the executive heads of all states are intended to spread the science of Kṛṣṇa consciousness so that the people may take advantage of this great science and pursue a successful path, utilizing the opportunity of the human form of life.
 
 In this millennium, the sun-god is known as Vivasvān, the king of the sun, which is the origin of all planets within the solar system. In the Brahma-saṁhitā (5.52) it is stated:
 
-#### yac-cakṣur eṣa savitā sakala-grahāṇāṁ
-#### rājā samasta-sura-mūrtir aśeṣa-tejāḥ
-#### yasyājñayā bhramati sambhṛta-kāla-cakro
-#### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+##### yac-cakṣur eṣa savitā sakala-grahāṇāṁ
+##### rājā samasta-sura-mūrtir aśeṣa-tejāḥ
+##### yasyājñayā bhramati sambhṛta-kāla-cakro
+##### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
 
 “Let me worship,” Lord Brahmā said, “the Supreme Personality of Godhead, Govinda [Kṛṣṇa], who is the original person and under whose order the sun, which is the king of all planets, is assuming immense power and heat. The sun represents the eye of the Lord and traverses its orbit in obedience to His order.”
 
@@ -33,12 +33,12 @@ The sun is the king of the planets, and the sun-god (at present of the name Viva
 
 In the Mahābhārata (Śānti-parva 348.51–52) we can trace out the history of the Gītā as follows:
 
-#### tretā-yugādau ca tato
-#### vivasvān manave dadau
-#### manuś ca loka-bhṛty-arthaṁ
-#### sutāyekṣvākave dadau
-#### ikṣvākuṇā ca kathito
-#### vyāpya lokān avasthitaḥ
+##### tretā-yugādau ca tato
+##### vivasvān manave dadau
+##### manuś ca loka-bhṛty-arthaṁ
+##### sutāyekṣvākave dadau
+##### ikṣvākuṇā ca kathito
+##### vyāpya lokān avasthitaḥ
 
 “In the beginning of the millennium known as Tretā-yuga this science of the relationship with the Supreme was delivered by Vivasvān to Manu. Manu, being the father of mankind, gave it to his son Mahārāja Ikṣvāku, the king of this earth planet and forefather of the Raghu dynasty, in which Lord Rāmacandra appeared.” Therefore, Bhagavad-gītā existed in human society from the time of Mahārāja Ikṣvāku.
 

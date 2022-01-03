@@ -1,22 +1,22 @@
-#### श्रीभगवानुवाच
-#### अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।
-#### भूतभावोद्भवकरो विसर्ग: कर्मसंज्ञित: ॥ ३ ॥
+##### श्रीभगवानुवाच
+##### अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।
+##### भूतभावोद्भवकरो विसर्ग: कर्मसंज्ञित: ॥ ३ ॥
 
-#### śrī-bhagavān uvāca
-#### akṣaraṁ brahma paramaṁ
-#### svabhāvo ’dhyātmam ucyate
-#### bhūta-bhāvodbhava-karo
-#### visargaḥ karma-saṁjñitaḥ
+##### śrī-bhagavān uvāca
+##### akṣaraṁ brahma paramaṁ
+##### svabhāvo ’dhyātmam ucyate
+##### bhūta-bhāvodbhava-karo
+##### visargaḥ karma-saṁjñitaḥ
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **akṣaram** — indestructible; **brahma** — Brahman; **paramam** — transcendental; **svabhāvaḥ** — eternal nature; **adhyātmam** — the self; **ucyate** — is called; **bhūta**-**bhāva**-**udbhava**-**karaḥ** — producing the material bodies of the living entities; **visargaḥ** — creation; **karma** — fruitive activities; **saṁjñitaḥ** — is called.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: The indestructible, transcendental living entity is called Brahman, and his eternal nature is called adhyātma, the self. Action pertaining to the development of the material bodies of the living entities is called karma, or fruitive activities.
 
-### Purport
+#### Purport
 
 Brahman is indestructible and eternally existing, and its constitution is not changed at any time. But beyond Brahman there is Para-brahman. Brahman refers to the living entity, and Para-brahman refers to the Supreme Personality of Godhead. The constitutional position of the living entity is different from the position he takes in the material world. In material consciousness his nature is to try to be the lord of matter, but in spiritual consciousness, Kṛṣṇa consciousness, his position is to serve the Supreme. When the living entity is in material consciousness, he has to take on various bodies in the material world. That is called karma, or varied creation by the force of material consciousness.
 

@@ -1,32 +1,32 @@
-#### उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।
-#### सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥ २४ ॥
+##### उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।
+##### सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥ २४ ॥
 
-#### utsīdeyur ime lokā
-#### na kuryāṁ karma ced aham
-#### saṅkarasya ca kartā syām
-#### upahanyām imāḥ prajāḥ
+##### utsīdeyur ime lokā
+##### na kuryāṁ karma ced aham
+##### saṅkarasya ca kartā syām
+##### upahanyām imāḥ prajāḥ
 
-### Synonyms
+#### Synonyms
 
 **utsīdeyuḥ** — would be put into ruin; **ime** — all these; **lokāḥ** — worlds; **na** — not; **kuryām** — I perform; **karma** — prescribed duties; **cet** — if; **aham** — I; **saṅkarasya** — of unwanted population; **ca** — and; **kartā** — creator; **syām** — would be; **upahanyām** — would destroy; **imāḥ** — all these; **prajāḥ** — living entities.
 
-### Translation
+#### Translation
 
 If I did not perform prescribed duties, all these worlds would be put to ruination. I would be the cause of creating unwanted population, and I would thereby destroy the peace of all living beings.
 
-### Purport
+#### Purport
 
 Varṇa-saṅkara is unwanted population which disturbs the peace of the general society. In order to check this social disturbance, there are prescribed rules and regulations by which the population can automatically become peaceful and organized for spiritual progress in life. When Lord Kṛṣṇa descends, naturally He deals with such rules and regulations in order to maintain the prestige and necessity of such important performances. The Lord is the father of all living entities, and if the living entities are misguided, indirectly the responsibility goes to the Lord. Therefore, whenever there is general disregard of regulative principles, the Lord Himself descends and corrects the society. We should, however, note carefully that although we have to follow in the footsteps of the Lord, we still have to remember that we cannot imitate Him. Following and imitating are not on the same level. We cannot imitate the Lord by lifting Govardhana Hill, as the Lord did in His childhood. It is impossible for any human being. We have to follow His instructions, but we may not imitate Him at any time. The Śrīmad-Bhāgavatam (10.33.30–31) affirms:
 
-#### naitat samācarej jātu
-#### manasāpi hy anīśvaraḥ
-#### vinaśyaty ācaran mauḍhyād
-#### yathārudro ’bdhi-jaṁ viṣam
+##### naitat samācarej jātu
+##### manasāpi hy anīśvaraḥ
+##### vinaśyaty ācaran mauḍhyād
+##### yathārudro ’bdhi-jaṁ viṣam
 
-#### īśvarāṇāṁ vacaḥ satyaṁ
-#### tathaivācaritaṁ kvacit
-#### teṣāṁ yat sva-vaco-yuktaṁ
-#### buddhimāṁs tat samācaret
+##### īśvarāṇāṁ vacaḥ satyaṁ
+##### tathaivācaritaṁ kvacit
+##### teṣāṁ yat sva-vaco-yuktaṁ
+##### buddhimāṁs tat samācaret
 
 “One should simply follow the instructions of the Lord and His empowered servants. Their instructions are all good for us, and any intelligent person will perform them as instructed. However, one should guard against trying to imitate their actions. One should not try to drink the ocean of poison in imitation of Lord Śiva.”
 

@@ -1,57 +1,57 @@
-#### oṁ ajñāna-timirāndhasya
-#### jñānāñjana-śalākayā
-#### cakṣur unmīlitaṁ yena
-#### tasmai śrī-gurave namaḥ
+###### oṁ ajñāna-timirāndhasya
+###### jñānāñjana-śalākayā
+###### cakṣur unmīlitaṁ yena
+###### tasmai śrī-gurave namaḥ
 
-#### śrī-caitanya-mano-’bhīṣṭaṁ
-#### sthāpitaṁ yena bhū-tale
-#### svayaṁ rūpaḥ kadā mahyaṁ
-#### dadāti sva-padāntikam
+###### śrī-caitanya-mano-’bhīṣṭaṁ
+###### sthāpitaṁ yena bhū-tale
+###### svayaṁ rūpaḥ kadā mahyaṁ
+###### dadāti sva-padāntikam
 
 I was born in the darkest ignorance, and my spiritual master opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him.
 
 When will Śrīla Rūpa Gosvāmī Prabhupāda, who has established within this material world the mission to fulfill the desire of Lord Caitanya, give me shelter under his lotus feet?
 
-#### vande ’haṁ śrī-guroḥ śrī-yuta-pada-
-#### kamalaṁ śrī-gurūn vaiṣṇavāṁś ca
-#### śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-
-#### raghunāthānvitaṁ taṁ sa-jīvam
+###### vande ’haṁ śrī-guroḥ śrī-yuta-pada-
+###### kamalaṁ śrī-gurūn vaiṣṇavāṁś ca
+###### śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-
+###### raghunāthānvitaṁ taṁ sa-jīvam
 
-#### sādvaitaṁ sāvadhūtaṁ parijana-
-#### sahitaṁ kṛṣṇa-caitanya-devaṁ
-#### śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-
-#### lalitā-śrī-viśākhānvitāṁś ca
+###### sādvaitaṁ sāvadhūtaṁ parijana-
+###### sahitaṁ kṛṣṇa-caitanya-devaṁ
+###### śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-
+###### lalitā-śrī-viśākhānvitāṁś ca
 
 I offer my respectful obeisances unto the lotus feet of my spiritual master and unto the feet of all Vaiṣṇavas. I offer my respectful obeisances unto the lotus feet of Śrīla Rūpa Gosvāmī along with his elder brother Sanātana Gosvāmī, as well as Raghunātha Dāsa and Raghunātha Bhaṭṭa, Gopāla Bhaṭṭa and Śrīla Jīva Gosvāmī. I offer my respectful obeisances to Lord Kṛṣṇa Caitanya and Lord Nityānanda along with Advaita Ācārya, Gadādhara, Śrīvāsa and other associates. I offer my respectful obeisances to Śrīmatī Rādhārāṇī and Śrī Kṛṣṇa along with Their associates Śrī Lalitā and Viśākhā.
 
-#### he kṛṣṇa karuṇā-sindho
-#### dīna-bandho jagat-pate
-#### gopeśa gopikā-kānta
-#### rādhā-kānta namo ’stu te
+###### he kṛṣṇa karuṇā-sindho
+###### dīna-bandho jagat-pate
+###### gopeśa gopikā-kānta
+###### rādhā-kānta namo ’stu te
 
 O my dear Kṛṣṇa, You are the friend of the distressed and the source of creation. You are the master of the gopīs and the lover of Rādhārāṇī. I offer my respectful obeisances unto You.
 
-#### tapta-kāñcana-gaurāṅgi
-#### rādhe vṛndāvaneśvari
-#### vṛṣabhānu-sute devi
-#### praṇamāmi hari-priye
+###### tapta-kāñcana-gaurāṅgi
+###### rādhe vṛndāvaneśvari
+###### vṛṣabhānu-sute devi
+###### praṇamāmi hari-priye
 
 I offer my respects to Rādhārāṇī, whose bodily complexion is like molten gold and who is the Queen of Vṛndāvana. You are the daughter of King Vṛṣabhānu, and You are very dear to Lord Kṛṣṇa.
 
-#### vāñchā-kalpa-tarubhyaś ca
-#### kṛpā-sindhubhya eva ca
-#### patitānāṁ pāvanebhyo
-#### vaiṣṇavebhyo namo namaḥ
+###### vāñchā-kalpa-tarubhyaś ca
+###### kṛpā-sindhubhya eva ca
+###### patitānāṁ pāvanebhyo
+###### vaiṣṇavebhyo namo namaḥ
 
 I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord. They can fulfill the desires of everyone, just like desire trees, and they are full of compassion for the fallen souls.
 
-#### śrī-kṛṣṇa-caitanya prabhu-nityānanda
-#### śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+###### śrī-kṛṣṇa-caitanya prabhu-nityānanda
+###### śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
 
 I offer my obeisances to Śrī Kṛṣṇa Caitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhara, Śrīvāsa and all others in the line of devotion.
 
-#### hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-#### hare rāma hare rāma rāma rāma hare hare
+###### hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
+###### hare rāma hare rāma rāma rāma hare hare
 
 Bhagavad-gītā is also known as Gītopaniṣad. It is the essence of Vedic knowledge and one of the most important Upaniṣads in Vedic literature. Of course there are many commentaries in English on the Bhagavad-gītā, and one may question the necessity for another one. This present edition can be explained in the following way. Recently an American lady asked me to recommend an English translation of Bhagavad-gītā. Of course in America there are so many editions of Bhagavad-gītā available in English, but as far as I have seen, not only in America but also in India, none of them can be strictly said to be authoritative because in almost every one of them the commentator has expressed his own opinions without touching the spirit of Bhagavad-gītā as it is.
 
@@ -59,20 +59,20 @@ The spirit of Bhagavad-gītā is mentioned in Bhagavad-gītā itself. It is just
 
 In the Fourth Chapter of the Gītā (4.1–3) the Lord says:
 
-#### imaṁ vivasvate yogaṁ
-#### proktavān aham avyayam
-#### vivasvān manave prāha
-#### manur ikṣvākave ’bravīt
+###### imaṁ vivasvate yogaṁ
+###### proktavān aham avyayam
+###### vivasvān manave prāha
+###### manur ikṣvākave ’bravīt
 
-#### evaṁ paramparā-prāptam
-#### imaṁ rājarṣayo viduḥ
-#### sa kāleneha mahatā
-#### yogo naṣṭaḥ paran-tapa
+###### evaṁ paramparā-prāptam
+###### imaṁ rājarṣayo viduḥ
+###### sa kāleneha mahatā
+###### yogo naṣṭaḥ paran-tapa
 
-#### sa evāyaṁ mayā te ’dya
-#### yogaḥ proktaḥ purātanaḥ
-#### bhakto ’si me sakhā ceti
-#### rahasyaṁ hy etad uttamam
+###### sa evāyaṁ mayā te ’dya
+###### yogaḥ proktaḥ purātanaḥ
+###### bhakto ’si me sakhā ceti
+###### rahasyaṁ hy etad uttamam
 
 Here the Lord informs Arjuna that this system of yoga, the Bhagavad-gītā, was first spoken to the sun-god, and the sun-god explained it to Manu, and Manu explained it to Ikṣvāku, and in that way, by disciplic succession, one speaker after another, this yoga system has been coming down. But in the course of time it has become lost. Consequently the Lord has to speak it again, this time to Arjuna on the Battlefield of Kurukṣetra.
 
@@ -88,21 +88,21 @@ Arjuna was in a relationship with the Lord as friend. Of course there is a gulf 
 
 How Arjuna accepted this Bhagavad-gītā should be noted. His manner of acceptance is given in the Tenth Chapter (10.12–14):
 
-#### arjuna uvāca
-#### paraṁ brahma paraṁ dhāma
-#### pavitraṁ paramaṁ bhavān
-#### puruṣaṁ śāśvataṁ divyam
-#### ādi-devam ajaṁ vibhum
+###### arjuna uvāca
+###### paraṁ brahma paraṁ dhāma
+###### pavitraṁ paramaṁ bhavān
+###### puruṣaṁ śāśvataṁ divyam
+###### ādi-devam ajaṁ vibhum
 
-#### āhus tvām ṛṣayaḥ sarve
-#### devarṣir nāradas tathā
-#### asito devalo vyāsaḥ
-#### svayaṁ caiva bravīṣi me
+###### āhus tvām ṛṣayaḥ sarve
+###### devarṣir nāradas tathā
+###### asito devalo vyāsaḥ
+###### svayaṁ caiva bravīṣi me
 
-#### sarvam etad ṛtaṁ manye
-#### yan māṁ vadasi keśava
-#### na hi te bhagavan vyaktiṁ
-#### vidur devā na dānavāḥ
+###### sarvam etad ṛtaṁ manye
+###### yan māṁ vadasi keśava
+###### na hi te bhagavan vyaktiṁ
+###### vidur devā na dānavāḥ
 
 “Arjuna said: You are the Supreme Personality of Godhead, the ultimate abode, the purest, the Absolute Truth. You are the eternal, transcendental, original person, the unborn, the greatest. All the great sages such as Nārada, Asita, Devala and Vyāsa confirm this truth about You, and now You Yourself are declaring it to me. O Kṛṣṇa, I totally accept as truth all that You have told me. Neither the demigods nor the demons, O Lord, can understand Your personality.”
 
@@ -176,10 +176,10 @@ Factually we are related to the Supreme Lord in service. The Supreme Lord is the
 
 In the Bhagavad-gītā, worship of different demigods or rendering service to them is not approved. It is stated in the Seventh Chapter, twentieth verse:
 
-#### kāmais tais tair hṛta-jñānāḥ
-#### prapadyante ’nya-devatāḥ
-#### taṁ taṁ niyamam āsthāya
-#### prakṛtyā niyatāḥ svayā
+###### kāmais tais tair hṛta-jñānāḥ
+###### prapadyante ’nya-devatāḥ
+###### taṁ taṁ niyamam āsthāya
+###### prakṛtyā niyatāḥ svayā
 
 “Those whose intelligence has been stolen by material desires surrender unto demigods and follow the particular rules and regulations of worship according to their own natures.” Here it is plainly said that those who are directed by lust worship the demigods and not the Supreme Lord Kṛṣṇa. When we mention the name Kṛṣṇa, we do not refer to any sectarian name. Kṛṣṇa means the highest pleasure, and it is confirmed that the Supreme Lord is the reservoir or storehouse of all pleasure. We are all hankering after pleasure. Ānanda-mayo ’bhyāsāt (Vedānta-sūtra 1.1.12). The living entities, like the Lord, are full of consciousness, and they are after happiness. The Lord is perpetually happy, and if the living entities associate with the Lord, cooperate with Him and take part in His association, then they also become happy.
 
@@ -187,10 +187,10 @@ The Lord descends to this mortal world to show His pastimes in Vṛndāvana, whi
 
 The abode of Lord Śrī Kṛṣṇa is described in the Bhagavad-gītā, Fifteenth Chapter, sixth verse:
 
-#### na tad bhāsayate sūryo
-#### na śaśāṅko na pāvakaḥ
-#### yad gatvā na nivartante
-#### tad dhāma paramaṁ mama
+###### na tad bhāsayate sūryo
+###### na śaśāṅko na pāvakaḥ
+###### yad gatvā na nivartante
+###### tad dhāma paramaṁ mama
 
 “That supreme abode of Mine is not illumined by the sun or moon, nor by fire or electricity. Those who reach it never return to this material world.”
 
@@ -204,37 +204,37 @@ Yet Bhagavad-gītā does not advise us to go to any of the planets in this mater
 
 In the Fifteenth Chapter of the Bhagavad-gītā, the real picture of the material world is given. It is said there:
 
-#### ūrdhva-mūlam adhaḥ-śākham
-#### aśvatthaṁ prāhur avyayam
-#### chandāṁsi yasya parṇāni
-#### yas taṁ veda sa veda-vit
+###### ūrdhva-mūlam adhaḥ-śākham
+###### aśvatthaṁ prāhur avyayam
+###### chandāṁsi yasya parṇāni
+###### yas taṁ veda sa veda-vit
 
 Here the material world is described as a tree whose roots are upwards and branches are below. We have experience of a tree whose roots are upward: if one stands on the bank of a river or any reservoir of water, he can see that the trees reflected in the water are upside down. The branches go downward and the roots upward. Similarly, this material world is a reflection of the spiritual world. The material world is but a shadow of reality. In the shadow there is no reality or substantiality, but from the shadow we can understand that there are substance and reality. In the desert there is no water, but the mirage suggests that there is such a thing as water. In the material world there is no water, there is no happiness, but the real water of actual happiness is there in the spiritual world.
 
 The Lord suggests that we attain the spiritual world in the following manner (Bg. 15.5):
 
-#### nirmāna-mohā jita-saṅga-doṣā
-#### adhyātma-nityā vinivṛtta-kāmāḥ
-#### dvandvair vimuktāḥ sukha-duḥkha-saṁjñair
-#### gacchanty amūḍhāḥ padam avyayaṁ tat
+###### nirmāna-mohā jita-saṅga-doṣā
+###### adhyātma-nityā vinivṛtta-kāmāḥ
+###### dvandvair vimuktāḥ sukha-duḥkha-saṁjñair
+###### gacchanty amūḍhāḥ padam avyayaṁ tat
 
 That padam avyayam, or eternal kingdom, can be reached by one who is nirmāna-moha. What does this mean? We are after designations. Someone wants to become “sir,” someone wants to become “lord,” someone wants to become the president or a rich man or a king or something else. As long as we are attached to these designations, we are attached to the body, because designations belong to the body. But we are not these bodies, and realizing this is the first stage in spiritual realization. We are associated with the three modes of material nature, but we must become detached through devotional service to the Lord. If we are not attached to devotional service to the Lord, then we cannot become detached from the modes of material nature. Designations and attachments are due to our lust and desire, our wanting to lord it over the material nature. As long as we do not give up this propensity of lording it over material nature, there is no possibility of returning to the kingdom of the Supreme, the sanātana-dhāma. That eternal kingdom, which is never destroyed, can be approached by one who is not bewildered by the attractions of false material enjoyments, who is situated in the service of the Supreme Lord. One so situated can easily approach that supreme abode.
 
 Elsewhere in the Gītā (8.21) it is stated:
 
-#### avyakto ’kṣara ity uktas
-#### tam āhuḥ paramāṁ gatim
-#### yaṁ prāpya na nivartante
-#### tad dhāma paramaṁ mama
+###### avyakto ’kṣara ity uktas
+###### tam āhuḥ paramāṁ gatim
+###### yaṁ prāpya na nivartante
+###### tad dhāma paramaṁ mama
 
 Avyakta means unmanifested. Not even all of the material world is manifested before us. Our senses are so imperfect that we cannot even see all of the stars within this material universe. In the Vedic literature we can receive much information about all the planets, and we can believe it or not believe it. All of the important planets are described in the Vedic literatures, especially Śrīmad-Bhāgavatam, and the spiritual world, which is beyond this material sky, is described as avyakta, unmanifested. One should desire and hanker after that supreme kingdom, for when one attains that kingdom, he does not have to return to this material world.
 
 Next, one may raise the question of how one goes about approaching that abode of the Supreme Lord. Information of this is given in the Eighth Chapter. It is said there:
 
-#### anta-kāle ca mām eva
-#### smaran muktvā kalevaram
-#### yaḥ prayāti sa mad-bhāvaṁ
-#### yāti nāsty atra saṁśayaḥ
+###### anta-kāle ca mām eva
+###### smaran muktvā kalevaram
+###### yaḥ prayāti sa mad-bhāvaṁ
+###### yāti nāsty atra saṁśayaḥ
 
 “And whoever, at the end of his life, quits his body remembering Me alone at once attains My nature. Of this there is no doubt.” (Bg. 8.5) One who thinks of Kṛṣṇa at the time of his death goes to Kṛṣṇa. One must remember the form of Kṛṣṇa; if he quits his body thinking of this form, he surely approaches the spiritual kingdom. Mad-bhāvam refers to the supreme nature of the Supreme Being. The Supreme Being is sac-cid-ānanda-vigraha – that is, His form is eternal, full of knowledge and bliss. Our present body is not sac-cid-ānanda. It is asat, not sat. It is not eternal; it is perishable. It is not cit, full of knowledge, but it is full of ignorance. We have no knowledge of the spiritual kingdom, nor do we even have perfect knowledge of this material world, where there are so many things unknown to us. The body is also nirānanda; instead of being full of bliss it is full of misery. All of the miseries we experience in the material world arise from the body, but one who leaves this body thinking of Lord Kṛṣṇa, the Supreme Personality of Godhead, at once attains a sac-cid-ānanda body.
 
@@ -244,40 +244,40 @@ As explained before, there are different kinds of transcendentalists – the bra
 
 The Bhagavad-gītā (8.6) also explains the general principle that makes it possible to enter the spiritual kingdom simply by thinking of the Supreme at the time of death:
 
-#### yaṁ yaṁ vāpi smaran bhāvaṁ
-#### tyajaty ante kalevaram
-#### taṁ tam evaiti kaunteya
-#### sadā tad-bhāva-bhāvitaḥ
+###### yaṁ yaṁ vāpi smaran bhāvaṁ
+###### tyajaty ante kalevaram
+###### taṁ tam evaiti kaunteya
+###### sadā tad-bhāva-bhāvitaḥ
 
 “Whatever state of being one remembers when he quits his present body, in his next life he will attain to that state without fail.” Now, first we must understand that material nature is a display of one of the energies of the Supreme Lord. In the Viṣṇu Purāṇa (6.7.61) the total energies of the Supreme Lord are delineated:
 
-#### viṣṇu-śaktiḥ parā proktā
-#### kṣetra-jñākhyā tathā parā
-#### avidyā-karma-saṁjñānyā
-#### tṛtīyā śaktir iṣyate
+###### viṣṇu-śaktiḥ parā proktā
+###### kṣetra-jñākhyā tathā parā
+###### avidyā-karma-saṁjñānyā
+###### tṛtīyā śaktir iṣyate
 
 The Supreme Lord has diverse and innumerable energies which are beyond our conception; however, great learned sages or liberated souls have studied these energies and have analyzed them into three parts. All of the energies are of viṣṇu-śakti, that is to say they are different potencies of Lord Viṣṇu. The first energy is parā, transcendental. Living entities also belong to the superior energy, as has already been explained. The other energies, or material energies, are in the mode of ignorance. At the time of death either we can remain in the inferior energy of this material world, or we can transfer to the energy of the spiritual world.
 
 So the Bhagavad-gītā (8.6) says:
 
-#### yaṁ yaṁ vāpi smaran bhāvaṁ
-#### tyajaty ante kalevaram
-#### taṁ tam evaiti kaunteya
-#### sadā tad-bhāva-bhāvitaḥ
+###### yaṁ yaṁ vāpi smaran bhāvaṁ
+###### tyajaty ante kalevaram
+###### taṁ tam evaiti kaunteya
+###### sadā tad-bhāva-bhāvitaḥ
 
 “Whatever state of being one remembers when he quits his present body, in his next life he will attain to that state without fail.”
 
 In life we are accustomed to thinking either of the material or of the spiritual energy. Now, how can we transfer our thoughts from the material energy to the spiritual energy? There are so many literatures which fill our thoughts with the material energy – newspapers, magazines, novels, etc. Our thinking, which is now absorbed in these literatures, must be transferred to the Vedic literatures. The great sages, therefore, have written so many Vedic literatures, such as the Purāṇas. The Purāṇas are not imaginative; they are historical records. In the Caitanya-caritāmṛta (Madhya 20.122) there is the following verse:
 
-#### māyā-mugdha jīvera nāhi svataḥ kṛṣṇa-jñāna
-#### jīvere kṛpāya kailā kṛṣṇa veda-purāṇa
+###### māyā-mugdha jīvera nāhi svataḥ kṛṣṇa-jñāna
+###### jīvere kṛpāya kailā kṛṣṇa veda-purāṇa
 
 The forgetful living entities or conditioned souls have forgotten their relationship with the Supreme Lord, and they are engrossed in thinking of material activities. Just to transfer their thinking power to the spiritual sky, Kṛṣṇa-dvaipāyana Vyāsa has given a great number of Vedic literatures. First he divided the Vedas into four, then he explained them in the Purāṇas, and for less capable people he wrote the Mahābhārata. In the Mahābhārata there is given the Bhagavad-gītā. Then all Vedic literature is summarized in the Vedānta-sūtra, and for future guidance he gave a natural commentation on the Vedānta-sūtra, called Śrīmad-Bhāgavatam. We must always engage our minds in reading these Vedic literatures. Just as materialists engage their minds in reading newspapers, magazines and so many materialistic literatures, we must transfer our reading to these literatures which are given to us by Vyāsadeva; in that way it will be possible for us to remember the Supreme Lord at the time of death. That is the only way suggested by the Lord, and He guarantees the result: “There is no doubt.”
 
-#### tasmāt sarveṣu kāleṣu
-#### mām anusmara yudhya ca
-#### mayy arpita-mano-buddhir
-#### mām evaiṣyasy asaṁśayaḥ
+###### tasmāt sarveṣu kāleṣu
+###### mām anusmara yudhya ca
+###### mayy arpita-mano-buddhir
+###### mām evaiṣyasy asaṁśayaḥ
 
 “Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time continue your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.” (Bg. 8.7)
 
@@ -285,20 +285,20 @@ He does not advise Arjuna simply to remember Him and give up his occupation. No,
 
 How is this possible? The ācāryas give the following example. If a married woman is attached to another man, or if a man has an attachment for a woman other than his wife, then the attachment is to be considered very strong. One with such an attachment is always thinking of the loved one. The wife who is thinking of her lover is always thinking of meeting him, even while she is carrying out her household chores. In fact, she carries out her household work even more carefully so her husband will not suspect her attachment. Similarly, we should always remember the supreme lover, Śrī Kṛṣṇa, and at the same time perform our material duties very nicely. A strong sense of love is required here. If we have a strong sense of love for the Supreme Lord, then we can discharge our duty and at the same time remember Him. But we have to develop that sense of love. Arjuna, for instance, was always thinking of Kṛṣṇa; he was the constant companion of Kṛṣṇa, and at the same time he was a warrior. Kṛṣṇa did not advise him to give up fighting and go to the forest to meditate. When Lord Kṛṣṇa delineates the yoga system to Arjuna, Arjuna says that the practice of this system is not possible for him.
 
-#### arjuna uvāca
-#### yo ’yaṁ yogas tvayā proktaḥ
-#### sāmyena madhusūdana
-#### etasyāhaṁ na paśyāmi
-#### cañcalatvāt sthitiṁ sthirām
+###### arjuna uvāca
+###### yo ’yaṁ yogas tvayā proktaḥ
+###### sāmyena madhusūdana
+###### etasyāhaṁ na paśyāmi
+###### cañcalatvāt sthitiṁ sthirām
 
 “Arjuna said: O Madhusūdana, the system of yoga which You have summarized appears impractical and unendurable to me, for the mind is restless and unsteady.” (Bg. 6.33)
 
 But the Lord says:
 
-#### yoginām api sarveṣāṁ
-#### mad-gatenāntar-ātmanā
-#### śraddhāvān bhajate yo māṁ
-#### sa me yukta-tamo mataḥ
+###### yoginām api sarveṣāṁ
+###### mad-gatenāntar-ātmanā
+###### śraddhāvān bhajate yo māṁ
+###### sa me yukta-tamo mataḥ
 
 “Of all yogīs, the one with great faith who always abides in Me, thinks of Me within himself, and renders transcendental loving service to Me is the most intimately united with Me in yoga and is the highest of all. That is My opinion.” (Bg. 6.47) So one who thinks of the Supreme Lord always is the greatest yogī, the supermost jñānī, and the greatest devotee at the same time. The Lord further tells Arjuna that as a kṣatriya he cannot give up his fighting, but if Arjuna fights remembering Kṛṣṇa, then he will be able to remember Kṛṣṇa at the time of death. But one must be completely surrendered in the transcendental loving service of the Lord.
 
@@ -306,19 +306,19 @@ We work not with our body, actually, but with our mind and intelligence. So if t
 
 Modern man has struggled very hard to reach the moon, but he has not tried very hard to elevate himself spiritually. If one has fifty years of life ahead of him, he should engage that brief time in cultivating this practice of remembering the Supreme Personality of Godhead. This practice is the devotional process:
 
-#### śravaṇaṁ kīrtanaṁ viṣṇoḥ
-#### smaraṇaṁ pāda-sevanam
-#### arcanaṁ vandanaṁ dāsyaṁ
-#### sakhyam ātma-nivedanam
+###### śravaṇaṁ kīrtanaṁ viṣṇoḥ
+###### smaraṇaṁ pāda-sevanam
+###### arcanaṁ vandanaṁ dāsyaṁ
+###### sakhyam ātma-nivedanam
 
 These nine processes, of which the easiest is śravaṇam, hearing the Bhagavad-gītā from the realized person, will turn one to the thought of the Supreme Being. This will lead to remembering the Supreme Lord and will enable one, upon leaving the body, to attain a spiritual body which is just fit for association with the Supreme Lord.
 
 The Lord further says:
 
-#### abhyāsa-yoga-yuktena
-#### cetasā nānya-gāminā
-#### paramaṁ puruṣaṁ divyaṁ
-#### yāti pārthānucintayan
+###### abhyāsa-yoga-yuktena
+###### cetasā nānya-gāminā
+###### paramaṁ puruṣaṁ divyaṁ
+###### yāti pārthānucintayan
 
 “He who meditates on Me as the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Arjuna, is sure to reach Me.” (Bg. 8.8)
 
@@ -326,15 +326,15 @@ This is not a very difficult process. However, one must learn it from an experie
 
 The Lord further says (Bg. 9.32–33):
 
-#### māṁ hi pārtha vyapāśritya
-#### ye ’pi syuḥ pāpa-yonayaḥ
-#### striyo vaiśyās tathā śūdrās
-#### te ’pi yānti parāṁ gatim
+###### māṁ hi pārtha vyapāśritya
+###### ye ’pi syuḥ pāpa-yonayaḥ
+###### striyo vaiśyās tathā śūdrās
+###### te ’pi yānti parāṁ gatim
 
-#### kiṁ punar brāhmaṇāḥ puṇyā
-#### bhaktā rājarṣayas tathā
-#### anityam asukhaṁ lokam
-#### imaṁ prāpya bhajasva mām
+###### kiṁ punar brāhmaṇāḥ puṇyā
+###### bhaktā rājarṣayas tathā
+###### anityam asukhaṁ lokam
+###### imaṁ prāpya bhajasva mām
 
 Thus the Lord says that even a merchant, a fallen woman or a laborer or even human beings in the lowest status of life can attain the Supreme. One does not need highly developed intelligence. The point is that anyone who accepts the principle of bhakti-yoga and accepts the Supreme Lord as the summum bonum of life, as the highest target, the ultimate goal, can approach the Lord in the spiritual sky. If one adopts the principles enunciated in Bhagavad-gītā, he can make his life perfect and make a permanent solution to all the problems of life. This is the sum and substance of the entire Bhagavad-gītā.
 
@@ -342,53 +342,53 @@ In conclusion, Bhagavad-gītā is a transcendental literature which one should r
 
 There is also a further advantage:
 
-#### gītādhyāyana-śīlasya
-#### prāṇāyāma-parasya ca
-#### naiva santi hi pāpāni
-#### pūrva-janma-kṛtāni ca
+###### gītādhyāyana-śīlasya
+###### prāṇāyāma-parasya ca
+###### naiva santi hi pāpāni
+###### pūrva-janma-kṛtāni ca
 
 “If one reads Bhagavad-gītā very sincerely and with all seriousness, then by the grace of the Lord the reactions of his past misdeeds will not act upon him.” (Gītā-māhātmya 2) The Lord says very loudly in the last portion of Bhagavad-gītā (18.66):
 
-#### sarva-dharmān parityajya
-#### mām ekaṁ śaraṇaṁ vraja
-#### ahaṁ tvāṁ sarva-pāpebhyo
-#### mokṣayiṣyāmi mā śucaḥ
+###### sarva-dharmān parityajya
+###### mām ekaṁ śaraṇaṁ vraja
+###### ahaṁ tvāṁ sarva-pāpebhyo
+###### mokṣayiṣyāmi mā śucaḥ
 
 “Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.” Thus the Lord takes all responsibility for one who surrenders unto Him, and He indemnifies such a person against all reactions of sins.
 
-#### mala-nirmocanaṁ puṁsāṁ
-#### jala-snānaṁ dine dine
-#### sakṛd gītāmṛta-snānaṁ
-#### saṁsāra-mala-nāśanam
+###### mala-nirmocanaṁ puṁsāṁ
+###### jala-snānaṁ dine dine
+###### sakṛd gītāmṛta-snānaṁ
+###### saṁsāra-mala-nāśanam
 
 “One may cleanse himself daily by taking a bath in water, but if one takes a bath even once in the sacred Ganges water of Bhagavad-gītā, for him the dirt of material life is altogether vanquished.” (Gītā-māhātmya 3)
 
-#### gītā su-gītā kartavyā
-#### kim anyaiḥ śāstra-vistaraiḥ
-#### yā svayaṁ padmanābhasya
-#### mukha-padmād viniḥsṛtā
+###### gītā su-gītā kartavyā
+###### kim anyaiḥ śāstra-vistaraiḥ
+###### yā svayaṁ padmanābhasya
+###### mukha-padmād viniḥsṛtā
 
 Because Bhagavad-gītā is spoken by the Supreme Personality of Godhead, one need not read any other Vedic literature. One need only attentively and regularly hear and read Bhagavad-gītā. In the present age, people are so absorbed in mundane activities that it is not possible for them to read all the Vedic literatures. But this is not necessary. This one book, Bhagavad-gītā, will suffice, because it is the essence of all Vedic literatures and especially because it is spoken by the Supreme Personality of Godhead. (Gītā-māhātmya 4)
 
 As it is said:
 
-#### bhāratāmṛta-sarvasvaṁ
-#### viṣṇu-vaktrād viniḥsṛtam
-#### gītā-gaṅgodakaṁ pītvā
-#### punar janma na vidyate
+###### bhāratāmṛta-sarvasvaṁ
+###### viṣṇu-vaktrād viniḥsṛtam
+###### gītā-gaṅgodakaṁ pītvā
+###### punar janma na vidyate
 
 “One who drinks the water of the Ganges attains salvation, so what to speak of one who drinks the nectar of Bhagavad-gītā? Bhagavad-gītā is the essential nectar of the Mahābhārata, and it is spoken by Lord Kṛṣṇa Himself, the original Viṣṇu.” (Gītā-māhātmya 5) Bhagavad-gītā comes from the mouth of the Supreme Personality of Godhead, and the Ganges is said to emanate from the lotus feet of the Lord. Of course, there is no difference between the mouth and the feet of the Supreme Lord, but from an impartial study we can appreciate that Bhagavad-gītā is even more important than the water of the Ganges.
 
-#### sarvopaniṣado gāvo
-#### dogdhā gopāla-nandanaḥ
-#### pārtho vatsaḥ su-dhīr bhoktā
-#### dugdhaṁ gītāmṛtaṁ mahat
+###### sarvopaniṣado gāvo
+###### dogdhā gopāla-nandanaḥ
+###### pārtho vatsaḥ su-dhīr bhoktā
+###### dugdhaṁ gītāmṛtaṁ mahat
 
 “This Gītopaniṣad, Bhagavad-gītā, the essence of all the Upaniṣads, is just like a cow, and Lord Kṛṣṇa, who is famous as a cowherd boy, is milking this cow. Arjuna is just like a calf, and learned scholars and pure devotees are to drink the nectarean milk of Bhagavad-gītā.” (Gītā-māhātmya 6)
 
-#### ekaṁ śāstraṁ devakī-putra-gītam
-#### eko devo devakī-putra eva
-#### eko mantras tasya nāmāni yāni
-#### karmāpy ekaṁ tasya devasya sevā
+###### ekaṁ śāstraṁ devakī-putra-gītam
+###### eko devo devakī-putra eva
+###### eko mantras tasya nāmāni yāni
+###### karmāpy ekaṁ tasya devasya sevā
 
 In this present day, people are very much eager to have one scripture, one God, one religion and one occupation. Therefore, ekaṁ śāstraṁ devakī-putra-gītam: let there be one scripture only, one common scripture for the whole world – Bhagavad-gītā. Eko devo devakī-putra eva: let there be one God for the whole world – Śrī Kṛṣṇa. Eko mantras tasya nāmāni: and one hymn, one mantra, one prayer – the chanting of His name: Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. Karmāpy ekaṁ tasya devasya sevā: and let there be one work only – the service of the Supreme Personality of Godhead.

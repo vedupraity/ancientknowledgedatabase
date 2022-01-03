@@ -1,20 +1,20 @@
-#### अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।
-#### अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥ ९ ॥
+##### अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।
+##### अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥ ९ ॥
 
-#### atha cittaṁ samādhātuṁ
-#### na śaknoṣi mayi sthiram
-#### abhyāsa-yogena tato
-#### mām icchāptuṁ dhanañ-jaya
+##### atha cittaṁ samādhātuṁ
+##### na śaknoṣi mayi sthiram
+##### abhyāsa-yogena tato
+##### mām icchāptuṁ dhanañ-jaya
 
-### Synonyms
+#### Synonyms
 
 **atha** — if, therefore; **cittam** — mind; **samādhātum** — to fix; **na** — not; **śaknoṣi** — you are able; **mayi** — upon Me; **sthiram** — steadily; **abhyāsa**-**yogena** — by the practice of devotional service; **tataḥ** — then; **mām** — Me; **icchā** — desire; **āptum** — to get; **dhanam**-**jaya** — O winner of wealth, Arjuna.
 
-### Translation
+#### Translation
 
 My dear Arjuna, O winner of wealth, if you cannot fix your mind upon Me without deviation, then follow the regulative principles of bhakti-yoga. In this way develop a desire to attain Me.
 
-### Purport
+#### Purport
 
 In this verse, two different processes of bhakti-yoga are indicated. The first applies to one who has actually developed an attachment for Kṛṣṇa, the Supreme Personality of Godhead, by transcendental love. And the other is for one who has not developed an attachment for the Supreme Person by transcendental love. For this second class there are different prescribed rules and regulations one can follow to be ultimately elevated to the stage of attachment to Kṛṣṇa.
 

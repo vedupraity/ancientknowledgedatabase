@@ -1,20 +1,20 @@
-#### तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् ।
-#### सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ॥ ६ ॥
+##### तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् ।
+##### सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ॥ ६ ॥
 
-#### tatra sattvaṁ nirmalatvāt
-#### prakāśakam anāmayam
-#### sukha-saṅgena badhnāti
-#### jñāna-saṅgena cānagha
+##### tatra sattvaṁ nirmalatvāt
+##### prakāśakam anāmayam
+##### sukha-saṅgena badhnāti
+##### jñāna-saṅgena cānagha
 
-### Synonyms
+#### Synonyms
 
 **tatra** — there; **sattvam** — the mode of goodness; **nirmalatvāt** — being purest in the material world; **prakāśakam** — illuminating; **anāmayam** — without any sinful reaction; **sukha** — with happiness; **saṅgena** — by association; **badhnāti** — conditions; **jñāna** — with knowledge; **saṅgena** — by association; **ca** — also; **anagha** — O sinless one.
 
-### Translation
+#### Translation
 
 O sinless one, the mode of goodness, being purer than the others, is illuminating, and it frees one from all sinful reactions. Those situated in that mode become conditioned by a sense of happiness and knowledge.
 
-### Purport
+#### Purport
 
 The living entities conditioned by material nature are of various types. One is happy, another is very active, and another is helpless. All these types of psychological manifestations are causes of the entities’ conditioned status in nature. How they are differently conditioned is explained in this section of Bhagavad-gītā. The mode of goodness is first considered. The effect of developing the mode of goodness in the material world is that one becomes wiser than those otherwise conditioned. A man in the mode of goodness is not so much affected by material miseries, and he has a sense of advancement in material knowledge. The representative type is the brāhmaṇa, who is supposed to be situated in the mode of goodness. This sense of happiness is due to understanding that, in the mode of goodness, one is more or less free from sinful reactions. Actually, in the Vedic literature it is said that the mode of goodness means greater knowledge and a greater sense of happiness.
 

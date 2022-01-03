@@ -1,20 +1,20 @@
-#### जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।
-#### तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥ २७ ॥
+##### जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।
+##### तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥ २७ ॥
 
-#### jātasya hi dhruvo mṛtyur
-#### dhruvaṁ janma mṛtasya ca
-#### tasmād aparihārye ’rthe
-#### na tvaṁ śocitum arhasi
+##### jātasya hi dhruvo mṛtyur
+##### dhruvaṁ janma mṛtasya ca
+##### tasmād aparihārye ’rthe
+##### na tvaṁ śocitum arhasi
 
-### Synonyms
+#### Synonyms
 
 **jātasya** — of one who has taken his birth; **hi** — certainly; **dhruvaḥ** — a fact; **mṛtyuḥ** — death; **dhruvam** — it is also a fact; **janma** — birth; **mṛtasya** — of the dead; **ca** — also; **tasmāt** — therefore; **aparihārye** — of that which is unavoidable; **arthe** — in the matter; **na** — do not; **tvam** — you; **śocitum** — to lament; **arhasi** — deserve.
 
-### Translation
+#### Translation
 
 One who has taken his birth is sure to die, and after death one is sure to take birth again. Therefore, in the unavoidable discharge of your duty, you should not lament.
 
-### Purport
+#### Purport
 
 One has to take birth according to one’s activities of life. And after finishing one term of activities, one has to die to take birth for the next. In this way one is going through one cycle of birth and death after another without liberation. This cycle of birth and death does not, however, support unnecessary murder, slaughter and war. But at the same time, violence and war are inevitable factors in human society for keeping law and order.
 

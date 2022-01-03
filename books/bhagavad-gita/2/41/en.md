@@ -1,25 +1,25 @@
-#### व्यवसायात्मिका बुद्धिरेकेह कुरूनन्दन ।
-#### बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥ ४१ ॥
+##### व्यवसायात्मिका बुद्धिरेकेह कुरूनन्दन ।
+##### बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥ ४१ ॥
 
-#### vyavasāyātmikā buddhir
-#### ekeha kuru-nandana
-#### bahu-śākhā hy anantāś ca
-#### buddhayo ’vyavasāyinām
+##### vyavasāyātmikā buddhir
+##### ekeha kuru-nandana
+##### bahu-śākhā hy anantāś ca
+##### buddhayo ’vyavasāyinām
 
-### Synonyms
+#### Synonyms
 
 **vyavasāya**-**ātmikā** — resolute in Kṛṣṇa consciousness; **buddhiḥ** — intelligence; **ekā** — only one; **iha** — in this world; **kuru**-**nandana** — O beloved child of the Kurus; **bahu**-**śākhāḥ** — having various branches; **hi** — indeed; **anantāḥ** — unlimited; **ca** — also; **buddhayaḥ** — intelligence; **avyavasāyinām** — of those who are not in Kṛṣṇa consciousness.
 
-### Translation
+#### Translation
 
 Those who are on this path are resolute in purpose, and their aim is one. O beloved child of the Kurus, the intelligence of those who are irresolute is many-branched.
 
-### Purport
+#### Purport
 
 A strong faith that by Kṛṣṇa consciousness one will be elevated to the highest perfection of life is called vyavasāyātmikā intelligence. The Caitanya-caritāmṛta (Madhya 22.62) states:
 
-#### ‘śraddhā’-śabde – viśvāsa kahe sudṛḍha niścaya
-#### kṛṣṇe bhakti kaile sarva-karma kṛta haya
+##### ‘śraddhā’-śabde – viśvāsa kahe sudṛḍha niścaya
+##### kṛṣṇe bhakti kaile sarva-karma kṛta haya
 
 Faith means unflinching trust in something sublime. When one is engaged in the duties of Kṛṣṇa consciousness, he need not act in relationship to the material world with obligations to family traditions, humanity or nationality. Fruitive activities are the engagements of one’s reactions from past good or bad deeds. When one is awake in Kṛṣṇa consciousness, he need no longer endeavor for good results in his activities. When one is situated in Kṛṣṇa consciousness, all activities are on the absolute plane, for they are no longer subject to dualities like good and bad. The highest perfection of Kṛṣṇa consciousness is renunciation of the material conception of life. This state is automatically achieved by progressive Kṛṣṇa consciousness.
 
@@ -27,10 +27,10 @@ The resolute purpose of a person in Kṛṣṇa consciousness is based on knowle
 
 Service in Kṛṣṇa consciousness is, however, best practiced under the able guidance of a spiritual master who is a bona fide representative of Kṛṣṇa, who knows the nature of the student and who can guide him to act in Kṛṣṇa consciousness. As such, to be well versed in Kṛṣṇa consciousness one has to act firmly and obey the representative of Kṛṣṇa, and one should accept the instruction of the bona fide spiritual master as one’s mission in life. Śrīla Viśvanātha Cakravartī Ṭhākura instructs us, in his famous prayers for the spiritual master, as follows:
 
-#### yasya prasādād bhagavat-prasādo
-#### yasyāprasādān na gatiḥ kuto ’pi
-#### dhyāyan stuvaṁs tasya yaśas tri-sandhyaṁ
-#### vande guroḥ śrī-caraṇāravindam
+##### yasya prasādād bhagavat-prasādo
+##### yasyāprasādān na gatiḥ kuto ’pi
+##### dhyāyan stuvaṁs tasya yaśas tri-sandhyaṁ
+##### vande guroḥ śrī-caraṇāravindam
 
 “By satisfaction of the spiritual master, the Supreme Personality of Godhead becomes satisfied. And by not satisfying the spiritual master, there is no chance of being promoted to the plane of Kṛṣṇa consciousness. I should, therefore, meditate and pray for his mercy three times a day, and offer my respectful obeisances unto him, my spiritual master.”
 

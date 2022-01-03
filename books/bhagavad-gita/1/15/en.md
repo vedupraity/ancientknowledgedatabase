@@ -1,20 +1,20 @@
-#### पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।
-#### पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥ १५ ॥
+##### पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।
+##### पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥ १५ ॥
 
-#### pāñcajanyaṁ hṛṣīkeśo
-#### devadattaṁ dhanañ-jayaḥ
-#### pauṇḍraṁ dadhmau mahā-śaṅkhaṁ
-#### bhīma-karmā vṛkodaraḥ
+##### pāñcajanyaṁ hṛṣīkeśo
+##### devadattaṁ dhanañ-jayaḥ
+##### pauṇḍraṁ dadhmau mahā-śaṅkhaṁ
+##### bhīma-karmā vṛkodaraḥ
 
-### Synonyms
+#### Synonyms
 
 **pāñcajanyam** — the conchshell named Pāñcajanya; **hṛṣīka**-**īśaḥ** — Hṛṣīkeśa (Kṛṣṇa, the Lord who directs the senses of the devotees); **devadattam** — the conchshell named Devadatta; **dhanam**-**jayaḥ** — Dhanañjaya (Arjuna, the winner of wealth); **pauṇḍram** — the conch** **named Pauṇḍra; **dadhmau** — blew; **mahā**-**śaṅkham** — the terrific** **conchshell; **bhīma**-**karmā** — one who performs herculean tasks; **vṛka**-**udaraḥ** — the voracious eater (Bhīma).
 
-### Translation
+#### Translation
 
 Lord Kṛṣṇa blew His conchshell, called Pāñcajanya; Arjuna blew his, the Devadatta; and Bhīma, the voracious eater and performer of herculean tasks, blew his terrific conchshell, called Pauṇḍra.
 
-### Purport
+#### Purport
 
 Lord Kṛṣṇa is referred to as Hṛṣīkeśa in this verse because He is the owner of all senses. The living entities are part and parcel of Him, and therefore the senses of the living entities are also part and parcel of His senses. The impersonalists cannot account for the senses of the living entities, and therefore they are always anxious to describe all living entities as senseless, or impersonal. The Lord, situated in the hearts of all living entities, directs their senses. But He directs in terms of the surrender of the living entity, and in the case of a pure devotee He directly controls the senses. Here on the Battlefield of Kurukṣetra the Lord directly controls the transcendental senses of Arjuna, and thus His particular name of Hṛṣīkeśa. The Lord has different names according to His different activities. For example, His name is Madhusūdana because He killed the demon of the name Madhu; His name is Govinda because He gives pleasure to the cows and to the senses; His name is Vāsudeva because He appeared as the son of Vasudeva; His name is Devakī-nandana because He accepted Devakī as His mother; His name is Yaśodā-nandana because He awarded His childhood pastimes to Yaśodā at Vṛndāvana; His name is Pārtha-sārathi because He worked as charioteer of His friend Arjuna. Similarly, His name is Hṛṣīkeśa because He gave direction to Arjuna on the Battlefield of Kurukṣetra.
 

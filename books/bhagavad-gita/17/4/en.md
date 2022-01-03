@@ -1,20 +1,20 @@
-#### यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसा: ।
-#### प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जना: ॥ ४ ॥
+##### यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसा: ।
+##### प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जना: ॥ ४ ॥
 
-#### yajante sāttvikā devān
-#### yakṣa-rakṣāṁsi rājasāḥ
-#### pretān bhūta-gaṇāṁś cānye
-#### yajante tāmasā janāḥ
+##### yajante sāttvikā devān
+##### yakṣa-rakṣāṁsi rājasāḥ
+##### pretān bhūta-gaṇāṁś cānye
+##### yajante tāmasā janāḥ
 
-### Synonyms
+#### Synonyms
 
 **yajante** — worship; **sāttvikāḥ** — those who are in the mode of goodness; **devān** — demigods; **yakṣa**-**rakṣāṁsi** — demons; **rājasāḥ** — those who are in the mode of passion; **pretān** — spirits of the dead; **bhūta**-**gaṇān** — ghosts; **ca** — and; **anye** — others; **yajante** — worship; **tāmasāḥ** — in the mode of ignorance; **janāḥ** — people.
 
-### Translation
+#### Translation
 
 Men in the mode of goodness worship the demigods; those in the mode of passion worship the demons; and those in the mode of ignorance worship ghosts and spirits.
 
-### Purport
+#### Purport
 
 In this verse the Supreme Personality of Godhead describes different kinds of worshipers according to their external activities. According to scriptural injunction, only the Supreme Personality of Godhead is worshipable, but those who are not very conversant with, or faithful to, the scriptural injunctions worship different objects, according to their specific situations in the modes of material nature. Those who are situated in goodness generally worship the demigods. The demigods include Brahmā, Śiva and others such as Indra, Candra and the sun-god. There are various demigods. Those in goodness worship a particular demigod for a particular purpose. Similarly, those who are in the mode of passion worship the demons. We recall that during the Second World War a man in Calcutta worshiped Hitler because thanks to that war he had amassed a large amount of wealth by dealing in the black market. Similarly, those in the modes of passion and ignorance generally select a powerful man to be God. They think that anyone can be worshiped as God and that the same results will be obtained.
 

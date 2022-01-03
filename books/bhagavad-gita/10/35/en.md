@@ -1,20 +1,20 @@
-#### बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।
-#### मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: ॥ ३५ ॥
+##### बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।
+##### मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: ॥ ३५ ॥
 
-#### bṛhat-sāma tathā sāmnāṁ
-#### gāyatrī chandasām aham
-#### māsānāṁ mārga-śīrṣo ’ham
-#### ṛtūnāṁ kusumākaraḥ
+##### bṛhat-sāma tathā sāmnāṁ
+##### gāyatrī chandasām aham
+##### māsānāṁ mārga-śīrṣo ’ham
+##### ṛtūnāṁ kusumākaraḥ
 
-### Synonyms
+#### Synonyms
 
 **bṛhat**-**sāma** — the **Bṛhat-sāma**; **tathā** — also; **sāmnām** — of the **Sāma Veda** songs; **gāyatrī** — the Gāyatrī hymns; **chandasām** — of all poetry; **aham** — I am; **māsānām** — of months; **mārga**-**śīrṣaḥ** — the month of November-December; **aham** — I am; **ṛtūnām** — of all seasons; **kusuma**-**ākaraḥ** — spring.
 
-### Translation
+#### Translation
 
 Of the hymns in the Sāma Veda I am the Bṛhat-sāma, and of poetry I am the Gāyatrī. Of months I am Mārgaśīrṣa [November-December], and of seasons I am flower-bearing spring.
 
-### Purport
+#### Purport
 
 It has already been explained by the Lord that amongst all the Vedas, He is the Sāma Veda. The Sāma Veda is rich with beautiful songs played by the various demigods. One of these songs is the Bṛhat-sāma, which has an exquisite melody and is sung at midnight.
 

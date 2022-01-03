@@ -1,36 +1,36 @@
-#### श्रीभगवानुवाच
-#### अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थिति: ।
-#### दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥ १ ॥
-#### अहिंसा सत्यमक्रोधस्त्याग: शान्तिरपैशुनम् ।
-#### दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥ २ ॥
-#### तेज: क्षमा धृति: शौचमद्रोहो नातिमानिता ।
-#### भवन्ति सम्पदं दैवीमभिजातस्य भारत ॥ ३ ॥
+##### श्रीभगवानुवाच
+##### अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थिति: ।
+##### दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥ १ ॥
+##### अहिंसा सत्यमक्रोधस्त्याग: शान्तिरपैशुनम् ।
+##### दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥ २ ॥
+##### तेज: क्षमा धृति: शौचमद्रोहो नातिमानिता ।
+##### भवन्ति सम्पदं दैवीमभिजातस्य भारत ॥ ३ ॥
 
-#### śrī-bhagavān uvāca
-#### abhayaṁ sattva-saṁśuddhir
-#### jñāna-yoga-vyavasthitiḥ
-#### dānaṁ damaś ca yajñaś ca
-#### svādhyāyas tapa ārjavam
+##### śrī-bhagavān uvāca
+##### abhayaṁ sattva-saṁśuddhir
+##### jñāna-yoga-vyavasthitiḥ
+##### dānaṁ damaś ca yajñaś ca
+##### svādhyāyas tapa ārjavam
 
-#### ahiṁsā satyam akrodhas
-#### tyāgaḥ śāntir apaiśunam
-#### dayā bhūteṣv aloluptvaṁ
-#### mārdavaṁ hrīr acāpalam
+##### ahiṁsā satyam akrodhas
+##### tyāgaḥ śāntir apaiśunam
+##### dayā bhūteṣv aloluptvaṁ
+##### mārdavaṁ hrīr acāpalam
 
-#### tejaḥ kṣamā dhṛtiḥ śaucam
-#### adroho nāti-mānitā
-#### bhavanti sampadaṁ daivīm
-#### abhijātasya bhārata
+##### tejaḥ kṣamā dhṛtiḥ śaucam
+##### adroho nāti-mānitā
+##### bhavanti sampadaṁ daivīm
+##### abhijātasya bhārata
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **abhayam** — fearlessness; **sattva**-**saṁśuddhiḥ** — purification of one’s existence; **jñāna** — in knowledge; **yoga** — of linking up; **vyavasthitiḥ** — the situation; **dānam** — charity; **damaḥ** — controlling the mind; **ca** — and; **yajñaḥ** — performance of sacrifice; **ca** — and; **svādhyāyaḥ** — study of Vedic literature; **tapaḥ** — austerity; **ārjavam** — simplicity; **ahiṁsā** — nonviolence; **satyam** — truthfulness; **akrodhaḥ** — freedom from anger; **tyāgaḥ** — renunciation; **śāntiḥ** — tranquillity; **apaiśunam** — aversion to fault-finding; **dayā** — mercy; **bhūteṣu** — towards all living entities; **aloluptvam** — freedom from greed; **mārdavam** — gentleness; **hrīḥ** — modesty; **acāpalam** — determination; **tejaḥ** — vigor; **kṣamā** — forgiveness; **dhṛtiḥ** — fortitude; **śaucam** — cleanliness; **adrohaḥ** — freedom from envy; **na** — not; **ati**-**mānitā** — expectation of honor; **bhavanti** — are; **sampadam** — the qualities; **daivīm** — the transcendental nature; **abhijātasya** — of one who is born of; **bhārata** — O son of Bharata.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: Fearlessness; purification of one’s existence; cultivation of spiritual knowledge; charity; self-control; performance of sacrifice; study of the Vedas; austerity; simplicity; nonviolence; truthfulness; freedom from anger; renunciation; tranquillity; aversion to faultfinding; compassion for all living entities; freedom from covetousness; gentleness; modesty; steady determination; vigor; forgiveness; fortitude; cleanliness; and freedom from envy and from the passion for honor – these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature.
 
-### Purport
+#### Purport
 
 In the beginning of the Fifteenth Chapter, the banyan tree of this material world was explained. The extra roots coming out of it were compared to the activities of the living entities, some auspicious, some inauspicious. In the Ninth Chapter, also, the devas, or godly, and the asuras, the ungodly, or demons, were explained. Now, according to Vedic rites, activities in the mode of goodness are considered auspicious for progress on the path of liberation, and such activities are known as daivī prakṛti, transcendental by nature. Those who are situated in the transcendental nature make progress on the path of liberation. For those who are acting in the modes of passion and ignorance, on the other hand, there is no possibility of liberation. Either they will have to remain in this material world as human beings, or they will descend among the species of animals or even lower life forms. In this Sixteenth Chapter the Lord explains both the transcendental nature and its attendant qualities and the demoniac nature and its qualities. He also explains the advantages and disadvantages of these qualities.
 

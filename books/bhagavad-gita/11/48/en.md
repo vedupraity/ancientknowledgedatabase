@@ -1,22 +1,22 @@
-#### न वेदयज्ञाध्ययनैर्न दानै-
-#### र्न च क्रियाभिर्न तपोभिरुग्रै: ।
-#### एवंरूप: शक्य अहं नृलोके
-#### द्रष्टुं त्वदन्येन कुरुप्रवीर ॥ ४८ ॥
+##### न वेदयज्ञाध्ययनैर्न दानै-
+##### र्न च क्रियाभिर्न तपोभिरुग्रै: ।
+##### एवंरूप: शक्य अहं नृलोके
+##### द्रष्टुं त्वदन्येन कुरुप्रवीर ॥ ४८ ॥
 
-#### na veda-yajñādhyayanair na dānair
-#### na ca kriyābhir na tapobhir ugraiḥ
-#### evaṁ-rūpaḥ śakya ahaṁ nṛ-loke
-#### draṣṭuṁ tvad anyena kuru-pravīra
+##### na veda-yajñādhyayanair na dānair
+##### na ca kriyābhir na tapobhir ugraiḥ
+##### evaṁ-rūpaḥ śakya ahaṁ nṛ-loke
+##### draṣṭuṁ tvad anyena kuru-pravīra
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **veda**-**yajña** — by sacrifice; **adhyayanaiḥ** — or Vedic study; **na** — never; **dānaiḥ** — by charity; **na** — never; **ca** — also; **kriyābhiḥ** — by pious activities; **na** — never; **tapobhiḥ** — by serious penances; **ugraiḥ** — severe; **evam**-**rūpaḥ** — in this form; **śakyaḥ** — can; **aham** — I; **nṛ**-**loke** — in this material world; **draṣṭum** — be seen; **tvat** — than you; **anyena** — by another; **kuru**-**pravīra** — O best among the Kuru warriors.
 
-### Translation
+#### Translation
 
 O best of the Kuru warriors, no one before you has ever seen this universal form of Mine, for neither by studying the Vedas, nor by performing sacrifices, nor by charity, nor by pious activities, nor by severe penances can I be seen in this form in the material world.
 
-### Purport
+#### Purport
 
 The divine vision in this connection should be clearly understood. Who can have divine vision? Divine means godly. Unless one attains the status of divinity as a demigod, he cannot have divine vision. And what is a demigod? It is stated in the Vedic scriptures that those who are devotees of Lord Viṣṇu are demigods (viṣṇu-bhaktaḥ smṛto daivaḥ). Those who are atheistic, i.e., who do not believe in Viṣṇu, or who recognize only the impersonal part of Kṛṣṇa as the Supreme, cannot have the divine vision. It is not possible to decry Kṛṣṇa and at the same time have the divine vision. One cannot have the divine vision without becoming divine. In other words, those who have divine vision can also see like Arjuna.
 

@@ -1,20 +1,20 @@
-#### अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।
-#### देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥ २३ ॥
+##### अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।
+##### देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥ २३ ॥
 
-#### antavat tu phalaṁ teṣāṁ
-#### tad bhavaty alpa-medhasām
-#### devān deva-yajo yānti
-#### mad-bhaktā yānti mām api
+##### antavat tu phalaṁ teṣāṁ
+##### tad bhavaty alpa-medhasām
+##### devān deva-yajo yānti
+##### mad-bhaktā yānti mām api
 
-### Synonyms
+#### Synonyms
 
 **anta**-**vat** — perishable; **tu** — but; **phalam** — fruit; **teṣām** — their; **tat** — that; **bhavati** — becomes; **alpa**-**medhasām** — of those of small intelligence; **devān** — to the demigods; **deva**-**yajaḥ** — the worshipers of the demigods; **yānti** — go; **mat** — My; **bhaktāḥ** — devotees; **yānti** — go; **mām** — to Me; **api** — also.
 
-### Translation
+#### Translation
 
 Men of small intelligence worship the demigods, and their fruits are limited and temporary. Those who worship the demigods go to the planets of the demigods, but My devotees ultimately reach My supreme planet.
 
-### Purport
+#### Purport
 
 Some commentators on the Bhagavad-gītā say that one who worships a demigod can reach the Supreme Lord, but here it is clearly stated that the worshipers of demigods go to the different planetary systems where various demigods are situated, just as a worshiper of the sun achieves the sun or a worshiper of the demigod of the moon achieves the moon. Similarly, if anyone wants to worship a demigod like Indra, he can attain that particular god’s planet. It is not that everyone, regardless of whatever demigod is worshiped, will reach the Supreme Personality of Godhead. That is denied here, for it is clearly stated that the worshipers of demigods go to different planets in the material world but the devotee of the Supreme Lord goes directly to the supreme planet of the Personality of Godhead.
 

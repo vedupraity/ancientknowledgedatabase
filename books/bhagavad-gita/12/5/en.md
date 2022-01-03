@@ -1,20 +1,20 @@
-#### क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।
-#### अव्यक्ता हि गतिर्दु:खं देहवद्भिरवाप्यते ॥ ५ ॥
+##### क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।
+##### अव्यक्ता हि गतिर्दु:खं देहवद्भिरवाप्यते ॥ ५ ॥
 
-#### kleśo ’dhika-taras teṣām
-#### avyaktāsakta-cetasām
-#### avyaktā hi gatir duḥkhaṁ
-#### dehavadbhir avāpyate
+##### kleśo ’dhika-taras teṣām
+##### avyaktāsakta-cetasām
+##### avyaktā hi gatir duḥkhaṁ
+##### dehavadbhir avāpyate
 
-### Synonyms
+#### Synonyms
 
 **kleśaḥ** — trouble; **adhika**-**taraḥ** — very much; **teṣām** — of them; **avyakta** — to the unmanifested; **āsakta** — attached; **cetasām** — of those whose minds; **avyaktā** — toward the unmanifested; **hi** — certainly; **gatiḥ** — progress; **duḥkham** — with trouble; **deha**-**vadbhiḥ** — by the embodied; **avāpyate** — is achieved.
 
-### Translation
+#### Translation
 
 For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied.
 
-### Purport
+#### Purport
 
 The group of transcendentalists who follow the path of the inconceivable, unmanifested, impersonal feature of the Supreme Lord are called jñāna-yogīs, and persons who are in full Kṛṣṇa consciousness, engaged in devotional service to the Lord, are called bhakti-yogīs. Now, here the difference between jñāna-yoga and bhakti-yoga is definitely expressed. The process of jñāna-yoga, although ultimately bringing one to the same goal, is very troublesome, whereas the path of bhakti-yoga, the process of being in direct service to the Supreme Personality of Godhead, is easier and is natural for the embodied soul. The individual soul is embodied since time immemorial. It is very difficult for him to simply theoretically understand that he is not the body. Therefore, the bhakti-yogī accepts the Deity of Kṛṣṇa as worshipable because there is some bodily conception fixed in the mind, which can thus be applied. Of course, worship of the Supreme Personality of Godhead in His form within the temple is not idol worship. There is evidence in the Vedic literature that worship may be saguṇa or nirguṇa – of the Supreme possessing or not possessing attributes. Worship of the Deity in the temple is saguṇa worship, for the Lord is represented by material qualities. But the form of the Lord, though represented by material qualities such as stone, wood or oil paint, is not actually material. That is the absolute nature of the Supreme Lord.
 

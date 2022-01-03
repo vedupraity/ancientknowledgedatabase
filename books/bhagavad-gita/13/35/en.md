@@ -1,20 +1,20 @@
-#### क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।
-#### भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ॥ ३५ ॥
+##### क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।
+##### भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ॥ ३५ ॥
 
-#### kṣetra-kṣetrajñayor evam
-#### antaraṁ jñāna-cakṣuṣā
-#### bhūta-prakṛti-mokṣaṁ ca
-#### ye vidur yānti te param
+##### kṣetra-kṣetrajñayor evam
+##### antaraṁ jñāna-cakṣuṣā
+##### bhūta-prakṛti-mokṣaṁ ca
+##### ye vidur yānti te param
 
-### Synonyms
+#### Synonyms
 
 **kṣetra** — of the body; **kṣetra**-**jñayoḥ** — of the proprietor of the body; **evam** — thus; **antaram** — the difference; **jñāna**-**cakṣuṣā** — by the vision of knowledge; **bhūta** — of the living entity; **prakṛti** — from material nature; **mokṣam** — the liberation; **ca** — also; **ye** — those who; **viduḥ** — know; **yānti** — approach; **te** — they; **param** — the Supreme.
 
-### Translation
+#### Translation
 
 Those who see with eyes of knowledge the difference between the body and the knower of the body, and can also understand the process of liberation from bondage in material nature, attain to the supreme goal.
 
-### Purport
+#### Purport
 
 The purport of this Thirteenth Chapter is that one should know the distinction between the body, the owner of the body, and the Supersoul. One should recognize the process of liberation, as described in verses 8 through 12. Then one can go on to the supreme destination.
 

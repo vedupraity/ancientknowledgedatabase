@@ -1,20 +1,20 @@
-#### सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।
-#### अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुच: ॥ ६६ ॥
+##### सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।
+##### अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुच: ॥ ६६ ॥
 
-#### sarva-dharmān parityajya
-#### mām ekaṁ śaraṇaṁ vraja
-#### ahaṁ tvāṁ sarva-pāpebhyo
-#### mokṣayiṣyāmi mā śucaḥ
+##### sarva-dharmān parityajya
+##### mām ekaṁ śaraṇaṁ vraja
+##### ahaṁ tvāṁ sarva-pāpebhyo
+##### mokṣayiṣyāmi mā śucaḥ
 
-### Synonyms
+#### Synonyms
 
 **sarva**-**dharmān** — all varieties of religion; **parityajya** — abandoning; **mām** — unto Me; **ekam** — only; **śaraṇam** — for surrender; **vraja** — go; **aham** — I; **tvām** — you; **sarva** — all; **pāpebhyaḥ** — from sinful reactions; **mokṣayiṣyāmi** — will deliver; **mā** — do not; **śucaḥ** — worry.
 
-### Translation
+#### Translation
 
 Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.
 
-### Purport
+#### Purport
 
 The Lord has described various kinds of knowledge and processes of religion – knowledge of the Supreme Brahman, knowledge of the Supersoul, knowledge of the different types of orders and statuses of social life, knowledge of the renounced order of life, knowledge of nonattachment, sense and mind control, meditation, etc. He has described in so many ways different types of religion. Now, in summarizing Bhagavad-gītā, the Lord says that Arjuna should give up all the processes that have been explained to him; he should simply surrender to Kṛṣṇa. That surrender will save him from all kinds of sinful reactions, for the Lord personally promises to protect him.
 
@@ -22,12 +22,12 @@ In the Seventh Chapter it was said that only one who has become free from all si
 
 The process of surrender to Kṛṣṇa is described in the Hari-bhakti-vilāsa (11.676):
 
-#### ānukūlyasya saṅkalpaḥ
-#### prātikūlyasya varjanam
-#### rakṣiṣyatīti viśvāso
-#### goptṛtve varaṇaṁ tathā
-#### ātma-nikṣepa-kārpaṇye
-#### ṣaḍ-vidhā śaraṇāgatiḥ
+##### ānukūlyasya saṅkalpaḥ
+##### prātikūlyasya varjanam
+##### rakṣiṣyatīti viśvāso
+##### goptṛtve varaṇaṁ tathā
+##### ātma-nikṣepa-kārpaṇye
+##### ṣaḍ-vidhā śaraṇāgatiḥ
 
 According to the devotional process, one should simply accept such religious principles that will lead ultimately to the devotional service of the Lord. One may perform a particular occupational duty according to his position in the social order, but if by executing his duty one does not come to the point of Kṛṣṇa consciousness, all his activities are in vain. Anything that does not lead to the perfectional stage of Kṛṣṇa consciousness should be avoided. One should be confident that in all circumstances Kṛṣṇa will protect him from all difficulties. There is no need of thinking how one should keep the body and soul together. Kṛṣṇa will see to that. One should always think himself helpless and should consider Kṛṣṇa the only basis for his progress in life. As soon as one seriously engages himself in devotional service to the Lord in full Kṛṣṇa consciousness, at once he becomes freed from all contamination of material nature. There are different processes of religion and purificatory processes by cultivation of knowledge, meditation in the mystic yoga system, etc., but one who surrenders unto Kṛṣṇa does not have to execute so many methods. That simple surrender unto Kṛṣṇa will save him from unnecessarily wasting time. One can thus make all progress at once and be freed from all sinful reactions.
 

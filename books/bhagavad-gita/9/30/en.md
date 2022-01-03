@@ -1,20 +1,20 @@
-#### अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।
-#### साधुरेव स मन्तव्य: सम्यग्व्यवसितो हि स: ॥ ३० ॥
+##### अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।
+##### साधुरेव स मन्तव्य: सम्यग्व्यवसितो हि स: ॥ ३० ॥
 
-#### api cet su-durācāro
-#### bhajate mām ananya-bhāk
-#### sādhur eva sa mantavyaḥ
-#### samyag vyavasito hi saḥ
+##### api cet su-durācāro
+##### bhajate mām ananya-bhāk
+##### sādhur eva sa mantavyaḥ
+##### samyag vyavasito hi saḥ
 
-### Synonyms
+#### Synonyms
 
 **api** — even; **cet** — if; **su**-**durācāraḥ** — one committing the most abominable actions; **bhajate** — is engaged in devotional service; **mām** — unto Me; **ananya**-**bhāk** — without deviation; **sādhuḥ** — a saint; **eva** — certainly; **saḥ** — he; **mantavyaḥ** — is to be considered; **samyak** — completely; **vyavasitaḥ** — situated in determination; **hi** — certainly; **saḥ** — he.
 
-### Translation
+#### Translation
 
 Even if one commits the most abominable action, if he is engaged in devotional service he is to be considered saintly because he is properly situated in his determination.
 
-### Purport
+#### Purport
 
 The word su-durācāraḥ used in this verse is very significant, and we should understand it properly. When a living entity is conditioned, he has two kinds of activities: one is conditional, and the other is constitutional. As for protecting the body or abiding by the rules of society and state, certainly there are different activities, even for the devotees, in connection with the conditional life, and such activities are called conditional. Besides these, the living entity who is fully conscious of his spiritual nature and is engaged in Kṛṣṇa consciousness, or the devotional service of the Lord, has activities which are called transcendental. Such activities are performed in his constitutional position, and they are technically called devotional service. Now, in the conditioned state, sometimes devotional service and the conditional service in relation to the body will parallel one another. But then again, sometimes these activities become opposed to one another. As far as possible, a devotee is very cautious so that he does not do anything that could disrupt his wholesome condition. He knows that perfection in his activities depends on his progressive realization of Kṛṣṇa consciousness. Sometimes, however, it may be seen that a person in Kṛṣṇa consciousness commits some act which may be taken as most abominable socially or politically. But such a temporary falldown does not disqualify him. In the Śrīmad-Bhāgavatam it is stated that if a person falls down but is wholeheartedly engaged in the transcendental service of the Supreme Lord, the Lord, being situated within his heart, purifies him and excuses him from that abomination. The material contamination is so strong that even a yogī fully engaged in the service of the Lord sometimes becomes ensnared; but Kṛṣṇa consciousness is so strong that such an occasional falldown is at once rectified. Therefore the process of devotional service is always a success. No one should deride a devotee for some accidental falldown from the ideal path, for, as explained in the next verse, such occasional falldowns will be stopped in due course, as soon as a devotee is completely situated in Kṛṣṇa consciousness.
 
@@ -22,10 +22,10 @@ Therefore a person who is situated in Kṛṣṇa consciousness and is engaged w
 
 In the Nṛsiṁha Purāṇa the following statement is given:
 
-#### bhagavati ca harāv ananya-cetā
-#### bhṛśa-malino ’pi virājate manuṣyaḥ
-#### na hi śaśa-kaluṣa-cchabiḥ kadācit
-#### timira-parābhavatām upaiti candraḥ
+##### bhagavati ca harāv ananya-cetā
+##### bhṛśa-malino ’pi virājate manuṣyaḥ
+##### na hi śaśa-kaluṣa-cchabiḥ kadācit
+##### timira-parābhavatām upaiti candraḥ
 
 The meaning is that even if one fully engaged in the devotional service of the Lord is sometimes found engaged in abominable activities, these activities should be considered to be like the spots that resemble the mark of a rabbit on the moon. Such spots do not become an impediment to the diffusion of moonlight. Similarly, the accidental falldown of a devotee from the path of saintly character does not make him abominable.
 

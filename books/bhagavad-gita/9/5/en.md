@@ -1,20 +1,20 @@
-#### न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।
-#### भूतभृन्न च भूतस्थो ममात्मा भूतभावन: ॥ ५ ॥
+##### न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।
+##### भूतभृन्न च भूतस्थो ममात्मा भूतभावन: ॥ ५ ॥
 
-#### na ca mat-sthāni bhūtāni
-#### paśya me yogam aiśvaram
-#### bhūta-bhṛn na ca bhūta-stho
-#### mamātmā bhūta-bhāvanaḥ
+##### na ca mat-sthāni bhūtāni
+##### paśya me yogam aiśvaram
+##### bhūta-bhṛn na ca bhūta-stho
+##### mamātmā bhūta-bhāvanaḥ
 
-### Synonyms
+#### Synonyms
 
 **na** — never; **ca** — also; **mat**-**sthāni** — situated in Me; **bhūtāni** — all creation; **paśya** — just see; **me** — My; **yogam** **aiśvaram** — inconceivable mystic power; **bhūta**-**bhṛt** — the maintainer of all living entities; **na** — never; **ca** — also; **bhūta**-**sthaḥ** — in the cosmic manifestation; **mama** — My; **ātmā** — Self; **bhūta**-**bhāvanaḥ** — the source of all manifestations.
 
-### Translation
+#### Translation
 
 And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities and although I am everywhere, I am not a part of this cosmic manifestation, for My Self is the very source of creation.
 
-### Purport
+#### Purport
 
 The Lord says that everything is resting on Him (mat-sthāni sarva-bhūtāni). This should not be misunderstood. The Lord is not directly concerned with the maintenance and sustenance of this material manifestation. Sometimes we see a picture of Atlas holding the globe on his shoulders; he seems to be very tired, holding this great earthly planet. Such an image should not be entertained in connection with Kṛṣṇa’s upholding this created universe. He says that although everything is resting on Him, He is aloof. The planetary systems are floating in space, and this space is the energy of the Supreme Lord. But He is different from space. He is differently situated. Therefore the Lord says, “Although they are situated on My inconceivable energy, as the Supreme Personality of Godhead I am aloof from them.” This is the inconceivable opulence of the Lord.
 

@@ -1,20 +1,20 @@
-#### एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: ।
-#### सोऽविकल्पेन योगेन युज्यते नात्र संशय: ॥ ७ ॥
+##### एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: ।
+##### सोऽविकल्पेन योगेन युज्यते नात्र संशय: ॥ ७ ॥
 
-#### etāṁ vibhūtiṁ yogaṁ ca
-#### mama yo vetti tattvataḥ
-#### so ’vikalpena yogena
-#### yujyate nātra saṁśayaḥ
+##### etāṁ vibhūtiṁ yogaṁ ca
+##### mama yo vetti tattvataḥ
+##### so ’vikalpena yogena
+##### yujyate nātra saṁśayaḥ
 
-### Synonyms
+#### Synonyms
 
 **etām** — all this; **vibhūtim** — opulence; **yogam** — mystic power; **ca** — also; **mama** — of Mine; **yaḥ** — anyone who; **vetti** — knows; **tattvataḥ** — factually; **saḥ** — he; **avikalpena** — without division; **yogena** — in devotional service; **yujyate** — is engaged; **na** — never; **atra** — here; **saṁśayaḥ** — doubt.
 
-### Translation
+#### Translation
 
 One who is factually convinced of this opulence and mystic power of Mine engages in unalloyed devotional service; of this there is no doubt.
 
-### Purport
+#### Purport
 
 The highest summit of spiritual perfection is knowledge of the Supreme Personality of Godhead. Unless one is firmly convinced of the different opulences of the Supreme Lord, he cannot engage in devotional service. Generally people know that God is great, but they do not know in detail how God is great. Here are the details. If one knows factually how God is great, then naturally he becomes a surrendered soul and engages himself in the devotional service of the Lord. When one factually knows the opulences of the Supreme, there is no alternative but to surrender to Him. This factual knowledge can be known from the descriptions in Śrīmad-Bhāgavatam and Bhagavad-gītā and similar literatures.
 

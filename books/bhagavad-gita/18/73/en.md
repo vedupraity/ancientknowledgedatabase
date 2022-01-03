@@ -1,21 +1,21 @@
-#### नष्टो मोह: स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।
-#### स्थितोऽस्मि गतसन्देह: करिष्ये वचनं तव ॥ ७३ ॥
+##### नष्टो मोह: स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।
+##### स्थितोऽस्मि गतसन्देह: करिष्ये वचनं तव ॥ ७३ ॥
 
-#### arjuna uvāca
-#### naṣṭo mohaḥ smṛtir labdhā
-#### tvat-prasādān mayācyuta
-#### sthito ’smi gata-sandehaḥ
-#### kariṣye vacanaṁ tava
+##### arjuna uvāca
+##### naṣṭo mohaḥ smṛtir labdhā
+##### tvat-prasādān mayācyuta
+##### sthito ’smi gata-sandehaḥ
+##### kariṣye vacanaṁ tava
 
-### Synonyms
+#### Synonyms
 
 **arjunaḥ** **uvāca** — Arjuna said; **naṣṭaḥ** — dispelled; **mohaḥ** — illusion; **smṛtiḥ** — memory; **labdhā** — regained; **tvat**-**prasādāt** — by Your mercy; **mayā** — by me; **acyuta** — O infallible Kṛṣṇa; **sthitaḥ** — situated; **asmi** — I am; **gata** — removed; **sandehaḥ** — all doubts; **kariṣye** — I shall execute; **vacanam** — order; **tava** — Your.
 
-### Translation
+#### Translation
 
 Arjuna said: My dear Kṛṣṇa, O infallible one, my illusion is now gone. I have regained my memory by Your mercy. I am now firm and free from doubt and am prepared to act according to Your instructions.
 
-### Purport
+#### Purport
 
 The constitutional position of a living entity, represented by Arjuna, is that he has to act according to the order of the Supreme Lord. He is meant for self-discipline. Śrī Caitanya Mahāprabhu says that the actual position of the living entity is that of eternal servant of the Supreme Lord. Forgetting this principle, the living entity becomes conditioned by material nature, but in serving the Supreme Lord he becomes the liberated servant of God. The living entity’s constitutional position is to be a servitor; he has to serve either the illusory māyā or the Supreme Lord. If he serves the Supreme Lord he is in his normal condition, but if he prefers to serve the illusory, external energy, then certainly he will be in bondage. In illusion the living entity is serving in this material world. He is bound by his lust and desires, yet he thinks of himself as the master of the world. This is called illusion. When a person is liberated, his illusion is over, and he voluntarily surrenders unto the Supreme to act according to His desires. The last illusion, the last snare of māyā to trap the living entity, is the proposition that he is God. The living entity thinks that he is no longer a conditioned soul, but God. He is so unintelligent that he does not think that if he were God, then how could he be in doubt? That he does not consider. So that is the last snare of illusion. Actually to become free from the illusory energy is to understand Kṛṣṇa, the Supreme Personality of Godhead, and agree to act according to His order.
 

@@ -1,27 +1,27 @@
-#### कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।
-#### जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥ ५१ ॥
+##### कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।
+##### जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥ ५१ ॥
 
-#### karma-jaṁ buddhi-yuktā hi
-#### phalaṁ tyaktvā manīṣiṇaḥ
-#### janma-bandha-vinirmuktāḥ
-#### padaṁ gacchanty anāmayam
+##### karma-jaṁ buddhi-yuktā hi
+##### phalaṁ tyaktvā manīṣiṇaḥ
+##### janma-bandha-vinirmuktāḥ
+##### padaṁ gacchanty anāmayam
 
-### Synonyms
+#### Synonyms
 
 **karma**-**jam** — due to fruitive activities; **buddhi**-**yuktāḥ** — being engaged in devotional service; **hi** — certainly; **phalam** — results; **tyaktvā** — giving up; **manīṣiṇaḥ** — great sages or devotees; **janma**-**bandha** — from the bondage of birth and death; **vinirmuktāḥ** — liberated; **padam** — position; **gacchanti** — they reach; **anāmayam** — without miseries.
 
-### Translation
+#### Translation
 
 By thus engaging in devotional service to the Lord, great sages or devotees free themselves from the results of work in the material world. In this way they become free from the cycle of birth and death and attain the state beyond all miseries [by going back to Godhead].
 
-### Purport
+#### Purport
 
 The liberated living entities belong to that place where there are no material miseries. The Bhāgavatam (10.14.58) says:
 
-#### samāṣritā ye pada-pallava-plavaṁ
-#### mahat-padaṁ puṇya-yaśo murāreḥ
-#### bhavāmbudhir vatsa-padaṁ paraṁ padaṁ
-#### padaṁ padaṁ yad vipadāṁ na teṣām
+##### samāṣritā ye pada-pallava-plavaṁ
+##### mahat-padaṁ puṇya-yaśo murāreḥ
+##### bhavāmbudhir vatsa-padaṁ paraṁ padaṁ
+##### padaṁ padaṁ yad vipadāṁ na teṣām
 
 “For one who has accepted the boat of the lotus feet of the Lord, who is the shelter of the cosmic manifestation and is famous as Mukunda, or the giver of mukti, the ocean of the material world is like the water contained in a calf’s footprint. Paraṁ padam, or the place where there are no material miseries, or Vaikuṇṭha, is his goal, not the place where there is danger in every step of life.”
 

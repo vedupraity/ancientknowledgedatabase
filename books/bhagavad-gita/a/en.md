@@ -32,4 +32,4 @@ But the person Kṛṣṇa is both the goal and the substance of Bhagavad-gītā
 
 This translation, then, and the commentary that accompanies it propose to direct the reader to Kṛṣṇa rather than away from Him. The Bhagavad-gītā thus becomes wholly consistent and comprehensible. Since Kṛṣṇa is the speaker of the Gītā, and its ultimate goal as well, the Bhagavad-gītā As It Is presents this great scripture in its true terms.
 
-- The Publishers
+--- The Publishers

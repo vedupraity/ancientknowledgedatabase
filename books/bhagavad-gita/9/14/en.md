@@ -1,20 +1,20 @@
-#### सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: ।
-#### नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥ १४ ॥
+##### सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: ।
+##### नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥ १४ ॥
 
-#### satataṁ kīrtayanto māṁ
-#### yatantaś ca dṛḍha-vratāḥ
-#### namasyantaś ca māṁ bhaktyā
-#### nitya-yuktā upāsate
+##### satataṁ kīrtayanto māṁ
+##### yatantaś ca dṛḍha-vratāḥ
+##### namasyantaś ca māṁ bhaktyā
+##### nitya-yuktā upāsate
 
-### Synonyms
+#### Synonyms
 
 **satatam** — always; **kīrtayantaḥ** — chanting; **mām** — about Me; **yatantaḥ** — fully endeavoring; **ca** — also; **dṛḍha**-**vratāḥ** — with determination; **namasyantaḥ** — offering obeisances; **ca** — and; **mām** — Me; **bhaktyā** — in devotion; **nitya**-**yuktāḥ** — perpetually engaged; **upāsate** — worship.
 
-### Translation
+#### Translation
 
 Always chanting My glories, endeavoring with great determination, bowing down before Me, these great souls perpetually worship Me with devotion.
 
-### Purport
+#### Purport
 
 The mahātmā cannot be manufactured by rubber-stamping an ordinary man. His symptoms are described here: a mahātmā is always engaged in chanting the glories of the Supreme Lord Kṛṣṇa, the Personality of Godhead. He has no other business. He is always engaged in the glorification of the Lord. In other words, he is not an impersonalist. When the question of glorification is there, one has to glorify the Supreme Lord, praising His holy name, His eternal form, His transcendental qualities and His uncommon pastimes. One has to glorify all these things; therefore a mahātmā is attached to the Supreme Personality of Godhead.
 

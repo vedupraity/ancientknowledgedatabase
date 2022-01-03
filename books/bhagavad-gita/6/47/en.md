@@ -1,27 +1,27 @@
-#### योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।
-#### श्रद्धावान्भजते यो मां स मे युक्ततमो मत: ॥ ४७ ॥
+##### योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।
+##### श्रद्धावान्भजते यो मां स मे युक्ततमो मत: ॥ ४७ ॥
 
-#### yoginām api sarveṣāṁ
-#### mad-gatenāntar-ātmanā
-#### śraddhāvān bhajate yo māṁ
-#### sa me yukta-tamo mataḥ
+##### yoginām api sarveṣāṁ
+##### mad-gatenāntar-ātmanā
+##### śraddhāvān bhajate yo māṁ
+##### sa me yukta-tamo mataḥ
 
-### Synonyms
+#### Synonyms
 
 **yoginām** — of **yogīs**; **api** — also; **sarveṣām** — all types of; **mat**-**gatena** — abiding in Me, always thinking of Me; **antaḥ**-**ātmanā** — within himself; **śraddhā**-**vān** — in full faith; **bhajate** — renders transcendental loving service; **yaḥ** — one who; **mām** — to Me (the Supreme Lord); **saḥ** — he; **me** — by Me; **yukta**-**tamaḥ** — the greatest **yogī**; **mataḥ** — is considered.
 
-### Translation
+#### Translation
 
 And of all yogīs, the one with great faith who always abides in Me, thinks of Me within himself and renders transcendental loving service to Me – he is the most intimately united with Me in yoga and is the highest of all. That is My opinion.
 
-### Purport
+#### Purport
 
 The word bhajate is significant here. Bhajate has its root in the verb bhaj, which is used when there is need of service. The English word “worship” cannot be used in the same sense as bhaj. Worship means to adore, or to show respect and honor to the worthy one. But service with love and faith is especially meant for the Supreme Personality of Godhead. One can avoid worshiping a respectable man or a demigod and may be called discourteous, but one cannot avoid serving the Supreme Lord without being thoroughly condemned. Every living entity is part and parcel of the Supreme Personality of Godhead, and thus every living entity is intended to serve the Supreme Lord by his own constitution. Failing to do this, he falls down. The Bhāgavatam (11.5.3) confirms this as follows:
 
-#### ya eṣāṁ puruṣaṁ sākṣād
-#### ātma-prabhavam īśvaram
-#### na bhajanty avajānanti
-#### sthānād bhraṣṭāḥ patanty adhaḥ
+##### ya eṣāṁ puruṣaṁ sākṣād
+##### ātma-prabhavam īśvaram
+##### na bhajanty avajānanti
+##### sthānād bhraṣṭāḥ patanty adhaḥ
 
 “Anyone who does not render service and neglects his duty unto the primeval Lord, who is the source of all living entities, will certainly fall down from his constitutional position.”
 
@@ -33,10 +33,10 @@ It is by great fortune that one comes to Kṛṣṇa consciousness on the path o
 
 This stage of highest perfection in yoga can be attained only by bhakti-yoga, as is confirmed in all Vedic literature:
 
-#### yasya deve parā bhaktir
-#### yathā deve tathā gurau
-#### tasyaite kathitā hy arthāḥ
-#### prakāśante mahātmanaḥ
+##### yasya deve parā bhaktir
+##### yathā deve tathā gurau
+##### tasyaite kathitā hy arthāḥ
+##### prakāśante mahātmanaḥ
 
 “Only unto those great souls who have implicit faith in both the Lord and the spiritual master are all the imports of Vedic knowledge automatically revealed.” (Śvetāśvatara Upaniṣad 6.23)
 

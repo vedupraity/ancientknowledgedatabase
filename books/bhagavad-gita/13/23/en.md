@@ -1,20 +1,20 @@
-#### उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वर: ।
-#### परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुष: पर: ॥ २३ ॥
+##### उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वर: ।
+##### परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुष: पर: ॥ २३ ॥
 
-#### upadraṣṭānumantā ca
-#### bhartā bhoktā maheśvaraḥ
-#### paramātmeti cāpy ukto
-#### dehe ’smin puruṣaḥ paraḥ
+##### upadraṣṭānumantā ca
+##### bhartā bhoktā maheśvaraḥ
+##### paramātmeti cāpy ukto
+##### dehe ’smin puruṣaḥ paraḥ
 
-### Synonyms
+#### Synonyms
 
 **upadraṣṭā** — overseer; **anumantā** — permitter; **ca** — also; **bhartā** — master; **bhoktā** — supreme enjoyer; **mahā**-**īśvaraḥ** — the Supreme Lord; **parama**-**ātmā** — the Supersoul; **iti** — also; **ca** — and; **api** — indeed; **uktaḥ** — is said; **dehe** — in the body; **asmin** — this; **puruṣaḥ** — enjoyer; **paraḥ** — transcendental.
 
-### Translation
+#### Translation
 
 Yet in this body there is another, a transcendental enjoyer, who is the Lord, the supreme proprietor, who exists as the overseer and permitter, and who is known as the Supersoul.
 
-### Purport
+#### Purport
 
 It is stated here that the Supersoul, who is always with the individual soul, is the representation of the Supreme Lord. He is not an ordinary living entity. Because the monist philosophers take the knower of the body to be one, they think that there is no difference between the Supersoul and the individual soul. To clarify this, the Lord says that He is represented as the Paramātmā in every body. He is different from the individual soul; He is para, transcendental. The individual soul enjoys the activities of a particular field, but the Supersoul is present not as finite enjoyer nor as one taking part in bodily activities, but as the witness, overseer, permitter and supreme enjoyer. His name is Paramātmā, not ātmā, and He is transcendental. It is distinctly clear that the ātmā and Paramātmā are different. The Supersoul, the Paramātmā, has legs and hands everywhere, but the individual soul does not. And because the Paramātmā is the Supreme Lord, He is present within to sanction the individual soul’s desiring material enjoyment. Without the sanction of the Supreme Soul, the individual soul cannot do anything. The individual is bhukta, or the sustained, and the Lord is bhoktā, or the maintainer. There are innumerable living entities, and He is staying in them as a friend.
 

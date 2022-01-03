@@ -1,20 +1,20 @@
-#### पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया ।
-#### यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् ॥ २२ ॥
+##### पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया ।
+##### यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् ॥ २२ ॥
 
-#### puruṣaḥ sa paraḥ pārtha
-#### bhaktyā labhyas tv ananyayā
-#### yasyāntaḥ-sthāni bhūtāni
-#### yena sarvam idaṁ tatam
+##### puruṣaḥ sa paraḥ pārtha
+##### bhaktyā labhyas tv ananyayā
+##### yasyāntaḥ-sthāni bhūtāni
+##### yena sarvam idaṁ tatam
 
-### Synonyms
+#### Synonyms
 
 **puruṣaḥ** — the Supreme Personality; **saḥ** — He; **paraḥ** — the Supreme, than whom no one is greater; **pārtha** — O son of Pṛthā; **bhaktyā** — by devotional service; **labhyaḥ** — can be achieved; **tu** — but; **ananyayā** — unalloyed, undeviating; **yasya** — whom; **antaḥ**-**sthāni** — within; **bhūtāni** — all of this material manifestation; **yena** — by whom; **sarvam** — all; **idam** — whatever we can see; **tatam** — is pervaded.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead, who is greater than all, is attainable by unalloyed devotion. Although He is present in His abode, He is all-pervading, and everything is situated within Him.
 
-### Purport
+#### Purport
 
 It is here clearly stated that the supreme destination, from which there is no return, is the abode of Kṛṣṇa, the Supreme Person. The Brahma-saṁhitā describes this supreme abode as ānanda-cinmaya-rasa, a place where everything is full of spiritual bliss. All the variegatedness manifest there is of the quality of spiritual bliss – nothing there is material. That variegatedness is expanded as the spiritual expansion of the Supreme Godhead Himself, for the manifestation there is totally of the spiritual energy, as explained in Chapter Seven. As far as this material world is concerned, although the Lord is always in His supreme abode, He is nonetheless all-pervading by His material energy. So by His spiritual and material energies He is present everywhere – both in the material and in the spiritual universes. Yasyāntaḥ-sthāni means that everything is sustained within Him, within either His spiritual or material energy. The Lord is all-pervading by these two energies.
 

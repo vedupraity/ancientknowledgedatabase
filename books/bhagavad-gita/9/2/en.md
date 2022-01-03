@@ -1,20 +1,20 @@
-#### राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।
-#### प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥ २ ॥
+##### राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।
+##### प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥ २ ॥
 
-#### rāja-vidyā rāja-guhyaṁ
-#### pavitram idam uttamam
-#### pratyakṣāvagamaṁ dharmyaṁ
-#### su-sukhaṁ kartum avyayam
+##### rāja-vidyā rāja-guhyaṁ
+##### pavitram idam uttamam
+##### pratyakṣāvagamaṁ dharmyaṁ
+##### su-sukhaṁ kartum avyayam
 
-### Synonyms
+#### Synonyms
 
 **rāja**-**vidyā** — the king of education; **rāja**-**guhyam** — the king of confidential knowledge; **pavitram** — the purest; **idam** — this; **uttamam** — transcendental; **pratyakṣa** — by direct experience; **avagamam** — understood; **dharmyam** — the principle of religion; **su**-**sukham** — very happy; **kartum** — to execute; **avyayam** — everlasting.
 
-### Translation
+#### Translation
 
 This knowledge is the king of education, the most secret of all secrets. It is the purest knowledge, and because it gives direct perception of the self by realization, it is the perfection of religion. It is everlasting, and it is joyfully performed.
 
-### Purport
+#### Purport
 
 This chapter of Bhagavad-gītā is called the king of education because it is the essence of all doctrines and philosophies explained before. Among the principal philosophers in India are Gautama, Kaṇāda, Kapila, Yājñavalkya, Śāṇḍilya and Vaiśvānara. And finally there is Vyāsadeva, the author of the Vedānta-sūtra. So there is no dearth of knowledge in the field of philosophy or transcendental knowledge. Now the Lord says that this Ninth Chapter is the king of all such knowledge, the essence of all knowledge that can be derived from the study of the Vedas and different kinds of philosophy. It is the most confidential because confidential or transcendental knowledge involves understanding the difference between the soul and the body. And the king of all confidential knowledge culminates in devotional service.
 
@@ -26,10 +26,10 @@ This knowledge is the purest form of all activities, as explained in Vedic liter
 
 As explained in the twenty-eighth verse of the Seventh Chapter, a person who has completely ended the reactions of all sinful activities and who is fully engaged in pious activities, being freed from the duality of this material world, becomes engaged in devotional service to the Supreme Personality of Godhead, Kṛṣṇa. In other words, those who are actually engaged in the devotional service of the Supreme Lord are already freed from all reactions. This statement is confirmed in the Padma Purāṇa:
 
-#### aprārabdha-phalaṁ pāpaṁ
-#### kūṭaṁ bījaṁ phalonmukham
-#### krameṇaiva pralīyeta
-#### viṣṇu-bhakti-ratātmanām
+##### aprārabdha-phalaṁ pāpaṁ
+##### kūṭaṁ bījaṁ phalonmukham
+##### krameṇaiva pralīyeta
+##### viṣṇu-bhakti-ratātmanām
 
 For those who are engaged in the devotional service of the Supreme Personality of Godhead, all sinful reactions, whether fructified, in the stock, or in the form of a seed, gradually vanish. Therefore the purifying potency of devotional service is very strong, and it is called pavitram uttamam, the purest. Uttama means transcendental. Tamas means this material world or darkness, and uttama means that which is transcendental to material activities. Devotional activities are never to be considered material, although sometimes it appears that devotees are engaged just like ordinary men. One who can see and is familiar with devotional service will know that they are not material activities. They are all spiritual and devotional, uncontaminated by the material modes of nature.
 
@@ -37,17 +37,17 @@ It is said that the execution of devotional service is so perfect that one can p
 
 In the Vedānta-sūtra (3.2.26) this is also described in the following words: prakāśaś ca karmaṇy abhyāsāt. “Devotional service is so potent that simply by engaging in the activities of devotional service one becomes enlightened without a doubt.” A practical example of this can be seen in the previous life of Nārada, who in that life happened to be the son of a maidservant. He had no education, nor was he born into a high family. But when his mother was engaged in serving great devotees, Nārada also became engaged, and sometimes, in the absence of his mother, he would serve the great devotees himself. Nārada personally says,
 
-#### ucchiṣṭa-lepān anumodito dvijaiḥ
-#### sakṛt sma bhuñje tad-apāsta-kilbiṣaḥ
-#### evaṁ pravṛttasya viśuddha-cetasas
-#### tad-dharma evātma-ruciḥ prajāyate
+##### ucchiṣṭa-lepān anumodito dvijaiḥ
+##### sakṛt sma bhuñje tad-apāsta-kilbiṣaḥ
+##### evaṁ pravṛttasya viśuddha-cetasas
+##### tad-dharma evātma-ruciḥ prajāyate
 
 In this verse from Śrīmad-Bhāgavatam (1.5.25) Nārada describes his previous life to his disciple Vyāsadeva. He says that while engaged as a boy servant for those purified devotees during the four months of their stay, he was intimately associating with them. Sometimes those sages left remnants of food on their dishes, and the boy, who would wash their dishes, wanted to taste the remnants. So he asked the great devotees for their permission, and when they gave it Nārada ate those remnants and consequently became freed from all sinful reactions. As he went on eating, he gradually became as pure-hearted as the sages. The great devotees relished the taste of unceasing devotional service to the Lord by hearing and chanting, and Nārada gradually developed the same taste. Nārada says further,
 
-#### tatrānv-ahaṁ kṛṣṇa-kathāḥ pragāyatām
-#### anugraheṇāśṛṇavaṁ mano-harāḥ
-#### tāḥ śraddhayā me ’nu-padaṁ viśṛṇvataḥ
-#### priyaśravasy aṅga mamābhavad ruciḥ
+##### tatrānv-ahaṁ kṛṣṇa-kathāḥ pragāyatām
+##### anugraheṇāśṛṇavaṁ mano-harāḥ
+##### tāḥ śraddhayā me ’nu-padaṁ viśṛṇvataḥ
+##### priyaśravasy aṅga mamābhavad ruciḥ
 
 By associating with the sages, Nārada got the taste for hearing and chanting the glories of the Lord, and he developed a great desire for devotional service. Therefore, as described in the Vedānta-sūtra, prakāśaś ca karmaṇy abhyāsāt: if one is engaged simply in the acts of devotional service, everything is revealed to him automatically, and he can understand. This is called pratyakṣa, directly perceived.
 

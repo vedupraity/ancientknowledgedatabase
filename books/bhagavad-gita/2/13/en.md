@@ -1,20 +1,20 @@
-#### देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।
-#### तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥ १३ ॥
+##### देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।
+##### तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥ १३ ॥
 
-#### dehino ’smin yathā dehe
-#### kaumāraṁ yauvanaṁ jarā
-#### tathā dehāntara-prāptir
-#### dhīras tatra na muhyati
+##### dehino ’smin yathā dehe
+##### kaumāraṁ yauvanaṁ jarā
+##### tathā dehāntara-prāptir
+##### dhīras tatra na muhyati
 
-### Synonyms
+#### Synonyms
 
 **dehinaḥ** — of the embodied; **asmin** — in this; **yathā** — as; **dehe** — in the body; **kaumāram** — boyhood; **yauvanam** — youth; **jarā** — old age; **tathā** — similarly; **deha**-**antara** — of transference of the body; **prāptiḥ** — achievement; **dhīraḥ** — the sober; **tatra** — thereupon; **na** — never; **muhyati** — is deluded.
 
-### Translation
+#### Translation
 
 As the embodied soul continuously passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death. A sober person is not bewildered by such a change.
 
-### Purport
+#### Purport
 
 Since every living entity is an individual soul, each is changing his body every moment, manifesting sometimes as a child, sometimes as a youth and sometimes as an old man. Yet the same spirit soul is there and does not undergo any change. This individual soul finally changes the body at death and transmigrates to another body; and since it is sure to have another body in the next birth – either material or spiritual – there was no cause for lamentation by Arjuna on account of death, neither for Bhīṣma nor for Droṇa, for whom he was so much concerned. Rather, he should rejoice for their changing bodies from old to new ones, thereby rejuvenating their energy. Such changes of body account for varieties of enjoyment or suffering, according to one’s work in life. So Bhīṣma and Droṇa, being noble souls, were surely going to have spiritual bodies in the next life, or at least life in heavenly bodies for superior enjoyment of material existence. So, in either case, there was no cause of lamentation.
 

@@ -1,20 +1,20 @@
-#### मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम् ।
-#### सम्भव: सर्वभूतानां ततो भवति भारत ॥ ३ ॥
+##### मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम् ।
+##### सम्भव: सर्वभूतानां ततो भवति भारत ॥ ३ ॥
 
-#### mama yonir mahad brahma
-#### tasmin garbhaṁ dadhāmy aham
-#### sambhavaḥ sarva-bhūtānāṁ
-#### tato bhavati bhārata
+##### mama yonir mahad brahma
+##### tasmin garbhaṁ dadhāmy aham
+##### sambhavaḥ sarva-bhūtānāṁ
+##### tato bhavati bhārata
 
-### Synonyms
+#### Synonyms
 
 **mama** — My; **yoniḥ** — source of birth; **mahat** — the total material existence; **brahma** — supreme; **tasmin** — in that; **garbham** — pregnancy; **dadhāmi** — create; **aham** — I; **sambhavaḥ** — the possibility; **sarva**-**bhūtānām** — of all living entities; **tataḥ** — thereafter; **bhavati** — becomes; **bhārata** — O son of Bharata.
 
-### Translation
+#### Translation
 
 The total material substance, called Brahman, is the source of birth, and it is that Brahman that I impregnate, making possible the births of all living beings, O son of Bharata.
 
-### Purport
+#### Purport
 
 This is an explanation of the world: everything that takes place is due to the combination of kṣetra and kṣetra-jña, the body and the spirit soul. This combination of material nature and the living entity is made possible by the Supreme God Himself. The mahat-tattva is the total cause of the total cosmic manifestation; and that total substance of the material cause, in which there are three modes of nature, is sometimes called Brahman. The Supreme Personality impregnates that total substance, and thus innumerable universes become possible. This total material substance, the mahat-tattva, is described as Brahman in the Vedic literature (Muṇḍaka Upaniṣad 1.1.19): tasmād etad brahma nāma-rūpam annaṁ ca jāyate. The Supreme Person impregnates that Brahman with the seeds of the living entities. The twenty-four elements, beginning from earth, water, fire and air, are all material energy, and they constitute what is called mahad brahma, or the great Brahman, the material nature. As explained in the Seventh Chapter, beyond this there is another, superior nature – the living entity. Into material nature the superior nature is mixed by the will of the Supreme Personality of Godhead, and thereafter all living entities are born of this material nature.
 

@@ -1,20 +1,20 @@
-#### अधियज्ञ: कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।
-#### प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभि: ॥ २ ॥
+##### अधियज्ञ: कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।
+##### प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभि: ॥ २ ॥
 
-#### adhiyajñaḥ kathaṁ ko ’tra
-#### dehe ’smin madhusūdana
-#### prayāṇa-kāle ca kathaṁ
-#### jñeyo ’si niyatātmabhiḥ
+##### adhiyajñaḥ kathaṁ ko ’tra
+##### dehe ’smin madhusūdana
+##### prayāṇa-kāle ca kathaṁ
+##### jñeyo ’si niyatātmabhiḥ
 
-### Synonyms
+#### Synonyms
 
 **adhiyajñaḥ** — the Lord of sacrifice; **katham** — how; **kaḥ** — who; **atra** — here; **dehe** — in the body; **asmin** — this; **madhusūdana** — O Madhusūdana; **prayāṇa**-**kāle** — at the time of death; **ca** — and; **katham** — how; **jñeyaḥ** **asi** — You can be known; **niyata**-**ātmabhiḥ** — by the self-controlled.
 
-### Translation
+#### Translation
 
 Who is the Lord of sacrifice, and how does He live in the body, O Madhusūdana? And how can those engaged in devotional service know You at the time of death?
 
-### Purport
+#### Purport
 
 “Lord of sacrifice” may refer to either Indra or Viṣṇu. Viṣṇu is the chief of the primal demigods, including Brahmā and Śiva, and Indra is the chief of the administrative demigods. Both Indra and Viṣṇu are worshiped by yajña performances. But here Arjuna asks who is actually the Lord of yajña (sacrifice) and how the Lord is residing within the body of the living entity.
 

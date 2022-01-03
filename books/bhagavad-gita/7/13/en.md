@@ -1,20 +1,20 @@
-#### त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् ।
-#### मोहितं नाभिजानाति मामेभ्य: परमव्ययम् ॥ १३ ॥
+##### त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् ।
+##### मोहितं नाभिजानाति मामेभ्य: परमव्ययम् ॥ १३ ॥
 
-#### tribhir guṇa-mayair bhāvair
-#### ebhiḥ sarvam idaṁ jagat
-#### mohitaṁ nābhijānāti
-#### mām ebhyaḥ param avyayam
+##### tribhir guṇa-mayair bhāvair
+##### ebhiḥ sarvam idaṁ jagat
+##### mohitaṁ nābhijānāti
+##### mām ebhyaḥ param avyayam
 
-### Synonyms
+#### Synonyms
 
 **tribhiḥ** — three; **guṇa**-**mayaiḥ** — consisting of the **guṇas**; **bhāvaiḥ** — by the states of being; **ebhiḥ** — all these; **sarvam** — whole; **idam** — this; **jagat** — universe; **mohitam** — deluded; **na** **abhijānāti** — does not know; **mām** — Me; **ebhyaḥ** — above these; **param** — the Supreme; **avyayam** — inexhaustible.
 
-### Translation
+#### Translation
 
 Deluded by the three modes [goodness, passion and ignorance], the whole world does not know Me, who am above the modes and inexhaustible.
 
-### Purport
+#### Purport
 
 The whole world is enchanted by the three modes of material nature. Those who are bewildered by these three modes cannot understand that transcendental to this material nature is the Supreme Lord, Kṛṣṇa.
 

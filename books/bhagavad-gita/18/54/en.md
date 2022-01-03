@@ -1,20 +1,20 @@
-#### ब्रह्मभूत: प्रसन्नात्मा न शोचति न काङ्क्षति ।
-#### सम: सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥ ५४ ॥
+##### ब्रह्मभूत: प्रसन्नात्मा न शोचति न काङ्क्षति ।
+##### सम: सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥ ५४ ॥
 
-#### brahma-bhūtaḥ prasannātmā
-#### na śocati na kāṅkṣati
-#### samaḥ sarveṣu bhūteṣu
-#### mad-bhaktiṁ labhate parām
+##### brahma-bhūtaḥ prasannātmā
+##### na śocati na kāṅkṣati
+##### samaḥ sarveṣu bhūteṣu
+##### mad-bhaktiṁ labhate parām
 
-### Synonyms
+#### Synonyms
 
 **brahma**-**bhūtaḥ** — being one with the Absolute; **prasanna**-**ātmā** — fully joyful; **na** — never; **śocati** — laments; **na** — never; **kāṅkṣati** — desires; **samaḥ** — equally disposed; **sarveṣu** — to all; **bhūteṣu** — living entities; **mat**-**bhaktim** — My devotional service; **labhate** — gains; **parām** — transcendental.
 
-### Translation
+#### Translation
 
 One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments or desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto Me.
 
-### Purport
+#### Purport
 
 To the impersonalist, achieving the brahma-bhūta stage, becoming one with the Absolute, is the last word. But for the personalist, or pure devotee, one has to go still further, to become engaged in pure devotional service. This means that one who is engaged in pure devotional service to the Supreme Lord is already in a state of liberation, called brahma-bhūta, oneness with the Absolute. Without being one with the Supreme, the Absolute, one cannot render service unto Him. In the absolute conception, there is no difference between the served and the servitor; yet the distinction is there, in a higher spiritual sense.
 

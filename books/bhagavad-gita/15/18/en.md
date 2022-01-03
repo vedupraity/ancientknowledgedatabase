@@ -1,20 +1,20 @@
-#### यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: ।
-#### अतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: ॥ १८ ॥
+##### यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: ।
+##### अतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: ॥ १८ ॥
 
-#### yasmāt kṣaram atīto ’ham
-#### akṣarād api cottamaḥ
-#### ato ’smi loke vede ca
-#### prathitaḥ puruṣottamaḥ
+##### yasmāt kṣaram atīto ’ham
+##### akṣarād api cottamaḥ
+##### ato ’smi loke vede ca
+##### prathitaḥ puruṣottamaḥ
 
-### Synonyms
+#### Synonyms
 
 **yasmāt** — because; **kṣaram** — to the fallible; **atītaḥ** — transcendental; **aham** — I am; **akṣarāt** — beyond the infallible; **api** — also; **ca** — and; **uttamaḥ** — the best; **ataḥ** — therefore; **asmi** — I am; **loke** — in the world; **vede** — in the Vedic literature; **ca** — and; **prathitaḥ** — celebrated; **puruṣa**-**uttamaḥ** — as the Supreme Personality.
 
-### Translation
+#### Translation
 
 Because I am transcendental, beyond both the fallible and the infallible, and because I am the greatest, I am celebrated both in the world and in the Vedas as that Supreme Person.
 
-### Purport
+#### Purport
 
 No one can surpass the Supreme Personality of Godhead, Kṛṣṇa – neither the conditioned soul nor the liberated soul. He is therefore the greatest of personalities. Now it is clear here that the living entities and the Supreme Personality of Godhead are individuals. The difference is that the living entities, either in the conditioned state or in the liberated state, cannot surpass in quantity the inconceivable potencies of the Supreme Personality of Godhead. It is incorrect to think of the Supreme Lord and the living entities as being on the same level or equal in all respects. There is always the question of superiority and inferiority between their personalities. The word uttama is very significant. No one can surpass the Supreme Personality of Godhead.
 

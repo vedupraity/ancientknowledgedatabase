@@ -1,20 +1,20 @@
-#### प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।
-#### विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ॥ २० ॥
+##### प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।
+##### विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ॥ २० ॥
 
-#### prakṛtiṁ puruṣaṁ caiva
-#### viddhy anādī ubhāv api
-#### vikārāṁś ca guṇāṁś caiva
-#### viddhi prakṛti-sambhavān
+##### prakṛtiṁ puruṣaṁ caiva
+##### viddhy anādī ubhāv api
+##### vikārāṁś ca guṇāṁś caiva
+##### viddhi prakṛti-sambhavān
 
-### Synonyms
+#### Synonyms
 
 **prakṛtim** — material nature; **puruṣam** — the living entities; **ca** — also; **eva** — certainly; **viddhi** — you must know; **anādī** — without beginning; **ubhau** — both; **api** — also; **vikārān** — transformations; **ca** — also; **guṇān** — the three modes of nature; **ca** — also; **eva** — certainly; **viddhi** — know; **prakṛti** — material nature; **sambhavān** — produced of.
 
-### Translation
+#### Translation
 
 Material nature and the living entities should be understood to be beginningless. Their transformations and the modes of matter are products of material nature.
 
-### Purport
+#### Purport
 
 By the knowledge given in this chapter, one can understand the body (the field of activities) and the knowers of the body (both the individual soul and the Supersoul). The body is the field of activity and is composed of material nature. The individual soul that is embodied and enjoying the activities of the body is the puruṣa, or the living entity. He is one knower, and the other is the Supersoul. Of course, it is to be understood that both the Supersoul and the individual entity are different manifestations of the Supreme Personality of Godhead. The living entity is in the category of His energy, and the Supersoul is in the category of His personal expansion.
 

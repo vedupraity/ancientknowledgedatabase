@@ -1,34 +1,34 @@
-#### न हि प्रपश्यामि ममापनुद्याद् -
-#### यच्छोकमुच्छोषणमिन्द्रियाणाम् ।
-#### अवाप्य भूभावसपत्नमृद्धं
-#### राज्यं सुराणामपि चाधिपत्यम् ॥ ८ ॥
+##### न हि प्रपश्यामि ममापनुद्याद् -
+##### यच्छोकमुच्छोषणमिन्द्रियाणाम् ।
+##### अवाप्य भूभावसपत्नमृद्धं
+##### राज्यं सुराणामपि चाधिपत्यम् ॥ ८ ॥
 
-#### na hi prapaśyāmi mamāpanudyād
-#### yac chokam ucchoṣaṇam indriyāṇām
-#### avāpya bhūmāv asapatnam ṛddhaṁ
-#### rājyaṁ surāṇām api cādhipatyam
+##### na hi prapaśyāmi mamāpanudyād
+##### yac chokam ucchoṣaṇam indriyāṇām
+##### avāpya bhūmāv asapatnam ṛddhaṁ
+##### rājyaṁ surāṇām api cādhipatyam
 
-### Synonyms
+#### Synonyms
 
 **na** — do not; **hi** — certainly; **prapaśyāmi** — I see; **mama** — my; **apanudyāt** — can drive away; **yat** — that which; **śokam** — lamentation; **ucchoṣaṇam** — drying up; **indriyāṇām** — of the senses; **avāpya** — achieving; **bhūmau** — on the earth; **asapatnam** — without rival; **ṛddham** — prosperous; **rājyam** — kingdom; **surāṇām** — of the demigods; **api** — even; **ca** — also; **ādhipatyam** — supremacy.
 
-### Translation
+#### Translation
 
 I can find no means to drive away this grief which is drying up my senses. I will not be able to dispel it even if I win a prosperous, unrivaled kingdom on earth with sovereignty like the demigods in heaven.
 
-### Purport
+#### Purport
 
 Although Arjuna was putting forward so many arguments based on knowledge of the principles of religion and moral codes, it appears that he was unable to solve his real problem without the help of the spiritual master, Lord Śrī Kṛṣṇa. He could understand that his so-called knowledge was useless in driving away his problems, which were drying up his whole existence; and it was impossible for him to solve such perplexities without the help of a spiritual master like Lord Kṛṣṇa. Academic knowledge, scholarship, high position, etc., are all useless in solving the problems of life; help can be given only by a spiritual master like Kṛṣṇa. Therefore, the conclusion is that a spiritual master who is one hundred percent Kṛṣṇa conscious is the bona fide spiritual master, for he can solve the problems of life. Lord Caitanya said that one who is a master in the science of Kṛṣṇa consciousness, regardless of his social position, is the real spiritual master.
 
-#### kibā vipra, kibā nyāsī, śūdra kene naya
-#### yei kṛṣṇa-tattva-vettā, sei ‘guru’ haya
+##### kibā vipra, kibā nyāsī, śūdra kene naya
+##### yei kṛṣṇa-tattva-vettā, sei ‘guru’ haya
 
 “It does not matter whether a person is a vipra [learned scholar in Vedic wisdom], or is born in a lower family, or is in the renounced order of life – if he is a master in the science of Kṛṣṇa, he is the perfect and bona fide spiritual master.” (Caitanya-caritāmṛta, Madhya 8.128) So without being a master in the science of Kṛṣṇa consciousness, no one is a bona fide spiritual master. It is also said in the Vedic literature:
 
-#### ṣaṭ-karma-nipuṇo vipro
-#### mantra-tantra-viśāradaḥ
-#### avaiṣṇavo gurur na syād
-#### vaiṣṇavaḥ śva-paco guruḥ
+##### ṣaṭ-karma-nipuṇo vipro
+##### mantra-tantra-viśāradaḥ
+##### avaiṣṇavo gurur na syād
+##### vaiṣṇavaḥ śva-paco guruḥ
 
 “A scholarly brāhmaṇa, expert in all subjects of Vedic knowledge, is unfit to become a spiritual master without being a Vaiṣṇava, or expert in the science of Kṛṣṇa consciousness. But a person born in a family of a lower caste can become a spiritual master if he is a Vaiṣṇava, or Kṛṣṇa conscious.” (Padma Purāṇa)
 

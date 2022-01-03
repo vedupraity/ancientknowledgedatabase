@@ -1,20 +1,20 @@
-#### सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।
-#### श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्ध: स एव स: ॥ ३ ॥
+##### सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।
+##### श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्ध: स एव स: ॥ ३ ॥
 
-#### sattvānurūpā sarvasya
-#### śraddhā bhavati bhārata
-#### śraddhā-mayo ’yaṁ puruṣo
-#### yo yac-chraddhaḥ sa eva saḥ
+##### sattvānurūpā sarvasya
+##### śraddhā bhavati bhārata
+##### śraddhā-mayo ’yaṁ puruṣo
+##### yo yac-chraddhaḥ sa eva saḥ
 
-### Synonyms
+#### Synonyms
 
 **sattva**-**anurūpā** — according to the existence; **sarvasya** — of everyone; **śraddhā** — faith; **bhavati** — becomes; **bhārata** — O son of Bharata; **śraddhā** — faith; **mayaḥ** — full of; **ayam** — this; **puruṣaḥ** — living entity; **yaḥ** — who; **yat** — having which; **śraddhaḥ** — faith; **saḥ** — thus; **eva** — certainly; **saḥ** — he.
 
-### Translation
+#### Translation
 
 O son of Bharata, according to one’s existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.
 
-### Purport
+#### Purport
 
 Everyone has a particular type of faith, regardless of what he is. But his faith is considered good, passionate or ignorant according to the nature he has acquired. Thus, according to his particular type of faith, one associates with certain persons. Now the real fact is that every living being, as is stated in the Fifteenth Chapter, is originally a fragmental part and parcel of the Supreme Lord. Therefore one is originally transcendental to all the modes of material nature. But when one forgets his relationship with the Supreme Personality of Godhead and comes into contact with the material nature in conditional life, he generates his own position by association with the different varieties of material nature. The resultant artificial faith and existence are only material. Although one may be conducted by some impression, or some conception of life, originally he is nirguṇa, or transcendental. Therefore one has to become cleansed of the material contamination that he has acquired, in order to regain his relationship with the Supreme Lord. That is the only path back without fear: Kṛṣṇa consciousness. If one is situated in Kṛṣṇa consciousness, then that path is guaranteed for his elevation to the perfectional stage. If one does not take to this path of self-realization, then he is surely to be conducted by the influence of the modes of nature.
 

@@ -1,20 +1,20 @@
-#### साधिभूताधिदैवं मां साधियज्ञं च ये विदु: ।
-#### प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: ॥ ३० ॥
+##### साधिभूताधिदैवं मां साधियज्ञं च ये विदु: ।
+##### प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: ॥ ३० ॥
 
-#### sādhibhūtādhidaivaṁ māṁ
-#### sādhiyajñaṁ ca ye viduḥ
-#### prayāṇa-kāle ’pi ca māṁ
-#### te vidur yukta-cetasaḥ
+##### sādhibhūtādhidaivaṁ māṁ
+##### sādhiyajñaṁ ca ye viduḥ
+##### prayāṇa-kāle ’pi ca māṁ
+##### te vidur yukta-cetasaḥ
 
-### Synonyms
+#### Synonyms
 
 **sa**-**adhibhūta** — and the governing principle of the material manifestation; **adhidaivam** — governing all the demigods; **mām** — Me; **sa**-**adhiyajñam** — and governing all sacrifices; **ca** — also; **ye** — those who; **viduḥ** — know; **prayāṇa** — of death; **kāle** — at the time; **api** — even; **ca** — and; **mām** — Me; **te** — they; **viduḥ** — know; **yukta**-**cetasaḥ** — their minds engaged in Me.
 
-### Translation
+#### Translation
 
 Those in full consciousness of Me, who know Me, the Supreme Lord, to be the governing principle of the material manifestation, of the demigods, and of all methods of sacrifice, can understand and know Me, the Supreme Personality of Godhead, even at the time of death.
 
-### Purport
+#### Purport
 
 Persons acting in Kṛṣṇa consciousness are never deviated from the path of entirely understanding the Supreme Personality of Godhead. In the transcendental association of Kṛṣṇa consciousness, one can understand how the Supreme Lord is the governing principle of the material manifestation and even of the demigods. Gradually, by such transcendental association, one becomes convinced of the Supreme Personality of Godhead, and at the time of death such a Kṛṣṇa conscious person can never forget Kṛṣṇa. Naturally he is thus promoted to the planet of the Supreme Lord, Goloka Vṛndāvana.
 

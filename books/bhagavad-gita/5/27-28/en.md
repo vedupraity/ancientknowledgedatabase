@@ -1,27 +1,27 @@
-#### स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: ।
-#### प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ॥ २७ ॥
-#### यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: ।
-#### विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: ॥ २८ ॥
+##### स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: ।
+##### प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ॥ २७ ॥
+##### यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: ।
+##### विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: ॥ २८ ॥
 
-#### sparśān kṛtvā bahir bāhyāṁś
-#### cakṣuś caivāntare bhruvoḥ
-#### prāṇāpānau samau kṛtvā
-#### nāsābhyantara-cāriṇau
+##### sparśān kṛtvā bahir bāhyāṁś
+##### cakṣuś caivāntare bhruvoḥ
+##### prāṇāpānau samau kṛtvā
+##### nāsābhyantara-cāriṇau
 
-#### yatendriya-mano-buddhir
-#### munir mokṣa-parāyaṇaḥ
-#### vigatecchā-bhaya-krodho
-#### yaḥ sadā mukta eva saḥ
+##### yatendriya-mano-buddhir
+##### munir mokṣa-parāyaṇaḥ
+##### vigatecchā-bhaya-krodho
+##### yaḥ sadā mukta eva saḥ
 
-### Synonyms
+#### Synonyms
 
 **sparśān** — sense objects, such as sound; **kṛtvā** — keeping; **bahiḥ** — external; **bāhyān** — unnecessary; **cakṣuḥ** — eyes; **ca** — also; **eva** — certainly; **antare** — between; **bhruvoḥ** — the eyebrows; **prāṇa**-**apānau** — up- and down-moving air; **samau** — in suspension; **kṛtvā** — keeping; **nāsa**-**abhyantara** — within the nostrils; **cāriṇau** — blowing; **yata** — controlled; **indriya** — senses; **manaḥ** — mind; **buddhiḥ** — intelligence; **muniḥ** — the transcendentalist; **mokṣa** — for liberation; **parāyaṇaḥ** — being so destined; **vigata** — having discarded; **icchā** — wishes; **bhaya** — fear; **krodhaḥ** — anger; **yaḥ** — one who; **sadā** — always; **muktaḥ** — liberated; **eva** — certainly; **saḥ** — he is.
 
-### Translation
+#### Translation
 
 Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils, and thus controlling the mind, senses and intelligence, the transcendentalist aiming at liberation becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
 
-### Purport
+#### Purport
 
 Being engaged in Kṛṣṇa consciousness, one can immediately understand one’s spiritual identity, and then one can understand the Supreme Lord by means of devotional service. When one is well situated in devotional service, one comes to the transcendental position, qualified to feel the presence of the Lord in the sphere of one’s activity. This particular position is called liberation in the Supreme.
 

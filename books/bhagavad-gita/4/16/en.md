@@ -1,20 +1,20 @@
-#### किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।
-#### तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥ १६ ॥
+##### किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।
+##### तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥ १६ ॥
 
-#### kiṁ karma kim akarmeti
-#### kavayo ’py atra mohitāḥ
-#### tat te karma pravakṣyāmi
-#### yaj jñātvā mokṣyase ’śubhāt
+##### kiṁ karma kim akarmeti
+##### kavayo ’py atra mohitāḥ
+##### tat te karma pravakṣyāmi
+##### yaj jñātvā mokṣyase ’śubhāt
 
-### Synonyms
+#### Synonyms
 
 **kim** — what is; **karma** — action; **kim** — what is; **akarma** — inaction; **iti** — thus; **kavayaḥ** — the intelligent; **api** — also; **atra** — in this matter; **mohitāḥ** — are bewildered; **tat** — that; **te** — unto you; **karma** — work; **pravakṣyāmi** — I shall explain; **yat** — which; **jñātvā** — knowing; **mokṣyase** — you will be liberated; **aśubhāt** — from ill fortune.
 
-### Translation
+#### Translation
 
 Even the intelligent are bewildered in determining what is action and what is inaction. Now I shall explain to you what action is, knowing which you shall be liberated from all misfortune.
 
-### Purport
+#### Purport
 
 Action in Kṛṣṇa consciousness has to be executed in accord with the examples of previous bona fide devotees. This is recommended in the fifteenth verse. Why such action should not be independent will be explained in the text to follow.
 

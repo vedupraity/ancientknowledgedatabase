@@ -1,27 +1,27 @@
-#### अश्रद्दधाना: पुरुषा धर्मस्यास्य परन्तप ।
-#### अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥ ३ ॥
+##### अश्रद्दधाना: पुरुषा धर्मस्यास्य परन्तप ।
+##### अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥ ३ ॥
 
-#### aśraddadhānāḥ puruṣā
-#### dharmasyāsya paran-tapa
-#### aprāpya māṁ nivartante
-#### mṛtyu-saṁsāra-vartmani
+##### aśraddadhānāḥ puruṣā
+##### dharmasyāsya paran-tapa
+##### aprāpya māṁ nivartante
+##### mṛtyu-saṁsāra-vartmani
 
-### Synonyms
+#### Synonyms
 
 **aśraddadhānāḥ** — those who are faithless; **puruṣāḥ** — such persons; **dharmasya** — toward the process of religion; **asya** — this; **param**-**tapa** — O killer of the enemies; **aprāpya** — without obtaining; **mām** — Me; **nivartante** — come back; **mṛtyu** — of death; **saṁsāra** — in material existence; **vartmani** — on the path.
 
-### Translation
+#### Translation
 
 Those who are not faithful in this devotional service cannot attain Me, O conqueror of enemies. Therefore they return to the path of birth and death in this material world.
 
-### Purport
+#### Purport
 
 The faithless cannot accomplish this process of devotional service; that is the purport of this verse. Faith is created by association with devotees. Unfortunate people, even after hearing all the evidence of Vedic literature from great personalities, still have no faith in God. They are hesitant and cannot stay fixed in the devotional service of the Lord. Thus faith is a most important factor for progress in Kṛṣṇa consciousness. In the Caitanya-caritāmṛta it is said that faith is the complete conviction that simply by serving the Supreme Lord, Śrī Kṛṣṇa, one can achieve all perfection. That is called real faith. As stated in the Śrīmad-Bhāgavatam (4.31.14),
 
-#### yathā taror mūla-niṣecanena
-#### tṛpyanti tat-skandha-bhujopaśākhāḥ
-#### prāṇopahārāc ca yathendriyāṇāṁ
-#### tathaiva sarvārhaṇam acyutejyā
+##### yathā taror mūla-niṣecanena
+##### tṛpyanti tat-skandha-bhujopaśākhāḥ
+##### prāṇopahārāc ca yathendriyāṇāṁ
+##### tathaiva sarvārhaṇam acyutejyā
 
 “By giving water to the root of a tree one satisfies its branches, twigs and leaves, and by supplying food to the stomach one satisfies all the senses of the body. Similarly, by engaging in the transcendental service of the Supreme Lord one automatically satisfies all the demigods and all other living entities.” Therefore, after reading Bhagavad-gītā one should promptly come to the conclusion of Bhagavad-gītā: one should give up all other engagements and adopt the service of the Supreme Lord, Kṛṣṇa, the Personality of Godhead. If one is convinced of this philosophy of life, that is faith.
 

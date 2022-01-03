@@ -1,29 +1,29 @@
-#### अर्जुन उवाच
-#### परं ब्रह्म परं धाम पवित्रं परमं भवान् ।
-#### पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥ १२ ॥
-#### आहुस्त्वामृषय: सर्वे देवर्षिर्नारदस्तथा ।
-#### असितो देवलो व्यास: स्वयं चैव ब्रवीषि मे ॥ १३ ॥
+##### अर्जुन उवाच
+##### परं ब्रह्म परं धाम पवित्रं परमं भवान् ।
+##### पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥ १२ ॥
+##### आहुस्त्वामृषय: सर्वे देवर्षिर्नारदस्तथा ।
+##### असितो देवलो व्यास: स्वयं चैव ब्रवीषि मे ॥ १३ ॥
 
-#### arjuna uvāca
-#### paraṁ brahma paraṁ dhāma
-#### pavitraṁ paramaṁ bhavān
-#### puruṣaṁ śāśvataṁ divyam
-#### ādi-devam ajaṁ vibhum
+##### arjuna uvāca
+##### paraṁ brahma paraṁ dhāma
+##### pavitraṁ paramaṁ bhavān
+##### puruṣaṁ śāśvataṁ divyam
+##### ādi-devam ajaṁ vibhum
 
-#### āhus tvām ṛṣayaḥ sarve
-#### devarṣir nāradas tathā
-#### asito devalo vyāsaḥ
-#### svayaṁ caiva bravīṣi me
+##### āhus tvām ṛṣayaḥ sarve
+##### devarṣir nāradas tathā
+##### asito devalo vyāsaḥ
+##### svayaṁ caiva bravīṣi me
 
-### Synonyms
+#### Synonyms
 
 **arjunaḥ** **uvāca** — Arjuna said; **param** — supreme; **brahma** — truth; **param** — supreme; **dhāma** — sustenance; **pavitram** — pure; **paramam** — supreme; **bhavān** — You; **puruṣam** — personality; **śāśvatam** — eternal; **divyam** — transcendental; **ādi**-**devam** — the original Lord; **ajam** — unborn; **vibhum** — greatest; **āhuḥ** — say; **tvām** — of You; **ṛṣayaḥ** — sages; **sarve** — all; **deva**-**ṛṣiḥ** — the sage among the demigods; **nāradaḥ** — Nārada; **tathā** — also; **asitaḥ** — Asita; **devalaḥ** — Devala; **vyāsaḥ** — Vyāsa; **svayam** — personally; **ca** — also; **eva** — certainly; **bravīṣi** — You are explaining; **me** — unto me.
 
-### Translation
+#### Translation
 
 Arjuna said: You are the Supreme Personality of Godhead, the ultimate abode, the purest, the Absolute Truth. You are the eternal, transcendental, original person, the unborn, the greatest. All the great sages such as Nārada, Asita, Devala and Vyāsa confirm this truth about You, and now You Yourself are declaring it to me.
 
-### Purport
+#### Purport
 
 In these two verses the Supreme Lord gives a chance to the Māyāvādī philosopher, for here it is clear that the Supreme is different from the individual soul. Arjuna, after hearing the essential four verses of Bhagavad-gītā in this chapter, became completely free from all doubts and accepted Kṛṣṇa as the Supreme Personality of Godhead. He at once boldly declares, “You are paraṁ brahma, the Supreme Personality of Godhead.” And previously Kṛṣṇa stated that He is the originator of everything and everyone. Every demigod and every human being is dependent on Him. Men and demigods, out of ignorance, think that they are absolute and independent of the Supreme Personality of Godhead. That ignorance is removed perfectly by the discharge of devotional service. This has already been explained in the previous verse by the Lord. Now, by His grace, Arjuna is accepting Him as the Supreme Truth, in concordance with the Vedic injunction. It is not that because Kṛṣṇa is Arjuna’s intimate friend Arjuna is flattering Him by calling Him the Supreme Personality of Godhead, the Absolute Truth. Whatever Arjuna says in these two verses is confirmed by Vedic truth. Vedic injunctions affirm that only one who takes to devotional service to the Supreme Lord can understand Him, whereas others cannot. Each and every word of this verse spoken by Arjuna is confirmed by Vedic injunction.
 

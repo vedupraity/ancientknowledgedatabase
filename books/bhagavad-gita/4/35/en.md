@@ -1,20 +1,20 @@
-#### यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।
-#### येन भूतान्यशेषाणि द्रक्ष्यस्यात्मन्यथो मयि ॥ ३५ ॥
+##### यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।
+##### येन भूतान्यशेषाणि द्रक्ष्यस्यात्मन्यथो मयि ॥ ३५ ॥
 
-#### yaj jñātvā na punar moham
-#### evaṁ yāsyasi pāṇḍava
-#### yena bhūtāny aśeṣāṇi
-#### drakṣyasy ātmany atho mayi
+##### yaj jñātvā na punar moham
+##### evaṁ yāsyasi pāṇḍava
+##### yena bhūtāny aśeṣāṇi
+##### drakṣyasy ātmany atho mayi
 
-### Synonyms
+#### Synonyms
 
 **yat** — which; **jñātvā** — knowing; **na** — never; **punaḥ** — again; **moham** — to illusion; **evam** — like this; **yāsyasi** — you shall go; **pāṇḍava** — O son of Pāṇḍu; **yena** — by which; **bhūtāni** — living entities; **aśeṣāṇi** — all; **drakṣyasi** — you will see; **ātmani** — in the Supreme Soul; **atha** **u** — or in other words; **mayi** — in Me.
 
-### Translation
+#### Translation
 
 Having obtained real knowledge from a self-realized soul, you will never fall again into such illusion, for by this knowledge you will see that all living beings are but part of the Supreme, or, in other words, that they are Mine.
 
-### Purport
+#### Purport
 
 The result of receiving knowledge from a self-realized soul, or one who knows things as they are, is learning that all living beings are parts and parcels of the Supreme Personality of Godhead, Lord Śrī Kṛṣṇa. The sense of an existence separate from Kṛṣṇa is called māyā (mā – not, yā – this). Some think that we have nothing to do with Kṛṣṇa, that Kṛṣṇa is only a great historical personality and that the Absolute is the impersonal Brahman. Factually, as it is stated in the Bhagavad-gītā, this impersonal Brahman is the personal effulgence of Kṛṣṇa. Kṛṣṇa, as the Supreme Personality of Godhead, is the cause of everything. In the Brahma-saṁhitā it is clearly stated that Kṛṣṇa is the Supreme Personality of Godhead, the cause of all causes. Even the millions of incarnations are only His different expansions. Similarly, the living entities are also expansions of Kṛṣṇa. The Māyāvādī philosophers wrongly think that Kṛṣṇa loses His own separate existence in His many expansions. This thought is material in nature. We have experience in the material world that a thing, when fragmentally distributed, loses its own original identity. But the Māyāvādī philosophers fail to understand that absolute means that one plus one is equal to one, and that one minus one is also equal to one. This is the case in the absolute world.
 

@@ -1,20 +1,20 @@
-#### दैवी ह्येषा गुणमयी मम माया दुरत्यया ।
-#### मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥ १४ ॥
+##### दैवी ह्येषा गुणमयी मम माया दुरत्यया ।
+##### मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥ १४ ॥
 
-#### daivī hy eṣā guṇa-mayī
-#### mama māyā duratyayā
-#### mām eva ye prapadyante
-#### māyām etāṁ taranti te
+##### daivī hy eṣā guṇa-mayī
+##### mama māyā duratyayā
+##### mām eva ye prapadyante
+##### māyām etāṁ taranti te
 
-### Synonyms
+#### Synonyms
 
 **daivī** — transcendental; **hi** — certainly; **eṣā** — this; **guṇa**-**mayī** — consisting of the three modes of material nature; **mama** — My; **māyā** — energy; **duratyayā** — very difficult to overcome; **mām** — unto Me; **eva** — certainly; **ye** — those who; **prapadyante** — surrender; **māyām** **etām** — this illusory energy; **taranti** — overcome; **te** — they.
 
-### Translation
+#### Translation
 
 This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.
 
-### Purport
+#### Purport
 
 The Supreme Personality of Godhead has innumerable energies, and all these energies are divine. Although the living entities are part of His energies and are therefore divine, due to contact with material energy their original superior power is covered. Being thus covered by material energy, one cannot possibly overcome its influence. As previously stated, both the material and spiritual natures, being emanations from the Supreme Personality of Godhead, are eternal. The living entities belong to the eternal superior nature of the Lord, but due to contamination by the inferior nature, matter, their illusion is also eternal. The conditioned soul is therefore called nitya-baddha, or eternally conditioned. No one can trace out the history of his becoming conditioned at a certain date in material history. Consequently, his release from the clutches of material nature is very difficult, even though that material nature is an inferior energy, because material energy is ultimately conducted by the supreme will, which the living entity cannot overcome. Inferior, material nature is defined herein as divine nature due to its divine connection and movement by the divine will. Being conducted by divine will, material nature, although inferior, acts so wonderfully in the construction and destruction of the cosmic manifestation. The Vedas confirm this as follows: māyāṁ tu prakṛtiṁ vidyān māyinaṁ tu maheśvaram. “Although māyā [illusion] is false or temporary, the background of māyā is the supreme magician, the Personality of Godhead, who is Maheśvara, the supreme controller.” (Śvetāśvatara Upaniṣad 4.10)
 

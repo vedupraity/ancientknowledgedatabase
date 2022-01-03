@@ -1,20 +1,20 @@
-#### न तद्भासयते सूर्यो न शशाङ्को न पावक: ।
-#### यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥ ६ ॥
+##### न तद्भासयते सूर्यो न शशाङ्को न पावक: ।
+##### यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥ ६ ॥
 
-#### na tad bhāsayate sūryo
-#### na śaśāṅko na pāvakaḥ
-#### yad gatvā na nivartante
-#### tad dhāma paramaṁ mama
+##### na tad bhāsayate sūryo
+##### na śaśāṅko na pāvakaḥ
+##### yad gatvā na nivartante
+##### tad dhāma paramaṁ mama
 
-### Synonyms
+#### Synonyms
 
 **na** — not; **tat** — that; **bhāsayate** — illuminates; **sūryaḥ** — the sun; **na** — nor; **śaśāṅkaḥ** — the moon; **na** — nor; **pāvakaḥ** — fire, electricity; **yat** — where; **gatvā** — going; **na** — never; **nivartante** — they come back; **tat** **dhāma** — that abode; **paramam** — supreme; **mama** — My.
 
-### Translation
+#### Translation
 
 That supreme abode of Mine is not illumined by the sun or moon, nor by fire or electricity. Those who reach it never return to this material world.
 
-### Purport
+#### Purport
 
 The spiritual world, the abode of the Supreme Personality of Godhead, Kṛṣṇa – which is known as Kṛṣṇaloka, Goloka Vṛndāvana – is described here. In the spiritual sky there is no need of sunshine, moonshine, fire or electricity, because all the planets are self-luminous. We have only one planet in this universe, the sun, which is self-luminous, but all the planets in the spiritual sky are self-luminous. The shining effulgence of all those planets (called Vaikuṇṭhas) constitutes the shining sky known as the brahma-jyotir. Actually, the effulgence is emanating from the planet of Kṛṣṇa, Goloka Vṛndāvana. Part of that shining effulgence is covered by the mahat-tattva, the material world. Other than this, the major portion of that shining sky is full of spiritual planets, which are called Vaikuṇṭhas, chief of which is Goloka Vṛndāvana.
 

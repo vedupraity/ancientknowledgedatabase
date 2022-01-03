@@ -1,29 +1,29 @@
-#### श्रीभगवानुवाच
-#### पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।
-#### न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ॥ ४० ॥
+##### श्रीभगवानुवाच
+##### पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।
+##### न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ॥ ४० ॥
 
-#### śrī-bhagavān uvāca
-#### pārtha naiveha nāmutra
-#### vināśas tasya vidyate
-#### na hi kalyāṇa-kṛt kaścid
-#### durgatiṁ tāta gacchati
+##### śrī-bhagavān uvāca
+##### pārtha naiveha nāmutra
+##### vināśas tasya vidyate
+##### na hi kalyāṇa-kṛt kaścid
+##### durgatiṁ tāta gacchati
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **pārtha** — O son of Pṛthā; **na** **eva** — never is it so; **iha** — in this material world; **na** — never; **amutra** — in the next life; **vināśaḥ** — destruction; **tasya** — his; **vidyate** — exists; **na** — never; **hi** — certainly; **kalyāṇa**-**kṛt** — one who is engaged in auspicious activities; **kaścit** — anyone; **durgatim** — to degradation; **tāta** — My friend; **gacchati** — goes.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: Son of Pṛthā, a transcendentalist engaged in auspicious activities does not meet with destruction either in this world or in the spiritual world; one who does good, My friend, is never overcome by evil.
 
-### Purport
+#### Purport
 
 In the Śrīmad-Bhāgavatam (1.5.17) Śrī Nārada Muni instructs Vyāsadeva as follows:
 
-#### tyaktvā sva-dharmaṁ caraṇāmbujaṁ harer
-#### bhajann apakvo ’tha patet tato yadi
-#### yatra kva vābhadram abhūd amuṣya kiṁ
-#### ko vārtha āpto ’bhajatāṁ sva-dharmataḥ
+##### tyaktvā sva-dharmaṁ caraṇāmbujaṁ harer
+##### bhajann apakvo ’tha patet tato yadi
+##### yatra kva vābhadram abhūd amuṣya kiṁ
+##### ko vārtha āpto ’bhajatāṁ sva-dharmataḥ
 
 “If someone gives up all material prospects and takes complete shelter of the Supreme Personality of Godhead, there is no loss or degradation in any way. On the other hand a nondevotee may fully engage in his occupational duties and yet not gain anything.” For material prospects there are many activities, both scriptural and customary. A transcendentalist is supposed to give up all material activities for the sake of spiritual advancement in life, Kṛṣṇa consciousness. One may argue that by Kṛṣṇa consciousness one may attain the highest perfection if it is completed, but if one does not attain such a perfectional stage, then he loses both materially and spiritually. It is enjoined in the scriptures that one has to suffer the reaction for not executing prescribed duties; therefore one who fails to discharge transcendental activities properly becomes subjected to these reactions. The Bhāgavatam assures the unsuccessful transcendentalist that there need be no worries. Even though he may be subjected to the reaction for not perfectly executing prescribed duties, he is still not a loser, because auspicious Kṛṣṇa consciousness is never forgotten, and one so engaged will continue to be so even if he is lowborn in the next life. On the other hand, one who simply follows strictly the prescribed duties need not necessarily attain auspicious results if he is lacking in Kṛṣṇa consciousness.
 

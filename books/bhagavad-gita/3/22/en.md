@@ -1,32 +1,32 @@
-#### न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।
-#### नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥ २२ ॥
+##### न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।
+##### नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥ २२ ॥
 
-#### na me pārthāsti kartavyaṁ
-#### triṣu lokeṣu kiñcana
-#### nānavāptam avāptavyaṁ
-#### varta eva ca karmaṇi
+##### na me pārthāsti kartavyaṁ
+##### triṣu lokeṣu kiñcana
+##### nānavāptam avāptavyaṁ
+##### varta eva ca karmaṇi
 
-### Synonyms
+#### Synonyms
 
 **na** — not; **me** — Mine; **pārtha** — O son of Pṛthā; **asti** — there is; **kartavyam** — prescribed duty; **triṣu** — in the three; **lokeṣu** — planetary systems; **kiñcana** — any; **na** — nothing; **anavāptam** — wanted; **avāptavyam** — to be gained; **varte** — I am engaged; **eva** — certainly; **ca** — also; **karmaṇi** — in prescribed duty.
 
-### Translation
+#### Translation
 
 O son of Pṛthā, there is no work prescribed for Me within all the three planetary systems. Nor am I in want of anything, nor have I a need to obtain anything – and yet I am engaged in prescribed duties.
 
-### Purport
+#### Purport
 
 The Supreme Personality of Godhead is described in the Vedic literatures as follows:
 
-#### tam īśvarāṇāṁ paramaṁ maheśvaraṁ
-#### taṁ devatānāṁ paramaṁ ca daivatam
-#### patiṁ patīnāṁ paramaṁ parastād
-#### vidāma devaṁ bhuvaneśam īḍyam
+##### tam īśvarāṇāṁ paramaṁ maheśvaraṁ
+##### taṁ devatānāṁ paramaṁ ca daivatam
+##### patiṁ patīnāṁ paramaṁ parastād
+##### vidāma devaṁ bhuvaneśam īḍyam
 
-#### na tasya kāryaṁ karaṇaṁ ca vidyate
-#### na tat-samaś cābhyadhikaś ca dṛśyate
-#### parāsya śaktir vividhaiva śrūyate
-#### svābhāvikī jñāna-bala-kriyā ca
+##### na tasya kāryaṁ karaṇaṁ ca vidyate
+##### na tat-samaś cābhyadhikaś ca dṛśyate
+##### parāsya śaktir vividhaiva śrūyate
+##### svābhāvikī jñāna-bala-kriyā ca
 
 “The Supreme Lord is the controller of all other controllers, and He is the greatest of all the diverse planetary leaders. Everyone is under His control. All entities are delegated with particular power only by the Supreme Lord; they are not supreme themselves. He is also worshipable by all demigods and is the supreme director of all directors. Therefore, He is transcendental to all kinds of material leaders and controllers and is worshipable by all. There is no one greater than Him, and He is the supreme cause of all causes.
 

@@ -1,22 +1,22 @@
-#### वेदेषु यज्ञेषु तप:सु चैव
-#### दानेषु यत्पुण्यफलं प्रदिष्टम् ।
-#### अत्येति तत्सर्वमिदं विदित्वा
-#### योगी परं स्थानमुपैति चाद्यम् ॥ २८ ॥
+##### वेदेषु यज्ञेषु तप:सु चैव
+##### दानेषु यत्पुण्यफलं प्रदिष्टम् ।
+##### अत्येति तत्सर्वमिदं विदित्वा
+##### योगी परं स्थानमुपैति चाद्यम् ॥ २८ ॥
 
-#### vedeṣu yajñeṣu tapaḥsu caiva
-#### dāneṣu yat puṇya-phalaṁ pradiṣṭam
-#### atyeti tat sarvam idaṁ viditvā
-#### yogī paraṁ sthānam upaiti cādyam
+##### vedeṣu yajñeṣu tapaḥsu caiva
+##### dāneṣu yat puṇya-phalaṁ pradiṣṭam
+##### atyeti tat sarvam idaṁ viditvā
+##### yogī paraṁ sthānam upaiti cādyam
 
-### Synonyms
+#### Synonyms
 
 **vedeṣu** — in the study of the **Vedas**; **yajñeṣu** — in the performances of **yajña,** sacrifice; **tapaḥsu** — in undergoing different types of austerities; **ca** — also; **eva** — certainly; **dāneṣu** — in giving charities; **yat** — that which; **puṇya**-**phalam** — result of pious work; **pradiṣṭam** — indicated; **atyeti** — surpasses; **tat** **sarvam** — all those; **idam** — this; **viditvā** — knowing; **yogī** — the devotee; **param** — supreme; **sthānam** — abode; **upaiti** — achieves; **ca** — also; **ādyam** — original.
 
-### Translation
+#### Translation
 
 A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing sacrifices, undergoing austerities, giving charity or pursuing philosophical and fruitive activities. Simply by performing devotional service, he attains all these, and at the end he reaches the supreme eternal abode.
 
-### Purport
+#### Purport
 
 This verse is the summation of the Seventh and Eighth chapters, which particularly deal with Kṛṣṇa consciousness and devotional service. One has to study the Vedas under the guidance of the spiritual master and undergo many austerities and penances while living under his care. A brahmacārī has to live in the home of the spiritual master just like a servant, and he must beg alms from door to door and bring them to the spiritual master. He takes food only under the master’s order, and if the master neglects to call the student for food that day, the student fasts. These are some of the Vedic principles for observing brahmacarya.
 

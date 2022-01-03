@@ -1,20 +1,20 @@
-#### सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।
-#### सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: ॥ ४८ ॥
+##### सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।
+##### सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: ॥ ४८ ॥
 
-#### saha-jaṁ karma kaunteya
-#### sa-doṣam api na tyajet
-#### sarvārambhā hi doṣeṇa
-#### dhūmenāgnir ivāvṛtāḥ
+##### saha-jaṁ karma kaunteya
+##### sa-doṣam api na tyajet
+##### sarvārambhā hi doṣeṇa
+##### dhūmenāgnir ivāvṛtāḥ
 
-### Synonyms
+#### Synonyms
 
 **saha**-**jam** — born simultaneously; **karma** — work; **kaunteya** — O son of Kuntī; **sa**-**doṣam** — with fault; **api** — although; **na** — never; **tyajet** — one should give up; **sarva**-**ārambhāḥ** — all ventures; **hi** — certainly; **doṣeṇa** — with fault; **dhūmena** — with smoke; **agniḥ** — fire; **iva** — as; **āvṛtāḥ** — covered.
 
-### Translation
+#### Translation
 
 Every endeavor is covered by some fault, just as fire is covered by smoke. Therefore one should not give up the work born of his nature, O son of Kuntī, even if such work is full of fault.
 
-### Purport
+#### Purport
 
 In conditioned life, all work is contaminated by the material modes of nature. Even if one is a brāhmaṇa, he has to perform sacrifices in which animal killing is necessary. Similarly, a kṣatriya, however pious he may be, has to fight enemies. He cannot avoid it. Similarly, a merchant, however pious he may be, must sometimes hide his profit to stay in business, or he may sometimes have to do business on the black market. These things are necessary; one cannot avoid them. Similarly, even though a man is a śūdra serving a bad master, he has to carry out the order of the master, even though it should not be done. Despite these flaws, one should continue to carry out his prescribed duties, for they are born out of his own nature.
 

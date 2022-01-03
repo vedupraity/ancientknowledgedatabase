@@ -1,29 +1,29 @@
-#### श्री भगवानुवाच
-#### कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।
-#### अनार्यजुष्टमस्वर्ग्यकीर्तिकरमर्जुन ॥ २ ॥
+##### श्री भगवानुवाच
+##### कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।
+##### अनार्यजुष्टमस्वर्ग्यकीर्तिकरमर्जुन ॥ २ ॥
 
-#### śrī-bhagavān uvāca
-#### kutas tvā kaśmalam idaṁ
-#### viṣame samupasthitam
-#### anārya-juṣṭam asvargyam
-#### akīrti-karam arjuna
+##### śrī-bhagavān uvāca
+##### kutas tvā kaśmalam idaṁ
+##### viṣame samupasthitam
+##### anārya-juṣṭam asvargyam
+##### akīrti-karam arjuna
 
-### Synonyms
+#### Synonyms
 
 **śrī**-**bhagavān** **uvāca** — the Supreme Personality of Godhead said; **kutaḥ** — wherefrom; **tvā** — unto you; **kaśmalam** — dirtiness; **idam** — this lamentation; **viṣame** — in this hour of crisis; **samupasthitam** — arrived; **anārya** — persons who do not know the value of life; **juṣṭam** — practiced by; **asvargyam** — which does not lead to higher planets; **akīrti** — infamy; **karam** — the cause of; **arjuna** — O Arjuna.
 
-### Translation
+#### Translation
 
 The Supreme Personality of Godhead said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life. They lead not to higher planets but to infamy.
 
-### Purport
+#### Purport
 
 Kṛṣṇa and the Supreme Personality of Godhead are identical. Therefore Lord Kṛṣṇa is referred to as Bhagavān throughout the Gītā. Bhagavān is the ultimate in the Absolute Truth. The Absolute Truth is realized in three phases of understanding, namely Brahman, or the impersonal all-pervasive spirit; Paramātmā, or the localized aspect of the Supreme within the heart of all living entities; and Bhagavān, or the Supreme Personality of Godhead, Lord Kṛṣṇa. In the Śrīmad-Bhāgavatam (1.2.11) this conception of the Absolute Truth is explained thus:
 
-#### vadanti tat tattva-vidas
-#### tattvaṁ yaj jñānam advayam
-#### brahmeti paramātmeti
-#### bhagavān iti śabdyate
+##### vadanti tat tattva-vidas
+##### tattvaṁ yaj jñānam advayam
+##### brahmeti paramātmeti
+##### bhagavān iti śabdyate
 
 “The Absolute Truth is realized in three phases of understanding by the knower of the Absolute Truth, and all of them are identical. Such phases of the Absolute Truth are expressed as Brahman, Paramātmā and Bhagavān.”
 
@@ -31,19 +31,19 @@ These three divine aspects can be explained by the example of the sun, which als
 
 The Sanskrit word bhagavān is explained by the great authority Parāśara Muni, the father of Vyāsadeva. The Supreme Personality who possesses all riches, all strength, all fame, all beauty, all knowledge and all renunciation is called Bhagavān. There are many persons who are very rich, very powerful, very beautiful, very famous, very learned and very much detached, but no one can claim that he possesses all riches, all strength, etc., entirely. Only Kṛṣṇa can claim this because He is the Supreme Personality of Godhead. No living entity, including Brahmā, Lord Śiva or Nārāyaṇa, can possess opulences as fully as Kṛṣṇa. Therefore it is concluded in the Brahma-saṁhitā by Lord Brahmā himself that Lord Kṛṣṇa is the Supreme Personality of Godhead. No one is equal to or above Him. He is the primeval Lord, or Bhagavān, known as Govinda, and He is the supreme cause of all causes:
 
-#### īśvaraḥ paramaḥ kṛṣṇaḥ
-#### sac-cid-ānanda-vigrahaḥ
-#### anādir ādir govindaḥ
-#### sarva-kāraṇa-kāraṇam
+##### īśvaraḥ paramaḥ kṛṣṇaḥ
+##### sac-cid-ānanda-vigrahaḥ
+##### anādir ādir govindaḥ
+##### sarva-kāraṇa-kāraṇam
 
 “There are many personalities possessing the qualities of Bhagavān, but Kṛṣṇa is the supreme because none can excel Him. He is the Supreme Person, and His body is eternal, full of knowledge and bliss. He is the primeval Lord Govinda and the cause of all causes.” (Brahma-saṁhitā 5.1)
 
 In the Bhāgavatam also there is a list of many incarnations of the Supreme Personality of Godhead, but Kṛṣṇa is described as the original Personality of Godhead, from whom many, many incarnations and Personalities of Godhead expand:
 
-#### ete cāṁśa-kalāḥ puṁsaḥ
-#### kṛṣṇas tu bhagavān svayam
-#### indrāri-vyākulaṁ lokaṁ
-#### mṛḍayanti yuge yuge
+##### ete cāṁśa-kalāḥ puṁsaḥ
+##### kṛṣṇas tu bhagavān svayam
+##### indrāri-vyākulaṁ lokaṁ
+##### mṛḍayanti yuge yuge
 
 “All the lists of the incarnations of Godhead submitted herewith are either plenary expansions or parts of the plenary expansions of the Supreme Godhead, but Kṛṣṇa is the Supreme Personality of Godhead Himself.” (Bhāg. 1.3.28)
 

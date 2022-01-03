@@ -1,22 +1,22 @@
-#### कार्पण्यदोषोपहतस्वभावः
-#### पृच्छामि त्वां धर्मसम्मूढचेताः ।
-#### यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे
-#### शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥ ७ ॥
+##### कार्पण्यदोषोपहतस्वभावः
+##### पृच्छामि त्वां धर्मसम्मूढचेताः ।
+##### यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे
+##### शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥ ७ ॥
 
-#### kārpaṇya-doṣopahata-svabhāvaḥ
-#### pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ
-#### yac chreyaḥ syān niścitaṁ brūhi tan me
-#### śiṣyas te ’haṁ śādhi māṁ tvāṁ prapannam
+##### kārpaṇya-doṣopahata-svabhāvaḥ
+##### pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ
+##### yac chreyaḥ syān niścitaṁ brūhi tan me
+##### śiṣyas te ’haṁ śādhi māṁ tvāṁ prapannam
 
-### Synonyms
+#### Synonyms
 
 **kārpaṇya** — of miserliness; **doṣa** — by the weakness; **upahata** — being afflicted; **svabhāvaḥ** — characteristics; **pṛcchāmi** — I am asking; **tvām** — unto You; **dharma** — religion; **sammūḍha** — bewildered; **cetāḥ** — in heart; **yat** — what; **śreyaḥ** — all-good; **syāt** — may be; **niścitam** — confidently; **brūhi** — tell; **tat** — that; **me** — unto me; **śiṣyaḥ** — disciple; **te** — Your; **aham** — I am; **śādhi** — just instruct; **mām** — me; **tvām** — unto You; **prapannam** — surrendered.
 
-### Translation
+#### Translation
 
 Now I am confused about my duty and have lost all composure because of miserly weakness. In this condition I am asking You to tell me for certain what is best for me. Now I am Your disciple, and a soul surrendered unto You. Please instruct me.
 
-### Purport
+#### Purport
 
 By nature’s own way the complete system of material activities is a source of perplexity for everyone. In every step there is perplexity, and therefore it behooves one to approach a bona fide spiritual master who can give one proper guidance for executing the purpose of life. All Vedic literatures advise us to approach a bona fide spiritual master to get free from the perplexities of life, which happen without our desire. They are like a forest fire that somehow blazes without being set by anyone. Similarly, the world situation is such that perplexities of life automatically appear, without our wanting such confusion. No one wants fire, and yet it takes place, and we become perplexed. The Vedic wisdom therefore advises that in order to solve the perplexities of life and to understand the science of the solution, one must approach a spiritual master who is in the disciplic succession. A person with a bona fide spiritual master is supposed to know everything. One should not, therefore, remain in material perplexities but should approach a spiritual master. This is the purport of this verse.
 

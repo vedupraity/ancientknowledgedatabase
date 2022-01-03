@@ -1,37 +1,37 @@
-#### तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।
-#### वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ॥ ६१ ॥
+##### तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।
+##### वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ॥ ६१ ॥
 
-#### tāni sarvāṇi saṁyamya
-#### yukta āsīta mat-paraḥ
-#### vaśe hi yasyendriyāṇi
-#### tasya prajñā pratiṣṭhitā
+##### tāni sarvāṇi saṁyamya
+##### yukta āsīta mat-paraḥ
+##### vaśe hi yasyendriyāṇi
+##### tasya prajñā pratiṣṭhitā
 
-### Synonyms
+#### Synonyms
 
 **tāni** — those senses; **sarvāṇi** — all; **saṁyamya** — keeping under control; **yuktaḥ** — engaged; **āsīta** — should be situated; **mat**-**paraḥ** — in relationship with Me; **vaśe** — in full subjugation; **hi** — certainly; **yasya** — one whose; **indriyāṇi** — senses; **tasya** — his; **prajñā** — consciousness; **pratiṣṭhitā** — fixed.
 
-### Translation
+#### Translation
 
 One who restrains his senses, keeping them under full control, and fixes his consciousness upon Me, is known as a man of steady intelligence.
 
-### Purport
+#### Purport
 
 That the highest conception of yoga perfection is Kṛṣṇa consciousness is clearly explained in this verse. And unless one is Kṛṣṇa conscious it is not at all possible to control the senses. As cited above, the great sage Durvāsā Muni picked a quarrel with Mahārāja Ambarīṣa, and Durvāsā Muni unnecessarily became angry out of pride and therefore could not check his senses. On the other hand, the king, although not as powerful a yogī as the sage, but a devotee of the Lord, silently tolerated all the sage’s injustices and thereby emerged victorious. The king was able to control his senses because of the following qualifications, as mentioned in the Śrīmad-Bhāgavatam (9.4.18–20):
 
-#### sa vai manaḥ kṛṣṇa-padāravindayor
-#### vacāṁsi vaikuṇṭha-guṇānuvarṇane
-#### karau harer mandira-mārjanādiṣu
-#### śrutiṁ cakārācyuta-sat-kathodaye
+##### sa vai manaḥ kṛṣṇa-padāravindayor
+##### vacāṁsi vaikuṇṭha-guṇānuvarṇane
+##### karau harer mandira-mārjanādiṣu
+##### śrutiṁ cakārācyuta-sat-kathodaye
 
-#### mukunda-liṅgālaya-darśane dṛśau
-#### tad-bhṛtya-gātra-sparśe ’ṅga-saṅgamam
-#### ghrāṇaṁ ca tat-pāda-saroja-saurabhe
-#### śrīmat-tulasyā rasanāṁ tad-arpite
+##### mukunda-liṅgālaya-darśane dṛśau
+##### tad-bhṛtya-gātra-sparśe ’ṅga-saṅgamam
+##### ghrāṇaṁ ca tat-pāda-saroja-saurabhe
+##### śrīmat-tulasyā rasanāṁ tad-arpite
 
-#### pādau hareḥ kṣetra-padānusarpaṇe
-#### śiro hṛṣīkeśa-padābhivandane
-#### kāmaṁ ca dāsye na tu kāma-kāmyayā
-#### yathottama-śloka-janāśrayā ratiḥ
+##### pādau hareḥ kṣetra-padānusarpaṇe
+##### śiro hṛṣīkeśa-padābhivandane
+##### kāmaṁ ca dāsye na tu kāma-kāmyayā
+##### yathottama-śloka-janāśrayā ratiḥ
 
 “King Ambarīṣa fixed his mind on the lotus feet of Lord Kṛṣṇa, engaged his words in describing the abode of the Lord, his hands in cleansing the temple of the Lord, his ears in hearing the pastimes of the Lord, his eyes in seeing the form of the Lord, his body in touching the body of the devotee, his nostrils in smelling the flavor of the flowers offered to the lotus feet of the Lord, his tongue in tasting the tulasī leaves offered to Him, his legs in traveling to the holy place where His temple is situated, his head in offering obeisances unto the Lord, and his desires in fulfilling the desires of the Lord … and all these qualifications made him fit to become a mat-para devotee of the Lord.”
 

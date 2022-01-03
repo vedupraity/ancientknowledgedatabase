@@ -1,20 +1,20 @@
-#### ज्योतिषामपि तज्ज्योतिस्तमस: परमुच्यते ।
-#### ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ॥ १८ ॥
+##### ज्योतिषामपि तज्ज्योतिस्तमस: परमुच्यते ।
+##### ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ॥ १८ ॥
 
-#### jyotiṣām api taj jyotis
-#### tamasaḥ param ucyate
-#### jñānaṁ jñeyaṁ jñāna-gamyaṁ
-#### hṛdi sarvasya viṣṭhitam
+##### jyotiṣām api taj jyotis
+##### tamasaḥ param ucyate
+##### jñānaṁ jñeyaṁ jñāna-gamyaṁ
+##### hṛdi sarvasya viṣṭhitam
 
-### Synonyms
+#### Synonyms
 
 **jyotiṣām** — in all luminous objects; **api** — also; **tat** — that; **jyotiḥ** — the source of light; **tamasaḥ** — the darkness; **param** — beyond; **ucyate** — is said; **jñānam** — knowledge; **jñeyam** — to be known; **jñāna**-**gamyam** — to be approached by knowledge; **hṛdi** — in the heart; **sarvasya** — of everyone; **viṣṭhitam** — situated.
 
-### Translation
+#### Translation
 
 He is the source of light in all luminous objects. He is beyond the darkness of matter and is unmanifested. He is knowledge, He is the object of knowledge, and He is the goal of knowledge. He is situated in everyone’s heart.
 
-### Purport
+#### Purport
 
 The Supersoul, the Supreme Personality of Godhead, is the source of light in all luminous objects like the sun, moon and stars. In the Vedic literature we find that in the spiritual kingdom there is no need of sun or moon, because the effulgence of the Supreme Lord is there. In the material world that brahma-jyotir, the Lord’s spiritual effulgence, is covered by the mahat-tattva, the material elements; therefore in this material world we require the assistance of sun, moon, electricity, etc., for light. But in the spiritual world there is no need of such things. It is clearly stated in the Vedic literature that because of His luminous effulgence, everything is illuminated. It is clear, therefore, that His situation is not in the material world. He is situated in the spiritual world, which is far, far away in the spiritual sky. That is also confirmed in the Vedic literature. Āditya-varṇaṁ tamasaḥ parastāt (Śvetāśvatara Upaniṣad 3.8). He is just like the sun, eternally luminous, but He is far, far beyond the darkness of this material world.
 

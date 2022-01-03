@@ -1,27 +1,27 @@
-#### चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन ।
-#### आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥ १६ ॥
+##### चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन ।
+##### आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥ १६ ॥
 
-#### catur-vidhā bhajante māṁ
-#### janāḥ su-kṛtino ’rjuna
-#### ārto jijñāsur arthārthī
-#### jñānī ca bharatarṣabha
+##### catur-vidhā bhajante māṁ
+##### janāḥ su-kṛtino ’rjuna
+##### ārto jijñāsur arthārthī
+##### jñānī ca bharatarṣabha
 
-### Synonyms
+#### Synonyms
 
 **catuḥ**-**vidhāḥ** — four kinds of; **bhajante** — render services; **mām** — unto Me; **janāḥ** — persons; **su**-**kṛtinaḥ** — those who are pious; **arjuna** — O Arjuna; **ārtaḥ** — the distressed; **jijñāsuḥ** — the inquisitive; **artha**-**arthī** — one who desires material gain; **jñānī** — one who knows things as they are; **ca** — also; **bharata**-**ṛṣabha** — O great one amongst the descendants of Bharata.
 
-### Translation
+#### Translation
 
 O best among the Bhāratas, four kinds of pious men begin to render devotional service unto Me – the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
 
-### Purport
+#### Purport
 
 Unlike the miscreants, these are adherents of the regulative principles of the scriptures, and they are called su-kṛtinaḥ, or those who obey the rules and regulations of scriptures, the moral and social laws, and are, more or less, devoted to the Supreme Lord. Out of these there are four classes of men – those who are sometimes distressed, those who are in need of money, those who are sometimes inquisitive, and those who are sometimes searching after knowledge of the Absolute Truth. These persons come to the Supreme Lord for devotional service under different conditions. These are not pure devotees, because they have some aspiration to fulfill in exchange for devotional service. Pure devotional service is without aspiration and without desire for material profit. The Bhakti-rasāmṛta-sindhu (1.1.11) defines pure devotion thus:
 
-#### anyābhilāṣitā-śūnyaṁ
-#### jñāna-karmādy-anāvṛtam
-#### ānukūlyena kṛṣṇānu-
-#### śīlanaṁ bhaktir uttamā
+##### anyābhilāṣitā-śūnyaṁ
+##### jñāna-karmādy-anāvṛtam
+##### ānukūlyena kṛṣṇānu-
+##### śīlanaṁ bhaktir uttamā
 
 “One should render transcendental loving service to the Supreme Lord Kṛṣṇa favorably and without desire for material profit or gain through fruitive activities or philosophical speculation. That is called pure devotional service.”
 

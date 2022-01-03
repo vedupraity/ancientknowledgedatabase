@@ -1,20 +1,20 @@
-#### यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।
-#### अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥ ७ ॥
+##### यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।
+##### अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥ ७ ॥
 
-#### yadā yadā hi dharmasya
-#### glānir bhavati bhārata
-#### abhyutthānam adharmasya
-#### tadātmānaṁ sṛjāmy aham
+##### yadā yadā hi dharmasya
+##### glānir bhavati bhārata
+##### abhyutthānam adharmasya
+##### tadātmānaṁ sṛjāmy aham
 
-### Synonyms
+#### Synonyms
 
 **yadā** **yadā** — whenever and wherever; **hi** — certainly; **dharmasya** — of religion; **glāniḥ** — discrepancies; **bhavati** — become manifested; **bhārata** — O descendant of Bharata; **abhyutthānam** — predominance; **adharmasya** — of irreligion; **tadā** — at that time; **ātmānam** — self; **sṛjāmi** — manifest; **aham** — I.
 
-### Translation
+#### Translation
 
 Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion – at that time I descend Myself.
 
-### Purport
+#### Purport
 
 The word sṛjāmi is significant herein. Sṛjāmi cannot be used in the sense of creation, because, according to the previous verse, there is no creation of the Lord’s form or body, since all of the forms are eternally existent. Therefore, sṛjāmi means that the Lord manifests Himself as He is. Although the Lord appears on schedule, namely at the end of the Dvāpara-yuga of the twenty-eighth millennium of the seventh Manu in one day of Brahmā, He has no obligation to adhere to such rules and regulations, because He is completely free to act in many ways at His will. He therefore appears by His own will whenever there is a predominance of irreligiosity and a disappearance of true religion. Principles of religion are laid down in the Vedas, and any discrepancy in the matter of properly executing the rules of the Vedas makes one irreligious. In the Bhāgavatam it is stated that such principles are the laws of the Lord. Only the Lord can manufacture a system of religion. The Vedas are also accepted as originally spoken by the Lord Himself to Brahmā, from within his heart. Therefore, the principles of dharma, or religion, are the direct orders of the Supreme Personality of Godhead (dharmaṁ tu sākṣād bhagavat-praṇītam). These principles are clearly indicated throughout the Bhagavad-gītā. The purpose of the Vedas is to establish such principles under the order of the Supreme Lord, and the Lord directly orders, at the end of the Gītā, that the highest principle of religion is to surrender unto Him only, and nothing more. The Vedic principles push one towards complete surrender unto Him; and whenever such principles are disturbed by the demoniac, the Lord appears. From the Bhāgavatam we understand that Lord Buddha is the incarnation of Kṛṣṇa who appeared when materialism was rampant and materialists were using the pretext of the authority of the Vedas. Although there are certain restrictive rules and regulations regarding animal sacrifice for particular purposes in the Vedas, people of demonic tendency still took to animal sacrifice without reference to the Vedic principles. Lord Buddha appeared in order to stop this nonsense and to establish the Vedic principles of nonviolence. Therefore each and every avatāra, or incarnation of the Lord, has a particular mission, and they are all described in the revealed scriptures. No one should be accepted as an avatāra unless he is referred to by scriptures. It is not a fact that the Lord appears only on Indian soil. He can manifest Himself anywhere and everywhere, and whenever He desires to appear. In each and every incarnation, He speaks as much about religion as can be understood by the particular people under their particular circumstances. But the mission is the same – to lead people to God consciousness and obedience to the principles of religion. Sometimes He descends personally, and sometimes He sends His bona fide representative in the form of His son, or servant, or Himself in some disguised form.
 
