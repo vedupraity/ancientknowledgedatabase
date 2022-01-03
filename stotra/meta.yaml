@@ -5,12 +5,12 @@
     hi:
       title: 'श्री हरि स्तोत्रं'
       subtitle: ''
-      image: ''
+      image: 'images/hari-stotram-cover-4x3.jpg'
       description: ''
     en:
       title: 'Shri Hari Stotram'
       subtitle: ''
-      image: ''
+      image: 'images/hari-stotram-cover-4x3.jpg'
       description: ''
 - id: 'shiv-tandav-stotram'
   type: 'leaf'
