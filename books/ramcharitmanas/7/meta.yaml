@@ -4,291 +4,291 @@
   meta:
     hi:
       title: 'भाग - १'
-      subtitle: 'मङ्गलाचरण'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'मङ्गलाचरण'
     en:
       title: 'Part - 1'
-      subtitle: 'Invocations'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Invocations'
 - id: '2'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - २'
-      subtitle: 'भरत-विरह तथा भरत-हनुमान्-मिलन, अयोध्या में आनन्द'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'भरत-विरह तथा भरत-हनुमान्-मिलन, अयोध्या में आनन्द'
     en:
       title: 'Part - 2'
-      subtitle: 'Bharata''s desolation; meeting of Bharata and Hanumān; rejoicing in Ayodhyā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Bharata''s desolation; meeting of Bharata and Hanumān; rejoicing in Ayodhyā'
 - id: '3'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ३'
-      subtitle: 'श्रीरामजी का स्वागत, भरत-मिलाप, सबका मिलनानन्द'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीरामजी का स्वागत, भरत-मिलाप, सबका मिलनानन्द'
     en:
       title: 'Part - 3'
-      subtitle: 'Śrī Rāma''s Reception; meeting with Bharata; universal rejoicing on meeting Śrī Rāma'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s Reception; meeting with Bharata; universal rejoicing on meeting Śrī Rāma'
 - id: '4'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ४'
-      subtitle: 'राम-राज्याभिषेक, वेदस्तुति, शिवस्तुति'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'राम-राज्याभिषेक, वेदस्तुति, शिवस्तुति'
     en:
       title: 'Part - 4'
-      subtitle: 'Śrī Rāma''s Coronation; Vedas'' Alleluia; Lord Śiva''s Alleluia'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s Coronation; Vedas'' Alleluia; Lord Śiva''s Alleluia'
 - id: '5'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ५'
-      subtitle: 'वानरों की और निषाद की विदाई'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'वानरों की और निषाद की विदाई'
     en:
       title: 'Part - 5'
-      subtitle: 'Śrī Rāma bestows parting presents on the monkeys and the Niṣāda chief'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma bestows parting presents on the monkeys and the Niṣāda chief'
 - id: '6'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ६'
-      subtitle: 'रामराज्य का वर्णन'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'रामराज्य का वर्णन'
     en:
       title: 'Part - 6'
-      subtitle: 'Account of Śrī Rāma''s Reign'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Account of Śrī Rāma''s Reign'
 - id: '7'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ७'
-      subtitle: 'पुत्रोत्पत्ति, अयोध्याजी की रमणीयता, सनकादि का आगमन और संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'पुत्रोत्पत्ति, अयोध्याजी की रमणीयता, सनकादि का आगमन और संवाद'
     en:
       title: 'Part - 7'
-      subtitle: 'Birth of sons to the four brothers; Ayodhyā''s loveliness; arrival of the sage Sanaka and his three brothers and their dialogue with Śrī Rāma'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Birth of sons to the four brothers; Ayodhyā''s loveliness; arrival of the sage Sanaka and his three brothers and their dialogue with Śrī Rāma'
 - id: '8'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ८'
-      subtitle: 'हनुमान् जी के द्वारा भरतजी का प्रश्न और श्रीरामजी का उपदेश'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमान् जी के द्वारा भरतजी का प्रश्न और श्रीरामजी का उपदेश'
     en:
       title: 'Part - 8'
-      subtitle: 'Hanumān''s introduction to Bharata''s question and Śrī Rāma''s discourse on the subject'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Hanumān''s introduction to Bharata''s question and Śrī Rāma''s discourse on the subject'
 - id: '9'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ९'
-      subtitle: 'श्रीरामजी का प्रजा को उपदेश (श्रीरामगीता), पुरवासियों की कृतज्ञता'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीरामजी का प्रजा को उपदेश (श्रीरामगीता), पुरवासियों की कृतज्ञता'
     en:
       title: 'Part - 9'
-      subtitle: 'Śrī Rāma''s exhortation to His subjects (Śrī Rāma-Gita); the citizens'' acknowledgement'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s exhortation to His subjects (Śrī Rāma-Gita); the citizens'' acknowledgement'
 - id: '10'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १०'
-      subtitle: 'श्रीराम-वसिष्ठ-संवाद, श्रीरामजी का भाइयों सहित अमराई में जाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीराम-वसिष्ठ-संवाद, श्रीरामजी का भाइयों सहित अमराई में जाना'
     en:
       title: 'Part - 10'
-      subtitle: 'Dialogue between Śrī Rāma and the sage Vasiṣṭha; Śrī Rāma''s excursion to a mango grove in the company of His brothers'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Śrī Rāma and the sage Vasiṣṭha; Śrī Rāma''s excursion to a mango grove in the company of His brothers'
 - id: '11'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ११'
-      subtitle: 'नारदजी का आना और स्तुति करके ब्रह्मलोक को लौट जाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'नारदजी का आना और स्तुति करके ब्रह्मलोक को लौट जाना'
     en:
       title: 'Part - 11'
-      subtitle: 'Nārada''s visit and return to Brahmā''s abode after hymning the Lord''s praises'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Nārada''s visit and return to Brahmā''s abode after hymning the Lord''s praises'
 - id: '12'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १२'
-      subtitle: 'शिव-पार्वती-संवाद, गरुड़-मोह, गरुड़जी का काकभुशुण्डि से राम-कथा और राम-महिमा सुनना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'शिव-पार्वती-संवाद, गरुड़-मोह, गरुड़जी का काकभुशुण्डि से राम-कथा और राम-महिमा सुनना'
     en:
       title: 'Part - 12'
-      subtitle: 'Dialogue between Lord Śiva and Goddess Pārvatī; Garuḍa''s delusion; Garuḍa listens to Śrī Rāma''s story and to an account of His glory from Kākabhuśuṇḍi'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Lord Śiva and Goddess Pārvatī; Garuḍa''s delusion; Garuḍa listens to Śrī Rāma''s story and to an account of His glory from Kākabhuśuṇḍi'
 - id: '13'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १३'
-      subtitle: 'काकभुशुण्डि का अपनी पूर्व जन्म कथा और कलि महिमा कहना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'काकभुशुण्डि का अपनी पूर्व जन्म कथा और कलि महिमा कहना'
     en:
       title: 'Part - 13'
-      subtitle: 'Kākabhuśuṇḍi narrates the story of his previous lives and tells Garuḍa the glory of the Kali age'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Kākabhuśuṇḍi narrates the story of his previous lives and tells Garuḍa the glory of the Kali age'
 - id: '14'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १४'
-      subtitle: 'गुरुजी का अपमान एवं शिवजी के शाप की बात सुनना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'गुरुजी का अपमान एवं शिवजी के शाप की बात सुनना'
     en:
       title: 'Part - 14'
-      subtitle: 'Insult offered by him to his preceptor in a previous birth and the curse pronounced on him by Lord Śiva'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Insult offered by him to his preceptor in a previous birth and the curse pronounced on him by Lord Śiva'
 - id: '15'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १५'
-      subtitle: 'रुद्राष्टक'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'रुद्राष्टक'
     en:
       title: 'Part - 15'
-      subtitle: 'A hymn of eight verses addressed to Lord Śiva'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'A hymn of eight verses addressed to Lord Śiva'
 - id: '16'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १६'
-      subtitle: 'गुरुजी का शिवजी से अपराध-क्षमापन, शापानुग्रह और काकभुशुण्डि की आगे की कथा'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'गुरुजी का शिवजी से अपराध-क्षमापन, शापानुग्रह और काकभुशुण्डि की आगे की कथा'
     en:
       title: 'Part - 16'
-      subtitle: 'Guru''s appeal to Lord siva for forgiving the wrong; mollification of the curse; continuation of Kākabhuśuṇḍi''s narrative'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Guru''s appeal to Lord siva for forgiving the wrong; mollification of the curse; continuation of Kākabhuśuṇḍi''s narrative'
 - id: '17'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १७'
-      subtitle: 'काकभुशुण्डिजी का लोमशजी के पास जाना और शाप तथा अनुग्रह पाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'काकभुशुण्डिजी का लोमशजी के पास जाना और शाप तथा अनुग्रह पाना'
     en:
       title: 'Part - 17'
-      subtitle: 'Kākabhuśuṇḍi approaches the sage Lomaśa, who first pronounces a curse on him but later on showers his grace and bestows a boon on him'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Kākabhuśuṇḍi approaches the sage Lomaśa, who first pronounces a curse on him but later on showers his grace and bestows a boon on him'
 - id: '18'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १८'
-      subtitle: 'ज्ञान-भक्ति-निरूपण, ज्ञान-दीपक और भक्ति की महान् महिमा'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'ज्ञान-भक्ति-निरूपण, ज्ञान-दीपक और भक्ति की महान् महिमा'
     en:
       title: 'Part - 18'
-      subtitle: 'Delineation of Gnosis and Devotion; a description of the Lamp of wisdom and the surpassing glory of Devotion'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Delineation of Gnosis and Devotion; a description of the Lamp of wisdom and the surpassing glory of Devotion'
 - id: '19'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १९'
-      subtitle: 'गरुड़जी के सात प्रश्न तथा काकभुशुण्डि के उत्तर'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'गरुड़जी के सात प्रश्न तथा काकभुशुण्डि के उत्तर'
     en:
       title: 'Part - 19'
-      subtitle: 'Seven questions of Garuḍa and Kākabhuśuṇḍi''s replies to them'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Seven questions of Garuḍa and Kākabhuśuṇḍi''s replies to them'
 - id: '20'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - २०'
-      subtitle: 'भजन-महिमा'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'भजन-महिमा'
     en:
       title: 'Part - 20'
-      subtitle: 'Glory of adoration'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Glory of adoration'
 - id: '21'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - २१'
-      subtitle: 'रामायण-माहात्म्य, तुलसी-विनय और फलस्तुति, रामायणजी की आरती'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'रामायण-माहात्म्य, तुलसी-विनय और फलस्तुति, रामायणजी की आरती'
     en:
       title: 'Part - 21'
-      subtitle: 'Greatness of the Rāmāyaṇa; Tulasīdāsa''s prayer and reward of reciting this poem'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Greatness of the Rāmāyaṇa; Tulasīdāsa''s prayer and reward of reciting this poem'

@@ -4,151 +4,151 @@
   meta:
     hi:
       title: 'भाग - १'
-      subtitle: 'मङ्गलाचरण'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'मङ्गलाचरण'
     en:
       title: 'Part - 1'
-      subtitle: 'Invocations'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Invocations'
 - id: '2'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - २'
-      subtitle: 'श्रीरामजी से हनुमान् जी का मिलना और श्रीराम-सुग्रीव की मित्रता'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीरामजी से हनुमान् जी का मिलना और श्रीराम-सुग्रीव की मित्रता'
     en:
       title: 'Part - 2'
-      subtitle: 'Śrī Rāma''s meeting with Hanumān and the conclusion of an alliance between Śrī Rāma and Sugrīva'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s meeting with Hanumān and the conclusion of an alliance between Śrī Rāma and Sugrīva'
 - id: '3'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ३'
-      subtitle: 'सुग्रीव का दुःख सुनाना, बालि वध की प्रतिज्ञा, श्रीरामजी का मित्र-लक्षण-वर्णन, सुग्रीव का वैराग्य'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'सुग्रीव का दुःख सुनाना, बालि वध की प्रतिज्ञा, श्रीरामजी का मित्र-लक्षण-वर्णन, सुग्रीव का वैराग्य'
     en:
       title: 'Part - 3'
-      subtitle: 'Sugrīva apprizes Śrī Rāma of his woes; the latter''s vow to kill Vāli; Śrī Rāma expatiates on the characteristics of a friend'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Sugrīva apprizes Śrī Rāma of his woes; the latter''s vow to kill Vāli; Śrī Rāma expatiates on the characteristics of a friend'
 - id: '4'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ४'
-      subtitle: 'बालि-सुग्रीव-युद्ध, बालि-उद्धार'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'बालि-सुग्रीव-युद्ध, बालि-उद्धार'
     en:
       title: 'Part - 4'
-      subtitle: 'Duel between Vāli and Sugrīva; deliverance of Vāli'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Duel between Vāli and Sugrīva; deliverance of Vāli'
 - id: '5'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ५'
-      subtitle: 'तारा का विलाप, तारा को श्रीरामजी द्वारा उपदेश और सुग्रीव का राज्याभिषेक तथा अङ्गद को युवराज पद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'तारा का विलाप, तारा को श्रीरामजी द्वारा उपदेश और सुग्रीव का राज्याभिषेक तथा अङ्गद को युवराज पद'
     en:
       title: 'Part - 5'
-      subtitle: 'Tārā''s wail; Śrī Rāma''s advice to Tārā and Sugrīva''s coronation and Aṅgada''s installation as his Heir- Apparent'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Tārā''s wail; Śrī Rāma''s advice to Tārā and Sugrīva''s coronation and Aṅgada''s installation as his Heir- Apparent'
 - id: '6'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ६'
-      subtitle: 'वर्षा-ऋतु-वर्णन'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'वर्षा-ऋतु-वर्णन'
     en:
       title: 'Part - 6'
-      subtitle: 'A description of the rainy season'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'A description of the rainy season'
 - id: '7'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ७'
-      subtitle: 'शरद्-ऋतु-वर्णन'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'शरद्-ऋतु-वर्णन'
     en:
       title: 'Part - 7'
-      subtitle: 'Autumn Description'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Autumn Description'
 - id: '8'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ८'
-      subtitle: 'श्रीराम की सुग्रीव पर नाराजी, लक्ष्मणजी का कोप'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीराम की सुग्रीव पर नाराजी, लक्ष्मणजी का कोप'
     en:
       title: 'Part - 8'
-      subtitle: 'Śrī Rāma''s show of displeasure towards Sugrīva and Lakṣmaṇa''s wrath'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s show of displeasure towards Sugrīva and Lakṣmaṇa''s wrath'
 - id: '9'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ९'
-      subtitle: 'सुग्रीव-राम-संवाद और सीताजी की खोज के लिये बंदरों का प्रस्थान'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'सुग्रीव-राम-संवाद और सीताजी की खोज के लिये बंदरों का प्रस्थान'
     en:
       title: 'Part - 9'
-      subtitle: 'Dialogue between Sugrīva and Śrī Rāma and the departure of the monkeys in quest of Sītā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Sugrīva and Śrī Rāma and the departure of the monkeys in quest of Sītā'
 - id: '10'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १०'
-      subtitle: 'गुफा में तपस्विनी के दर्शन, वानरों का समुद्र तट पर आना, सम्पाती से भेंट और बातचीत'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'गुफा में तपस्विनी के दर्शन, वानरों का समुद्र तट पर आना, सम्पाती से भेंट और बातचीत'
     en:
       title: 'Part - 10'
-      subtitle: 'The monkeys'' arrival at the seashore; their meeting and conversation with Sampātī (Jaṭāyu''s brother)'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'The monkeys'' arrival at the seashore; their meeting and conversation with Sampātī (Jaṭāyu''s brother)'
 - id: '11'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ११'
-      subtitle: 'समुद्र लाँघने का परामर्श, जाम्बवन्त का हनुमान् जी को बल याद दिलाकर उत्साहित करना, श्रीराम-गुण का माहात्म्य'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'समुद्र लाँघने का परामर्श, जाम्बवन्त का हनुमान् जी को बल याद दिलाकर उत्साहित करना, श्रीराम-गुण का माहात्म्य'
     en:
       title: 'Part - 11'
-      subtitle: 'Sampātī''ss advice to the monkeys to leap across the ocean; Jāmbavān encourages Hanumān by reminding him of his strength'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Sampātī''ss advice to the monkeys to leap across the ocean; Jāmbavān encourages Hanumān by reminding him of his strength'

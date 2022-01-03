@@ -4,263 +4,263 @@
   meta:
     hi:
       title: 'भाग - १'
-      subtitle: 'मङ्गलाचरण'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'मङ्गलाचरण'
     en:
       title: 'Part - 1'
-      subtitle: 'Invocations'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Invocations'
 - id: '2'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - २'
-      subtitle: 'हनुमान् जी लङ्का को प्रस्थान, सुरसा से भेंट, छाया पकड़ने वाली राक्षसी का वध'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमान् जी लङ्का को प्रस्थान, सुरसा से भेंट, छाया पकड़ने वाली राक्षसी का वध'
     en:
       title: 'Part - 2'
-      subtitle: 'Hanumān leaves for Laṅkā, meets Surasa and kills the image-catching demoness'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Hanumān leaves for Laṅkā, meets Surasa and kills the image-catching demoness'
 - id: '3'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ३'
-      subtitle: 'लङ्का वर्णन, लङ्किनी पर प्रहार, लङ्का में प्रवेश'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'लङ्का वर्णन, लङ्किनी पर प्रहार, लङ्का में प्रवेश'
     en:
       title: 'Part - 3'
-      subtitle: 'Description of Laṅkā; Hanumān strikes Laṅkinī and enters Laṅkā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Description of Laṅkā; Hanumān strikes Laṅkinī and enters Laṅkā'
 - id: '4'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ४'
-      subtitle: 'हनुमान्-विभीषण-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमान्-विभीषण-संवाद'
     en:
       title: 'Part - 4'
-      subtitle: 'Hanumān meets Vibhīṣaṇa'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Hanumān meets Vibhīṣaṇa'
 - id: '5'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ५'
-      subtitle: 'हनुमान् जी अशोक-वाटिका में सीता को देखकर दुखी होना और रावण का सीताजी को भय दिखलाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमान् जी अशोक-वाटिका में सीता को देखकर दुखी होना और रावण का सीताजी को भय दिखलाना'
     en:
       title: 'Part - 5'
-      subtitle: 'Hanumān''s grief at the sight of Sītā in the Aśoka grove and Rāvaṇa''s threat to Sītā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Hanumān''s grief at the sight of Sītā in the Aśoka grove and Rāvaṇa''s threat to Sītā'
 - id: '6'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ६'
-      subtitle: 'श्रीसीता-त्रिजटा-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीसीता-त्रिजटा-संवाद'
     en:
       title: 'Part - 6'
-      subtitle: 'Dialogue between Sītā and Trijaṭā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Sītā and Trijaṭā'
 - id: '7'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ७'
-      subtitle: 'श्रीसीता-हनुमान्-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीसीता-हनुमान्-संवाद'
     en:
       title: 'Part - 7'
-      subtitle: 'Dialogue between Sītā and Hanumān'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Sītā and Hanumān'
 - id: '8'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ८'
-      subtitle: 'हनुमानजी द्वारा अशोक-वाटिका-विध्वंस, अक्षय-कुमार-वध और मेघनाद का हनुमान् जी को नागपाश में बाँधकर सभा में ले जाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमानजी द्वारा अशोक-वाटिका-विध्वंस, अक्षय-कुमार-वध और मेघनाद का हनुमान् जी को नागपाश में बाँधकर सभा में ले जाना'
     en:
       title: 'Part - 8'
-      subtitle: 'Hanumān lays waste the Aśoka grove and kills prince Aksaya; at last Meghanāda entangles Hanumān in a noose of serpents and carries him off to Rāvaṇa''s court'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Hanumān lays waste the Aśoka grove and kills prince Aksaya; at last Meghanāda entangles Hanumān in a noose of serpents and carries him off to Rāvaṇa''s court'
 - id: '9'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ९'
-      subtitle: 'हनुमान्-रावण-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'हनुमान्-रावण-संवाद'
     en:
       title: 'Part - 9'
-      subtitle: 'Dialogue between Hanumān and Rāvaṇa'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Hanumān and Rāvaṇa'
 - id: '10'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १०'
-      subtitle: 'लङ्का दहन'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'लङ्का दहन'
     en:
       title: 'Part - 10'
-      subtitle: 'Burning of Laṅkā'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Burning of Laṅkā'
 - id: '11'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - ११'
-      subtitle: 'लङ्का जलाने के बाद हनुमान् जी का सीताजी से विदा माँगना और चूड़ामणि पाना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'लङ्का जलाने के बाद हनुमान् जी का सीताजी से विदा माँगना और चूड़ामणि पाना'
     en:
       title: 'Part - 11'
-      subtitle: 'After burning Laṅkā Hanumān asks leave of Sītā and obtains the crest-jewel from Her'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'After burning Laṅkā Hanumān asks leave of Sītā and obtains the crest-jewel from Her'
 - id: '12'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १२'
-      subtitle: 'समुद्र के इस पार आना, सबका लौटना, मधुवन प्रवेश, सुग्रीव-मिलन, श्रीराम-हनुमान्-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'समुद्र के इस पार आना, सबका लौटना, मधुवन प्रवेश, सुग्रीव-मिलन, श्रीराम-हनुमान्-संवाद'
     en:
       title: 'Part - 12'
-      subtitle: 'On Hanumān''s reaching the opposite shore all the monkeys return and enter Madhuvana; their meeting with Sugrīva and the dialogue between Śrī Rāma and Hanumān'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'On Hanumān''s reaching the opposite shore all the monkeys return and enter Madhuvana; their meeting with Sugrīva and the dialogue between Śrī Rāma and Hanumān'
 - id: '13'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १३'
-      subtitle: 'श्रीरामजी का वानरों की सेना के साथ चलकर समुद्र तट पर पहुँचना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'श्रीरामजी का वानरों की सेना के साथ चलकर समुद्र तट पर पहुँचना'
     en:
       title: 'Part - 13'
-      subtitle: 'Śrī Rāma''s march to the beach alongwith the army of monkeys'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s march to the beach alongwith the army of monkeys'
 - id: '14'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १४'
-      subtitle: 'मंदोदरी-रावण-संवाद'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'मंदोदरी-रावण-संवाद'
     en:
       title: 'Part - 14'
-      subtitle: 'Dialogue between Mandodarī and Rāvaṇa'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Dialogue between Mandodarī and Rāvaṇa'
 - id: '15'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १५'
-      subtitle: 'रावण को विभीषण का समझाना और विभीषण का अपमान'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'रावण को विभीषण का समझाना और विभीषण का अपमान'
     en:
       title: 'Part - 15'
-      subtitle: 'Vibhīṣaṇa offers advice to Rāvaṇa and meets with an affront at the latter''s hands'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Vibhīṣaṇa offers advice to Rāvaṇa and meets with an affront at the latter''s hands'
 - id: '16'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १६'
-      subtitle: 'विभीषण का भगवान् श्रीरामजी की शरण के लिये प्रस्थान और शरण प्राप्ति'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'विभीषण का भगवान् श्रीरामजी की शरण के लिये प्रस्थान और शरण प्राप्ति'
     en:
       title: 'Part - 16'
-      subtitle: 'Vibhīṣaṇa sallies forth to obtain Śrī Rāma''s protection and secures it'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Vibhīṣaṇa sallies forth to obtain Śrī Rāma''s protection and secures it'
 - id: '17'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १७'
-      subtitle: 'समुद्र पार करने के लिये विचार, रावण दूत शुक का आना और लक्ष्मणजी के पत्र को लेकर लौटना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'समुद्र पार करने के लिये विचार, रावण दूत शुक का आना और लक्ष्मणजी के पत्र को लेकर लौटना'
     en:
       title: 'Part - 17'
-      subtitle: 'Deliberation over the question of crossing the sea; appearance of Śuka, a spy of Rāvaṇa, and his return with Lakṣmaṇa''s letter'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Deliberation over the question of crossing the sea; appearance of Śuka, a spy of Rāvaṇa, and his return with Lakṣmaṇa''s letter'
 - id: '18'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १८'
-      subtitle: 'दूत का रावण को समझाना और लक्ष्मणजी का पत्र देना'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'दूत का रावण को समझाना और लक्ष्मणजी का पत्र देना'
     en:
       title: 'Part - 18'
-      subtitle: 'The spy gives counsel to Rāvaṇa and delivers Lakṣmaṇa''s note to him'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'The spy gives counsel to Rāvaṇa and delivers Lakṣmaṇa''s note to him'
 - id: '19'
   type: 'leaf'
   paginated: true
   meta:
     hi:
       title: 'भाग - १९'
-      subtitle: 'समुद्र पर श्रीरामजी का क्रोध और समुद्र की विनती, श्रीरामगुणगान की महिमा'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'समुद्र पर श्रीरामजी का क्रोध और समुद्र की विनती, श्रीरामगुणगान की महिमा'
     en:
       title: 'Part - 19'
-      subtitle: 'Śrī Rāma''s fury against the sea and the latter''s supplication'
+      subtitle: ''
       image: ''
-      description: ''
+      description: 'Śrī Rāma''s fury against the sea and the latter''s supplication'
