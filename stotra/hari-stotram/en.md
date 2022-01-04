@@ -1,9 +1,10 @@
-### Śrī Hari Stotraṃ
+#### Śrī Hari Stotraṃ
 
----
+##### जगज्जाल पालम् कचत् कण्ठमालं, शरच्चन्द्र भालं महादैत्य कालम् ।
+##### नभो-नीलकायम् दुरावारमायम्, सुपद्मा सहायं भजेऽहं भजेऽहं ॥ 1 ॥
 
-##### जगज्जाल पालम् कचत कण्ठमालं, शरच्चन्द्र भालं महादैत्य कालम् ।
-##### नभो-नीलकायम् दुरावारमायम्, सुपद्मा सहायं भजेहं भजेहं ॥ 1 ॥
+##### jagajjāla pālam kacat kaṇṭhamālaṃ, śaraccandra bhālaṃ mahādaitya kālam .
+##### nabho-nīlakāyam durāvāramāyam, supadmā sahāyaṃ bhaje'haṃ bhaje'haṃ .. 1 ..
 
 I worship and worship him,
 Who is the protector of the world,
@@ -15,7 +16,10 @@ Who has unstoppable powers of illusion,
 And who is the helper to Goddess Lakshmi.
 
 ##### सदाम्भोधिवासं गलत्पुष्हासं, जगत्सन्निवासं शतादित्यभासम् ।
-##### गदाचक्रशस्त्रं लसत्पीत-वस्त्रं, हसच्चारु-वक्रं भजेहं भजेहं ॥ 2 ॥
+##### गदाचक्रशस्त्रं लसत्पीत-वस्त्रं, हसच्चारु-वक्रं भजेऽहं भजेऽहं ॥ 2 ॥
+
+##### sadāmbhodhivāsaṃ galatpuṣhāsaṃ, jagatsannivāsaṃ śatādityabhāsam .
+##### gadācakraśastraṃ lasatpīta-vastraṃ, hasaccāru-vakraṃ bhaje'haṃ bhaje'haṃ .. 2 ..
 
 I worship and worship him,
 Who always lives in the sea,
@@ -26,8 +30,11 @@ Who has mace and holy wheel as armaments,
 Who wears yellow cloths,
 And who has a sweet face adorned with smile.
 
-##### रमाकण्ठहारं श्रुतिवातसारं, जलान्तविेहारं धराभारहारम् ।
-##### चिदानन्दरूपं मनोज्ञस्वरूपं, धृतानेकरूपं भजेहं भजेहं ॥ 3 ॥
+##### रमाकण्ठहारं श्रुतिवातसारं, जलान्तर्विहारं धराभारहारम् ।
+##### चिदानन्दरूपं मनोज्ञस्वरूपं, धृतानेकरूपं भजेऽहं भजेऽहं ॥ 3 ॥
+
+##### ramākaṇṭhahāraṃ śrutivātasāraṃ, jalāntarvihāraṃ dharābhārahāram .
+##### cidānandarūpaṃ manojñasvarūpaṃ, dhṛtānekarūpaṃ bhaje'haṃ bhaje'haṃ .. 3 ..
 
 I worship and worship him,
 Who is the garland in the neck of Lakshmi,
@@ -38,7 +45,10 @@ Who has a form which attracts the mind,
 And who has assumed several forms.
 
 ##### जराजन्महीनम् परानन्द पीनम्, समाधान लीनं सदैवानवीनम् ।
-##### जगज्जन्म हेतुं सुरानीककेतुम्, त्रिलोकैकसेतुं भजेहं भजेहं ॥ 4 ॥
+##### जगज्जन्म हेतुं सुरानीककेतुम्, त्रिलोकैकसेतुं भजेऽहं भजेऽहं ॥ 4 ॥
+
+##### jarājanmahīnam parānanda pīnam, samādhāna līnaṃ sadaivānavīnam .
+##### jagajjanma hetuṃ surānīkaketum, trilokaikasetuṃ bhaje'haṃ bhaje'haṃ .. 4 ..
 
 I worship and worship him,
 Who does not have birth or aging,
@@ -49,8 +59,11 @@ Who is the cause of birth of this world,
 Who is the protector of the deva army,
 And who is the bridge between the three worlds.
 
-##### कृताम्नाय गानम् खगाधीशयानं, विमुक्तेनिदानं हरारातिमानम् ।
-##### स्वभक्तानुकूलम् जगद्दृक्षमूलम्, निरस्तार्तशूलम् भजेहं भजेहं ॥ 5 ॥
+##### कृताम्नाय गानम् खगाधीशयानं, विमुक्तेर्निदानं हरारातिमानम् ।
+##### स्वभक्तानुकूलम् जगद्दृक्षमूलम्, निरस्तार्तशूलम् भजेऽहं भजेऽहं ॥ 5 ॥
+
+##### kṛtāmnāya gānam khagādhīśayānaṃ, vimukternidānaṃ harārātimānam .
+##### svabhaktānukūlam jagaddṛkṣamūlam, nirastārtaśūlam bhaje'haṃ bhaje'haṃ .. 5 ..
 
 I worship and worship him,
 Who is the singer of the Vedas,
@@ -61,8 +74,11 @@ Who is very partial to his devotees,
 Who is the root of the tree of the world,
 And is the exterminator of all sorrows.
 
-##### समस्तामरेशम् द्विरेफाभ केशं, जगद्विम्बलेशम् ह्रदाकाशदेशम् ।
-##### सदा दिव्यदेहं विमुक्ताखिलेहम्, सुवैकुण्ठगेहं भजेहं भजेहं ॥ 6 ॥
+##### समस्तामरेशम् द्विरेफाभ केशं, जगद्विम्बलेशम् हृदाकाशदेशम् ।
+##### सदा दिव्यदेहं विमुक्ताखिलेहम्, सुवैकुण्ठगेहं भजेऽहं भजेऽहं ॥ 6 ॥
+
+##### samastāmareśam dvirephābha keśaṃ, jagadvimbaleśam hṛdākāśadeśam .
+##### sadā divyadehaṃ vimuktākhileham, suvaikuṇṭhagehaṃ bhaje'haṃ bhaje'haṃ .. 6 ..
 
 I worship and worship him,
 Who is the lord of all devas,
@@ -73,8 +89,11 @@ Who always has a holy mien,
 Who has no attachments to this world,
 And has Vaikunta as his home.
 
-##### सुराली-बलिष्ठं त्रिलोकीवलिष्ठं, गुरुणां गरिष्ठं स्वरुपैकनिष्ठम् ।
-##### सदा युद्धधीरं महावीर वीरम्, महाम्भोधि तीरम् भजेहं भजेहं ॥ 7 ॥
+##### सुराली-बलिष्ठं त्रिलोकीवरिष्ठं, गुरुणां गरिष्ठं स्वरुपैकनिष्ठम् ।
+##### सदा युद्धधीरं महावीर वीरम्, महाम्भोधि तीरम् भजेऽहं भजेऽहं ॥ 7 ॥
+
+##### surālī-baliṣṭhaṃ trilokīvariṣṭhaṃ, guruṇāṃ gariṣṭhaṃ svarupaikaniṣṭham .
+##### sadā yuddhadhīraṃ mahāvīra vīram, mahāmbhodhi tīram bhaje'haṃ bhaje'haṃ .. 7 ..
 
 I worship and worship him,
 Who is the strongest among devas,
@@ -84,8 +103,11 @@ Who is always heroic in battles,
 Who is the great hero of heroes,
 And takes you across the sea of life.
 
-##### रमावामभागम् तलनग्ननागम्, कृताधीनयागम् गतारागरारागम् ।
-##### मुनीन्द्रैः सुगीतं सुरैः संपरीतं, गुणैगैरतीतं भजेहं भजेहं ॥ 8 ॥
+##### रमावामभागम् तलनग्ननागम्, कृताधीनयागम् गतारागरागम् ।
+##### मुनीन्द्रैः सुगीतं सुरैः संपरीतं, गुणौधैरतीतं भजेऽहं भजेऽहं ॥ 8 ॥
+
+##### ramāvāmabhāgam talanagnanāgam, kṛtādhīnayāgam gatārāgarāgam .
+##### munīndraiḥ sugītaṃ suraiḥ saṃparītaṃ, guṇaudhairatītaṃ bhaje'haṃ bhaje'haṃ .. 8 ..
 
 I worship and worship him,
 Who keeps Lakshmi on his left side,
@@ -96,12 +118,13 @@ Who is pure music to great sages,
 Who is served by Devas,
 And who is above all beings.
 
-### फलश्रुति
+#### फलश्रुति
 
----
+##### इदम् यस्तु नित्यं समाधाय चित्तम् पठेदष्टकम् कण्ठहारं मुरारेः ।
+##### स विष्णोर्विशोकं ध्रुवम् याति लोकम् जराजन्म शोकं पुनर्विदन्ते नो ॥
 
-##### इदम् यस्तु नित्यं समाधाय चित्तम् पठेदष्टकम् कष्टहारं मुरारेः ।
-##### स विष्णोविशोकं ध्रुवम् याति लोकम् जराजन्म शोकं पुनविदन्ते नो ॥
+##### idam yastu nityaṃ samādhāya cittam paṭhedaṣṭakam kaṇṭhahāraṃ murāreḥ .
+##### sa viṣṇorviśokaṃ dhruvam yāti lokam jarājanma śokaṃ punarvidante no ..
 
 The one who reads with peace,
 This octet on Hari,
