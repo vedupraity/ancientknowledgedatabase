@@ -1,0 +1,432 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा - हे कृष्ण! पहले आप मुझसे कर्म त्यागने के लिए कहते हैं और फिर भक्तिपूर्वक कर्म करने का आदेश देते हैं । क्या आप अब कृपा करके निश्चित रूप से मुझे बताएँगे कि इन दोनों में से कौन अधिक लाभप्रद है ?
+    en:
+      title: 'Chapter 5 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna said: O Kṛṣṇa, first of all You ask me to renounce work, and then again You recommend work with devotion. Now will You kindly tell me definitely which of the two is more beneficial?
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        श्रीभगवान् ने उत्तर दिया - मुक्ति के लिए तो कर्म का परित्याग तथा भक्तिमय-कर्म (कर्मयोग) दोनों ही उत्तम हैं । किन्तु इन दोनों में से कर्म के परित्याग से भक्तियुक्त कर्म श्रेष्ठ है ।
+    en:
+      title: 'Chapter 5 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Personality of Godhead replied: The renunciation of work and work in devotion are both good for liberation. But, of the two, work in devotional service is better than renunciation of work.
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो पुरुष न तो कर्मफलों से घृणा करता है और न कर्मफल की इच्छा करता है, वह नित्य संन्यासी जाना जाता है । हे महाबाहु अर्जुन! ऐसा मनुष्य समस्त द्वन्द्वों से रहित होकर भवबन्धन को पार कर पूर्णतया मुक्त हो जाता है ।
+    en:
+      title: 'Chapter 5 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who neither hates nor desires the fruits of his activities is known to be always renounced. Such a person, free from all dualities, easily overcomes material bondage and is completely liberated, O mighty-armed Arjuna.
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        अज्ञानी ही भक्ति (कर्मयोग) को भौतिक जगत् के विश्लेषणात्मक अध्ययन (सांख्य) से भिन्न कहते हैं । जो वस्तुतः ज्ञानी हैं वे कहते हैं कि जो इनमें से किसी एक मार्ग का भलीभाँति अनुसरण करता है, वह दोनों के फल प्राप्त कर लेता है ।
+    en:
+      title: 'Chapter 5 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: |-
+        Only the ignorant speak of devotional service [karma-yoga] as being different from the analytical study of the material world [Sāṅkhya]. Those who are actually learned say that he who applies himself well to one of these paths achieves the results of both.
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो यह जानता है कि विश्लेषणात्मक अध्ययन (सांख्य) द्वारा प्राप्य स्थान भक्ति द्वारा भी प्राप्त किया जा सकता है, और इस तरह जो सांख्ययोग तथा भक्तियोग को एकसमान देखता है, वही वस्तुओं को यथारूप में देखता है ।
+    en:
+      title: 'Chapter 5 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who knows that the position reached by means of analytical study can also be attained by devotional service, and who therefore sees analytical study and devotional service to be on the same level, sees things as they are.
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        भक्ति में लगे बिना केवल समस्त कर्मों का परित्याग करने से कोई सुखी नहीं बन सकता । परन्तु भक्ति में लगा हुआ विचारवान व्यक्ति शीघ्र ही परमेश्वर को प्राप्त कर लेता है ।
+    en:
+      title: 'Chapter 5 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: |-
+        Merely renouncing all activities yet not engaging in the devotional service of the Lord cannot make one happy. But a thoughtful person engaged in devotional service can achieve the Supreme without delay.
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो भक्तिभाव से कर्म करता है, जो विशुद्ध आत्मा है और अपने मन तथा इन्द्रियों को वश में रखता है, वह सबों को प्रिय होता है और सभी लोग उसे प्रिय होते हैं । ऐसा व्यक्ति कर्म करता हुआ भी कभी नहीं बँधता ।
+    en:
+      title: 'Chapter 5 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who works in devotion, who is a pure soul, and who controls his mind and senses is dear to everyone, and everyone is dear to him. Though always working, such a man is never entangled.
+- id: '8-9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ८-९'
+      subtitle: ''
+      image: ''
+      description: |-
+        दिव्य भावनामृत युक्त पुरुष देखते, सुनते, स्पर्श करते, सूंघते, खाते, चलते-फिरते, सोते तथा श्वास लेते हुए भी अपने अन्तर में सदैव यही जानता रहता है कि वास्तव में वह कुछ भी नहीं करता । बोलते, त्यागते, ग्रहण करते या आँखें खोलते-बन्द करते हुए भी वह यह जानता रहता है कि भौतिक इन्द्रियाँ अपने-अपने विषयों में प्रवृत्त हैं और वह इन सबसे पृथक् है ।
+    en:
+      title: 'Chapter 5 - Verse 8-9'
+      subtitle: ''
+      image: ''
+      description: |-
+        A person in the divine consciousness, although engaged in seeing, hearing, touching, smelling, eating, moving about, sleeping and breathing, always knows within himself that he actually does nothing at all. Because while speaking, evacuating, receiving, or opening or closing his eyes, he always knows that only the material senses are engaged with their objects and that he is aloof from them.
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो व्यक्ति कर्मफलों को परमेश्वर को समर्पित करके आसक्तिरहित होकर अपना कर्म करता है, वह पापकर्मों से उसी प्रकार अप्रभावित रहता है, जिस प्रकार कमलपत्र जल से अस्पृश्य रहता है ।
+    en:
+      title: 'Chapter 5 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who performs his duty without attachment, surrendering the results unto the Supreme Lord, is unaffected by sinful action, as the lotus leaf is untouched by water.
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        योगीजन आसक्तिरहित होकर शरीर, मन, बुद्धि तथा इन्द्रियों के द्वारा भी केवल शुद्धि के लिए कर्म करते हैं ।
+    en:
+      title: 'Chapter 5 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: |-
+        The yogīs, abandoning attachment, act with body, mind, intelligence and even with the senses, only for the purpose of purification.
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        निश्चल भक्त शुद्ध शान्ति प्राप्त करता है क्योंकि वह समस्त कर्मफल मुझे अर्पित कर देता है, किन्तु जो व्यक्ति भगवान् से युक्त नहीं है और जो अपने श्रम का फलकामी है, वह बँध जाता है ।
+    en:
+      title: 'Chapter 5 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: |-
+        The steadily devoted soul attains unadulterated peace because he offers the result of all activities to Me; whereas a person who is not in union with the Divine, who is greedy for the fruits of his labor, becomes entangled.
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        जब देहधारी जीवात्मा अपनी प्रकृति को वश में कर लेता है और मन से समस्त कर्मों का परित्याग कर देता है तब वह नौ द्वारों वाले नगर (भौतिक शरीर) में बिना कुछ किये कराये सुखपूर्वक रहता है ।
+    en:
+      title: 'Chapter 5 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: |-
+        When the embodied living being controls his nature and mentally renounces all actions, he resides happily in the city of nine gates [the material body], neither working nor causing work to be done.
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        शरीर रूपी नगर का स्वामी देहधारी जीवात्मा न तो कर्म का सृजन करता है, न लोगों को कर्म करने के लिए प्रेरित करता है, न ही कर्मफल की रचना करता है । यह सब तो प्रकृति के गुणों द्वारा ही किया जाता है ।
+    en:
+      title: 'Chapter 5 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: |-
+        The embodied spirit, master of the city of his body, does not create activities, nor does he induce people to act, nor does he create the fruits of action. All this is enacted by the modes of material nature.
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        परमेश्वर न तो किसी के पापों को ग्रहण करता है, न पुण्यों को । किन्तु सारे देहधारी जीव उस अज्ञान के कारण मोहग्रस्त रहते हैं, जो उनके वास्तविक ज्ञान को आच्छादित किये रहता है ।
+    en:
+      title: 'Chapter 5 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: |-
+        Nor does the Supreme Lord assume anyone’s sinful or pious activities. Embodied beings, however, are bewildered because of the ignorance which covers their real knowledge.
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        किन्तु जब कोई उस ज्ञान से प्रबुद्ध होता है, जिससे अविद्या का विनाश होता है, तो उसके ज्ञान से सब कुछ उसी तरह प्रकट हो जाता है, जैसे दिन में सूर्य से सारी वस्तुएँ प्रकाशित हो जाती हैं ।
+    en:
+      title: 'Chapter 5 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: |-
+        When, however, one is enlightened with the knowledge by which nescience is destroyed, then his knowledge reveals everything, as the sun lights up everything in the daytime.
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        जब मनुष्य की बुद्धि, मन, श्रद्धा तथा शरण सब कुछ भगवान् में स्थिर हो जाते हैं, तभी वह पूर्णज्ञान द्वारा समस्त कल्मष से शुद्ध होता है और मुक्ति के पथ पर अग्रसर होता है ।
+    en:
+      title: 'Chapter 5 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: |-
+        When one’s intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation.
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        विनम्र साधुपुरुष अपने वास्तविक ज्ञान के कारण एक विद्वान् तथा विनीत ब्राह्मण, गाय, हाथी, कुत्ता तथा चाण्डाल को समान दृष्टि (समभाव) से देखते हैं ।
+    en:
+      title: 'Chapter 5 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: |-
+        The humble sages, by virtue of true knowledge, see with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater [outcaste].
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिनके मन एकत्व तथा समता में स्थित हैं उन्होंने जन्म तथा मृत्यु के बन्धनों को पहले ही जीत लिया है । वे ब्रह्म के समान निर्दोष हैं और सदा ब्रह्म में ही स्थित रहते हैं ।
+    en:
+      title: 'Chapter 5 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: |-
+        Those whose minds are established in sameness and equanimity have already conquered the conditions of birth and death. They are flawless like Brahman, and thus they are already situated in Brahman.
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो न तो प्रिय वस्तु को पाकर हर्षित होता है और न अप्रिय को पाकर विचलित होता है, जो स्थिरबुद्धि है, जो मोहरहित है और भगवद्विद्या को जानने वाला है वह पहले से ही ब्रह्म में स्थित रहता है ।
+    en:
+      title: 'Chapter 5 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: |-
+        A person who neither rejoices upon achieving something pleasant nor laments upon obtaining something unpleasant, who is self-intelligent, who is unbewildered, and who knows the science of God is already situated in transcendence.
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २१'
+      subtitle: ''
+      image: ''
+      description: |-
+        ऐसा मुक्त पुरुष भौतिक इन्द्रियसुख की ओर आकृष्ट नहीं होता, अपितु सदैव समाधि में रहकर अपने अन्तर में आनन्द का अनुभव करता है । इस प्रकार स्वरूपसिद्ध व्यक्ति परब्रह्म में एकाग्रचित्त होने के कारण असीम सुख भोगता है ।
+    en:
+      title: 'Chapter 5 - Verse 21'
+      subtitle: ''
+      image: ''
+      description: |-
+        Such a liberated person is not attracted to material sense pleasure but is always in trance, enjoying the pleasure within. In this way the self-realized person enjoys unlimited happiness, for he concentrates on the Supreme.
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २२'
+      subtitle: ''
+      image: ''
+      description: |-
+        बुद्धिमान् मनुष्य दुख के कारणों में भाग नहीं लेता जो कि भौतिक इन्द्रियों के संसर्ग से उत्पन्न होते हैं । हे कुन्तीपुत्र! ऐसे भोगों का आदि तथा अन्त होता है, अतः चतुर व्यक्ति उनमें आनन्द नहीं लेता ।
+    en:
+      title: 'Chapter 5 - Verse 22'
+      subtitle: ''
+      image: ''
+      description: |-
+        An intelligent person does not take part in the sources of misery, which are due to contact with the material senses. O son of Kuntī, such pleasures have a beginning and an end, and so the wise man does not delight in them.
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २३'
+      subtitle: ''
+      image: ''
+      description: |-
+        यदि इस शरीर को त्यागने के पूर्व कोई मनुष्य इन्द्रियों के वेगों को सहन करने तथा इच्छा एवं क्रोध के वेग को रोकने में समर्थ होता है, तो वह इस संसार में सुखी रह सकता है ।
+    en:
+      title: 'Chapter 5 - Verse 23'
+      subtitle: ''
+      image: ''
+      description: |-
+        Before giving up this present body, if one is able to tolerate the urges of the material senses and check the force of desire and anger, he is well situated and is happy in this world.
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २४'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो अन्तःकरण में सुख का अनुभव करता है, जो कर्मठ है और अन्तःकरण में ही रमण करता है तथा जिसका लक्ष्य अन्तर्मुखी होता है वह सचमुच पूर्ण योगी है । वह परब्रह्म में मुक्ति पाता है और अन्ततोगत्वा ब्रह्म को प्राप्त होता है ।
+    en:
+      title: 'Chapter 5 - Verse 24'
+      subtitle: ''
+      image: ''
+      description: |-
+        One whose happiness is within, who is active and rejoices within, and whose aim is inward is actually the perfect mystic. He is liberated in the Supreme, and ultimately he attains the Supreme.
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो लोग संशय से उत्पन्न होने वाले द्वैत से परे हैं, जिनके मन आत्म-साक्षात्कार में रत हैं, जो समस्त जीवों के कल्याणकार्य करने में सदैव व्यस्त रहते हैं और जो समस्त पापों से रहित हैं, वे ब्रह्मनिर्वाण (मुक्ति) को प्राप्त होते हैं ।
+    en:
+      title: 'Chapter 5 - Verse 25'
+      subtitle: ''
+      image: ''
+      description: |-
+        Those who are beyond the dualities that arise from doubts, whose minds are engaged within, who are always busy working for the welfare of all living beings and who are free from all sins achieve liberation in the Supreme.
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २६'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो क्रोध तथा समस्त भौतिक इच्छाओं से रहित हैं, जो स्वरूपसिद्ध, आत्मसंयमी हैं और संसिद्धि के लिए निरन्तर प्रयास करते हैं उनकी मुक्ति निकट भविष्य में सुनिश्चित है ।
+    en:
+      title: 'Chapter 5 - Verse 26'
+      subtitle: ''
+      image: ''
+      description: |-
+        Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.
+- id: '27-28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २७-२८'
+      subtitle: ''
+      image: ''
+      description: |-
+        समस्त इन्द्रियविषयों को बाहर करके, दृष्टि को भौंहों के मध्य में केन्द्रित करके, प्राण तथा अपान वायु को नथुनों के भीतर रोककर और इस तरह मन, इन्द्रियों तथा बुद्धि को वश में करके जो मोक्ष को लक्ष्य बनाता है वह योगी इच्छा, भय तथा क्रोध से रहित हो जाता है । जो निरन्तर इस अवस्था में रहता है, वह अवश्य ही मुक्त है ।
+    en:
+      title: 'Chapter 5 - Verse 27-28'
+      subtitle: ''
+      image: ''
+      description: |-
+        Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils, and thus controlling the mind, senses and intelligence, the transcendentalist aiming at liberation becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक २९'
+      subtitle: ''
+      image: ''
+      description: |-
+        मुझे समस्त यज्ञों तथा तपस्याओं का परम भोक्ता, समस्त लोकों तथा देवताओं का परमेश्वर एवं समस्त जीवों का उपकारी एवं हितैषी जानकर मेरे भावनामृत से पूर्ण पुरुष भौतिक दुखों से शान्ति लाभ-करता है ।
+    en:
+      title: 'Chapter 5 - Verse 29'
+      subtitle: ''
+      image: ''
+      description: |-
+        A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.

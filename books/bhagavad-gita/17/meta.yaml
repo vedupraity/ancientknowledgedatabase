@@ -1,0 +1,416 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा - हे कृष्ण! जो लोग शास्त्र के नियमों का पालन न करके अपनी कल्पना के अनुसार पूजा करते हैं, उनकी स्थिति कौन सी है ? वे सतोगुणी हैं, रजोगुणी हैं या तमोगुणी ?
+    en:
+      title: 'Chapter 17 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna inquired: O Kṛṣṇa, what is the situation of those who do not follow the principles of scripture but worship according to their own imagination? Are they in goodness, in passion or in ignorance?
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        भगवान् ने कहा - देहधारी जीव द्वारा अर्जित गुणों के अनुसार उसकी श्रद्धा तीन प्रकार की हो सकती है - सतोगुणी, रजोगुणी अथवा तमोगुणी । अब इसके विषय में मुझसे सुनो ।
+    en:
+      title: 'Chapter 17 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Supreme Personality of Godhead said: According to the modes of nature acquired by the embodied soul, one’s faith can be of three kinds – in goodness, in passion or in ignorance. Now hear about this.
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे भरतपुत्र! विभिन्न गुणों के अन्तर्गत अपने अपने अस्तित्व के अनुसार मनुष्य एक विशेष प्रकार की श्रद्धा विकसित करता है । अपने द्वारा अर्जित गुणों के अनुसार ही जीव को विशेष श्रद्धा से युक्त कहा जाता है ।
+    en:
+      title: 'Chapter 17 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: |-
+        O son of Bharata, according to one’s existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        सतोगुणी व्यक्ति देवताओं को पूजते हैं, रजोगुणी यक्षों व राक्षसों की पूजा करते हैं और तमोगुणी व्यक्ति भूत-प्रेतों को पूजते हैं ।
+    en:
+      title: 'Chapter 17 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: |-
+        Men in the mode of goodness worship the demigods; those in the mode of passion worship the demons; and those in the mode of ignorance worship ghosts and spirits.
+- id: '5-6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ५-६'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो लोग दम्भ तथा अहंकार से अभिभूत होकर शास्त्रविरुद्ध कठोर तपस्या और व्रत करते हैं, जो काम तथा आसक्ति द्वारा प्रेरित होते हैं जो मूर्ख हैं तथा जो शरीर के भौतिक तत्त्वों को तथा शरीर के भीतर स्थित परमात्मा को कष्ट पहुँचाते हैं, वे असुर कहे जाते हैं ।
+    en:
+      title: 'Chapter 17 - Verse 5-6'
+      subtitle: ''
+      image: ''
+      description: |-
+        Those who undergo severe austerities and penances not recommended in the scriptures, performing them out of pride and egoism, who are impelled by lust and attachment, who are foolish and who torture the material elements of the body as well as the Supersoul dwelling within, are to be known as demons.
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        यहाँ तक कि प्रत्येक व्यक्ति जो भोजन पसन्द करता है, वह भी प्रकृति के गुणों के अनुसार तीन प्रकार का होता है । यही बात यज्ञ, तपस्या तथा दान के लिए भी सत्य है । अब उनके भेदों के विषय में सुनो ।
+    en:
+      title: 'Chapter 17 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: |-
+        Even the food each person prefers is of three kinds, according to the three modes of material nature. The same is true of sacrifices, austerities and charity. Now hear of the distinctions between them.
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो भोजन सात्त्विक व्यक्तियों को प्रिय होता है, वह आयु बढ़ाने वाला, जीवन को शुद्ध करने वाला तथा बल, स्वास्थ्य, सुख तथा तृप्ति प्रदान करने वाला होता है । ऐसा भोजन रसमय, स्निग्ध, स्वास्थ्यप्रद तथा हृदय को भाने वाला होता है ।
+    en:
+      title: 'Chapter 17 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: |-
+        Foods dear to those in the mode of goodness increase the duration of life, purify one’s existence and give strength, health, happiness and satisfaction. Such foods are juicy, fatty, wholesome, and pleasing to the heart.
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        अत्यधिक तिक्त, खट्टे, नमकीन, गरम, चटपटे, शुष्क तथा जलन उत्पन्न करने वाले भोजन रजोगुणी व्यक्तियों को प्रिय होते हैं । ऐसे भोजन दुख, शोक तथा रोग उत्पन्न करने वाले हैं ।
+    en:
+      title: 'Chapter 17 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: |-
+        Foods that are too bitter, too sour, salty, hot, pungent, dry and burning are dear to those in the mode of passion. Such foods cause distress, misery and disease.
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        खाने से तीन घंटे पूर्व पकाया गया, स्वादहीन, वियोजित एवं सड़ा, जूठा तथा अस्पृश्य वस्तुओं से युक्त भोजन उन लोगों को प्रिय होता है, जो तामसी होते हैं ।
+    en:
+      title: 'Chapter 17 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: |-
+        Food prepared more than three hours before being eaten, food that is tasteless, decomposed and putrid, and food consisting of remnants and untouchable things is dear to those in the mode of darkness.
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        यज्ञों में वही यज्ञ सात्त्विक होता है, जो शास्त्र के निर्देशानुसार कर्तव्य समझ कर उन लोगों के द्वारा किया जाता है, जो फल की इच्छा नहीं करते ।
+    en:
+      title: 'Chapter 17 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: |-
+        Of sacrifices, the sacrifice performed according to the directions of scripture, as a matter of duty, by those who desire no reward, is of the nature of goodness.
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        लेकिन हे भरतश्रेष्ठ! जो यज्ञ किसी भौतिक लाभ के लिए या गर्ववश किया जाता है, उसे तुम राजसी जानो ।
+    en:
+      title: 'Chapter 17 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: |-
+        But the sacrifice performed for some material benefit, or for the sake of pride, O chief of the Bhāratas, you should know to be in the mode of passion.
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो यज्ञ शास्त्र के निर्देशों की अवहेलना करके, प्रसाद वितरण किये बिना, वैदिक मन्त्रों का उच्चारण किये बिना, पुरोहितों को दक्षिणा दिये बिना तथा श्रद्धा के बिना सम्पन्न किया जाता है, वह तामसी माना जाता है ।
+    en:
+      title: 'Chapter 17 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: |-
+        Any sacrifice performed without regard for the directions of scripture, without distribution of prasādam [spiritual food], without chanting of Vedic hymns and remunerations to the priests, and without faith is considered to be in the mode of ignorance.
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        परमेश्वर, ब्राह्मणों, गुरु, माता-पिता जैसे गुरुजनों की पूजा करना तथा पवित्रता, सरलता, ब्रह्मचर्य और अहिंसा ही शारीरिक तपस्या है ।
+    en:
+      title: 'Chapter 17 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: |-
+        Austerity of the body consists in worship of the Supreme Lord, the brāhmaṇas, the spiritual master, and superiors like the father and mother, and in cleanliness, simplicity, celibacy and nonviolence.
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        सच्चे, भाने वाले, हितकर तथा अन्यों को क्षुब्ध न करने वाले वाक्य बोलना और वैदिक साहित्य का नियमित पारायण करना - यही वाणी की तपस्या है ।
+    en:
+      title: 'Chapter 17 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: |-
+        Austerity of speech consists in speaking words that are truthful, pleasing, beneficial, and not agitating to others, and also in regularly reciting Vedic literature.
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        तथा संतोष, सरलता, गम्भीरता, आत्म-संयम एवं जीवन की शुद्धि - ये मन की तपस्याएँ हैं ।
+    en:
+      title: 'Chapter 17 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: |-
+        And satisfaction, simplicity, gravity, self-control and purification of one’s existence are the austerities of the mind.
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        भौतिक लाभ की इच्छा न करने वाले तथा केवल परमेश्वर में प्रवृत्त मनुष्यों द्वारा दिव्य श्रद्धा से सम्पन्न यह तीन प्रकार की तपस्या सात्त्विक तपस्या कहलाती है ।
+    en:
+      title: 'Chapter 17 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: |-
+        This threefold austerity, performed with transcendental faith by men not expecting material benefits but engaged only for the sake of the Supreme, is called austerity in goodness.
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो तपस्या दंभपूर्वक तथा सम्मान, सत्कार एवं पूजा कराने के लिए सम्पन्न की जाती है, वह राजसी (रजोगुणी) कहलाती है । यह न तो स्थायी होती है न शाश्वत ।
+    en:
+      title: 'Chapter 17 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: |-
+        Penance performed out of pride and for the sake of gaining respect, honor and worship is said to be in the mode of passion. It is neither stable nor permanent.
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        मूर्खतावश आत्म-उत्पीड़न के लिए या अन्यों को विनष्ट करने या हानि पहुँचाने के लिए जो तपस्या की जाती है, वह तामसी कहलाती है ।
+    en:
+      title: 'Chapter 17 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: |-
+        Penance performed out of foolishness, with self-torture or to destroy or injure others, is said to be in the mode of ignorance.
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो दान कर्तव्य समझकर, किसी प्रत्युपकार की आशा के बिना, समुचित काल तथा स्थान में और योग्य व्यक्ति को दिया जाता है, वह सात्त्विक माना जाता है ।
+    en:
+      title: 'Chapter 17 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: |-
+        Charity given out of duty, without expectation of return, at the proper time and place, and to a worthy person is considered to be in the mode of goodness.
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २१'
+      subtitle: ''
+      image: ''
+      description: |-
+        किन्तु जो दान प्रत्युपकार की भावना से या कर्म फल की इच्छा से या अनिच्छापूर्वक किया जाता है, वह रजोगुणी (राजस) कहलाता है ।
+    en:
+      title: 'Chapter 17 - Verse 21'
+      subtitle: ''
+      image: ''
+      description: |-
+        But charity performed with the expectation of some return, or with a desire for fruitive results, or in a grudging mood is said to be charity in the mode of passion.
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २२'
+      subtitle: ''
+      image: ''
+      description: |-
+        तथा जो दान किसी अपवित्र स्थान में, अनुचित समय में, किसी अयोग्य व्यक्ति को या बिना समुचित ध्यान तथा आदर से दिया जाता है, वह तामसी कहलाता है ।
+    en:
+      title: 'Chapter 17 - Verse 22'
+      subtitle: ''
+      image: ''
+      description: |-
+        And charity performed at an impure place, at an improper time, to unworthy persons, or without proper attention and respect is said to be in the mode of ignorance.
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २३'
+      subtitle: ''
+      image: ''
+      description: |-
+        सृष्टि के आदिकाल से ॐ तत् सत् ये तीन शब्द परब्रह्म को सूचित करने के लिए प्रयुक्त किये जाते रहे हैं । ये तीनों सांकेतिक अभिव्यक्तियाँ ब्राह्मणों द्वारा वैदिक मंत्रों का उच्चारण करते समय तथा ब्रह्म को संतुष्ट करने के लिए यज्ञों के समय प्रयुक्त होती थीं ।
+    en:
+      title: 'Chapter 17 - Verse 23'
+      subtitle: ''
+      image: ''
+      description: |-
+        From the beginning of creation, the three words oṁ tat sat were used to indicate the Supreme Absolute Truth. These three symbolic representations were used by brāhmaṇas while chanting the hymns of the Vedas and during sacrifices for the satisfaction of the Supreme.
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २४'
+      subtitle: ''
+      image: ''
+      description: |-
+        अतएव योगीजन ब्रह्म की प्राप्ति के लिए शास्त्रीय विधि के अनुसार यज्ञ, दान तथा तप की समस्त क्रियाओं का शुभारम्भ सदैव ओम् से करते हैं ।
+    en:
+      title: 'Chapter 17 - Verse 24'
+      subtitle: ''
+      image: ''
+      description: |-
+        Therefore, transcendentalists undertaking performances of sacrifice, charity and penance in accordance with scriptural regulations begin always with oṁ, to attain the Supreme.
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २५'
+      subtitle: ''
+      image: ''
+      description: |-
+        मनुष्य को चाहिए कि कर्मफल की इच्छा किये बिना विविध प्रकार के यज्ञ, तप तथा दान को ‘तत्’ शब्द कह कर सम्पन्न करे । ऐसी दिव्य क्रियाओं का उद्देश्य भव-बन्धन से मुक्त होना है ।
+    en:
+      title: 'Chapter 17 - Verse 25'
+      subtitle: ''
+      image: ''
+      description: |-
+        Without desiring fruitive results, one should perform various kinds of sacrifice, penance and charity with the word tat. The purpose of such transcendental activities is to get free from material entanglement.
+- id: '26-27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २६-२७'
+      subtitle: ''
+      image: ''
+      description: |-
+        परम सत्य भक्तिमय यज्ञ का लक्ष्य है और उसे सत् शब्द से अभिहित किया जाता है । हे पृथापुत्र! ऐसे यज्ञ का सम्पन्नकर्ता भी ‘सत्’ कहलाता है जिस प्रकार यज्ञ, तप तथा दान के सारे कर्म भी जो परमपुरुष को प्रसन्न करने के लिए सम्पन्न किये जाते हैं, ‘सत्’ हैं ।
+    en:
+      title: 'Chapter 17 - Verse 26-27'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Absolute Truth is the objective of devotional sacrifice, and it is indicated by the word sat. The performer of such sacrifice is also called sat, as are all works of sacrifice, penance and charity which, true to the absolute nature, are performed to please the Supreme Person, O son of Pṛthā.
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक २८'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे पार्थ! श्रद्धा के बिना यज्ञ, दान या तप के रूप में जो भी किया जाता है, वह नश्वर है । वह ‘असत्’ कहलाता है और इस जन्म तथा अगले जन्म - दोनों में ही व्यर्थ जाता है ।
+    en:
+      title: 'Chapter 17 - Verse 28'
+      subtitle: ''
+      image: ''
+      description: |-
+        Anything done as sacrifice, charity or penance without faith in the Supreme, O son of Pṛthā, is impermanent. It is called asat and is useless both in this life and the next.

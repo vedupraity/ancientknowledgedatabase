@@ -1,0 +1,686 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १'
+      subtitle: ''
+      image: ''
+      description: 'मङ्गलाचरण'
+    en:
+      title: 'Part - 1'
+      subtitle: ''
+      image: ''
+      description: 'Invocations'
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २'
+      subtitle: ''
+      image: ''
+      description: 'रामराज्याभिषेक की तैयारी, देवताओं की व्याकुलता तथा सरस्वतीजी से उनकी प्रार्थना'
+    en:
+      title: 'Part - 2'
+      subtitle: ''
+      image: ''
+      description: 'Preparations for Śrī Rāma''s installation as the Prince Regent of Ayodhyā; the god''s concern over the same and their approaching Goddess Sarasvatī for help'
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३'
+      subtitle: ''
+      image: ''
+      description: 'सरस्वती का मन्थरा की बुद्धि फेरना, कैकेयी मन्थरा-संवाद'
+    en:
+      title: 'Part - 3'
+      subtitle: ''
+      image: ''
+      description: 'Sarasvatī perverts the mind of Mantharā (a handmaid of queen Kaikeyī); a dialogue between Kaikeyī and Mantharā'
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४'
+      subtitle: ''
+      image: ''
+      description: 'कैकेयी का कोपभवन में जाना'
+    en:
+      title: 'Part - 4'
+      subtitle: ''
+      image: ''
+      description: 'Kaikeyī enters the sulking-chamber'
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५'
+      subtitle: ''
+      image: ''
+      description: 'दशरथ-कैकेयी-संवाद और दशरथ-शोक, सुमन्त्र का महल में जाना और वहाँ से लौटकर श्रीरामजी को महल में भेजना'
+    en:
+      title: 'Part - 5'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between king Daśaratha and Kaikeyī; Daśaratha''s lamentation; Sumantra goes to the palace and, returning from it, sends Śrī Rāma to His father'
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-कैकेयी-संवाद'
+    en:
+      title: 'Part - 6'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and mother Kaikeyī'
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ७'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-दशरथ-संवाद, अवध वासियों का विषाद, कैकेयी को समझाना'
+    en:
+      title: 'Part - 7'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and His father; the sadness of the people of Ayodhyā; their remonstrances with Kaikeyī'
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ८'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-कौसल्या-संवाद'
+    en:
+      title: 'Part - 8'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and mother Kausalyā'
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ९'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीता-राम-संवाद'
+    en:
+      title: 'Part - 9'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Sītā and Śrī Rāma'
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १०'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-कौसल्या-सीता-संवाद'
+    en:
+      title: 'Part - 10'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma, Kausalyā and Sītā'
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ११'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण-संवाद'
+    en:
+      title: 'Part - 11'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and Lakṣmaṇa'
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १२'
+      subtitle: ''
+      image: ''
+      description: 'श्रीलक्ष्मण-सुमित्रा-संवाद'
+    en:
+      title: 'Part - 12'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Lakṣmaṇa and mother Sumitrā'
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १३'
+      subtitle: ''
+      image: ''
+      description: 'श्रीरामजी, लक्ष्मणजी, सीताजी का महाराज दशरथ के पास विदा माँगने जाना, दशरथजी का सीताजी को समझाना'
+    en:
+      title: 'Part - 13'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma, Lakṣmaṇa and Sītā call on king Daśaratha to take leave of him; Daśaratha''s advice to Sītā'
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १४'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-सीता-लक्ष्मण का वन-गमन और नगर-निवासियों को सोये छोड़कर आगे बढ़ना'
+    en:
+      title: 'Part - 14'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma, Sītā and Lakṣmaṇa proceed to the woods and slip past the citizens buried in slumber'
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १५'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम का श्रृङ्गवेरपुर पहुँचना, निषाद के द्वारा सेवा'
+    en:
+      title: 'Part - 15'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma''s arrival at srngaverapura; the Niṣāda chief''s services'
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १६'
+      subtitle: ''
+      image: ''
+      description: 'लक्ष्मण-निषाद-संवाद, श्रीराम-सीता से सुमन्त्र का संवाद, सुमन्त्र का लौटना'
+    en:
+      title: 'Part - 16'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Lakṣmaṇa and the Niṣāda; Sumantra''s dialogue with Śrī Rāma and Sītā and his returning to Ayodhyā'
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १७'
+      subtitle: ''
+      image: ''
+      description: 'केवट का प्रेम और गङ्गा-पार जाना'
+    en:
+      title: 'Part - 17'
+      subtitle: ''
+      image: ''
+      description: 'The boatman''s love and the passage across the Gaṅgā'
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १८'
+      subtitle: ''
+      image: ''
+      description: 'प्रयाग पहुँचना, भरद्वाज-संवाद, यमुनातीर निवासियों का प्रेम'
+    en:
+      title: 'Part - 18'
+      subtitle: ''
+      image: ''
+      description: 'Arrival at Prayāga and dialogue between Śrī Rāma and the sage Bharadvāja; the love of the people inhabiting the bank of the Yamunā'
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १९'
+      subtitle: ''
+      image: ''
+      description: 'तापस-प्रकरण'
+    en:
+      title: 'Part - 19'
+      subtitle: ''
+      image: ''
+      description: 'The episode of an ascetic'
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २०'
+      subtitle: ''
+      image: ''
+      description: 'यमुना को प्रणाम, वनवासियों का प्रेम'
+    en:
+      title: 'Part - 20'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma greets the Yamunā; love of the villagers'
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २१'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-वाल्मीकि-संवाद'
+    en:
+      title: 'Part - 21'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and the sage Vālmīki'
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २२'
+      subtitle: ''
+      image: ''
+      description: 'चित्रकूट में निवास, कोल-भीलों के द्वारा सेवा'
+    en:
+      title: 'Part - 22'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma takes up His abode at Citrakūṭa; the services of the Kolas and Bhīlas'
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २३'
+      subtitle: ''
+      image: ''
+      description: 'सुमन्त्र का अयोध्या को लौटना और सर्वत्र शोक देखना'
+    en:
+      title: 'Part - 23'
+      subtitle: ''
+      image: ''
+      description: 'Sumantra returns to Ayodhyā and finds the city a picture of grief'
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २४'
+      subtitle: ''
+      image: ''
+      description: 'दशरथ-सुमन्त्र-संवाद, दशरथ-मरण'
+    en:
+      title: 'Part - 24'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between king Daśaratha and Sumantra, Daśaratha''s passing away'
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २५'
+      subtitle: ''
+      image: ''
+      description: 'मुनि वसिष्ठ का भरत को बुलाने के लिये दूत भेजना'
+    en:
+      title: 'Part - 25'
+      subtitle: ''
+      image: ''
+      description: 'The sage Vasiṣṭha sends envoys to call Bharata'
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीभरत-शत्रुघ्न का आगमन और शोक'
+    en:
+      title: 'Part - 26'
+      subtitle: ''
+      image: ''
+      description: 'Arrival and lamentation of Bharata and Śatrughna'
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २७'
+      subtitle: ''
+      image: ''
+      description: 'भरत-कौसल्या-संवाद और दशरथजी की अन्त्येष्टि क्रिया'
+    en:
+      title: 'Part - 27'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Bharata and mother Kausalyā and king Daśaratha''s cremation'
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २८'
+      subtitle: ''
+      image: ''
+      description: 'वसिष्ठ-भरत-संवाद, श्रीरामजी को लाने के लिये चित्रकूट जाने की तैयारी'
+    en:
+      title: 'Part - 28'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between the sage Vasiṣṭha and Bharata; Bharata prepares for a journey to Citrakūṭa in order to bring Śrī Rāma back to Ayodhyā'
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २९'
+      subtitle: ''
+      image: ''
+      description: 'अयोध्यावासियों सहित श्रीभरत-शत्रुघ्न आदि का वन-गमन'
+    en:
+      title: 'Part - 29'
+      subtitle: ''
+      image: ''
+      description: 'Departure of Bharata and Śatrughna with the citizens of Ayodhyā to the woods'
+- id: '30'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३०'
+      subtitle: ''
+      image: ''
+      description: 'निषाद की शङ्का और सावधानी'
+    en:
+      title: 'Part - 30'
+      subtitle: ''
+      image: ''
+      description: 'The Niṣāda''s suspicion and precautions'
+- id: '31'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३१'
+      subtitle: ''
+      image: ''
+      description: 'भरत-निषाद-मिलन और संवाद और भरतजी का तथा नगरवासियों का प्रेम'
+    en:
+      title: 'Part - 31'
+      subtitle: ''
+      image: ''
+      description: 'Bharata''s meeting and dialogue with the Niṣāda chief; the love of Bharata and the citizens of Ayodhyā for Śrī Rāma'
+- id: '32'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३२'
+      subtitle: ''
+      image: ''
+      description: 'भरतजी का प्रयाग जाना और भरत-भरद्वाज-संवाद'
+    en:
+      title: 'Part - 32'
+      subtitle: ''
+      image: ''
+      description: 'Bharata''s arrival at Prayāga and dialogue between Bharata and the sage Bharadvāja'
+- id: '33'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३३'
+      subtitle: ''
+      image: ''
+      description: 'भरद्वाज द्वारा भरत का सत्कार'
+    en:
+      title: 'Part - 33'
+      subtitle: ''
+      image: ''
+      description: 'Bharadvāja shows hospitality to Bharata'
+- id: '34'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३४'
+      subtitle: ''
+      image: ''
+      description: 'इन्द्र-बृहस्पति-संवाद'
+    en:
+      title: 'Part - 34'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Indra and his preceptor (the sage Bṛhaspati)'
+- id: '35'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३५'
+      subtitle: ''
+      image: ''
+      description: 'भरतजी चित्रकूट के मार्ग में'
+    en:
+      title: 'Part - 35'
+      subtitle: ''
+      image: ''
+      description: 'Bharata on his way to Citrakūṭa'
+- id: '36'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीताजी का स्वप्न, श्रीरामजी को कोल-किरातों द्वारा भरतजी के आगमन की सूचना, रामजीका शोक, लक्ष्मणजी का क्रोध'
+    en:
+      title: 'Part - 36'
+      subtitle: ''
+      image: ''
+      description: 'Sitas dream; the Kolas and Kirātas bring news of Bharata''s arrival to Śrī Rāma; Śrī Rāma''s concern at the report; Lakṣmaṇa''s outburst of passion'
+- id: '37'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३७'
+      subtitle: ''
+      image: ''
+      description: 'श्रीरामजी का लक्ष्मणजी को समझाना एवं भरतजी की महिमा कहना'
+    en:
+      title: 'Part - 37'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma admonishes Lakṣmaṇa and dwells on Bharata''s greatness'
+- id: '38'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३८'
+      subtitle: ''
+      image: ''
+      description: 'भरतजी का मन्दाकिनी-स्नान, चित्रकूट में पहुँचना, भरतादि सबका परस्पर मिलाप, पिता का शोक और श्राद्ध'
+    en:
+      title: 'Part - 38'
+      subtitle: ''
+      image: ''
+      description: 'Bharata takes a dip in the Mandākinī and arrives at Citrakūṭa; Bharata and others meet one another, mourn the king''s death and perform his Śrāddha (obsequies)'
+- id: '39'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३९'
+      subtitle: ''
+      image: ''
+      description: 'वनवासियों द्वारा भरतजी की मण्डली का सत्कार, कैकेयी का पश्चात्ताप'
+    en:
+      title: 'Part - 39'
+      subtitle: ''
+      image: ''
+      description: 'Hospitality of the foresters towards Bharata and his party; Kaikeyī''s remorse'
+- id: '40'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४०'
+      subtitle: ''
+      image: ''
+      description: 'श्रीवसिष्ठजी का भाषण'
+    en:
+      title: 'Part - 40'
+      subtitle: ''
+      image: ''
+      description: 'Vasiṣṭha''s speech'
+- id: '41'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४१'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-भरतादि का संवाद'
+    en:
+      title: 'Part - 41'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma, Bharata and others'
+- id: '42'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४२'
+      subtitle: ''
+      image: ''
+      description: 'जनकजी का पहुँचना, कोल-किरातादि की भेंट, सबका परस्पर मिलाप'
+    en:
+      title: 'Part - 42'
+      subtitle: ''
+      image: ''
+      description: 'King Janaka''s arrival at Citrakūṭa; the Kolas and Kirātas offer presents to the visitors and all meet one another'
+- id: '43'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४३'
+      subtitle: ''
+      image: ''
+      description: 'कौसल्या-सुनयना-संवाद, श्रीसीताजी का शील'
+    en:
+      title: 'Part - 43'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between queens Kausalyā and Sunayanā (king Janaka''s wife); Sītā''s amiability'
+- id: '44'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४४'
+      subtitle: ''
+      image: ''
+      description: 'जनक-सुनयना-संवाद, भरतजी की महिमा'
+    en:
+      title: 'Part - 44'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between king Janaka and his wife; Bharata''s glory'
+- id: '45'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४५'
+      subtitle: ''
+      image: ''
+      description: 'जनक-वसिष्ठादि-संवाद, इन्द्र की चिन्ता, सरस्वती का इन्द्र को समझाना'
+    en:
+      title: 'Part - 45'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between king Janaka and Bharata; Indra''s anxiety; Goddess Sarasvatī''s admonition to Indra'
+- id: '46'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-भरत-संवाद'
+    en:
+      title: 'Part - 46'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between the sage Vasiṣṭha, Śrī Rāma and Bharata'
+- id: '47'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४७'
+      subtitle: ''
+      image: ''
+      description: 'भरतजी का तीर्थ-जल-स्थापन तथा चित्रकूट भ्रमण'
+    en:
+      title: 'Part - 47'
+      subtitle: ''
+      image: ''
+      description: 'Bharata deposits the sacred waters; his perambulation through Citrakūṭa'
+- id: '48'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४८'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-भरत-संवाद, पादुका-प्रदान, भरतजी की विदाई'
+    en:
+      title: 'Part - 48'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between Śrī Rāma and Bharata; the gift of sandals; Bharata''s farewell'
+- id: '49'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४९'
+      subtitle: ''
+      image: ''
+      description: 'भरतजी का अयोध्या लौटना, भरतजी द्वारा पादुका की स्थापना, नन्दिग्राम में निवास और श्रीभरतजी के चरित्र-श्रवण की महिमा'
+    en:
+      title: 'Part - 49'
+      subtitle: ''
+      image: ''
+      description: 'Returning to Ayodhyā, Bharata enthrones the sandals and takes up his residence at Nandigrama; the virtue of listening to Bharata''s story'

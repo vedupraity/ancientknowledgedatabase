@@ -1,0 +1,447 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        अर्जुन ने कहा - हे भगवान्! हे पुरुषोत्तम! ब्रह्म क्या है ? आत्मा क्या है ? सकाम कर्म क्या है ? यह भौतिक जगत् क्या है ? तथा देवता क्या हैं ? कृपा करके यह सब मुझे बताइये ।
+    en:
+      title: 'Chapter 8 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: |-
+        Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: "हे मधुसूदन! यज्ञ का स्वामी कौन है और वह शरीर में कैसे रहता है ? और मृत्यु के समय भक्ति में लगे रहने वाले आपको कैसे जान पाते हैं ? "
+    en:
+      title: 'Chapter 8 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: |-
+        Who is the Lord of sacrifice, and how does He live in the body, O Madhusūdana? And how can those engaged in devotional service know You at the time of death?
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        भगवान् ने कहा - अविनाशी और दिव्य जीव ब्रह्म कहलाता है और उसका नित्य स्वभाव अध्यात्म या आत्म कहलाता है । जीवों के भौतिक शरीर से सम्बन्धित गतिविधि कर्म या सकाम कर्म कहलाती है ।
+    en:
+      title: 'Chapter 8 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Supreme Personality of Godhead said: The indestructible, transcendental living entity is called Brahman, and his eternal nature is called adhyātma, the self. Action pertaining to the development of the material bodies of the living entities is called karma, or fruitive activities.
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे देहधारियों में श्रेष्ठ! निरन्तर परिवर्तनशील यह भौतिक प्रकृति अधिभूत (भौतिक अभिव्यक्ति) कहलाती है । भगवान् का विराट रूप, जिसमें सूर्य तथा चन्द्र जैसे समस्त देवता सम्मिलित हैं, अधिदैव कहलाता है । तथा प्रत्येक देहधारी के हृदय में परमात्मा स्वरूप स्थित मैं परमेश्वर अधियज्ञ (यज्ञ का स्वामी) कहलाता हूँ ।
+    en:
+      title: 'Chapter 8 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: |-
+        O best of the embodied beings, the physical nature, which is constantly changing, is called adhibhūta [the material manifestation]. The universal form of the Lord, which includes all the demigods, like those of the sun and moon, is called adhidaiva. And I, the Supreme Lord, represented as the Supersoul in the heart of every embodied being, am called adhiyajña [the Lord of sacrifice].
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        और जीवन के अन्त में जो केवल मेरा स्मरण करते हुए शरीर का त्याग करता है, वह तुरन्त मेरे स्वभाव को प्राप्त करता है । इसमें रंचमात्र भी सन्देह नहीं है ।
+    en:
+      title: 'Chapter 8 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: |-
+        And whoever, at the end of his life, quits his body remembering Me alone at once attains My nature. Of this there is no doubt.
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे कुन्तीपुत्र! शरीर त्यागते समय मनुष्य जिस-जिस भाव का स्मरण करता है, वह उस उस भाव को निश्चित रूप से प्राप्त होता है ।
+    en:
+      title: 'Chapter 8 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: |-
+        Whatever state of being one remembers when he quits his body, O son of Kuntī, that state he will attain without fail.
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        अतएव, हे अर्जुन! तुम्हें सदैव कृष्ण रूप में मेरा चिन्तन करना चाहिए और साथ ही युद्ध करने के कर्तव्य को भी पूरा करना चाहिए । अपने कर्मों को मुझे समर्पित करके तथा अपने मन एवं बुद्धि को मुझमें स्थिर करके तुम निश्चित रूप से मुझे प्राप्त कर सकोगे ।
+    en:
+      title: 'Chapter 8 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: |-
+        Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे पार्थ! जो व्यक्ति मेरा स्मरण करने में अपना मन निरन्तर लगाये रखकर अविचलित भाव से भगवान् के रूप में मेरा ध्यान करता है, वह मुझको अवश्य ही प्राप्त होता है ।
+    en:
+      title: 'Chapter 8 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: |-
+        He who meditates on Me as the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Pārtha, is sure to reach Me.
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        मनुष्य को चाहिए कि परमपुरुष का ध्यान सर्वज्ञ, पुरातन, नियन्ता, लघुतम से भी लघुतर, प्रत्येक का पालनकर्ता, समस्त भौतिकबुद्धि से परे, अचिन्त्य तथा नित्य पुरुष के रूप में करे । वे सूर्य की भाँति तेजवान हैं और इस भौतिक प्रकृति से परे, दिव्य रूप हैं ।
+    en:
+      title: 'Chapter 8 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: |-
+        One should meditate upon the Supreme Person as the one who knows everything, as He who is the oldest, who is the controller, who is smaller than the smallest, who is the maintainer of everything, who is beyond all material conception, who is inconceivable, and who is always a person. He is luminous like the sun, and He is transcendental, beyond this material nature.
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        मृत्यु के समय जो व्यक्ति अपने प्राण को भौहों के मध्य स्थिर कर लेता है और योगशक्ति के द्वारा अविचलित मन से पूर्णभक्ति के साथ परमेश्वर के स्मरण में अपने को लगाता है, वह निश्चित रूप से भगवान् को प्राप्त होता है ।
+    en:
+      title: 'Chapter 8 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: |-
+        One who, at the time of death, fixes his life air between the eyebrows and, by the strength of yoga, with an undeviating mind, engages himself in remembering the Supreme Lord in full devotion, will certainly attain to the Supreme Personality of Godhead.
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो वेदों के ज्ञाता हैं, जो ओंकार का उच्चारण करते हैं और जो संन्यास आश्रम के बड़े-बड़े मुनि हैं, वे ब्रह्म में प्रवेश करते हैं । ऐसी सिद्धि की इच्छा करने वाले ब्रह्मचर्यव्रत का अभ्यास करते हैं । अब मैं तुम्हें वह विधि बताऊँगा, जिससे कोई भी व्यक्ति मुक्ति-लाभ कर सकता है ।
+    en:
+      title: 'Chapter 8 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: |-
+        Persons who are learned in the Vedas, who utter oṁ-kāra, and who are great sages in the renounced order enter into Brahman. Desiring such perfection, one practices celibacy. I shall now briefly explain to you this process by which one may attain salvation.
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        समस्त ऐन्द्रिय क्रियाओं से विरक्ति को योग की स्थिति (योगधारणा) कहा जाता है । इन्द्रियों के समस्त द्वारों को बन्द करके तथा मन को हृदय में और प्राणवायु को सिर पर केन्द्रित करके मनुष्य अपने को योग में स्थापित करता है ।
+    en:
+      title: 'Chapter 8 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: |-
+        The yogic situation is that of detachment from all sensual engagements. Closing all the doors of the senses and fixing the mind on the heart and the life air at the top of the head, one establishes himself in yoga.
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        इस योगाभ्यास में स्थित होकर तथा अक्षरों के परम संयोग यानी ओंकार का उच्चारण करते हुए यदि कोई भगवान् का चिन्तन करता है और अपने शरीर का त्याग करता है, तो वह निश्चित रूप से आध्यात्मिक लोकों को जाता है ।
+    en:
+      title: 'Chapter 8 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: |-
+        After being situated in this yoga practice and vibrating the sacred syllable oṁ, the supreme combination of letters, if one thinks of the Supreme Personality of Godhead and quits his body, he will certainly reach the spiritual planets.
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे अर्जुन! जो अनन्य भाव से निरन्तर मेरा स्मरण करता है उसके लिए मैं सुलभ हूँ, क्योंकि वह मेरी भक्ति में प्रवृत्त रहता है ।
+    en:
+      title: 'Chapter 8 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: |-
+        For one who always remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service.
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        मुझे प्राप्त करके महापुरुष, जो भक्तियोगी हैं, कभी भी दुखों से पूर्ण इस अनित्य जगत् में नहीं लौटते, क्योंकि उन्हें परम सिद्धि प्राप्त हो चुकी होती है ।
+    en:
+      title: 'Chapter 8 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: |-
+        After attaining Me, the great souls, who are yogīs in devotion, never return to this temporary world, which is full of miseries, because they have attained the highest perfection.
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        इस जगत् में सर्वोच्च लोक से लेकर निम्नतम सारे लोक दुखों के घर हैं, जहाँ जन्म तथा मरण का चक्कर लगा रहता है । किन्तु हे कुन्तीपुत्र! जो मेरे धाम को प्राप्त कर लेता है, वह फिर कभी जन्म नहीं लेता ।
+    en:
+      title: 'Chapter 8 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: |-
+        From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kuntī, never takes birth again.
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        मानवीय गणना के अनुसार एक हजार युग मिलकर ब्रह्मा का एक दिन बनता है और इतनी ही बड़ी ब्रह्मा की रात्रि भी होती है ।
+    en:
+      title: 'Chapter 8 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: |-
+        By human calculation, a thousand ages taken together form the duration of Brahmā’s one day. And such also is the duration of his night.
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        ब्रह्मा के दिन के शुभारम्भ में सारे जीव अव्यक्त अवस्था से व्यक्त होते हैं और फिर जब रात्रि आती है तो वे पुनः अव्यक्त में विलीन हो जाते हैं ।
+    en:
+      title: 'Chapter 8 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: |-
+        At the beginning of Brahmā’s day, all living entities become manifest from the unmanifest state, and thereafter, when the night falls, they are merged into the unmanifest again.
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        जब-जब ब्रह्मा का दिन आता है तो सारे जीव प्रकट होते हैं और ब्रह्मा की रात्रि होते ही वे असहायवत् विलीन हो जाते हैं ।
+    en:
+      title: 'Chapter 8 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: |-
+        Again and again, when Brahmā’s day arrives, all living entities come into being, and with the arrival of Brahmā’s night they are helplessly annihilated.
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        इसके अतिरिक्त एक अन्य अव्यक्त प्रकृति है, जो शाश्वत है और इस व्यक्त तथा अव्यक्त पदार्थ से परे है । यह परा (श्रेष्ठ) और कभी नाश न होने वाली है । जब इस संसार का सब कुछ लय हो जाता है, तब भी उसका नाश नहीं होता ।
+    en:
+      title: 'Chapter 8 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: |-
+        Yet there is another unmanifest nature, which is eternal and is transcendental to this manifested and unmanifested matter. It is supreme and is never annihilated. When all in this world is annihilated, that part remains as it is.
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २१'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिसे वेदान्ती अप्रकट तथा अविनाशी बताते हैं, जो परम गन्तव्य है, जिसे प्राप्त कर लेने पर कोई वापस नहीं आता, वही मेरा परमधाम है ।
+    en:
+      title: 'Chapter 8 - Verse 21'
+      subtitle: ''
+      image: ''
+      description: |-
+        That which the Vedāntists describe as unmanifest and infallible, that which is known as the supreme destination, that place from which, having attained it, one never returns – that is My supreme abode.
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २२'
+      subtitle: ''
+      image: ''
+      description: |-
+        भगवान्, जो सबसे महान हैं, अनन्य भक्ति द्वारा ही प्राप्त किये जा सकते हैं । यद्यपि वे अपने धाम में विराजमान रहते हैं, तो भी वे सर्वव्यापी हैं और उनमें सब कुछ स्थित है ।
+    en:
+      title: 'Chapter 8 - Verse 22'
+      subtitle: ''
+      image: ''
+      description: |-
+        The Supreme Personality of Godhead, who is greater than all, is attainable by unalloyed devotion. Although He is present in His abode, He is all-pervading, and everything is situated within Him.
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २३'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे भरतश्रेष्ठ! अब मैं तुम्हें उन विभिन्न कालों को बताऊँगा, जिनमें इस संसार से प्रयाण करने के बाद योगी पुनः आता है अथवा नहीं आता ।
+    en:
+      title: 'Chapter 8 - Verse 23'
+      subtitle: ''
+      image: ''
+      description: |-
+        O best of the Bhāratas, I shall now explain to you the different times at which, passing away from this world, the yogī does or does not come back.
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २४'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो परब्रह्म के ज्ञाता हैं, वे अग्निदेव के प्रभाव में, प्रकाश में, दिन के शुभक्षण में, शुक्लपक्ष में या जब सूर्य उत्तरायण में रहता है, उन छह मासों में इस संसार से शरीर त्याग करने पर उस परब्रह्म को प्राप्त करते हैं ।
+    en:
+      title: 'Chapter 8 - Verse 24'
+      subtitle: ''
+      image: ''
+      description: |-
+        Those who know the Supreme Brahman attain that Supreme by passing away from the world during the influence of the fiery god, in the light, at an auspicious moment of the day, during the fortnight of the waxing moon, or during the six months when the sun travels in the north.
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो योगी धुएँ, रात्रि, कृष्णपक्ष में या सूर्य के दक्षिणायन रहने के छह महीनों में दिवंगत होता है, वह चन्द्रलोक को जाता है, किन्तु वहाँ से पुनः (पृथ्वी पर) चला आता है ।
+    en:
+      title: 'Chapter 8 - Verse 25'
+      subtitle: ''
+      image: ''
+      description: |-
+        The mystic who passes away from this world during the smoke, the night, the fortnight of the waning moon, or the six months when the sun passes to the south reaches the moon planet but again comes back.
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २६'
+      subtitle: ''
+      image: ''
+      description: |-
+        वैदिक मतानुसार इस संसार से प्रयाण करने के दो मार्ग हैं - एक प्रकाश का तथा दूसरा अंधकार का । जब मनुष्य प्रकाश के मार्ग से जाता है तो वह वापस नहीं आता, किन्तु अंधकार के मार्ग से जाने वाला पुनः लौटकर आता है ।
+    en:
+      title: 'Chapter 8 - Verse 26'
+      subtitle: ''
+      image: ''
+      description: |-
+        According to Vedic opinion, there are two ways of passing from this world – one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns.
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २७'
+      subtitle: ''
+      image: ''
+      description: |-
+        हे अर्जुन! यद्यपि भक्तगण इन दोनों मार्गों को जानते हैं, किन्तु वे मोहग्रस्त नहीं होते । अतः तुम भक्ति में सदैव स्थिर रहो ।
+    en:
+      title: 'Chapter 8 - Verse 27'
+      subtitle: ''
+      image: ''
+      description: |-
+        Although the devotees know these two paths, O Arjuna, they are never bewildered. Therefore be always fixed in devotion.
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक २८'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो व्यक्ति भक्तिमार्ग स्वीकार करता है, वह वेदाध्ययन, तपस्या, दान, दार्शनिक तथा सकाम कर्म करने से प्राप्त होने वाले फलों से वंचित नहीं होता । वह मात्र भक्ति सम्पन्न करके इन समस्त फलों की प्राप्ति करता है और अन्त में परम नित्यधाम को प्राप्त होता है ।
+    en:
+      title: 'Chapter 8 - Verse 28'
+      subtitle: ''
+      image: ''
+      description: |-
+        A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing sacrifices, undergoing austerities, giving charity or pursuing philosophical and fruitive activities. Simply by performing devotional service, he attains all these, and at the end he reaches the supreme eternal abode.

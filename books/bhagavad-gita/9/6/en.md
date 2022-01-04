@@ -1,0 +1,28 @@
+##### यथाकाशस्थितो नित्यं वायु: सर्वत्रगो महान् ।
+##### तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥ ६ ॥
+
+##### yathākāśa-sthito nityaṁ
+##### vāyuḥ sarvatra-go mahān
+##### tathā sarvāṇi bhūtāni
+##### mat-sthānīty upadhāraya
+
+#### Synonyms
+
+**yathā** — just as; **ākāśa**-**sthitaḥ** — situated in the sky; **nityam** — always; **vāyuḥ** — the wind; **sarvatra**-**gaḥ** — blowing everywhere; **mahān** — great; **tathā** — similarly; **sarvāṇi** **bhūtāni** — all created beings; **mat**-**sthāni** — situated in Me; **iti** — thus; **upadhāraya** — try to understand.
+
+#### Translation
+
+Understand that as the mighty wind, blowing everywhere, rests always in the sky, all created beings rest in Me.
+
+#### Purport
+
+For the ordinary person it is almost inconceivable how the huge material creation is resting in Him. But the Lord is giving an example which may help us to understand. The sky may be the biggest manifestation we can conceive. And in that sky the wind or air is the biggest manifestation in the cosmic world. The movement of the air influences the movements of everything. But although the wind is great, it is still situated within the sky; the wind is not beyond the sky. Similarly, all the wonderful cosmic manifestations are existing by the supreme will of God, and all of them are subordinate to that supreme will. As we generally say, not a blade of grass moves without the will of the Supreme Personality of Godhead. Thus everything is moving under His will: by His will everything is being created, everything is being maintained, and everything is being annihilated. Still He is aloof from everything, as the sky is always aloof from the activities of the wind.
+
+In the Upaniṣads it is stated, yad-bhīṣā vātaḥ pavate: “It is out of the fear of the Supreme Lord that the wind is blowing.” (Taittirīya Upaniṣad 2.8.1) In the Bṛhad-āraṇyaka Upaniṣad (3.8.9) it is stated, etasya vā akṣarasya praśāsane gārgi sūrya-candramasau vidhṛtau tiṣṭhata etasya vā akṣarasya praśāsane gārgi dyāv-āpṛthivyau vidhṛtau tiṣṭhataḥ. “By the supreme order, under the superintendence of the Supreme Personality of Godhead, the moon, the sun, and the other great planets are moving.” In the Brahma-saṁhitā (5.52) also it is stated,
+
+##### yac-cakṣur eṣa savitā sakala-grahāṇāṁ
+##### rājā samasta-sura-mūrtir aśeṣa-tejāḥ
+##### yasyājñayā bhramati sambhṛta-kāla-cakro
+##### govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+
+This is a description of the movement of the sun. It is said that the sun is considered to be one of the eyes of the Supreme Lord and that it has immense potency to diffuse heat and light. Still it is moving in its prescribed orbit by the order and the supreme will of Govinda. So, from the Vedic literature we can find evidence that this material manifestation, which appears to us to be very wonderful and great, is under the complete control of the Supreme Personality of Godhead. This will be further explained in the later verses of this chapter.

@@ -1,0 +1,28 @@
+- id: 'books'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'शास्त्र'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Books'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'stotra'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'स्तोत्र'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Stotra (Hymns)'
+      subtitle: ''
+      image: ''
+      description: ''

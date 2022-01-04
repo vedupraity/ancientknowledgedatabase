@@ -1,0 +1,812 @@
+- id: '1'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १'
+      subtitle: ''
+      image: ''
+      description: 'मङ्गलाचरण'
+    en:
+      title: 'Part - 1'
+      subtitle: ''
+      image: ''
+      description: 'Invocations'
+- id: '2'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २'
+      subtitle: ''
+      image: ''
+      description: 'गुरु-वन्दना'
+    en:
+      title: 'Part - 2'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to the Guru'
+- id: '3'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३'
+      subtitle: ''
+      image: ''
+      description: 'ब्राह्मण-संत-वंदना'
+    en:
+      title: 'Part - 3'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to Brāhmaṇas and saints'
+- id: '4'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४'
+      subtitle: ''
+      image: ''
+      description: 'खल-वन्दना'
+    en:
+      title: 'Part - 4'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to the wicked'
+- id: '5'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५'
+      subtitle: ''
+      image: ''
+      description: 'संत-असंत-वन्दना'
+    en:
+      title: 'Part - 5'
+      subtitle: ''
+      image: ''
+      description: 'Contrast between saints and the evil-minded'
+- id: '6'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ६'
+      subtitle: ''
+      image: ''
+      description: 'रामरूप से जीवमात्र की वन्दना'
+    en:
+      title: 'Part - 6'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to all living beings as so many images of Śrī Rāma'
+- id: '7'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ७'
+      subtitle: ''
+      image: ''
+      description: 'तुलसीदासजी की दीनता और राम भक्तिमयी कविता की महिमा'
+    en:
+      title: 'Part - 7'
+      subtitle: ''
+      image: ''
+      description: 'Tulasidasas humility and the glory of poetry describing Śrī Rāma''s greatness'
+- id: '8'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ८'
+      subtitle: ''
+      image: ''
+      description: 'कवि-वन्दना'
+    en:
+      title: 'Part - 8'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to the immortal bards'
+- id: '9'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ९'
+      subtitle: ''
+      image: ''
+      description: 'वाल्मीकि, वेद, ब्रह्मा, देवता, शिव, पार्वती आदि की वन्दना'
+    en:
+      title: 'Part - 9'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to the sage Vālmīki, the Vedas, Brahma, Śiva, Pārvatī and other gods and goddesses'
+- id: '10'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १०'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीताराम-धाम-परिकर-वन्दना'
+    en:
+      title: 'Part - 10'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to the abode and companions of Sītā and Rāma'
+- id: '11'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ११'
+      subtitle: ''
+      image: ''
+      description: 'श्री नाम-वन्दना और नाम-महिमा'
+    en:
+      title: 'Part - 11'
+      subtitle: ''
+      image: ''
+      description: 'Salutations to and the glory of the Name'
+- id: '12'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १२'
+      subtitle: ''
+      image: ''
+      description: 'श्री रामगुण और श्री रामचरित् की महिमा'
+    en:
+      title: 'Part - 12'
+      subtitle: ''
+      image: ''
+      description: 'The excellences of Śrī Rāma and the greatness of His story'
+- id: '13'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १३'
+      subtitle: ''
+      image: ''
+      description: 'मानस निर्माण की तिथि'
+    en:
+      title: 'Part - 13'
+      subtitle: ''
+      image: ''
+      description: 'The date of composition of the Rāmacaritamānasa'
+- id: '14'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १४'
+      subtitle: ''
+      image: ''
+      description: 'मानस का रूप और माहात्म्य'
+    en:
+      title: 'Part - 14'
+      subtitle: ''
+      image: ''
+      description: 'The metaphorical representation of the Mānasa as a lake and its glory'
+- id: '15'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १५'
+      subtitle: ''
+      image: ''
+      description: 'याज्ञवल्क्य-भरद्वाज-संवाद तथा प्रयाग-माहात्म्य'
+    en:
+      title: 'Part - 15'
+      subtitle: ''
+      image: ''
+      description: 'Dialogue between the sages - Yājñāvalkya and Bharadvāja and the greatness of Prayāga'
+- id: '16'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १६'
+      subtitle: ''
+      image: ''
+      description: 'सती का भ्रम, श्रीरामजी का ऐश्वर्य और सती का खेद'
+    en:
+      title: 'Part - 16'
+      subtitle: ''
+      image: ''
+      description: 'Sati''s bewilderment, Śrī Rāma''s divine glory and Sati''s remorse'
+- id: '17'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १७'
+      subtitle: ''
+      image: ''
+      description: 'शिवजी द्वारा सती  का त्याग, शिवजी की समाधि'
+    en:
+      title: 'Part - 17'
+      subtitle: ''
+      image: ''
+      description: 'Disowning of Sati by Śiva and Śiva''s trance'
+- id: '18'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १८'
+      subtitle: ''
+      image: ''
+      description: 'सती का दक्ष-यज्ञ में जाना'
+    en:
+      title: 'Part - 18'
+      subtitle: ''
+      image: ''
+      description: 'Sati''s visit to Dakṣa''s sacrifice'
+- id: '19'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - १९'
+      subtitle: ''
+      image: ''
+      description: 'पति के अपमान से दुःखी होकर सती का योगाग्नि से जल जाना, दक्ष-यज्ञ-विध्वंस'
+    en:
+      title: 'Part - 19'
+      subtitle: ''
+      image: ''
+      description: 'Sati''s self-immolation through the fire of Yoga out of indignation at the slight offered to Her Spouse by Her father: destruction of Dakṣa''s sacrifice'
+- id: '20'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २०'
+      subtitle: ''
+      image: ''
+      description: 'पार्वती का जन्म और तपस्या'
+    en:
+      title: 'Part - 20'
+      subtitle: ''
+      image: ''
+      description: 'Descent of Goddess Pārvatī and Her penance'
+- id: '21'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २१'
+      subtitle: ''
+      image: ''
+      description: 'श्रीरामजी का शिवजी से विवाह के लिये अनुरोध'
+    en:
+      title: 'Part - 21'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma''s intercession with Bhagavān Śiva for marriage'
+- id: '22'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २२'
+      subtitle: ''
+      image: ''
+      description: 'सप्तर्षियों की परीक्षा में पार्वतीजी का महत्त्व'
+    en:
+      title: 'Part - 22'
+      subtitle: ''
+      image: ''
+      description: 'Pārvatī''s unique fidelity as revealed through Her test by the seven seers'
+- id: '23'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २३'
+      subtitle: ''
+      image: ''
+      description: 'कामदेव का देवकार्य के लिये जाना और भस्म होना'
+    en:
+      title: 'Part - 23'
+      subtitle: ''
+      image: ''
+      description: 'Love''s departure on the errand of the gods and his being burnt to death'
+- id: '24'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २४'
+      subtitle: ''
+      image: ''
+      description: 'रति को वरदान'
+    en:
+      title: 'Part - 24'
+      subtitle: ''
+      image: ''
+      description: 'Śiva''s boon to Rati (Cuper''s consort)'
+- id: '25'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २५'
+      subtitle: ''
+      image: ''
+      description: 'देवताओं का शिवजी से ब्याह के लिये प्रार्थना करना, सप्तर्षियों का पार्वती के पास जाना'
+    en:
+      title: 'Part - 25'
+      subtitle: ''
+      image: ''
+      description: 'The god''s prayer to Śiva for marriage; the seven seers'' visit to Pārvatī'
+- id: '26'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २६'
+      subtitle: ''
+      image: ''
+      description: 'शिवजी की विचित्र बारात और विवाह की तैयारी'
+    en:
+      title: 'Part - 26'
+      subtitle: ''
+      image: ''
+      description: 'Śiva''s peculiar marriage procession and preparations for the wedding (undertaken by the other party)'
+- id: '27'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २७'
+      subtitle: ''
+      image: ''
+      description: 'शिवजी का विवाह'
+    en:
+      title: 'Part - 27'
+      subtitle: ''
+      image: ''
+      description: 'Śiva''s nuptials'
+- id: '28'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २८'
+      subtitle: ''
+      image: ''
+      description: 'शिव-पार्वती-संवाद'
+    en:
+      title: 'Part - 28'
+      subtitle: ''
+      image: ''
+      description: 'A dialogue between Śiva and Pārvatī'
+- id: '29'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - २९'
+      subtitle: ''
+      image: ''
+      description: 'अवतार के हेतु'
+    en:
+      title: 'Part - 29'
+      subtitle: ''
+      image: ''
+      description: 'Causes of Śrī Rāma''s Descent'
+- id: '30'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३०'
+      subtitle: ''
+      image: ''
+      description: 'नारद का अभिमान और माया का प्रभाव'
+    en:
+      title: 'Part - 30'
+      subtitle: ''
+      image: ''
+      description: 'Ego''s sway over Nārada and the effect of the Lord''s Māyā'
+- id: '31'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३१'
+      subtitle: ''
+      image: ''
+      description: 'विश्वमोहिनी का स्वयंवर, शिवगणों को तथा भगवान को शाप और नारद का मोह-भङ्ग'
+    en:
+      title: 'Part - 31'
+      subtitle: ''
+      image: ''
+      description: 'Princess Viśvamohinī''s self-election of a husband; Nārada''s pronouncing a curse on the attendants of Śiva as well as on the Lord Himself and his subsequent freedom from the spell of infatuation'
+- id: '32'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३२'
+      subtitle: ''
+      image: ''
+      description: 'मनु-शतरूपा-तप एवं वरदान'
+    en:
+      title: 'Part - 32'
+      subtitle: ''
+      image: ''
+      description: 'The austerities of Manu and Śatarũpā and their receiving a boon from the Lord'
+- id: '33'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३३'
+      subtitle: ''
+      image: ''
+      description: 'भानुप्रताप की कथा'
+    en:
+      title: 'Part - 33'
+      subtitle: ''
+      image: ''
+      description: 'The story of king Pratāpabhānu'
+- id: '34'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३४'
+      subtitle: ''
+      image: ''
+      description: 'रावणादि का जन्म, तपस्या और उनका ऐश्वर्य तथा अत्याचार'
+    en:
+      title: 'Part - 34'
+      subtitle: ''
+      image: ''
+      description: 'The birth of Rāvaṇa and his brothers, their austerities, opulence and tyranny'
+- id: '35'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३५'
+      subtitle: ''
+      image: ''
+      description: 'पृथ्वी और देवतादि की करुण पुकार'
+    en:
+      title: 'Part - 35'
+      subtitle: ''
+      image: ''
+      description: 'The piteous appeal of mother Earth and other gods'
+- id: '36'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३६'
+      subtitle: ''
+      image: ''
+      description: 'भगवान् का वरदान'
+    en:
+      title: 'Part - 36'
+      subtitle: ''
+      image: ''
+      description: 'The Lord''s compassion on them'
+- id: '37'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३७'
+      subtitle: ''
+      image: ''
+      description: 'राजा दशरथ का पुत्रेष्टि यज्ञ, रानियों का गर्भवती होना'
+    en:
+      title: 'Part - 37'
+      subtitle: ''
+      image: ''
+      description: 'King Daśaratha''s sacrifice for the birth of a son and his Queen''s pregnancy'
+- id: '38'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३८'
+      subtitle: ''
+      image: ''
+      description: 'श्री भगवान् का प्राकट्य और बाललीला का आनन्द'
+    en:
+      title: 'Part - 38'
+      subtitle: ''
+      image: ''
+      description: 'The Lord''s manifestation and the delightful nature of His childish sports'
+- id: '39'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ३९'
+      subtitle: ''
+      image: ''
+      description: 'विश्वामित्र का राजा दशरथ से राम-लक्ष्मण को माँगना'
+    en:
+      title: 'Part - 39'
+      subtitle: ''
+      image: ''
+      description: 'Viśvāmitra visits king Daśaratha and asks for Śrī Rāma and Lakṣmaṇa'
+- id: '40'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४०'
+      subtitle: ''
+      image: ''
+      description: 'विश्वामित्र-यज्ञ की रक्षा'
+    en:
+      title: 'Part - 40'
+      subtitle: ''
+      image: ''
+      description: 'Protection of Viśvāmitra''s sacrifice'
+- id: '41'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४१'
+      subtitle: ''
+      image: ''
+      description: 'अहल्या-उद्धार'
+    en:
+      title: 'Part - 41'
+      subtitle: ''
+      image: ''
+      description: 'Redemption of Ahalyā'
+- id: '42'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४२'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण सहित विश्वामित्र का जनकपुर में प्रवेश'
+    en:
+      title: 'Part - 42'
+      subtitle: ''
+      image: ''
+      description: 'Entry of Viśvāmitra with Rāma and Lakṣmaṇa into the precincts of Mithilā'
+- id: '43'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४३'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण को देखकर जनकजी की प्रेम-मुग्धता'
+    en:
+      title: 'Part - 43'
+      subtitle: ''
+      image: ''
+      description: 'Janaka''s ecstasy of love at the sight of Rāma and Lakṣmaṇa'
+- id: '44'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४४'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण का जनकपुर-निरीक्षण'
+    en:
+      title: 'Part - 44'
+      subtitle: ''
+      image: ''
+      description: 'A visit to the town by Rāma and Lakṣmaṇa'
+- id: '45'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४५'
+      subtitle: ''
+      image: ''
+      description: 'पुष्पवाटिका-निरीक्षण, सीताजी का प्रथम दर्शन, श्रीसीतारामजी का परस्पर दर्शन'
+    en:
+      title: 'Part - 45'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma''s visit to Janaka''s garden; Rāma and Sītā catch sight of each other'
+- id: '46'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीताजी का पार्वती-पूजन एवं वरदान प्राप्ति तथा राम-लक्ष्मण-संवाद'
+    en:
+      title: 'Part - 46'
+      subtitle: ''
+      image: ''
+      description: 'Worship of Goddess Pārvatī by Sītā, Her receiving blessing from the Goddess and a dialogue between Rāma and Lakṣmaṇa'
+- id: '47'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४७'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण सहित विश्वामित्र का यज्ञशाला में प्रवेश'
+    en:
+      title: 'Part - 47'
+      subtitle: ''
+      image: ''
+      description: 'Śrī Rāma''s entry into the pavilion erected for the Bow-Sacrifice along- with Lakṣmaṇa'
+- id: '48'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४८'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीताजी का यज्ञशाला में प्रवेश, वन्दीजनों द्वारा जनक प्रतिज्ञा की घोषणा'
+    en:
+      title: 'Part - 48'
+      subtitle: ''
+      image: ''
+      description: 'Sītā''s entry into the pavilion, Proclamation of Janakais vow by his heralds'
+- id: '49'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ४९'
+      subtitle: ''
+      image: ''
+      description: 'राजाओं से धनुष न उठना, जनक की निराशा-जनक वाणी'
+    en:
+      title: 'Part - 49'
+      subtitle: ''
+      image: ''
+      description: 'The princes'' failure to lift the bow and Janaka''s despondent utterance'
+- id: '50'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५०'
+      subtitle: ''
+      image: ''
+      description: 'श्रीलक्ष्मणजी का क्रोध'
+    en:
+      title: 'Part - 50'
+      subtitle: ''
+      image: ''
+      description: 'Lakṣmaṇa''s fulmination'
+- id: '51'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५१'
+      subtitle: ''
+      image: ''
+      description: 'धनुषभङ्ग'
+    en:
+      title: 'Part - 51'
+      subtitle: ''
+      image: ''
+      description: 'The breaking of the Bow'
+- id: '52'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५२'
+      subtitle: ''
+      image: ''
+      description: 'जयमाल पहनाना'
+    en:
+      title: 'Part - 52'
+      subtitle: ''
+      image: ''
+      description: 'Sītā places the wreath of victory round Rāma''s neck'
+- id: '53'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५३'
+      subtitle: ''
+      image: ''
+      description: 'श्रीराम-लक्ष्मण और परशुराम-संवाद'
+    en:
+      title: 'Part - 53'
+      subtitle: ''
+      image: ''
+      description: 'Arrival of Paraśurāma, exchange of hot words between Lakṣmaṇa and Paraśurāma and Śrī Rāma''s triumph over the latter'
+- id: '54'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५४'
+      subtitle: ''
+      image: ''
+      description: 'दशरथजी के पास जनकजी का दूत भेजना, अयोध्या से बारात का प्रस्थान'
+    en:
+      title: 'Part - 54'
+      subtitle: ''
+      image: ''
+      description: 'Janaka''s despatching of messengers to Ayodhyā and departure of the marriage procession from there'
+- id: '55'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५५'
+      subtitle: ''
+      image: ''
+      description: 'बारात का जनकपुर में आना और स्वागतादि'
+    en:
+      title: 'Part - 55'
+      subtitle: ''
+      image: ''
+      description: 'Arrival of the marriage procession and its reception etc., at Janakapura'
+- id: '56'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५६'
+      subtitle: ''
+      image: ''
+      description: 'श्रीसीता-राम-विवाह'
+    en:
+      title: 'Part - 56'
+      subtitle: ''
+      image: ''
+      description: 'The wedding of Sītā and Rāma and Their farewell'
+- id: '57'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५७'
+      subtitle: ''
+      image: ''
+      description: 'बारात का अयोध्या लौटना और अयोध्या में आनन्द'
+    en:
+      title: 'Part - 57'
+      subtitle: ''
+      image: ''
+      description: 'Return of the marriage procession to Ayodhyā and rejoicing in the city'
+- id: '58'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'भाग - ५८'
+      subtitle: ''
+      image: ''
+      description: 'श्रीरामचरित सुनने-गाने की महिमा'
+    en:
+      title: 'Part - 58'
+      subtitle: ''
+      image: ''
+      description: 'The glory of hearing and singing the story of Śrī Rāma'
