@@ -6,12 +6,18 @@
       title: 'श्री हरि स्तोत्रं'
       subtitle: ''
       image: 'images/hari-stotram-cover-4x3.jpg'
-      description: ''
+      description: |-
+        श्री हरि स्तोत्रम भगवान हरि (विष्णु) की स्तुति में एक भजन है, जो स्वामी ब्रह्मानंद द्वारा रचित है, जो महान तपस्वियों में से एक है ।
+
+        भगवान हरि का यह अष्टक जो कि मुरारी के कंठ की माला के समान है, जो भी इसे सच्चे मन से पढ़ता है वह वैकुण्ठ लोक को प्राप्त होता है । वह दुख, शोक, जन्म-मरण से मुक्त हो जाता है इसमें कोई संदेह नहीं है ।
     en:
       title: 'Shri Hari Stotram'
       subtitle: ''
       image: 'images/hari-stotram-cover-4x3.jpg'
-      description: ''
+      description: |-
+        Sri Hari Stotram is a hymn in the praise of Lord Hari (Vishnu), composed by Swami Brahmananda, one of the great ascetics.
+
+        The one who reads with peace, This octet on Hari, Which is the destroyer of sorrow, Would definitely reach the world of Vishnu, Which is always without sorrow, And he would never undergo sorrow ever.
 - id: 'shiv-tandav-stotram'
   type: 'leaf'
   paginated: false
@@ -19,10 +25,20 @@
     hi:
       title: 'शिव तांडव स्तोत्रं'
       subtitle: ''
-      image: ''
-      description: ''
+      image: 'images/shiv-tandav-cover-4x3.jpg'
+      description: |-
+        शिव तांडव स्तोत्र लंका के राजा रावण द्वारा रचित सबसे लोकप्रिय शिव स्तोत्र है । वह *नवव्याकरण* (संस्कृत व्याकरण के ९ प्रकार) के विद्वान और भगवान शिव के बहुत बड़े भक्त थे । शिव तांडव स्तोत्र उनकी कई रचनाओं में से एक है ।
+
+        सृष्टि महा-प्रलय के बिंदु पर समाप्त होती है जब अभिव्यक्ति वापस महान शून्य में वापस आ जाती है । यह तब होता है जब शिव अपना प्रसिद्ध ब्रह्मांडीय नृत्य "शिव तांडव" शुरू करते हैं । उनके नृत्य से, विनाशकारी ऊर्जाएँ निकलती हैं और सक्रिय होती हैं जो पूरी सृष्टि को नष्ट कर देती हैं ।
+
+        सायंकाल में पूजा समाप्त होने पर जो रावण के गाये हुए इस शिव तांडव स्तोत्रं का पाठ करता है, भगवान शंकर उस मनुष्य को रथ, हाथी, घोड़ों से युक्त सदा स्थिर रहने वाली संपत्ति प्रदान करते हैं ।
     en:
       title: 'Shiv Tandav Stotram'
       subtitle: ''
-      image: ''
-      description: ''
+      image: 'images/shiv-tandav-cover-4x3.jpg'
+      description: |-
+        Shiva Tandava Stotram is the most popular Shiva Stotram composed by Ravana, King of Lanka. He was a scholar in *Navavyakarana* (the 9 types of Sanskrit grammar) and a great devotee of Lord Shiva. Shiva Tandav Stotram is one of his many works.
+
+        Creation ends at the point of Maha-Pralaya when manifestation is withdrawn back into the Great Void. This is when Shiva begins his “Shiva Tandav“, his famous cosmic dance. From his dance, the destructive energies are released and activated that dismantle all of the creation.
+
+        He who sings this song composed by the ten-headed one (Ravana), At the end of every worship or, Reads it after worship of Shiva on the Pradosha day, Will get the blessing of Lord Shiva, chariots, elephants and horses, As well as the affectionate sight of the god of wealth.
