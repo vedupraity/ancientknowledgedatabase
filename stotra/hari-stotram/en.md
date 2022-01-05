@@ -118,7 +118,7 @@ Who is pure music to great sages,
 Who is served by Devas,
 And who is above all beings.
 
-#### फलश्रुति
+#### Phalaśruti (Outcome)
 
 ##### इदम् यस्तु नित्यं समाधाय चित्तम् पठेदष्टकम् कण्ठहारं मुरारेः ।
 ##### स विष्णोर्विशोकं ध्रुवम् याति लोकम् जराजन्म शोकं पुनर्विदन्ते नो ॥
