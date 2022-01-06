@@ -17,12 +17,26 @@
   paginated: false
   meta:
     hi:
-      title: 'स्तोत्र'
+      title: 'स्तोत्रं'
       subtitle: ''
       image: ''
       description: ''
     en:
       title: 'Stotra (Hymns)'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'chalisa'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'चालीसा'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Chalisa (Poetry)'
       subtitle: ''
       image: ''
       description: ''
