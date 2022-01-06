@@ -1,4 +1,8 @@
-#### Śrī Hari Stotraṃ
+### Shri Hari Stotram (Śrī Hari Stotraṃ)
+
+<iframe width="100%" height="400px" src="https://www.youtube-nocookie.com/embed/YvT89hqFx_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 ##### जगज्जाल पालम् कचत् कण्ठमालं, शरच्चन्द्र भालं महादैत्य कालम् ।
 ##### नभो-नीलकायम् दुरावारमायम्, सुपद्मा सहायं भजेऽहं भजेऽहं ॥ 1 ॥
