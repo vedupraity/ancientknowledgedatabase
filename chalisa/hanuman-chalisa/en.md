@@ -77,7 +77,7 @@ You helped Sugrīva by introducing Him to Lord Rāma and regaining his crown. Th
 
 Likewise, complying with Your preachings, even Vibhīṣhaṇa became the King of Laṃkā.
 
-You swallowed the sun, located thousands of miles away, mistaking it to be a sweet, red fruit!
+You swallowed the sun, located <a href="#juga-sahastra-jojana">juga sahastra jojana</a> (15.36 Crore km) away, mistaking it to be a sweet, red fruit!
 
 ##### prabhu mudrikā meli mukha māhī jaladhi lā~ghi gae acaraja nāhī .
 ##### durgama kāja jagata ke jete sugama anugraha tumhare tete .. 10 ..
@@ -124,29 +124,9 @@ You are the guardian of saints and sages; the destroyer of demons and adored by 
 ##### aṣṭa siddhi nau nidhi ke dātā asa bara dīna jānakī mātā .
 ##### rāma rasāyana tumhare pāsā sadā raho raghupati ke dāsā .. 16 ..
 
-You have been blessed by Mother Jānakī to give boon further, to the deserving ones, wherein You can grant the Aṣṭa Siddhi (eight different mystic powers) and the Nidhis (nine different kinds of wealth).
+You have been blessed by Mother Jānakī to give boon further, to the deserving ones, wherein You can grant the <a href="#Asta-Siddhi">Aṣṭa Siddhi</a> (eight different mystic powers) and the <a href="#Nau-Nidhis">Nau Nidhis</a> (nine different kinds of wealth).
 
 You have the essence of Rāma bhakti, may you always remain the humble and devoted servant of Raghupati.
-
-- Aṣṭa Siddhi (Eight different mystic powers):
-    - Aṇimā: Ability to reduce one’s size
-    - Mahima: Ability to increase one’s size
-    - Garima: Ability to become heavier
-    - Laghima: Ability to become lighter
-    - Prāpti: Ability to Obtain anything
-    - Prākāmya: Ability to fulfill your desires
-    - Iṣiṭva: Lordship over creation
-    - Vaśitva: Control over everything
-- Nidhis (Eight different mystic powers):
-    - Mahapadma: Great lotus flower (one of the nine treasures of Kubera)
-    - Padma: Lotus flower
-    - Shankha: Conch shell (In Hindu mythology, the shankha is a sacred emblem of the Hindu preserver God Viṣṇu.)
-    - Makara: Crocodile (Makara appears as the Vāhana (vehicle) of the river Goddess Ganga and of the sea God varuṇa.)
-    - Kachchhapa: Tortoise
-    - Mukunda: Cinnabar/Quick Silver
-    - Kunda: Jasmine flower
-    - Nila: Sapphire
-    - Kharva: Cups, vessels baked in fire
 
 ##### tumhare bhajana rāma ko pāvai janama janama ke dukha bisarāvai .
 ##### aṃtakāla raghuvarapura jāī jahā~ janma haribhakta kahāī .. 17 ..
@@ -188,3 +168,45 @@ With Lord Rāma, Lakṣmaṇa and Mother Sītā, dwell in my heart, always.
 ---
 
 Hanumāna Chalisa is a timeless ode to devotion Lord Hanumāna is known for his devotion to Lord Rāma and is considered to be the embodiment of faith, surrender, and devotion. He is one of seven chiranjeevs (immortals) as per Sanatan Dharma. Hanumāna also appears in Mahabharata on Arjuna's chariot as 'dhwaj' (flag). The 'Hanumāna Chalisa' is composed by Saint Goswami Tulsidas, the author of the Tulsi Rāmayana (Rāmacharitamanasa). Composed of 40 verses filled with praises for Lord Hanumāna, the Hanumāna Chalisa is composed in Avadhi. This dialect of Hindi was spoken in Ayodhya (Lord Rāma’s birthplace).
+
+---
+
+<div class="link-with-offset" id="juga-sahastra-jojana"></div>
+#### juga sahastra jojana
+
+Distance between Earth and the Sun:
+
+    1 juga = 1 Manayuga = 4 Yuga = 12,000 divine years
+    1 sahastra = 1000
+    1 jojana = 12.8 किलोमीटर
+    juga-sahastra-jojana = 12000 x 1000 x 12.8 km (15.36 Crore km)
+    According to NASA, this distance is about 14.96 Crore km.
+
+<div class="link-with-offset" id="Asta-Siddhi"></div>
+#### Aṣṭa Siddhi
+
+eight different mystic powers:
+
+- Aṇimā --- Ability to reduce one’s size
+- Mahimā --- Ability to increase one’s size
+- Garimā --- Ability to become heavier
+- Laghimā --- Ability to become lighter
+- Prāpti --- Ability to Obtain anything
+- Prakāmyā --- Ability to fulfill your desires
+- Iśitva --- Lordship over creation
+- Vaśitva --- Control over everything
+
+<div class="link-with-offset" id="Nau-Nidhis"></div>
+#### Nau Nidhis
+
+nine different kinds of wealth:
+
+- Padma
+- Mahāpadma
+- Nīla
+- Mukuṃda
+- Nanda
+- Makara
+- Kacchapa
+- Śaṃkha
+- Kharva
