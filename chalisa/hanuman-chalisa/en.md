@@ -178,7 +178,7 @@ Distance between Earth and the Sun:
 
     1 juga = 1 Manayuga = 4 Yuga = 12,000 divine years
     1 sahastra = 1000
-    1 jojana = 12.8 किलोमीटर
+    1 jojana = 12.8 Kilometers
     juga-sahastra-jojana = 12000 x 1000 x 12.8 km (15.36 Crore km)
     According to NASA, this distance is about 14.96 Crore km.
 
