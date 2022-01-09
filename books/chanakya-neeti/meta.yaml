@@ -1,0 +1,255 @@
+- id: '1'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१. प्रथमोऽध्यायः'
+      subtitle: 'पहला अध्याय'
+      image: ''
+      description: |-
+        किसी कष्ट अथवा आपत्तिकाल से बचाव के लिए धन की रक्षा करनी चाहिए । धन खर्च करके भी स्त्रियों की रक्षा करनी चाहिए, परंतु स्त्रियों और धन से भी आवश्यक है कि व्यक्ति स्वयं की रक्षा करे ।
+    en:
+      title: 'Chapter 1'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '2'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '२. द्वितीयोऽध्यायः'
+      subtitle: 'दूसरा अध्याय'
+      image: ''
+      description: |-
+        'मनसा चिंतितं कार्यं' अर्थात मन से सोचे हुए कार्य को वाणी द्वारा प्रकट नहीं करना चाहिए, परंतु मननपूर्वक भली प्रकार सोचते हुए उसकी रक्षा करनी चाहिए और स्वयं चुप रहते हुए उस सोची हुई बात को कार्यरूप में बदलना चाहिए ।
+    en:
+      title: 'Chapter 2'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '3'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '३. तृतीयोऽध्यायः'
+      subtitle: 'तीसरा अध्याय'
+      image: ''
+      description: |-
+        जहां मूर्खों की पूजा नहीं होती, जहां अन्न आदि काफी मात्रा में इकट्ठे रहते हैं, जहां पति-पत्नी में किसी प्रकार का कलह, लड़ाई-झगड़ा नहीं, ऐसे स्थान पर लक्ष्मी स्वयं आकर निवास करने लगती है ।
+    en:
+      title: 'Chapter 3'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '4'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '४. चतुर्थोऽध्यायः'
+      subtitle: 'चौथा अध्याय'
+      image: ''
+      description: |-
+        व्यक्ति को चाहिए कि वह ऐसे धर्म का त्याग कर दे, जिसमें दया और ममता आदि का अभाव हो । इसी प्रकार विद्या से हीन, सदा क्रोध करने वाली स्त्री और जिन बंधु-बांधवों में प्रेम का अभाव हो, उनका भी त्याग कर देना चाहिए । उनसे भी दूर रहना चाहिए ।
+    en:
+      title: 'Chapter 4'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '5'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '५. पंचामोऽध्यायः'
+      subtitle: 'पांचवां अध्याय'
+      image: ''
+      description: |-
+        धन से धर्म की, योग से विद्या की, मधुरता से राजा की और अच्छी स्त्रियों से घर की रक्षा होती है ।
+    en:
+      title: 'Chapter 5'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '6'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '६. षष्ठोऽध्यायः'
+      subtitle: 'छठा अध्याय'
+      image: ''
+      description: |-
+        बुद्धिमान व्यक्ति को अपनी इंद्रियों को वश में करके समय के अनुरूप बगुले के समान अपने कार्य को सिद्ध करना चाहिए । तब तक धैर्य रखना चाहिए जब तक लक्ष्य चलकर पास न आ जाए ।
+    en:
+      title: 'Chapter 6'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '7'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '७. सप्तामोऽध्यायः'
+      subtitle: 'सातवां अध्याय'
+      image: ''
+      description: |-
+        जिस मनुष्य ने विद्या को ग्रहण नहीं किया, उसका जीवन कुत्ते की उस पूंछ के समान है, जिससे न तो वह अपने गुप्त भागों को ढंक सकता है, न ही काटने वाले मच्छर आदि कीटों को उड़ा सकता है ।
+    en:
+      title: 'Chapter 7'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '8'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '८. अष्टमोऽध्यायः'
+      subtitle: 'आठवां अध्याय'
+      image: ''
+      description: |-
+        आठवां अध्याय भूमि के अंदर से निकलने वाला पानी शुद्ध माना जाता है । पतिव्रता नारी पवित्र होती है । लोगों का कल्याण करने वाला राजा पवित्र माना जाता है और संतोषी ब्राह्मण को भी पवित्र माना गया है ।
+    en:
+      title: 'Chapter 8'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '9'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '९. नवमोऽध्यायः'
+      subtitle: 'नौवां अध्याय'
+      image: ''
+      description: |-
+        जो ब्राह्मण धन की प्राप्ति के विचार से वेदों का अध्ययन करते हैं और जो क्षुद्र अर्थात नीच मनुष्यों का अन्न खाते हैं, वे विषहीन सांप के समान कुछ भी करने में असफल होते हैं ।
+    en:
+      title: 'Chapter 9'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '10'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१०. दशमोऽध्यायः'
+      subtitle: 'दसवां अध्याय'
+      image: ''
+      description: |-
+        भाग्य अथवा प्रभु की महिमा अपरम्पार है, उसके कारण एक निर्धन भिखारी पल में राजा बन सकता है और राजा को कंगाल होना पड़ता है ।
+    en:
+      title: 'Chapter 10'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '11'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '११. एकादशोऽध्यायः'
+      subtitle: 'ग्यारहवां अध्याय'
+      image: ''
+      description: |-
+        जो दूसरों के कार्य को बिगाड़ता है, ढोंगी है, अपना ही स्वार्थ सिद्ध करने में लगा रहता है, दूसरों को धोखा देता है, सबसे द्वेष करता है, दिखने में अत्यन्त नम्र और अन्दर से पैनी छुरी के समान है, ऐसे ब्राह्मण को बिलाव समझना चाहिए ।
+    en:
+      title: 'Chapter 11'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '12'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१२. द्वादशोऽध्यायः'
+      subtitle: 'बारहवां अध्याय'
+      image: ''
+      description: |-
+        बुद्धिमान मनुष्य को भोजन प्राप्ति के संबंध में चिंता नहीं करनी चाहिए, उसे केवल धर्म-कर्म के संबंध में चिंतन करना चाहिए, क्योंकि मनुष्य के जन्म के समय ही भोजन का प्रबंध हो जाता है ।
+    en:
+      title: 'Chapter 12'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '13'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१३. त्रयोदशोऽध्यायः'
+      subtitle: 'तेरहवां अध्याय'
+      image: ''
+      description: |-
+        जिस प्रकार हजारों गायों में बछड़ा केवल अपनी मां के ही पास आता है, उसी प्रकार जो कर्म किया जाता है, वह कर्म करने वाले के पीछे-पीछे चलता है ।
+    en:
+      title: 'Chapter 13'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '14'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१४. चतुर्दशोऽध्यायः'
+      subtitle: 'चौदहवां अध्याय'
+      image: ''
+      description: |-
+        देखने वाले एक ही वस्तु को तीन प्रकार से देखते हैं । योगी उसे अति-निंदित शव के रूप में देखते हैं । कामी लोग सुंदर नारी के रूप में देखते हैं और कुत्ता उसे एक मांस के लोथड़े के रूप में देखता है ।
+    en:
+      title: 'Chapter 14'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '15'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१५. पंचदशोऽध्यायः'
+      subtitle: 'पंद्रहवां अध्याय'
+      image: ''
+      description: |-
+        अन्याय से कमाया हुआ धन अधिक से अधिक दस वर्ष तक किसी व्यक्ति के पास ठहरता है और ग्यारहवां वर्ष प्रारंभ होते ही ब्याज और मूल सहित नष्ट हो जाता है ।
+    en:
+      title: 'Chapter 15'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '16'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१६. षोडशोऽध्यायः'
+      subtitle: 'सोलहवां अध्याय'
+      image: ''
+      description: |-
+        संसार एक कड़वा वृक्ष है लेकिन आश्चर्य है कि इस पर अमृत सरीखे मीठे और जीवन देने वाले दो फल लगते हैं, एक मधुर वाणी और दूसरी सज्जनों की संगति ।
+    en:
+      title: 'Chapter 16'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '17'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: '१७. सप्तदशोऽध्यायः'
+      subtitle: 'सत्रहवां अध्याय'
+      image: ''
+      description: |-
+        घर में सुंदर, सती और पतिव्रता पत्नी, धन-संपत्ति, विनयशील पुत्र और पौत्र-पौत्री आदि हों तो स्वर्गलोक में भी इससे अधिक सुख नहीं मिलता ।
+    en:
+      title: 'Chapter 17'
+      subtitle: ''
+      image: ''
+      description: ''

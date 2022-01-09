@@ -30,3 +30,12 @@
       image: 'images/ramcharitmanas-cover-4x3.jpg'
       description: |-
         Shri Ramcharitmanas (Śrī Rāmacaritamānasa), is an epic poem in Awadhi language, composed by the 16th-century Indian bhakti poet Tulsidas (c. 1532–1623). The word Ramcharitmanas literally means *Lake of the deeds of Rama*.
+- id: 'chanakya-neeti'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'चाणक्य नीति'
+      subtitle: 'चाणक्य'
+      image: ''
+      description: ''
