@@ -19,13 +19,13 @@
   paginated: false
   meta:
     hi:
-      title: 'श्रीरामचरितमानस'
+      title: 'श्रीरामचरितमानस (तुलसी रामायण)'
       subtitle: 'गोस्वामी तुलसीदास'
       image: 'images/ramcharitmanas-cover-4x3.jpg'
       description: |-
         रामचरितमानस अवधी भाषा में गोस्वामी तुलसीदास द्वारा १६वीं सदी में रचित प्रसिद्ध ग्रन्थ है । इस ग्रन्थ को अवधी साहित्य (हिंदी साहित्य) की एक महान कृति माना जाता है । इसे सामान्यतः 'तुलसी रामायण' या 'तुलसीकृत रामायण' भी कहा जाता है । गोस्वामी जी ने रामचरित का अनुपम शैली में दोहों, चौपाइयों, सोरठों तथा छंद का आश्रय लेकर वर्णन किया है ।
     en:
-      title: 'Shri Ramcharitmanas'
+      title: 'Shri Ramcharitmanas (Tulsi Ramayana)'
       subtitle: 'Goswami Tulsidas'
       image: 'images/ramcharitmanas-cover-4x3.jpg'
       description: |-
