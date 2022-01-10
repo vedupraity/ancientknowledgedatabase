@@ -1,3 +1,32 @@
+- id: 'a'
+  type: 'leaf'
+  paginated: true
+  meta:
+    hi:
+      title: 'चाणक्य नीति'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Chanakya Neeti'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: 'b'
+  type: 'tree'
+  paginated: true
+  meta:
+    hi:
+      title: 'चाणक्य जीवन गाथा'
+      subtitle: ''
+      image: ''
+      description: |-
+        चाणक्य ने ईसा से ३०० वर्ष पूर्व ऋषि चणक के पुत्र के रूप में जन्म लिया। वही उनके आरंभिक काल के गुरु थे। कुछ इतिहासकार मानते हैं कि चणक केवल उनके गुरु थे। चणक के ही शिष्य होने के नाते उनका नाम चाणक्य पड़ा। उस समय का कोई प्रामाणिक इतिहास उपलब्ध नहीं है। इतिहासकारों ने प्राप्त सूचनाओं के आधार पर अपनी-अपनी धारणाएं बनाईं।
+    en:
+      title: 'Life of Chanakya'
+      subtitle: ''
+      image: ''
+      description: ''
 - id: '1'
   type: 'tree'
   paginated: true
