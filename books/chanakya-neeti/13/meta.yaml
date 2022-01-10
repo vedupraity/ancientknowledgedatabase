@@ -1,0 +1,288 @@
+- id: '1'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        मनुष्य को यदि एक मुहूर्त अर्थात 48 मिनट का जीवन भी मिले तो उसे उत्तम और पुण्य कार्य करते हुए जीवित रहना चाहिए, क्योंकि ऐसा ही जीवन उत्तम है, परंतु इस लोक और परलोक में दुष्ट कर्म करते हुए हजारों वर्ष जीना भी व्यर्थ है ॥ 1 ॥
+    en:
+      title: 'Chapter 1 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '2'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय २ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो बातें बीत चुकी हैं, उन पर शोक नहीं करना चाहिए और भविष्य की भी चिंता नहीं करनी चाहिए । बुद्धिमान लोग वर्तमान समय के अनुसार कार्य में लगे रहते हैं ॥ 2 ॥
+    en:
+      title: 'Chapter 2 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '3'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ३ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        देवता, सज्जन और पिता स्वभाव से संतुष्ट होते हैं, बन्धु-बान्धव अच्छे खानपान से जबकि पंडित (विवेकशील) मधुर भाषण से ही प्रसन्न हो जाते हैं ॥ 3 ॥
+    en:
+      title: 'Chapter 3 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '4'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ४ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        महात्माओं और सज्जनों का चरित्र बड़ा विचित्र होता है । वे धन को तिनके के समान समझते हैं, परंतु तब उसके भार से वह झुक जाते हैं, अर्थात विनम्र बन जाते हैं जब वह आता है ॥ 4 ॥
+    en:
+      title: 'Chapter 4 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '5'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिसका किसी के प्रति स्नेह अथवा प्रेम होता है, उसी से उसको भय भी होता है । स्नेह अथवा प्रेम ही दुख का आधार है । स्नेह ही सारे दुखों का मूल कारण है । इसलिए उन स्नेह बन्धनों को त्यागकर सुखपूर्वक रहने का प्रयत्न करना चाहिए ॥ 5 ॥
+    en:
+      title: 'Chapter 5 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '6'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ६ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        आने वाले कष्ट को दूर करने के लिए जो पहले से ही तैयार रहता है और जो विपत्ति आने पर उसे दूर करने का उपाय सोच लेता है, ये दोनों प्रकार के व्यक्ति अपने सुख की वृद्धि करते हैं अर्थात सुखी रहते हैं तथा जो यह सोचता है कि जो भाग्य में लिखा है वही होगा, ऐसा व्यक्ति नष्ट हो जाता है ॥ 6 ॥
+    en:
+      title: 'Chapter 6 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '7'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ७ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        राजा के धर्मात्मा होने पर प्रजा भी धार्मिक आचरण करती है । राजा के पापी होने पर प्रजा भी पाप में लग जाती है । राजा उदासीन रहता है, तो प्रजा भी उदासीन रहने लगती है, क्योंकि प्रजा वैसा ही आचरण करती है, जैसा राजा करता है ॥ 7 ॥
+    en:
+      title: 'Chapter 7 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '8'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        चाणक्य कहते हैं कि मैं धर्म से रहित अधर्मी व्यक्ति को जीवित रहने पर भी मरे हुए के समान समझता हूं । जबकि धर्मयुक्त मनुष्य मृत्यु के बाद भी जीवित रहता है, इस बात में किसी प्रकार का सन्देह नहीं ॥ 8 ॥
+
+        #
+    en:
+      title: 'Chapter 8 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '9'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ९ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिस मनुष्य के पास धर्म, अर्थ, काम और मोक्ष इन चारों में से एक चीज भी नहीं है, उसका जन्म बकरी के गले में लटकते हुए स्तनों के समान निरर्थक होता है ॥ 9 ॥
+    en:
+      title: 'Chapter 9 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '10'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        नीच मनुष्य दूसरे व्यक्ति के यश को बढ़ता हुआ देखकर उसकी यशरूपी कीर्ति से जलते हैं और जब उस पद को प्राप्त करने में असमर्थ रहते हैं, तब उस व्यक्ति की निंदा करने लगते हैं ॥ 10 ॥
+    en:
+      title: 'Chapter 10 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '11'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ११ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        यमनुष्य अपने विचारों के कारण ही अपने आपको बन्धनों में फंसा हुआ मानता है और अपने विचारों के कारण ही अपने आपको बंधनों से मुक्त समझता है । विषय-वासनाएं ही मनुष्य के बंधन के कारण हैं और विषय-वासनाओं से मुक्त होकर ही मनुष्यों को मोक्ष प्राप्त होता है ॥ 11 ॥
+    en:
+      title: 'Chapter 11 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '12'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १२ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        अपने शरीर के अभिमान से नष्ट हो जाने पर, अपने आपको परमात्मा से युक्त जान लेने पर मन जहां-जहां जाता है, वहां-वहां ही उसे समाधि से युक्त समझना चाहिए ॥ 12 ॥
+    en:
+      title: 'Chapter 12 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '13'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १३ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        मनुष्य के मन की सभी इच्छाएं कभी भी पूर्ण नहीं होतीं, क्योंकि वे सभी भाग्य के अधीन हैं, इसलिए मनुष्य को अपने जीवन में संतोष धारण करना चाहिए ॥ 13 ॥
+    en:
+      title: 'Chapter 13 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '14'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १४ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिस प्रकार हजारों गायों में बछड़ा केवल अपनी मां के ही पास जाता है, उसी प्रकार जो कर्म किया जाता है, वह कर्म करने वाले के पीछे-पीछे चलता है ॥ 14 ॥
+    en:
+      title: 'Chapter 14 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '15'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १५ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        बेढंगे काम करने वाले को न समाज में सुख मिलता है, न ही जंगल में । ऐसे व्यक्ति को समाज में मनुष्यों का संसर्ग दुखी करता है जबकि जंगल में अकेलापन ॥ 15 ॥
+    en:
+      title: 'Chapter 15 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '16'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १६ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        जैसे फावड़े से खोदने पर पृथ्वी से जल प्राप्त होता है, वैसे ही गुरु की सेवा करने वाला विद्यार्थी विद्या को प्राप्त करता है ॥ 16 ॥
+    en:
+      title: 'Chapter 16 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '17'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        मनुष्य को कर्मों के अनुसार ही फल मिलता है और मनुष्य की बुद्धि भी कर्मों के अनुसार ही कार्य करती है । इतने पर भी बुद्धिमान और सज्जन भली-भांति सोच-विचार कर
+        अलार्य करते हैं ॥ 17 ॥
+    en:
+      title: 'Chapter 17 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '18'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १८ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        एकाक्षर मंत्र देने वाले गुरु की जो वंदना नहीं करता, वह कुत्ते की योनि में सौ बार जन्म लेकर फिर चाण्डाल के घर उत्पन्न होता है ॥ 18 ॥
+    en:
+      title: 'Chapter 18 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '19'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १९ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        एक युग के अंत में सुमेरु पर्वत भी अपने स्थान पर स्थिर नहीं रहता, कल्प के अंत में समुद्र भी अपनी सीमाएं लांघकर इस संसार को कष्ट में डाल देता है, परंतु श्रेष्ठ पुरुष अपने हाथ में लिए हुए कार्य को पूरा करने की प्रतिज्ञा से विचलित नहीं होते ॥ 19 ॥
+    en:
+      title: 'Chapter 19 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: ''

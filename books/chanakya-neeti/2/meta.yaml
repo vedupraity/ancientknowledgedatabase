@@ -1,0 +1,300 @@
+- id: '1'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        झूठ बोलना, बिना सोचे-समझे किसी कार्य को प्रारंभ कर देना, दुस्साहस करना, छलकपट करना, मूर्खतापूर्ण कार्य करना, लोभ करना, अपवित्र रहना और निर्दयता-ये स्त्रियों के स्वाभाविक दोष हैं ॥ 1 ॥
+    en:
+      title: 'Chapter 1 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '2'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय २ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        भोजन के लिए अच्छे पदार्थों का प्राप्त होना, उन्हें खाकर पचाने की शक्ति होना, सुंदर स्त्री का मिलना, उसके उपभोग के लिए कामशक्ति होना, धन के साथ-साथ दान देने की इच्छा होना-ये बातें मनुष्य को किसी महान तप के कारण प्राप्त होती हैं ॥ 2 ॥
+    en:
+      title: 'Chapter 2 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '3'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ३ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिसका बेटा वश में रहता है, पत्नी पति की इच्छा के अनुरूप कार्य करती है और जो व्यक्ति धन के कारण पूरी तरह संतुष्ट है, उसके लिए पृथ्वी ही स्वर्ग के समान है ॥ 3 ॥
+    en:
+      title: 'Chapter 3 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '4'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ४ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        पुत्र उन्हें ही कहा जा सकता है जो पिता के भक्त होते हैं, पिता भी वही है जो पुत्रों का पालन-पोषण करता है, इसी प्रकार मित्र भी वही है जिस पर विश्वास किया जा सकता है और भार्या अर्थात पत्नी भी वही है जिससे सुख की प्राप्ति होती है ॥ 4 ॥
+    en:
+      title: 'Chapter 4 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '5'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो पीठ पीछे कार्य को बिगाड़े और सामने होने पर मीठी-मीठी बातें बनाए, ऐसे मित्र को उस घड़े के समान त्याग देना चाहिए जिसके मुंह पर तो दूध भरा हुआ है परंतु अंदर विष हो ॥ 5 ॥
+    en:
+      title: 'Chapter 5 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '6'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ६ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो मित्र खोटा है, उस पर विश्वास नहीं करना चाहिए और जो मित्र है, उस पर भी अति विश्वास नहीं करना चाहिए क्योंकि ऐसा हो सकता है कि वह मित्र कभी नाराज होकर सारी गुप्त बातें प्रकट कर दे ॥ 6 ॥
+    en:
+      title: 'Chapter 6 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '7'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ७ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        मन से सोचे हए कार्य को वाणी द्वारा प्रकट नहीं करना चाहिए. परंत मननपर्वक भली प्रकार सोचते हुए उसकी रक्षा करनी चाहिए और चुप रहते हुए उस सोची हुई बात को कार्यरूप में बदलना चाहिए ॥ 7 ॥
+    en:
+      title: 'Chapter 7 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '8'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        मूर्खता और जवानी निश्चित रूप से दुखदायक होती है । दूसरे के घर में निवास करना अर्थात किसी पर आश्रित होना तो अत्यन्त कष्टदायक होता है ॥ 8 ॥
+    en:
+      title: 'Chapter 8 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '9'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ९ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        सभी पहाड़ों पर रत्न और मणियां नहीं मिलतीं । न ही प्रत्येक हाथी के मस्तक में गजमुक्ता नामक मणि होती है । प्रत्येक वन में चंदन भी उत्पन्न नहीं होता । इसी प्रकार सज्जन पुरुष सब स्थानों पर नहीं मिलते ॥ 9 ॥
+    en:
+      title: 'Chapter 9 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '10'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        बुद्धिमान लोगों को चाहिए कि वह अपने पुत्र और पुत्रियों को अनेक प्रकार के अच्छे गुणों से युक्त करें । उन्हें अच्छे कार्यों में लगाएं, क्योंकि नीति जानने वाले और अच्छे गुणों से युक्त सज्जन स्वभाव वाले व्यक्ति ही कुल में पूजनीय होते हैं ॥ 10 ॥
+    en:
+      title: 'Chapter 10 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '11'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ११ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        वे माता-पिता बच्चों के शत्रु हैं, जिन्होंने बच्चों को पढ़ाया-लिखाया नहीं, क्योंकि अनपढ़ बालक विद्वानों के समूह में शोभा नहीं पाता, उसका सदैव तिरस्कार होता है । विद्वानों के समूह में उसका अपमान उसी प्रकार होता है जैसे हंसों के झुंड में बगुले की स्थिति होती है ॥ 11 ॥
+    en:
+      title: 'Chapter 11 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '12'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १२ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        लाड़-दुलार से पुत्रों में बहुत से दोष उत्पन्न हो जाते हैं । उनकी ताड़ना करने से अर्थात दंड देने से उनमें गुणों का विकास होता है, इसलिए पुत्रों और शिष्यों को अधिक लाड़-दुलार नहीं करना चाहिए, उनकी ताड़ना करते रहनी चाहिए ॥ 12 ॥
+    en:
+      title: 'Chapter 12 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '13'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १३ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        व्यक्ति को एक वेदमंत्र का अध्ययन, चिंतन अथवा मनन करना चाहिए । यदि वह पूरे मंत्र का चिंतन-मनन नहीं कर सकता तो उसके आधे अथवा उसके एक भाग का और यदि एक भाग का भी नहीं तो एक अक्षर का ही प्रतिदिन अध्ययन करे, ऐसा नीतिशास्त्र का आदेश है । अपने दिन को व्यर्थ न जाने दें । अध्ययन आदि अच्छे कार्यों को करते हुए अपने दिन को सार्थक बनाने का प्रयत्न करें ॥ 13 ॥
+    en:
+      title: 'Chapter 13 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '14'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १४ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        पत्नी का बिछुड़ना, अपने बंधु-बांधवों से अपमानित होना, कर्ज चढ़े रहना, दुष्ट अथवा बुरे मालिक की सेवा में रहना, निर्धन बने रहना, दुष्ट लोगों और स्वार्थियों की सभा अथवा समाज में रहना, ये सब ऐसी बातें हैं, जो बिना अग्नि के शरीर को हर समय जलाती रहती हैं ॥ 14 ॥
+    en:
+      title: 'Chapter 14 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '15'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १५ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो वृक्ष बिलकुल नदी के किनारे पैदा होते हैं, जो स्त्री दूसरों के घर में रहती है और जिस राजा के मंत्री अच्छे नहीं होते वे जल्दी ही नष्ट हो जाते हैं, इसमें कोई संशय नहीं है ॥ 15 ॥
+    en:
+      title: 'Chapter 15 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '16'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १६ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        ब्राह्मणों का बल विद्या है, राजाओं का बल उनकी सेना, व्यापारियों का बल उनका धन है और शूद्रों का बल दूसरों की सेवा करना है ॥ 16 ॥
+    en:
+      title: 'Chapter 16 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '17'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        वेश्या निर्धन पुरुष को, प्रजा पराजित राजा को, पक्षी फलहीन वृक्षों को और अचानक आया हुआ अतिथि भोजन करने के बाद घर को त्यागकर चले जाते हैं ॥ 17 ॥
+    en:
+      title: 'Chapter 17 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '18'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १८ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        ब्राह्मण दक्षिणा प्राप्त करने के बाद यजमान का घर छोड़ देते हैं, विद्या प्राप्त करने के बाद शिष्य गुरु के आश्रम से विदा ले लेता है, वन में आग लग जाने पर वहां रहने वाले हिरण आदि पशु उस जंगल को छोड़कर किसी दूसरे जंगल की ओर चल देते हैं ॥ 18 ॥
+    en:
+      title: 'Chapter 18 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '19'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १९ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        बुरे चरित्र वाले, अकारण दूसरे को हानि पहुंचाने वाले तथा गंदे स्थान पर रहने वाले व्यक्ति के साथ जो पुरुष मित्रता करता है, वह जल्दी ही नष्ट हो जाता है ॥ 19 ॥
+    en:
+      title: 'Chapter 19 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '20'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय २० - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        प्रेम व्यवहार बराबरी वाले व्यक्तियों में ही ठीक रहता है । यदि नौकरी करनी ही हो तो राजा की नौकरी करनी चाहिए । कार्य अथवा व्यवसाय में सबसे अच्छा काम व्यापार करना है । इसी प्रकार उत्तम गुणों वाली स्त्री की शोभा घर में ही है ॥ 20 ॥
+    en:
+      title: 'Chapter 20 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: ''

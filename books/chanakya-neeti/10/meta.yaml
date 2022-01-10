@@ -1,0 +1,300 @@
+- id: '1'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १ - श्लोक १'
+      subtitle: ''
+      image: ''
+      description: |-
+        धन से हीन मनुष्य दीन-हीन नहीं होता, यदि वह विद्या धन से युक्त हो तो, परंतु जिस मनुष्य के पास विद्या रूपी रत्न नहीं है, वह सभी चीजों से हीन माना जाता है ॥ 1 ॥
+    en:
+      title: 'Chapter 1 - Verse 1'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '2'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय २ - श्लोक २'
+      subtitle: ''
+      image: ''
+      description: |-
+        भली-प्रकार आंख से देखकर मनुष्य को आगे कदम रखना चाहिए, कपड़े से छानकर जल पीना चाहिए, शास्त्र के अनुसार कोई बात कहनी चाहिए और कोई भी कार्य मन से भली प्रकार सोच-समझकर करना चाहिए ॥ 2 ॥
+    en:
+      title: 'Chapter 2 - Verse 2'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '3'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ३ - श्लोक ३'
+      subtitle: ''
+      image: ''
+      description: |-
+        यदि सुख की इच्छा हो तो विद्या अध्ययन का विचार छोड़ देना चाहिए और यदि विद्यार्थी विद्या सीखने की इच्छा रखता है तो उसे सुख और आराम का त्याग कर देना चाहिए, क्योंकि सुख चाहने वाले को विद्या प्राप्त नहीं हो सकती और जो विद्या प्राप्त करना चाहता है, उसे सुख नहीं मिल सकता ॥ 3 ॥
+    en:
+      title: 'Chapter 3 - Verse 3'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '4'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ४ - श्लोक ४'
+      subtitle: ''
+      image: ''
+      description: |-
+        कवि अपनी कल्पना से क्या नहीं देख सकते ? अर्थात् सभी कुछ देख सकते हैं और स्त्रियां क्या नहीं कर सकतीं ? वे सभी प्रकार की मनमानी कर सकती हैं । नशे में चूर व्यक्ति क्या नहीं बोल सकता ? अर्थात् कुछ भी बोल सकता है और कौआ क्या नहीं खाता ? ॥4 ॥
+    en:
+      title: 'Chapter 4 - Verse 4'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '5'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ५ - श्लोक ५'
+      subtitle: ''
+      image: ''
+      description: |-
+        भाग्य की महिमा अपरम्पार है क्योंकि वह निर्धन अर्थात भिखारी को पल में राजा बना सकता है और राजा को कंगाल । इसी तरह भाग्य के ही कारण धनवान व्यक्ति निर्धन बन जाता है और निर्धन धनवान ॥ 5 ॥
+    en:
+      title: 'Chapter 5 - Verse 5'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '6'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ६ - श्लोक ६'
+      subtitle: ''
+      image: ''
+      description: |-
+        मांगने वाला लोभी मनुष्य का शत्रु होता है । मूल् का शत्रु उन्हें सदुपदेश देने वाला होता है । व्यभिचारिणी स्त्रियों का शत्रु पति होता है और चोरों का शत्रु है चंद्रमा ॥ 6 ॥
+    en:
+      title: 'Chapter 6 - Verse 6'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '7'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ७ - श्लोक ७'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिन मनुष्यों के पास न विद्या है न ही जिन्होंने किसी प्रकार का तप किया है, जिनमें न दान देने की प्रवृत्ति है, न ज्ञान है, दया और नम्रता आदि भी नहीं है, गुण और धर्माचरण की भावना नहीं है, ऐसे मनुष्य पशु के रूप में इस संसार में विचरते हैं ॥ 7 ॥
+    en:
+      title: 'Chapter 7 - Verse 7'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '8'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ८ - श्लोक ८'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिन व्यक्तियों में किसी प्रकार की भीतरी योग्यता नहीं अर्थात जो अंदर से खोखले हैं, बुद्धिहीन हैं, ऐसे व्यक्तियों को किसी भी प्रकार का उपदेश देना उसी प्रकार व्यर्थ होता है जिस प्रकार मलयाचल पर्वत से आने वाले सुगंधित हवा के झोंकों का बांस से स्पर्श ॥ 8 ॥
+    en:
+      title: 'Chapter 8 - Verse 8'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '9'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ९ - श्लोक ९'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिस व्यक्ति के पास अपनी बुद्धि नहीं, शास्त्र उसका क्या कर सकेगा, आंखों से रहित को दर्पण का कोई लाभ नहीं हो सकता है ॥ 9 ॥
+    en:
+      title: 'Chapter 9 - Verse 9'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '10'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १० - श्लोक १०'
+      subtitle: ''
+      image: ''
+      description: |-
+        इस संसार में ऐसा कोई उपाय नहीं, जिससे दुर्जन व्यक्ति को सज्जन बनाया जा सके, बिलकुल उसी तरह जिस प्रकार गुदा को चाहे सैकड़ों प्रकार से और सैकड़ों बार धोया जाए फिर भी वह श्रेष्ठ अंग नहीं बन सकती ॥ 10 ॥
+    en:
+      title: 'Chapter 10 - Verse 10'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '11'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय ११ - श्लोक ११'
+      subtitle: ''
+      image: ''
+      description: |-
+        जो मनुष्य अपनी ही आत्मा से द्वेष रखता है वह स्वयं को नष्ट कर लेता है । दूसरों से द्वेष रखने से अपना धन नष्ट होता है । राजा से वैर-भाव रखने से मनुष्य अपना नाश करता है और ब्राह्मणों से द्वेष रखने से कुल का नाश हो जाता है ॥ 11 ॥
+    en:
+      title: 'Chapter 11 - Verse 11'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '12'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १२ - श्लोक १२'
+      subtitle: ''
+      image: ''
+      description: |-
+        भले ही मनुष्य सिंह और बाघ आदि हिंसक जानवरों से युक्त वन में निवास करे, किसी पेड़ पर अपना घर बना ले, वृक्षों के पत्ते और फल खाकर तथा पानी पीकर गुजारा कर ले, तिनकों की शय्या पर सो ले, फटे-पुराने वृक्षों की छाल के कपड़े पहन ले, परंतु अपने भाई-बंधुओं में धन से रहित अर्थात दरिद्र बनकर जीवन न बिताए ॥ 12 ॥
+    en:
+      title: 'Chapter 12 - Verse 12'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '13'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १३ - श्लोक १३'
+      subtitle: ''
+      image: ''
+      description: |-
+        ब्राह्मण एक वृक्ष के समान है और संध्या अर्थात प्रभु की उपासना और आराधना उसकी जड़ है, वेद उसकी शाखाएं हैं और धर्म-कर्म उसके पत्ते हैं, इसलिए यत्नपूर्वक जड़ की रक्षा करनी चाहिए क्योंकि जड़ के नष्ट हो जाने पर न शाखाएं रहेंगी, न ही पत्ते ॥ 13 ॥
+    en:
+      title: 'Chapter 13 - Verse 13'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '14'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १४ - श्लोक १४'
+      subtitle: ''
+      image: ''
+      description: |-
+        कमला देवी अर्थात लक्ष्मी जिसकी माता हैं और सर्वव्यापक श्री विष्णु जिसके पिता हैं, प्रभु के भक्त जिसके भाई-बंधु हैं ऐसे पुरुष के लिए तीनों लोक अपने ही देश के समान हैं ॥ 14 ॥
+    en:
+      title: 'Chapter 14 - Verse 14'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '15'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १५ - श्लोक १५'
+      subtitle: ''
+      image: ''
+      description: |-
+        रात्रि के समय अनेक रंग-रूप वाले पक्षी एक वृक्ष पर आकर बैठते हैं । प्रातःकाल के समय वे सभी दसों दिशाओं में उड़ जाते हैं । ऐसे में क्या शोक करना ॥ 15 ॥
+    en:
+      title: 'Chapter 15 - Verse 15'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '16'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १६ - श्लोक १६'
+      subtitle: ''
+      image: ''
+      description: |-
+        जिसके पास बुद्धि अर्थात ज्ञान है, उसके पास ही बल होता है, बुद्धिहीन व्यक्ति के पास बल कहां । जंगल में अपनी शक्ति के मद में मस्त सिंह को एक खरगोश ने मार डाला (यह इसी का प्रमाण है) ॥ 16 ॥
+    en:
+      title: 'Chapter 16 - Verse 16'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '17'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १७ - श्लोक १७'
+      subtitle: ''
+      image: ''
+      description: |-
+        यदि भगवान विष्णु को सारे संसार का पालन-पोषण करने वाला कहा गया है तो मुझे इस जीवन में किसी बात की चिंता करने की आवश्यकता नहीं । यदि भगवान विष्णु न होते तो गर्भ में स्थित बालक के जीवन के लिए माता के स्तनों में दूध कहां से आता ? बारबार इस तरह का विचार करके हे तीनों लोकों के स्वामी! मैं आपके चरण - कमलों की सेवा करते हुए अपना जीवन व्यतीत कर रहा हूं ॥ 17 ॥
+    en:
+      title: 'Chapter 17 - Verse 17'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '18'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १८ - श्लोक १८'
+      subtitle: ''
+      image: ''
+      description: |-
+        संस्कृत के अतिरिक्त मैं दूसरी भाषाओं का भी लोभी हूं, जैसे स्वर्ग में विद्यमान देवताओं को अमृत की प्राप्ति के बाद भी स्वर्ग की अप्सराओं के होंठों के रस का पान करने में रुचि रहती है ॥ 18 ॥
+    en:
+      title: 'Chapter 18 - Verse 18'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '19'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय १९ - श्लोक १९'
+      subtitle: ''
+      image: ''
+      description: |-
+        अन्न से दस गुणा अधिक शक्ति उसके आटे में है । आटे से दस गुणा अधिक शक्ति दूध में है, दूध से आठ गुणा अधिक शक्ति मांस में है और मांस से दस गुणा अधिक शक्ति घी में है ॥ 19 ॥
+    en:
+      title: 'Chapter 19 - Verse 19'
+      subtitle: ''
+      image: ''
+      description: ''
+- id: '20'
+  type: leaf
+  paginated: true
+  meta:
+    hi:
+      title: 'अध्याय २० - श्लोक २०'
+      subtitle: ''
+      image: ''
+      description: |-
+        साग खाने से रोग बढ़ते हैं, दूध से शरीर मोटा होता है, घी से वीर्य की वृद्धि होती है और मांस से मांस बढ़ता है ॥ 20 ॥
+    en:
+      title: 'Chapter 20 - Verse 20'
+      subtitle: ''
+      image: ''
+      description: ''

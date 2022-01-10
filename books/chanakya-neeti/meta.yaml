@@ -14,7 +14,7 @@
       description: ''
 - id: 'b'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: 'चाणक्य जीवन गाथा'
