@@ -29,7 +29,7 @@
       description: ''
 - id: '1'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१. प्रथमोऽध्यायः'
@@ -44,7 +44,7 @@
       description: ''
 - id: '2'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '२. द्वितीयोऽध्यायः'
@@ -59,7 +59,7 @@
       description: ''
 - id: '3'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '३. तृतीयोऽध्यायः'
@@ -74,7 +74,7 @@
       description: ''
 - id: '4'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '४. चतुर्थोऽध्यायः'
@@ -89,7 +89,7 @@
       description: ''
 - id: '5'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '५. पंचामोऽध्यायः'
@@ -104,7 +104,7 @@
       description: ''
 - id: '6'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '६. षष्ठोऽध्यायः'
@@ -119,7 +119,7 @@
       description: ''
 - id: '7'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '७. सप्तामोऽध्यायः'
@@ -134,7 +134,7 @@
       description: ''
 - id: '8'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '८. अष्टमोऽध्यायः'
@@ -149,7 +149,7 @@
       description: ''
 - id: '9'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '९. नवमोऽध्यायः'
@@ -164,7 +164,7 @@
       description: ''
 - id: '10'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१०. दशमोऽध्यायः'
@@ -179,7 +179,7 @@
       description: ''
 - id: '11'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '११. एकादशोऽध्यायः'
@@ -194,7 +194,7 @@
       description: ''
 - id: '12'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१२. द्वादशोऽध्यायः'
@@ -209,7 +209,7 @@
       description: ''
 - id: '13'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१३. त्रयोदशोऽध्यायः'
@@ -224,7 +224,7 @@
       description: ''
 - id: '14'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१४. चतुर्दशोऽध्यायः'
@@ -239,7 +239,7 @@
       description: ''
 - id: '15'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१५. पंचदशोऽध्यायः'
@@ -254,7 +254,7 @@
       description: ''
 - id: '16'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१६. षोडशोऽध्यायः'
@@ -269,7 +269,7 @@
       description: ''
 - id: '17'
   type: 'tree'
-  paginated: true
+  paginated: false
   meta:
     hi:
       title: '१७. सप्तदशोऽध्यायः'
