@@ -65,10 +65,11 @@
       description: |-
         शक्तिशाली योद्धा अर्जुन युद्धाभिमुख विपक्षी सेनाओं में अपने निकट सम्बन्धियों, शिक्षकों तथा मित्रों को युद्ध में अपना अपना जीवन उत्सर्ग करने के लिए उद्यत देखता है । वह शोक तथा करुणा से अभिभूत होकर अपनी शक्ति खो देता है, उसका मन मोहग्रस्त हो जाता है और वह युद्ध करने के अपने संकल्प को त्याग देता है ।
     en:
-      title: 'Chapter 1 - Arjuna Vishada Yoga'
-      subtitle: 'Observing the Armies on the Battlefield of Kuruksetra'
+      title: 'Chapter 1 - Arjuna Viṣāda Yoga'
+      subtitle: 'Observing the Armies on the Battlefield of Kurukṣetra'
       image: ''
-      description: ''
+      description: |-
+        Introduces the setup, the setting, the characters and the circumstances that led to the epic battle of Mahābhārata, fought between the Pāṇḍavas and the Kauravas. It outlines the reasons that led to the revelation of the of Bhagavad-gītā. As both armies stand ready for the battle, the mighty warrior Arjuna, on observing the warriors on both sides becomes increasingly sad and depressed due to the fear of losing his relatives and friends and the consequent sins attributed to killing his own relatives. So, he surrenders to Lord Krishna, seeking a solution. Thus, follows the wisdom of the Bhagavad-gītā.
 - id: '2'
   type: 'tree'
   paginated: false
@@ -80,10 +81,16 @@
       description: |-
         अर्जुन शिष्य रूप में कृष्ण की शरण ग्रहण करता है और कृष्ण उससे नश्वर भौतिक शरीर तथा नित्य आत्मा के मूलभूत अन्तर की व्याख्या करते हुए अपना उपदेश प्रारम्भ करते हैं । भगवान् उसे देहान्तरण की प्रक्रिया, परमेश्वर की निष्काम सेवा तथा स्वरूपसिद्ध व्यक्ति के गुणों से अवगत कराते हैं ।
     en:
-      title: 'Chapter 2 - Sankhya Yoga'
+      title: 'Chapter 2 - Sāṃkhya Yoga'
       subtitle: 'Contents of the Gita Summarized'
       image: ''
-      description: ''
+      description: |-
+        This is the most important chapter of the Bhagavad-gītā as Lord Kṛṣṇa condenses the teachings of the entire Gītā in this chapter. This chapter is the essence of the entire Gītā. Sāṃkhya Yoga can be categorized into 4 main topics - 
+
+        1. Arjuna completely surrenders himself to Lord Kṛṣṇa and accepts his position as a disciple and Kṛṣṇa as his Guru. He requests Kṛṣṇa to guide him on how to dismiss his sorrow.
+        2. Explanation of the main cause of all grief, which is ignorance of the true nature of Self.
+        3. Karma Yoga - the discipline of selfless action without being attached to its fruits.
+        4. Description of a Perfect Man - One whose mind is steady and one-pointed.
 - id: '3'
   type: 'tree'
   paginated: false
@@ -98,7 +105,8 @@
       title: 'Chapter 3 - Karma Yoga'
       subtitle: 'Karma-yoga'
       image: ''
-      description: ''
+      description: |-
+        Here Lord Kṛṣṇa emphasizes the importance of Karma in life. He reveals that it is important for every human being to engage in some sort of activity in this material world. Further, he describes the kinds of actions that lead to bondage and the kinds that lead to liberation. Those persons who continue to perform their respective duties externally for the pleasure of the Supreme, without attachment to its rewards get liberation at the end.
 - id: '4'
   type: 'tree'
   paginated: false
@@ -110,10 +118,11 @@
       description: |-
         आत्मा, ईश्वर तथा इन दोनों से सम्बन्धित दिव्य ज्ञान शुद्ध करने, तथा मोक्षा प्रदान करने वाला है । ऐसा ज्ञान कर्मयोग का फल है । भगवान् गीता के प्राचीन इतिहास, इस भौतिक जगत में बारम्बार अपने अवतरण की महत्ता तथा गुरु के पास जाने की आवश्यकता का उपदेश देते हैं ।
     en:
-      title: 'Chapter 4 - Gyana Karma Sanyasa Yoga'
+      title: 'Chapter 4 - Jñāna Karma Sanyāsa Yoga'
       subtitle: 'Transcendental Knowledge'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa glorifies the Karma Yoga and imparts the Transcendental Knowledge (the knowledge of the soul and the Ultimate Truth) to Arjuna. He reveals the reason behind his appearance in this material world. He reveals that even though he is eternal, he reincarnates time after time to re-establish Dharma and peace on this Earth. His births and activities are eternal and are never contaminated by material flaws. Those persons who know and understand this Truth engage in his devotion with full faith and eventually attain Him. They do not have to take birth in this world again.
 - id: '5'
   type: 'tree'
   paginated: false
@@ -125,10 +134,11 @@
       description: |-
         ज्ञानी पुरुष दिव्य ज्ञान की अग्नि से शुद्ध होकर बाह्यतः सारे कर्म करता है, किन्तु अन्तर में उन कर्मों के फल का परित्याग करता हुआ शान्ति, विरक्ति, सहिष्णुता, आध्यात्मिक दृष्टि तथा आनन्द की प्राप्ति करता है ।
     en:
-      title: 'Chapter 5 - Karma Sanyasa Yoga'
+      title: 'Chapter 5 - Karma Sanyāsa Yoga'
       subtitle: 'Karma-yoga-Action in Krsna Consciousness'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Krishna compares the paths of renunciation in actions (Karma Sanyāsa) and actions with detachment (Karma Yoga) and explains that both are means to reach the same goal and we can choose either. A wise person should perform his/her worldly duties without attachment to the fruits of his/her actions and dedicate them to God. This way they remain unaffected by sin and eventually attain liberation.
 - id: '6'
   type: 'tree'
   paginated: false
@@ -140,10 +150,11 @@
       description: |-
         अष्टांगयोग मन तथा इन्द्रियों को नियन्त्रित करता है और ध्यान को परमात्मा पर केन्द्रित करता है । इस विधि की परिणति समाधि में होती है ।
     en:
-      title: 'Chapter 6 - Dhyana Yoga'
+      title: 'Chapter 6 - Dhyāna Yoga'
       subtitle: 'Sankhya-yoga'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa reveals the Yoga of Meditation and how to practise this Yoga. He discusses the role of action in preparing for Meditation, how performing duties in devotion purifies one's mind and heightens one's spiritual consciousness. He explains in detail the obstacles that one faces when trying to control their mind and the exact methods by which one can conquer their mind. He reveals how one can focus their mind on Paramātmā and unite with the God.
 - id: '7'
   type: 'tree'
   paginated: false
@@ -155,10 +166,11 @@
       description: |-
         भगवान् कृष्ण समस्त कारणों के कारण, परम सत्य हैं । महात्मागण भक्तिपूर्वक उनकी शरण ग्रहण करते हैं, किन्तु अपवित्र जन पूजा के अन्य विषयों की ओर अपने मन को मोड़ देते हैं ।
     en:
-      title: 'Chapter 7 - Gyaan Vigyana Yoga'
+      title: 'Chapter 7 - Jñāna Vijñāna Yoga'
       subtitle: 'Knowledge of the Absolute'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa reveals that he is the Supreme Truth, the principal cause and the sustaining force of everything. He reveals his illusionary energy in this material world called Māyā, which is very difficult to overcome but those who surrender their minds unto Him attain Him easily. He also describes the four types of people who surrender to Him in devotion and the four kinds that don't. Kṛṣṇa confirms that He is the Ultimate Reality and those who realize this Truth reach the pinnacle of spiritual realization and unite with the Lord.
 - id: '8'
   type: 'tree'
   paginated: false
@@ -170,10 +182,11 @@
       description: |-
         भक्तिपूर्वक भगवान् कृष्ण का आजीवन स्मरण करते रहने से और विशेषतया मृत्यु के समय ऐसा करने से मनुष्य परम धाम को प्राप्त कर सकता है ।
     en:
-      title: 'Chapter 8 - Akshara Brahma Yoga'
+      title: 'Chapter 8 - Akṣara Brahma Yoga'
       subtitle: 'Attaining the Supreme'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa reveals the importance of the last thought before death. If we can remember Kṛṣṇa at the time of death, we will certainly attain him. Thus, it is very important to be in constant awareness of the Lord at all times, thinking of Him and chanting His names at all times. By perfectly absorbing their mind in Him through constant devotion, one can go beyond this material existence to Lord's Supreme abode.
 - id: '9'
   type: 'tree'
   paginated: false
@@ -185,10 +198,11 @@
       description: |-
         भगवान् श्रीकृष्ण परमेश्वर हैं और पूज्य हैं । भक्ति के माध्यम से जीव उनसे शाश्वत सम्बद्ध है । शुद्ध भक्ति को जागृत करके मनुष्य कृष्ण के धाम को वापस जाता है ।
     en:
-      title: 'Chapter 9 - Raja Vidya rajguhy Yoga'
+      title: 'Chapter 9 - Rāja Vidyā Rājaguhya Yoga'
       subtitle: 'The Most Confidential Knowledge'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa explains that He is Supreme and how this material existence is created, maintained and destroyed by His Yogamāyā and all beings come and go under his supervision. He reveals the Role and the Importance of Bhakti (transcendental devotional service) towards our Spiritual Awakening. In such devotion, one must live for the God, offer everything that he possesses to Him and do everything for Him only. One who follows such devotion becomes free from the bonds of this material world and unites with the Lord.
 - id: '10'
   type: 'tree'
   paginated: false
@@ -200,10 +214,11 @@
       description: |-
         बल, सौन्दर्य, ऐश्वर्य या उत्कृष्टता प्रदर्शित करने वाली समस्त अद्भुत घटनाएँ, चाहे वे इस लोक में हों या आध्यात्मिक जगत में, कृष्ण की दैवी शक्तियों एवं ऐश्वर्यों की आंशिक अभिव्यक्तियाँ हैं । समस्त कारणों के कारण स्वरूप तथा सर्वस्वरूप कृष्ण समस्त जीवों के परम पूजनीय हैं ।
     en:
-      title: 'Chapter 10 - Vibhooti Yoga'
+      title: 'Chapter 10 - Vibhūti Yoga'
       subtitle: 'The Opulence of the Absolute'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa reveals Himself as the cause of all causes. He describes His various manifestations and opulences in order to increase Arjuna's Bhakti. Arjuna is fully convinced of Lord's paramount position and proclaims him to be the Supreme Personality. He prays to Kṛṣṇa to describe more of His divine glories which are like nectar to hear.
 - id: '11'
   type: 'tree'
   paginated: false
@@ -215,10 +230,11 @@
       description: |-
         भगवान् कृष्ण अर्जुन को दिव्य दृष्टि प्रदान करते हैं और विश्व रूप में अपना अद्भुत असीम रूप प्रकट करते हैं । इस प्रकार वे अपनी दिव्यता स्थापित करते हैं । कृष्ण बतलाते हैं कि उनका सर्व आकर्षक मानव रूप ही ईश्वर का आदि रूप है । मनुष्य शुद्ध भक्ति के द्वारा ही इस रूप का दर्शन कर सकता है ।
     en:
-      title: 'Chapter 11 - Vishwaroopa Darshana Yoga'
+      title: 'Chapter 11 - Viśvarūpa Darśana Yoga'
       subtitle: 'The Universal Form'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Arjuna requests Kṛṣṇa to reveal His Universal Cosmic Form that encompasses all the universes, the entire existence. Arjuna is granted divine vision to be able to see the entirety of creation in the body of the Supreme Lord Kṛṣṇa.
 - id: '12'
   type: 'tree'
   paginated: false
@@ -233,7 +249,8 @@
       title: 'Chapter 12 - Bhakti Yoga'
       subtitle: 'Devotional Service'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa emphasizes the superiority of Bhakti Yoga (the path of devotion) over all other types of spiritual disciplines and reveals various aspects of devotion. He further explains that the devotees who perform pure devotional service to Him, with their consciousness, merged in Him and all their actions dedicated to Him, are quickly liberated from the cycle of life and death. He also describes the various qualities of the devotees who are very dear to Him.
 - id: '13'
   type: 'tree'
   paginated: false
@@ -245,10 +262,11 @@
       description: |-
         जो व्यक्ति शरीर, आत्मा तथा इनसे भी परे परमात्मा के अन्तर को समझ लेता है, उसे इस भौतिक जगत से मोक्ष प्राप्त होता है ।
     en:
-      title: 'Chapter 13 - Ksetra Ksetrajna Vibhaaga Yoga'
+      title: 'Chapter 13 - Kṣetra Kṣetrajña Vibhāga Yoga'
       subtitle: 'Nature, the Enjoyer, and Consciousness'
       image: ''
-      description: ''
+      description: |-
+        The word Kṣetra means the field, and the Kṣetrajñāna means the knower of the field. We can think of our material body as the field and our immortal soul as the knower of the field. In this chapter, Krishna discriminates between the physical body and the immortal soul. He explains that the physical body is temporary and perishable whereas the soul is permanent and eternal. The physical body can be destroyed but the soul can never be destroyed. The chapter then describes God, who is the Supreme Soul. All the individual souls have originated from the Supreme Soul. One who clearly understands the difference between the body, the Soul and the Supreme Soul attains the realization of Brahma.
 - id: '14'
   type: 'tree'
   paginated: false
@@ -260,10 +278,11 @@
       description: |-
         सारे देहधारी जीव भौतिक प्रकृति के तीन गुणों के अधीन हैं - ये हैं सतोगुण, रजोगुण तथा तमोगुण । कृष्ण बतलाते हैं कि ये गुण क्या हैं ? ये हम पर किस प्रकार क्रिया करते हैं ? कोई इनको कैसे पार कर सकता है ? और दिव्य पद को प्राप्त व्यक्ति के कौन-कौन से लक्षण हैं ?
     en:
-      title: 'Chapter 14 - Gunatraya Vibhaga Yoga'
+      title: 'Chapter 14 - Guṇatraya Vibhāga Yoga'
       subtitle: 'The Three Modes of Material Nature'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa reveals the three modes (Gunas) of the material nature - mode of goodness, mode of passion and mode of ignorance which everything in the material existence is influenced by. He further explains the essential characteristics of each of these modes, their cause and how they influence a living entity affected by them. He then reveals the various characteristics of the persons who have gone beyond these modes. The chapter ends with Kṛṣṇa reminding us of the power of pure devotion to God and how attachment to God can help us transcend these modes.
 - id: '15'
   type: 'tree'
   paginated: false
@@ -275,10 +294,11 @@
       description: |-
         वैदिक ज्ञान का चरम लक्ष्य अपने आपको भौतिक जगत के पाश से विलग करना तथा कृष्ण को भगवान् मानना है । जो कृष्ण के परम स्वरूप को समझ लेता है, वह उनकी शरण ग्रहण करके उनकी भक्ति में लग जाता है ।
     en:
-      title: 'Chapter 15 - Purushottama Yoga'
+      title: 'Chapter 15 - Puruṣottama Yoga'
       subtitle: 'The Yoga of the Supreme Person'
       image: ''
-      description: ''
+      description: |-
+        In Sanskrit, Purusha means the All-pervading God, and Purushottam means the timeless & transcendental aspect of God. Kṛṣṇa reveals that the purpose of this Transcendental knowledge of the God is to detach ourselves from the bondage of the material world and to understand Kṛṣṇa as the Supreme Divine Personality, who is the eternal controller and sustainer of the world. One who understands this Ultimate Truth surrenders to Him and engages in His devotional service.
 - id: '16'
   type: 'tree'
   paginated: false
@@ -290,10 +310,11 @@
       description: |-
         शास्त्रों के नियमों का पालन न करके मनमाने ढंग से जीवन व्यतीत करने वाले तथा आसुरी गुणों वाले व्यक्ति अधम योनियों को प्राप्त होते हैं और आगे भी भवबन्धन में पड़े रहते हैं । किन्तु दैवी गुणों से सम्पन्न तथा शास्त्रों को आधार मानकर नियमित जीवन बिताने वाले लोग आध्यात्मिक सिद्धि प्राप्त करते हैं ।
     en:
-      title: 'Chapter 16 - Daivasura Sampad Vibhaga Yoga'
+      title: 'Chapter 16 - Daivāsura Sampad Vibhāga Yoga'
       subtitle: 'The Divine and Demoniac Natures'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Krishna describes explicitly the two kinds of natures among human beings - Divine and Demoniac. Those who possess demonaic qualities associate themselves with the modes of passion and ignorance do not follow the regulations of the scriptures and embrace materialistic views. These people attain lower births and further material bondage. But people who possess divine qualities, follow the instructions of the scriptures, associate themselves with the mode of goodness and purify the mind through spiritual practices. This leads to the enhancement of divine qualities and they eventually attain spiritual realization.
 - id: '17'
   type: 'tree'
   paginated: false
@@ -305,10 +326,11 @@
       description: |-
         भौतिक प्रकृति के तीन गुणों से तीन प्रकार की श्रद्धा उत्पन्न होती है । रजोगुण तथा तमोगुण में श्रद्धापूर्वक किये गये कर्मों से अस्थायी फल प्राप्त होते हैं, जबकि शास्त्र-सम्मत विधि से सतोगुण में रहकर सम्पन्न कर्म हृदय को शुद्ध करते हैं । ये भगवान् कृष्ण के प्रति शुद्ध श्रद्धा तथा भक्ति उत्पन्न करने वाले होते हैं ।
     en:
-      title: 'Chapter 17 - Sraddhatraya Vibhaga Yoga'
+      title: 'Chapter 17 - Śraddhātraya Vibhāga Yoga'
       subtitle: 'The Divisions of Faith'
       image: ''
-      description: ''
+      description: |-
+        In this chapter, Kṛṣṇa describes the three types of faith corresponding to the three modes of the material nature. Lord Kṛṣṇa further reveals that it is the nature of faith that determines the quality of life and the character of living entities. Those who have faith in passion and ignorance perform actions that yield temporary, material results while those who have faith in goodness perform actions in accordance with scriptural instructions and hence their hearts get further purified.
 - id: '18'
   type: 'tree'
   paginated: false
@@ -320,7 +342,8 @@
       description: |-
         कृष्ण वैराग्य का अर्थ और मानवीय चेतना तथा कर्म पर प्रकृति के गुणों का प्रभाव समझाते हैं । वे ब्रह्म-अनुभूति, भगवद्गीता की महिमा तथा भगवद्गीता के चरम निष्कर्ष को समझाते हैं । यह चरम निष्कर्ष यह है कि धर्म का सर्वोच्च मार्ग भगवान् कृष्ण की परम शरणागति है जो पूर्ण प्रकाश प्रदान करने वाली है और मनुष्य को कृष्ण के नित्य धाम को वापस जाने में समर्थ बनाती है ।
     en:
-      title: 'Chapter 18 - Moksha Sanyaas Yoga'
+      title: 'Chapter 18 - Mokṣa Saṃnyāsa Yoga'
       subtitle: 'Conclusion-The Perfection of Renunciation'
       image: ''
-      description: ''
+      description: |-
+        Arjuna requests the Lord to explain the difference between the two types of renunciations - Saṃnyāsa (renunciation of actions) and Tyāga (renunciation of desires). Kṛṣṇa explains that a Saṃnyāsi is one who abandons family and society in order to practise spiritual discipline whereas a Tyāgai is one who performs their duties without attachment to the rewards of their actions and dedicating them to the God. Kṛṣṇa recommends the second kind of renunciation - Tyāga. Kṛṣṇa then gives a detailed analysis of the effects of the three modes of material nature. He declares that the highest path of spirituality is pure, unconditional loving service unto the Supreme Divine Personality, Kṛṣṇa. If we always remember Him, keep chanting His name and dedicate all our actions unto Him, take refuge in Him and make Him our Supreme goal, then by His grace, we will surely overcome all obstacles and difficulties and be freed from this cycle of birth and death.
