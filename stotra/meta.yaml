@@ -62,3 +62,31 @@
         Composed by the great sage Adi Shankaracharya around 810 AD, this stotram  is based on the Devi Mahatmyam and extols the different powers (shaktis) of the Devi. The Devi takes different forms of Durga, Lakshmi and Saraswati and destroys the demons - Madhu and Kaitabha, Mahishasura, and Sumbha and Nisumbha.
 
         Mahishasura Mardini Stotram is said to bring peace to the devotee and removes all fear and sadness. It drives away negative emotions like doubt, anger, ego and inertia. This stotram also removes obstacles from the path of the believer.
+- id: 'saraswati-stotram'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'सरस्वती स्तोत्रं'
+      subtitle: ''
+      image: 'images/saraswati-stotram-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Saraswati Stotram'
+      subtitle: ''
+      image: 'images/saraswati-stotram-cover-4x3.jpg'
+      description: ''
+- id: 'vishnu-shodasa-nama-stotram'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री विष्णु षोडश नाम स्तोत्रं'
+      subtitle: ''
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: 'श्री विष्णु जी के सोलह नाम'
+    en:
+      title: 'Shri Vishnu Shodash Naam Stotram'
+      subtitle: ''
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: '16 Name of Shri Vishnu'

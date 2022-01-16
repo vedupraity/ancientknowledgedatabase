@@ -40,3 +40,17 @@
       subtitle: ''
       image: ''
       description: ''
+- id: 'mantra'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'मंत्र'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Mantra'
+      subtitle: ''
+      image: ''
+      description: ''
