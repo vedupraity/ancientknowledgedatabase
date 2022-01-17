@@ -1,0 +1,14 @@
+- id: 'gayatri-mantra'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'गायत्री मन्त्र'
+      subtitle: ''
+      image: 'images/gayatri-mantra-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Gayatri Mantra'
+      subtitle: ''
+      image: 'images/gayatri-mantra-cover-4x3.jpg'
+      description: ''
