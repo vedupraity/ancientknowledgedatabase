@@ -159,3 +159,11 @@ Those who carefully recite this Chalisa of Lord Gaṇeśa. There is peace and ha
 ##### pūraṇa cālīsā bhayo, maṃgala mūrti gaṇeśa ..
 
 Even after sustaining thousands of relations, this chalisa of Lord Gaṇeśa was completed on the day of Ṛṣi Paṃcamī (fifth day, the next day after Gaṇeśa Chaturthi day in Bhadrapad month of the Lunar calendar - corresponds to August/September).
+
+---
+
+Lord Ganesha, also known by different names like Ganapati and Vinayaka, is the son of Lord Shiva and Goddess Parvati. Ganesha is considered the Lord of all beginnings and the last resort of obstacles. He is worshiped as the god of good fortune, new ventures and knowledge. Ganesh Chalisa is a religious hymn dedicated to Lord Ganesha.
+
+The devotional songs with forty verses are written in Sanskrit language and address the Lord by many names and remember his great deeds. The hymn was completed by Sundardas in Vikram Samvat to demonstrate his affection for the Lord. Ganesh Chalisa is the most widely read Hindu prayer. Many devotees chant the holy verses as a daily prayer. It is believed that those who sing this prayer with pure devotion are bestowed with wealth, knowledge and prosperity in no time.
+
+The festival of Ganesh Chaturthi is considered very sacred in Sanatan Dharma. Every year this festival is celebrated on the Chaturthi Tithi (4th day) of Shukla Paksha (The first fortnight between New Moon Day and Full Moon Day) of Bhadrapada month (corresponds to August/September) as the birth anniversary of Shri Ganesh.
