@@ -55,7 +55,7 @@ Who is Pure like a Crystal and Whose Nature is extremely Subtle; Salutations, Sa
 
 Whose Whole Body is Decorated with Ornaments of Pearls, and Who is the Basis Supporting the whole existence; Salutations, Salutations to Her. Who is the Basis of All Mantras and Who is the Basis of All Shaktis (Power); Salutations, Salutations to Her.
 
-##### manonmani mahābhoge vāgīśvari namo namaḥ .
+##### mano maṇimahāyoge vāgīśvari namo namaḥ .
 ##### vāgmyai varadahastāyai varadāyai namo namaḥ .. 10 ..
 
 Who is like a Jewel Shining within the Mind as the Great Yoga, and Who is the Goddess of the Speech; Salutations, Salutations to Her. Who is the Source from where Speech originates, Who extends a Boon-Giving Hand and Who is the Giver of Boons; Salutations, Salutations to Her.
