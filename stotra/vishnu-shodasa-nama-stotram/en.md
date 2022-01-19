@@ -8,7 +8,7 @@ Think of Viṣṇu while taking medicine and Janārdana while eating¸
 
 ##### śayane padmanābhaṃ ca vivāhe ca prajāpatim .. 1 ..
 
-Think of Padmanābha while going to sleep and Prajāpati while getting married.
+Think of Padmanābha (one with lotus in his navel) while going to sleep and Prajāpati while getting married.
 
 ##### yuddhe cakradharaṃ devaṃ pravāse ca trivikramam .
 
