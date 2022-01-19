@@ -93,7 +93,7 @@ Who is Present in the Form of Knowledge and Intelligence, and Who Embodies Knowl
 ##### padmajā padmavaṃśā ca padmarūpe namo namaḥ .
 ##### parameṣṭhyai parāmūrtyai namaste pāpanāśinī .. 17 ..
 
-Who is the Giver of Lotus (i.e. makes one Pure like Lotus), Who is from the Family of Lotus (i.e. Whose origin is from Purity) and Who is of the Form of Lotus (i.e. Whose form is Purity); Salutations, Salutations to Her. Who is the Highest and the Embodiment of Transcendental Nature; Salutations, Salutations to Her.
+Who is the Giver of Lotus (i.e. makes one Pure like Lotus), Who is from the Family of Lotus (i.e. Whose origin is from Purity) and Who is of the Form of Lotus (i.e. Whose form is Purity); Salutations, Salutations to Her. Who is the Highest and the Embodiment of Transcendental Nature; Salutations, Salutations to Her, Who is the annihilator of sins.
 
 ##### mahādevyai mahākālyai mahālakṣmyai namo namaḥ .
 ##### brahmaviṣṇuśivāyai ca brahmanāryai namo namaḥ .. 18 ..
@@ -101,7 +101,7 @@ Who is the Giver of Lotus (i.e. makes one Pure like Lotus), Who is from the Fami
 Who is Mahadevi (the Great Goddess), Who is Mahakali and Who is Mahalakshmi; Salutations, Salutations to Her. Who is Brahma, Vishnu and Shiva (in essence) and Who is the most Adorable Brahman; Salutations, Salutations to Her.
 
 ##### kamalākarapuṣpā ca kāmarūpe namo namaḥ .
-##### kapālikarmadīptāyai karmadāyai namo namaḥ .. 19 ..
+##### kapāli karmadīptāyai karmadāyai namo namaḥ .. 19 ..
 
 Who is the Source of Lotus (i.e. Source of Purity) and Whose Form expresses the fulfilment of Wishes; Salutations, Salutations to Her. Who is the Receiver of Oblations, Who Shine with the Oblation of Activities and Who is also the Energy behind those Activities; Salutations, Salutations to Her.
 
@@ -121,4 +121,4 @@ Goddess Saraswati is the deity of wisdom, knowledge, and occult science. Saraswa
 
 Goddess Saraswati removes the ignorance and sins. Saraswati is the wife of Brahma who is the Lord of creation and plays a vital role in the creativity of Lord Brahma. Saraswati possesses all the learnings of the Vedas, scriptures, dancing, musical power and poetry. She revealed language and writing to man. Her origin is the lost Vedic river Saraswati. This is the source of her profound connection to fluidity in any aspect (water, speech, thought, etc.). She is wisdom, fortune, intelligence, nourishment, brilliance, contentment, splendour and devotion.
 
-This Saraswati Stotram is dedicated to this Beautiful Goddess of Intellect. Saraswati stotram is sung by Rishi Agastya and has the ability to provide all the powers related to wisdom. It is believed that whoever recites this Saraswati stotra with pure heart becomes well versed with all the Shastras and attains all the siddhis of Tantra & Mantra.
+This Saraswati Stotram is dedicated to this Beautiful Goddess of Intellect. Saraswati stotram is sung by Rishi Agastya (One of seven sages, mind-born sons of Brahmā) and has the ability to provide all the powers related to wisdom. It is believed that whoever recites this Saraswati stotra with pure heart becomes well versed with all the Shastras and attains all the siddhis of Tantra & Mantra.
