@@ -1,0 +1,15 @@
+- id: 'shri-ram-stuti'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री राम स्तुति'
+      subtitle: 'श्री रामचन्द्र कृपालु भजुमन'
+      image: 'images/shri-ram-stuti-cover-4x3.jpg'
+      description: |-
+        श्रीरामचंद्र कृपालु भज मन अथवा राम स्तुति गोस्वामी तुलसीदास द्वारा रचित १६वीं शताब्दी का एक भजन है । इसमें श्रीराम प्रभु के अदभुत गुण एवं शौर्य का वर्णन है । मनुष्य के मन को नियंत्रित करनेवाली ये यह स्तुति संस्कृतमय अवधी में है ।
+    en:
+      title: 'Shri Ram Stuti'
+      subtitle: 'Śrī Rāmacandra Kṛpālu Bhajumana'
+      image: 'images/shri-ram-stuti-cover-4x3.jpg'
+      description: ''

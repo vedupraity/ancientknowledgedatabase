@@ -40,6 +40,20 @@
       subtitle: ''
       image: ''
       description: ''
+- id: 'songs'
+  type: 'tree'
+  paginated: false
+  meta:
+    hi:
+      title: 'स्तुति / भजन'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Devotional Songs'
+      subtitle: ''
+      image: ''
+      description: ''
 - id: 'mantra'
   type: 'tree'
   paginated: false
