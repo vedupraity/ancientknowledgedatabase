@@ -40,7 +40,7 @@
       subtitle: ''
       image: ''
       description: ''
-- id: 'songs'
+- id: 'devotional-songs'
   type: 'tree'
   paginated: false
   meta:
