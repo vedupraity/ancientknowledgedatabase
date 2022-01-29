@@ -27,3 +27,17 @@
       subtitle: ''
       image: 'images/maha-mrityunjaya-mantra-cover-4x3.jpg'
       description: ''
+- id: 'shri-vishnu-mantra'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री विष्णु मन्त्र'
+      subtitle: 'शान्ताकारं भुजगशयनं ...'
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shri Vishnu Mantra'
+      subtitle: 'śāntākāraṃ bhujagaśayanaṃ ...'
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: ''
