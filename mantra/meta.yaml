@@ -12,3 +12,18 @@
       subtitle: ''
       image: 'images/gayatri-mantra-cover-4x3.jpg'
       description: ''
+- id: 'maha-mrityunjaya-mantra'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'महामृत्युञ्जय मन्त्र'
+      subtitle: ''
+      image: 'images/maha-mrityunjaya-mantra-cover-4x3.jpg'
+      description: |-
+        महामृत्युञ्जय मन्त्र या महामृत्युंजय मन्त्र ("मृत्यु को जीतने वाला महान मंत्र") जिसे त्रयम्बकम मन्त्र भी कहा जाता है, यजुर्वेद के रूद्र अध्याय में, भगवान शिव की स्तुति हेतु की गयी एक वन्दना है । इस मन्त्र में शिव को 'मृत्यु को जीतने वाला' बताया गया है ।
+    en:
+      title: 'Maha Mrityunjay Mantra'
+      subtitle: ''
+      image: 'images/maha-mrityunjaya-mantra-cover-4x3.jpg'
+      description: ''
