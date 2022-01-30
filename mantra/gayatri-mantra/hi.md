@@ -1,5 +1,7 @@
 ### गायत्री मन्त्र
 
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/nwRoHC83wx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ##### ॐ भूर्भुवः स्वः
