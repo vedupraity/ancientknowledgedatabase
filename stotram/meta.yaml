@@ -98,3 +98,19 @@
       image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
       description: |-
         He who recites these sixteen sacred names of Shri Viṣṇu, Every morning at the hour of dawn, will be free from all his sins, And will attain Vaikuṃṭha (higher abode of Lord) when he leaves his body.
+- id: 'madhurashtakam'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'मधुराष्टकम्'
+      subtitle: 'अधरं मधुरं वदनं मधुरं'
+      image: 'images/madhurashtakam-cover-4x3.jpg'
+      description: |-
+        *मधुराष्टकम* संस्कृत में लिखा गया एक अष्टक है, जिसकी रचना संत श्रीवल्लभाचार्य जी (१४७९-१५३१) ने की है । श्री वल्लभाचार्य एक तेलुगु ब्राह्मण थे जिन्होंने पुष्टिमार्ग का प्रचार किया, जो शुद्धाद्वैत दर्शन पर आधारित है और कृष्ण की भक्ति और सेवा पर जोर देता है । मधुराष्टकम् में श्रीवल्लभाचार्य जी ने बालरूप श्रीकृष्ण की मधुरता का मधुरतम वर्णन किया है ।
+    en:
+      title: 'Madhurashtakam'
+      subtitle: 'adharaṃ madhuraṃ vadanaṃ madhuraṃ'
+      image: 'images/madhurashtakam-cover-4x3.jpg'
+      description: |-
+        Madhurashtakam, is a Sanskrit octet in devotion of Lord Krishna, composed by the Hindu Bhakti Saint Sri Vallabhacharya (1479-1531). Sri Vallabhacharya was a Telugu Brahmin who propagated Pushtimarg, which is based on Śuddhādvaita philosophy and emphasizes devotion and service to Lord Krishna. In Madhurashtakam, Shri Vallabhacharya has described the sweetness of the child form Shri Krishna in the sweetest way.

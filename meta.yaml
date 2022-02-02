@@ -12,7 +12,7 @@
       subtitle: ''
       image: ''
       description: ''
-- id: 'stotra'
+- id: 'stotram'
   type: 'tree'
   paginated: false
   meta:
@@ -45,12 +45,12 @@
   paginated: false
   meta:
     hi:
-      title: 'स्तुति / भजन'
+      title: 'आरती / भजन'
       subtitle: ''
       image: ''
       description: ''
     en:
-      title: 'Devotional Songs'
+      title: 'Prayers / Devotional Songs'
       subtitle: ''
       image: ''
       description: ''
