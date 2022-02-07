@@ -101,10 +101,6 @@ O Lord Śiva, when the ocean was churned and the Kālakūṭa (deadly poison) em
 ##### sahasa kamala meṃ ho rahe dhārī .
 ##### kīnha parīkṣā tabahiṃ purārī .. 20 ..
 
-Laṃkā Para Caढ़Āī Karane Se Pūrva Śrīrāma Ne Āpakī Pūjā Ke Bāda Hī Vijaya Prāpta Kī Aura Vibhīṣaṇa Ko Laṃkā Kā Rājā Banā Diyā . Jaba Śrī Rāmacandrajī Sahastra Kamaloṃ Se Āpakī Pūjā Kara Rahe The Taba Āpane Phūloṃ Meṃ Rahakara Unakī Parīkṣā Lī .
-
-Prior to climbing Lanka, Shriram won only after your worship and made Vibhishan king of Lanka.When Shri Ramchandraji was worshiping you from the Sahason Kamals, you stayed in flowers and took them.
-
 When Lord Rāma worshipped You, He became victorious over the king of Demons, Rāvaṇa. When Lord Rāma wished to worship you with one thousand lotus flowers, O Tripurari, you tested the devotion of Lord Rāma.
 
 ##### eka kamala prabhu rākheu joī .
