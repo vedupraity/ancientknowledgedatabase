@@ -30,3 +30,19 @@
       image: 'images/ganesh-chalisa-cover-4x3.jpg'
       description: |-
         Lord Ganesha, also known by different names like Ganapati and Vinayaka, is the son of Lord Shiva and Goddess Parvati. Ganesha is considered the Lord of all beginnings and the last resort of obstacles. He is worshiped as the god of good fortune, new ventures and knowledge. Ganesh Chalisa is a religious hymn dedicated to Lord Ganesha.
+- id: 'shiv-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'शिव चालीसा'
+      subtitle: ''
+      image: 'images/shiv-chalisa-cover-4x3.jpg'
+      description: |-
+        अयोध्यादासजी द्वारा रचित शिव चालीसा का पाठ करने से सुख-सौभाग्य में वृद्धि होती है । भगवान शिव की कृपा से सिद्धि-बुद्धि, धन-बल और ज्ञान-विवेक की प्राप्ति होती है । भगवान शिव अलौकिक शक्ति के मालिक है, उनकी कृपा मात्र से ही इंसान सारी तकलीफों से दूर हो जाता है ।
+    en:
+      title: 'Shiv Chalisa'
+      subtitle: ''
+      image: 'images/shiv-chalisa-cover-4x3.jpg'
+      description: |-
+        Reciting this Śiva Cālīsā composed by Saint Ayodhyādāsa early in the morning every day, one can easily earn grace of Lord Śiva which brings happiness, good forture, wealth and knowledge.  Lord Śiva is the owner of supernatural power, only from his grace, the person gets away from all the troubles.
