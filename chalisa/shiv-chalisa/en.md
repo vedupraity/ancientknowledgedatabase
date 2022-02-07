@@ -93,7 +93,7 @@ O Gracious One, no one else is as generous as you, devotees always sing your glo
 
 O Lord Śiva, when the ocean was churned and the Kālakūṭa (deadly poison) emerged which began to burn both the Gods and the Demons. Out of your deep compassion for all, You drank the poison alone and saved the world from destruction. your throat turned blue due to the effect of poison, thus You are known as Nīlakaṃṭha (The one with blue throat).
 
-- According to the rhetoric --- According to Purāṇas, this poison was so dangerous that even a drop was disastrous for the universe.
+- Kālakūṭa --- According to Purāṇas, this poison was so dangerous that even a drop was disastrous for the universe.
 
 ##### pūjana rāmacandra jaba kīnhā .
 ##### jīta ke laṃka vibhīṣaṇa dīnhā .. 19 ..
