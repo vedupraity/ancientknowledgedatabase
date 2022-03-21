@@ -12,5 +12,5 @@ This is Open-Source database repository for project: https://github.com/veduprai
 
 ## Technology stack
 
-1. [Markdown](https://en.wikipedia.org/wiki/Markdown) - for the content with markdown formatting
+1. [Markdown](https://en.wikipedia.org/wiki/Markdown) - for the content
 3. [YAML](https://en.wikipedia.org/wiki/YAML) - for pagination and tree metadata
