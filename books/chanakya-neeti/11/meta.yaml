@@ -7,12 +7,13 @@
       subtitle: ''
       image: ''
       description: |-
-        दान देने की इच्छा, मधुर भाषण, धैर्य और उचित अथवा अनुचित का ज्ञान, ये चार गुण मनुष्य में सहज-स्वभाव से ही होते हैं, अभ्यास से इन्हें प्राप्त नहीं किया जा सकता ॥ 1 ॥
+        दान देने की इच्छा, मधुर भाषण, धैर्य और उचित अथवा अनुचित का ज्ञान, ये चार गुण मनुष्य में सहज-स्वभाव से ही होते हैं, अभ्यास से इन्हें प्राप्त नहीं किया जा सकता ।
     en:
       title: 'Chapter 11 - Verse 1'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        Generosity, pleasing address, courage and propriety of conduct are not acquired, but are inbred qualities.
 - id: '2'
   type: leaf
   paginated: true
@@ -22,12 +23,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो मनुष्य अपने समुदाय के लोगों को छोड़कर दूसरों के समुदाय का सहारा लेता है, वह उसी प्रकार नष्ट हो जाता है जैसे दूसरे के धर्म का आश्रय लेने वाला राजा ॥ 2 ॥
+        जो मनुष्य अपने समुदाय के लोगों को छोड़कर दूसरों के समुदाय का सहारा लेता है, वह उसी प्रकार नष्ट हो जाता है जैसे दूसरे के धर्म का आश्रय लेने वाला राजा ।
     en:
       title: 'Chapter 11 - Verse 2'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        He who forsakes his own community and joins another perishes as the king who embraces an unrighteous path.
 - id: '3'
   type: leaf
   paginated: true
@@ -37,12 +39,13 @@
       subtitle: ''
       image: ''
       description: |-
-        हाथी लंबे-चौड़े शरीर वाला होता है परंतु उसे बहुत छोटे से अंकुश द्वारा वश में किया जाता है । दीपक जलने पर अंधकार नष्ट हो जाता है तो क्या अंधकार दीपक के आकार का होता है ? हथौड़े की चोट करने से बड़े-बड़े पर्वत गिर पड़ते हैं, तो क्या पर्वत का आकारप्रकार हथौड़े से छोटा होता है ? प्रत्येक वस्तु अपने तेज के कारण ही बलवान होती है, लंबाचौड़ा शरीर कोई मायने नहीं रखता है ॥ 3 ॥
+        हाथी लंबे-चौड़े शरीर वाला होता है परंतु उसे बहुत छोटे से अंकुश द्वारा वश में किया जाता है । दीपक जलने पर अंधकार नष्ट हो जाता है तो क्या अंधकार दीपक के आकार का होता है ? हथौड़े की चोट करने से बड़े-बड़े पर्वत गिर पड़ते हैं, तो क्या पर्वत का आकार-प्रकार हथौड़े से छोटा होता है ? प्रत्येक वस्तु अपने तेज के कारण ही बलवान होती है, लंबा-चौड़ा शरीर कोई मायने नहीं रखता है ।
     en:
       title: 'Chapter 11 - Verse 3'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The elephant has a huge body but is controlled by the goad: yet, is the goad as large as the elephant? A lighted candle vanishes darkness: is the candle as vast as the darkness. A mountain is broken even by a thunderbolt: is the thunderbolt therefore as big as the mountain? No, he whose power prevails is really mighty; what is there in bulk?
 - id: '4'
   type: leaf
   paginated: true
@@ -52,12 +55,13 @@
       subtitle: ''
       image: ''
       description: |-
-        लोग ऐसा मानते हैं कि कलियुग के दस हजार वर्ष समाप्त होने के बाद परमात्मा पृथ्वी का त्याग कर देते हैं । उससे आधे अर्थात पांच हजार वर्ष समाप्त होने पर गंगा का जल पृथ्वी को छोड़ देता है और उसके आधे वर्ष समाप्त होने पर गांव का देवता गांव छोड़कर चला जाता है ॥ 4 ॥
+        लोग ऐसा मानते हैं कि कलियुग के दस हजार वर्ष समाप्त होने के बाद परमात्मा पृथ्वी का त्याग कर देते हैं । उससे आधे अर्थात पांच हजार वर्ष समाप्त होने पर गंगा का जल पृथ्वी को छोड़ देता है और उसके आधे वर्ष समाप्त होने पर गांव का देवता गांव छोड़कर चला जाता है ।
     en:
       title: 'Chapter 11 - Verse 4'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        It is believed that after the end of ten thousand years of Kali Yuga, the Supreme Soul leaves the earth. At the end of half of that, that is, five thousand years, the water of the Ganges leaves the earth and at the end of half of that year, the deity of the village leaves the village.
 - id: '5'
   type: leaf
   paginated: true
@@ -67,12 +71,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जिस व्यक्ति की घर में अधिक आसक्ति है, घर में अधिक मोह और लगाव है, उसे विद्या की प्राप्ति नहीं हो सकती । जो लोग मांस खाते हैं उनमें दया नहीं, जो धन के लोभी होते हैं, उनमें सत्य नहीं होता तथा दुराचारी, व्यभिचारी और भोगविलास में लगे रहने वाले मनुष्य में पवित्रता का अभाव रहता है ॥ 5 ॥
+        जिस व्यक्ति की घर में अधिक आसक्ति है, घर में अधिक मोह और लगाव है, उसे विद्या की प्राप्ति नहीं हो सकती । जो लोग मांस खाते हैं उनमें दया नहीं, जो धन के लोभी होते हैं, उनमें सत्य नहीं होता तथा दुराचारी, व्यभिचारी और भोगविलास में लगे रहने वाले मनुष्य में पवित्रता का अभाव रहता है ।
     en:
       title: 'Chapter 11 - Verse 5'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        He who is engrossed in family life will never acquire knowledge; there can be no mercy in the eater of flesh; the greedy man will not be truthful; and purity will not be found in a woman and a hunter.
 - id: '6'
   type: leaf
   paginated: true
@@ -82,12 +87,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जिस प्रकार नीम के वृक्ष को दूध और घी से सींचने पर भी उसमें मिठास पैदा नहीं होती, उसी प्रकार दुर्जन व्यक्ति अनेक प्रकार से समझाने-बुझाने पर भी सज्जन नहीं हो पाता ॥ 6 ॥
+        जिस प्रकार नीम के वृक्ष को दूध और घी से सींचने पर भी उसमें मिठास पैदा नहीं होती, उसी प्रकार दुर्जन व्यक्ति अनेक प्रकार से समझाने-बुझाने पर भी सज्जन नहीं हो पाता ।
     en:
       title: 'Chapter 11 - Verse 6'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The wicked man will not attain sanctity even if he is instructed in different ways, and the Neem tree will not become sweet even if it is sprinkled from the top to the roots with milk and Ghee.
 - id: '7'
   type: leaf
   paginated: true
@@ -97,12 +103,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जिस दुष्ट का अंतःकरण कामवासना आदि मलों से भरा हुआ है, ऐसा मनुष्य यदि सैकड़ों बार भी तीर्थ-स्नान करे तो भी पवित्र नहीं हो सकता, बिलकुल उसी तरह जिस प्रकार शराब रखने का बर्तन आग पर जलाने से भी शुद्ध नहीं हो सकता ॥ 7 ॥
+        जिस दुष्ट का अंतःकरण कामवासना आदि मलों से भरा हुआ है, ऐसा मनुष्य यदि सैकड़ों बार भी तीर्थ-स्नान करे तो भी पवित्र नहीं हो सकता, बिलकुल उसी तरह जिस प्रकार शराब रखने का बर्तन आग पर जलाने से भी शुद्ध नहीं हो सकता ।
     en:
       title: 'Chapter 11 - Verse 7'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        Mental dirt cannot be washed away even by one-hundred baths in the sacred waters, just as a wine pot cannot be purified even by evaporating all the wine by fire.
 - id: '8'
   type: leaf
   paginated: true
@@ -112,12 +119,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जिसे किसी के गुणों की श्रेष्ठता का ज्ञान नहीं, वह सदा उनकी निंदा करता रहता है । उसके ऐसा करने से किसी को आश्चर्य नहीं होता, जैसे भीलनी हाथी के मस्तक में उत्पन्न होने वाली गजमुक्ता को छोड़कर घुघचियों की माला ही धारण करती है ॥ 8 ॥
+        जिसे किसी के गुणों की श्रेष्ठता का ज्ञान नहीं, वह सदा उनकी निंदा करता रहता है । उसके ऐसा करने से किसी को आश्चर्य नहीं होता, जैसे भीलनी हाथी के मस्तक में उत्पन्न होने वाली गजमुक्ता को छोड़कर घुँघचियों की माला ही धारण करती है ।
     en:
       title: 'Chapter 11 - Verse 8'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        It is not strange if a man reviles (Degrades) a thing of which he has no knowledge, just as a wild hunter's wife throws away the pearl that is found in the head of an elephant, and picks up a Gunja (a type of seed which poor tribals wear as ornaments).
 - id: '9'
   type: leaf
   paginated: true
@@ -127,12 +135,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो व्यक्ति पूरे वर्ष तक मौन रहकर चुपचाप भोजन करता है, वह एक करोड़ वर्ष तक स्वर्ग में आदर-सम्मान प्राप्त करता है ॥ 9 ॥
+        जो व्यक्ति पूरे वर्ष तक मौन रहकर चुपचाप भोजन करता है, वह एक करोड़ वर्ष तक स्वर्ग में आदर-सम्मान प्राप्त करता है ।
     en:
       title: 'Chapter 11 - Verse 9'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        He who for one year eats his meals silently (inwardly meditating upon the Lord's prasadam); attains to the heavenly planets for a thousand crore of years. ( Note: one crore equals ten million)
 - id: '10'
   type: leaf
   paginated: true
@@ -142,12 +151,13 @@
       subtitle: ''
       image: ''
       description: |-
-        विद्यार्थी के लिए आवश्यक है कि वह काम, क्रोध, लोभ, स्वादिष्ट पदार्थों की इच्छा, शृंगार, खेल-तमाशे, अधिक सोना और चापलूसी करना आदि इन आठ बातों का त्याग कर दे ॥ 10 ॥
+        विद्यार्थी के लिए आवश्यक है कि वह काम, क्रोध, लोभ, स्वादिष्ट पदार्थों की इच्छा, शृंगार, खेल-तमाशे, अधिक सोना और चापलूसी करना आदि इन आठ बातों का त्याग कर दे ।
     en:
       title: 'Chapter 11 - Verse 10'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The student (Brahmacārī) should completely renounce the following eight things -- his lust, anger, greed, desire for sweets, sense of decorating the body, excessive curiosity, excessive sleep, and excessive endeavour for bodily maintenance.
 - id: '11'
   type: leaf
   paginated: true
@@ -157,12 +167,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो बिना खेती की हुई भूमि से उत्पन्न होने वाले फल और कंदमूल आदि को खाकर निर्वाह करता है और सदा जंगल में रहकर ही प्रसन्न रहता है और जो प्रतिदिन श्राद्ध करता है, ऐसा ब्राह्मण ऋषि कहलाता है ॥ 11 ॥
+        जो बिना खेती की हुई भूमि से उत्पन्न होने वाले फल और कंदमूल आदि को खाकर निर्वाह करता है और सदा जंगल में रहकर ही प्रसन्न रहता है और जो प्रतिदिन श्राद्ध करता है, ऐसा ब्राह्मण ऋषि कहलाता है ।
     en:
       title: 'Chapter 11 - Verse 11'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        A Brāhmaṇa is called a Sage, who eats fruits and root vegetables, etc. arising from uncultivated land, and is always happy by staying in the forest, and who performs Śrāddha every day.
 - id: '12'
   type: leaf
   paginated: true
@@ -172,12 +183,13 @@
       subtitle: ''
       image: ''
       description: |-
-        एक समय भोजन करने से जो संतुष्ट है, जो नित्य अपने कर्तव्यों को पूरा करता रहता है, स्त्री का संग ऋतुकाल में, केवल संतान की उत्पत्ति करने के लिए ही करता है, उपभोग के लिए नहीं, ऐसे ब्राह्मण को ही द्विज कहा जाता है ॥ 12 ॥
+        एक समय भोजन करने से जो संतुष्ट है, जिस पर १६ संस्कार (गर्भाधान संस्कार ... आदि) किये गए हो, जो अपनी पत्नी के साथ ऋतुकाल में (महीने में केवल एक दिन) समागम करे, (माहवारी समाप्त होने के दुसरे दिन) ऐसे ब्राह्मण को ही द्विज कहा जाता है ।
     en:
       title: 'Chapter 11 - Verse 12'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        He alone is a true Brāhmaṇa (Dvija or "twice-born") who is satisfied with one meal a day, who has the six Saṃskāras (or acts of purification such as Garbhādhāna, etc.) performed for him, and who cohabits with his wife only once in a month on an auspicious day after her menses.
 - id: '13'
   type: leaf
   paginated: true
@@ -187,12 +199,13 @@
       subtitle: ''
       image: ''
       description: |-
-        सदा सांसारिक कार्यों में संलग्न, पशुओं के पालक, व्यापार और खेती आदि करने वाले ब्राह्मण को वैश्य कहा जाता है ॥ 13 ॥
+        सदा सांसारिक कार्यों में संलग्न, पशुओं के पालक, व्यापार और खेती आदि करने वाले ब्राह्मण को वैश्य कहा जाता है ।
     en:
       title: 'Chapter 11 - Verse 13'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The Brāhmaṇa who is engrossed in worldly affairs, brings up cows and is engaged in trade is really called a Vaiśya.
 - id: '14'
   type: leaf
   paginated: true
@@ -202,12 +215,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो ब्राह्मण वृक्षों की लाख, तेल, नील, कपड़े आदि रंगने का रंग, शहद, घी, शराब, मांस आदि चीजों का व्यापार करता है, उसे शूद्र कहते हैं ॥ 14 ॥
+        जो ब्राह्मण वृक्षों की लाख, तेल, नील, कपड़े आदि रंगने का रंग, शहद, घी, शराब, मांस आदि चीजों का व्यापार करता है, उसे शूद्र कहते हैं ।
     en:
       title: 'Chapter 11 - Verse 14'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The Brāhmaṇa who deals in lac-die, articles, oil, indigo, silken cloth, honey, clarified butter, liquor, and flesh is called a Śūdra.
 - id: '15'
   type: leaf
   paginated: true
@@ -217,12 +231,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो दूसरों के कार्य को बिगाड़ता है, ढोंगी है, अपना ही स्वार्थ सिद्ध करने में लगा रहता है, दूसरों को धोखा देता है, सबसे द्वेष करता है, ऊपर से देखने में अत्यंत नम्र और अंदर से पैनी छुरी के समान है, ऐसे ब्राह्मण को बिलाव कहा गया है ॥ 15 ॥
+        जो दूसरों के कार्य को बिगाड़ता है, ढोंगी है, अपना ही स्वार्थ सिद्ध करने में लगा रहता है, दूसरों को धोखा देता है, सबसे द्वेष करता है, ऊपर से देखने में अत्यंत नम्र और अंदर से पैनी छुरी के समान है, ऐसे ब्राह्मण को बिलाव कहा गया है ।
     en:
       title: 'Chapter 11 - Verse 15'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The Brāhmaṇa who thwarts the doings of others, who is hypocritical, selfish, and a deceitful hater, and while speaking mildly cherishes cruelty in his heart, is called a cat.
 - id: '16'
   type: leaf
   paginated: true
@@ -232,12 +247,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो ब्राह्मण पानी के स्थानों, बावड़ी, कुआं, तालाब, बाग-बगीचों और मंदिरों में तोड़फोड़ करने में किसी प्रकार का भय न अनुभव करते हों, उन्हें म्लेच्छ कहा जाता है ॥ 16 ॥
+        जो ब्राह्मण पानी के स्थानों, बावड़ी, कुआं, तालाब, बाग-बगीचों और मंदिरों में तोड़फोड़ करने में किसी प्रकार का भय न अनुभव करते हों, उन्हें म्लेच्छ (अर्थात पापी) कहा जाता है ।
     en:
       title: 'Chapter 11 - Verse 16'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The Brāhmaṇa who destroys a pond, a well, a tank, a garden and a temple is called a Mleccha.
 - id: '17'
   type: leaf
   paginated: true
@@ -247,12 +263,13 @@
       subtitle: ''
       image: ''
       description: |-
-        जो देवताओं और गरु के धन को चरा लेता है. दसरों की स्त्रियों के साथ सहवास करता है और जो सभी तरह के प्राणियों के साथ अपना जीवन गुजार लेता है, उस ब्राह्मण को चाण्डाल कहा जाता है ॥ 17 ॥
+        जो देवताओं और गरु के धन को चुरा लेता है, दसरों की स्त्रियों के साथ सहवास करता है और जो सभी तरह के प्राणियों के साथ अपना जीवन गुजार लेता है, उस ब्राह्मण को चाण्डाल कहा जाता है ।
     en:
       title: 'Chapter 11 - Verse 17'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The Brāhmaṇa who steals the property of the Deities and the spiritual preceptor, who cohabits with another's wife, and who maintains himself by eating anything and everything is called a Cāṇḍāla .
 - id: '18'
   type: leaf
   paginated: true
@@ -262,9 +279,10 @@
       subtitle: ''
       image: ''
       description: |-
-        शहद का संग्रह करने में आदर्श मधुमक्खियों को भी पश्चात्ताप करना पड़ता है, क्योंकि शहद का दान न करने से शहद नष्ट हो जाता है । इसी प्रकार कुछ लोग धन का दान नहीं करते और जब वह नष्ट होने लगता है तो पश्चात्ताप करते हैं, जबकि कुछ लोग अपने धन का दान के रूप में उचित प्रयोग करते रहते हैं । राजा बलि, कर्ण और विक्रमादित्य दान करने के कारण ही आज तक समाज में सम्मान के पात्र हैं ॥ 18 ॥
+        शहद का संग्रह करने में आदर्श मधुमक्खियों को भी पश्चात्ताप करना पड़ता है, क्योंकि शहद का दान न करने से शहद नष्ट हो जाता है । इसी प्रकार कुछ लोग धन का दान नहीं करते और जब वह नष्ट होने लगता है तो पश्चात्ताप करते हैं, जबकि कुछ लोग अपने धन का दान के रूप में उचित प्रयोग करते रहते हैं । राजा बलि, कर्ण और विक्रमादित्य दान करने के कारण ही आज तक समाज में सम्मान के पात्र हैं ।
     en:
       title: 'Chapter 11 - Verse 18'
       subtitle: ''
       image: ''
-      description: ''
+      description: |-
+        The meritorious should give away in charity all that they have in excess of their needs. By charity only Bali, Karṇa and King Vikramāditya survive even today. Just see the plight of the honeybees beating their legs in despair upon the earth. They are saying to themselves, 'Alas! We neither enjoyed our stored-up honey nor gave it in charity, and now someone has taken it from us in an instant.'
