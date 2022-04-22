@@ -14,3 +14,17 @@
       image: 'images/shri-ram-stuti-cover-4x3.jpg'
       description: |-
         Shri Shri Ram Stuti (Ramachandra Kripalu) is an aarti, written by Gosvāmī Tulasīdāsa. It was written in the sixteenth century, in a mix of Sanskrit and Awadhi languages. The prayer glorifies Śrī Rāma and his characteristics.
+- id: 'om-jai-jagdish-hare'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'ॐ जय जगदीश हरे'
+      subtitle: 'विष्णु आरती'
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Om Jay Jagdish Hare'
+      subtitle: 'Oṃ Jaya Jagadīśa Hare - Viṣṇu Āratī'
+      image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
+      description: ''
