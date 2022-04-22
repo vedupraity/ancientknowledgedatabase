@@ -28,3 +28,17 @@
       subtitle: 'Oṃ Jaya Jagadīśa Hare - Viṣṇu Āratī'
       image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
       description: ''
+- id: 'om-jai-shiv-omkara'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'ॐ जय शिव ओंकारा'
+      subtitle: 'शिव आरती'
+      image: 'images/shiv-chalisa-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Om Jai Shiv Omkara'
+      subtitle: 'Oṃ Jaya Śiva Oṃkārā - Śiva Āratī'
+      image: 'images/shiv-chalisa-cover-4x3.jpg'
+      description: ''
