@@ -19,13 +19,13 @@
   paginated: false
   meta:
     hi:
-      title: 'ॐ जय जगदीश हरे'
-      subtitle: 'विष्णु आरती'
+      title: 'विष्णु आरती'
+      subtitle: 'ॐ जय जगदीश हरे'
       image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
       description: ''
     en:
-      title: 'Om Jay Jagdish Hare'
-      subtitle: 'Oṃ Jaya Jagadīśa Hare - Viṣṇu Āratī'
+      title: 'Vishnu Aarti'
+      subtitle: 'Oṃ Jaya Jagadīśa Hare'
       image: 'images/vishnu-shodasa-nama-stotram-cover-4x3.jpg'
       description: ''
 - id: 'om-jai-shiv-omkara'
@@ -33,12 +33,12 @@
   paginated: false
   meta:
     hi:
-      title: 'ॐ जय शिव ओंकारा'
-      subtitle: 'शिव आरती'
+      title: 'शिव आरती'
+      subtitle: 'ॐ जय शिव ओंकारा'
       image: 'images/shiv-chalisa-cover-4x3.jpg'
       description: ''
     en:
-      title: 'Om Jai Shiv Omkara'
-      subtitle: 'Oṃ Jaya Śiva Oṃkārā - Śiva Āratī'
+      title: 'Shiv Aarti'
+      subtitle: 'Oṃ Jaya Śiva Oṃkārā'
       image: 'images/shiv-chalisa-cover-4x3.jpg'
       description: ''
