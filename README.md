@@ -14,3 +14,7 @@ This is Open-Source database repository for project: https://github.com/veduprai
 
 1. [Markdown](https://en.wikipedia.org/wiki/Markdown) - for the content
 3. [YAML](https://en.wikipedia.org/wiki/YAML) - for pagination and tree metadata
+
+## Contact
+
+contact@ancientknowledge.in
