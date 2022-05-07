@@ -39,7 +39,8 @@
       title: '1 - Baal Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Bāl Kāṇḍ) begins with extensive invocations to various Gods and Goddesses. Events leading to the descent of the incarnation of Rām are described. These include, among other tales, the story of Śivā and Pārvatī. The chapter then describes the birth of Rām in Ayodhyā, his childhood, the protection of the sage Viśvāmitra's yajna, entry into Janakpur, breaking of Lord Śivā's bow, marriage to Sītā and return to Ayodhyā.
 - id: '2'
   type: 'tree'
   paginated: false
@@ -53,7 +54,8 @@
       title: '2 - Ayodhya Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Ayodhā Kāṇḍ) begins with the preparations for Rām's coronation in Ayodhyā. Other events described in this chapter are the exile of Rām, Daśaratha's death, Rām's encounter with Niṣāda and the Kevata (boatman), the return of Bharata to Ayodhyā and his anger at his mother's scheming, the meeting of Bharata and Rām in the forest and the installation of Rām's padukās (sandals) on the throne of Ayodhyā with Bharata as regent.
 - id: '3'
   type: 'tree'
   paginated: false
@@ -67,7 +69,8 @@
       title: '3 - Aranya Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Araṇya Kāṇḍa) describes Rām's life in the forest with Sītā and Lakṣmaṇa, and his meeting with various sages (Atri, Anasūyā, Agastya) who dwell there. The meeting with Śūrpaṇakhā, Rāvaṇa's sister and her humiliation, battle with the demons Khara and Dūṣana, Rāvaṇa's scheme for revenge, Marīci's impersonation of a golden deer and the abduction of Sītā, Rām's grief and the beginning of the search for Sītā.
 - id: '4'
   type: 'tree'
   paginated: false
@@ -81,7 +84,8 @@
       title: '4 - Kishkindha Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Kiṣkindhā Kāṇḍa) describes the meeting of Hanumān and Rām, Rām's friendship with Sugrīva, the slaying of Bāli and the beginning of the search for Sītā by Sugrīva's army.
 - id: '5'
   type: 'tree'
   paginated: false
@@ -95,7 +99,8 @@
       title: '5 - Sundar Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Sundara Kāṇḍa) describes the exploits of Hanumān: his crossing over the ocean, entry into Laṅkā, his meeting with Vibhīṣaṇa, his discovery of, and meeting with, Sītā and his burning of Laṅkā. Other episodes described in this chapter are the defection of Vibhīṣaṇa, the exchange of messages between Rām and Rāvaṇa and Rām's taming of the ocean.
 - id: '6'
   type: 'tree'
   paginated: false
@@ -109,7 +114,8 @@
       title: '6 - Lanka Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Laṅkā Kāṇaḍa) describes the whole period of Rām's stay in Laṅkā, the island kingdom of Rāvaṇa. The episodes include the building of a bridge on the ocean and crossing over into Laṅkā and Angada's fruitless peace mission to Rāvaṇa. Then follows the battle with the fall of various heroes, Lakṣmaṇa's injury and recovery and finally the slaying of Rāvaṇa. The battle is followed by the crowning of Vibhīṣaṇa as king of Laṅkā, the return of Sītā and the journey back to Ayodhyā.
 - id: '7'
   type: 'tree'
   paginated: false
@@ -123,4 +129,5 @@
       title: '7 - Uttar Kaand'
       subtitle: ''
       image: ''
-      description: ''
+      description: |
+        This chapter (Uttara Kāṇḍa) describes of events occurring after the battle of Laṅkā. Major events are the end of Rām's exile and his return to Ayodhyā, crowning of Rām as king of Ayodhyā and the description of his exemplary governance (Rāmrājya). This is followed by details of the departure of the incarnation of Lord Rām, the dialogue between Garuḍa and Kākabhuśuṇḍi and the closing invocation of the text.
