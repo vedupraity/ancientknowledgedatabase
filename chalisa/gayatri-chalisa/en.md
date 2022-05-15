@@ -176,7 +176,7 @@ O holy mother Bhavānī, the Sage, the Ascetic, the Saint, the performer of pena
 
 He who recites this Gāyatrī Cālīsā daily, and meditates on you, will have increased strength, intellect, earning, improved character and nature, multiplied wealth, luxury, prestige and provels. All these will multiply to give him various types of happiness.
 
-#### dohā
+#### Dohā
 
 ##### yaha cālīsā bhaktiyukta pāṭha kare jo koya .
 ##### tāpara kṛpā prasannatā gāyatrī kī hoya ..
