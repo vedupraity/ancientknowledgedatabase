@@ -60,3 +60,19 @@
       subtitle: ''
       image: 'images/mahishasur-mardini-cover-4x3.jpg'
       description: ''
+- id: 'gayatri-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'गायत्री चालीसा'
+      subtitle: ''
+      image: 'images/gayatri-mantra-cover-4x3.jpg'
+      description: |-
+        जो भी गायत्री चालीसा का ध्यान लगाकर पाठ करता है उसे बल, बुद्धि, विद्या, शांत स्वभाव तो मिलता ही है साथ ही उनके धन, समृद्धि, प्रसिद्धि में तेजी से बढ़ोतरी होती है, कई प्रकार के सुखों की प्राप्ति होती है व उसका वैभव हर प्रकार से बढ़ता है ।
+    en:
+      title: 'Gayatri Chalisa'
+      subtitle: ''
+      image: 'images/gayatri-mantra-cover-4x3.jpg'
+      description: |-
+        He who recites this Gāyatrī Cālīsā daily, and meditates on her, will have increased strength, intellect, earning, improved character and nature, multiplied wealth, luxury, prestige and provels. All these will multiply to give him various types of happiness.
