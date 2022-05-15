@@ -76,3 +76,17 @@
       image: 'images/gayatri-mantra-cover-4x3.jpg'
       description: |-
         He who recites this Gāyatrī Cālīsā daily, and meditates on her, will have increased strength, intellect, earning, improved character and nature, multiplied wealth, luxury, prestige and provels. All these will multiply to give him various types of happiness.
+- id: 'navgrah-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'नवग्रह चालीसा'
+      subtitle: ''
+      image: ''
+      description: ''
+    en:
+      title: 'Navgrah Chalisa'
+      subtitle: ''
+      image: ''
+      description: ''
