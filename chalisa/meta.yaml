@@ -46,3 +46,17 @@
       image: 'images/shiv-chalisa-cover-4x3.jpg'
       description: |-
         Reciting this Śiva Cālīsā composed by Saint Ayodhyādāsa early in the morning every day, one can easily earn grace of Lord Śiva which brings happiness, good forture, wealth and knowledge.  Lord Śiva is the owner of supernatural power, only from his grace, the person gets away from all the troubles.
+- id: 'durga-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री दुर्गा चालीसा'
+      subtitle: ''
+      image: 'images/mahishasur-mardini-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shree Durga Chalisa'
+      subtitle: ''
+      image: 'images/mahishasur-mardini-cover-4x3.jpg'
+      description: ''
