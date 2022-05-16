@@ -132,3 +132,17 @@
       subtitle: ''
       image: 'images/krishna-chalisa-cover-4x3.jpg'
       description: ''
+- id: 'lakshmi-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री लक्ष्मी चालीसा'
+      subtitle: ''
+      image: 'images/lakshmi-chalisa-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shri Lakshmi Chalisa'
+      subtitle: ''
+      image: 'images/lakshmi-chalisa-cover-4x3.jpg'
+      description: ''
