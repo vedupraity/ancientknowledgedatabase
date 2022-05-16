@@ -118,3 +118,17 @@
       subtitle: ''
       image: 'images/saraswati-stotram-cover-4x3.jpg'
       description: ''
+- id: 'krishna-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री कृष्ण चालीसा'
+      subtitle: ''
+      image: 'images/krishna-chalisa-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shri Krishna Chalisa'
+      subtitle: ''
+      image: 'images/krishna-chalisa-cover-4x3.jpg'
+      description: ''
