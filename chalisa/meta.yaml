@@ -90,3 +90,17 @@
       subtitle: ''
       image: 'images/navgrah-chalisa-cover-4x3.jpg'
       description: ''
+- id: 'santoshi-mata-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री सन्तोषी माता चालीसा'
+      subtitle: ''
+      image: 'images/santoshi-mata-chalisa-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shri Santoshi Mata Chalisa'
+      subtitle: ''
+      image: 'images/santoshi-mata-chalisa-cover-4x3.jpg'
+      description: ''
