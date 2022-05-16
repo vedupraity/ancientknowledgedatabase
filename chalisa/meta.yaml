@@ -104,3 +104,17 @@
       subtitle: ''
       image: 'images/santoshi-mata-chalisa-cover-4x3.jpg'
       description: ''
+- id: 'saraswati-chalisa'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'श्री सरस्वती चालीसा'
+      subtitle: ''
+      image: 'images/saraswati-stotram-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Shri Saraswati Chalisa'
+      subtitle: ''
+      image: 'images/saraswati-stotram-cover-4x3.jpg'
+      description: ''
