@@ -12,7 +12,7 @@
 ##### sakala viśva andara vikhyātā .. 3 ..
 
 ##### jaga meṃ pāpa buddhi jaba hotī .
-##### tabahī dharma kī pha़īkī jyoti .. 4 ..
+##### tabahī dharma kī phaīkī jyoti .. 4 ..
 
 ##### tabahi mātu kā nija avatārā .
 ##### pāpa hīna karatī mahitārā .. 5 ..
@@ -93,7 +93,7 @@
 ##### kānana meṃ ghere mṛga nāhai .. 30 ..
 
 ##### sāgara madhya pota ke bhaṃje .
-##### ati tupha़āna nahiṃ koū saṃge .. 31 ..
+##### ati tuphāna nahiṃ koū saṃge .. 31 ..
 
 ##### bhūta-preta bādhā yā duḥkha mai .
 ##### ho daridra athavā saṃkaṭa meṃ .. 32 ..
@@ -102,12 +102,12 @@
 ##### saṃśaya isameṃ karai na koī .. 33 ..
 
 ##### putrahīna jo ātura bhāī .
-##### sabai chām̐ḍa़i pūjeṃ ehi māī .. 34 ..
+##### sabai chām̐ḍai pūjeṃ ehi māī .. 34 ..
 
 ##### karai pāṭha nita yaha cālīsā .
 ##### hoya putra sundara guṇa īśā .. 35 ..
 
-##### dhūpādi naivedya caḍha़āvai .
+##### dhūpādi naivedya caḍhāvai .
 ##### saṃkaṭa rahita avaśya ho jāvai .. 36 ..
 
 ##### bhakti mātu kī karaiṃ hameśā .
