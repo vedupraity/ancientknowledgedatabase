@@ -146,3 +146,17 @@
       subtitle: ''
       image: 'images/lakshmi-chalisa-cover-4x3.jpg'
       description: ''
+- id: 'bajrang-baan'
+  type: 'leaf'
+  paginated: false
+  meta:
+    hi:
+      title: 'बजरंग बाण'
+      subtitle: ''
+      image: 'images/hanuman-chalisa-cover-4x3.jpg'
+      description: ''
+    en:
+      title: 'Bajrang Baan'
+      subtitle: ''
+      image: 'images/hanuman-chalisa-cover-4x3.jpg'
+      description: ''
